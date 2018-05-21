@@ -1,7 +1,7 @@
 {
-  "name": "phila-gov-routing-and-redirects",
+  "name": "phila.gov-router",
   "version": "0.1.0",
-  "description": "Lambda@Edge function for handling redirects",
+  "description": "Lambda@Edge function for handling redirects and rewrites",
   "main": "src/index.js",
   "scripts": {
     "test": "jest"

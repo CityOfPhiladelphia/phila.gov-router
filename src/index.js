@@ -2,11 +2,11 @@ const path = require('path')
 const fs = require('fs')
 const yaml = require('js-yaml')
 
-const REDIRECTS_FILE = path.join(__dirname, '../redirects.yml')
-const redirects = yaml.safeLoad(fs.readFileSync(REDIRECTS_FILE, 'utf8'))
+const RULES_FILE = path.join(__dirname, '../rules.yml')
+const rulesFile = yaml.safeLoad(fs.readFileSync(RULES_FILE, 'utf8'))
 
 exports.createHandler = createHandler
-exports.handler = createHandler(redirects.rules)
+exports.handler = createHandler(rulesFile.rules)
 
 function createHandler (rules) {
   return async function (event) {
