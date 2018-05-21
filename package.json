@@ -1,0 +1,21 @@
+{
+  "name": "phila-gov-routing-and-redirects",
+  "version": "0.1.0",
+  "description": "Lambda@Edge function for handling redirects",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akennel/phila-gov-routing-and-redirects.git"
+  },
+  "author": "City of Philadelphia",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^22.4.4"
+  },
+  "dependencies": {
+    "js-yaml": "^3.11.0"
+  }
+}

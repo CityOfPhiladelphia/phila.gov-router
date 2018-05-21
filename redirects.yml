@@ -1,0 +1,16 @@
+rules:
+  - pattern: /parksandrec
+    replacement: https://beta.phila.gov/departments/philadelphia-parks-recreation/
+    type: redirect
+
+  - pattern: /parksandrec/(.?)
+    replacement: https://beta.phila.gov/departments/philadelphia-parks-recreation/
+    type: redirect
+
+  - pattern: /old-path/(.?)
+    replacement: https://beta.phila.gov/new-path/$1
+    type: redirect
+
+  - pattern: /li/zoning-appeals
+    replacement: https://cityofphiladelphia.github.io/zoning-appeals
+    type: rewrite
