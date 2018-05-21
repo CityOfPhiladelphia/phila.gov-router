@@ -12,21 +12,21 @@ function createHandler (rules) {
   return async function (event) {
     const { request } = event.Records[0].cf
 
-    let i
-    for (i = 0; i < rules.length; i++) {
-      const rule = rules[i]
+    for (const rule of rules) {
       const regex = new RegExp(rule.pattern)
       if (regex.test(request.uri)) {
         const newUri = request.uri.replace(regex, rule.replacement)
 
-        if (rule.type === 'redirect') {
-          return redirect(newUri)
-        } else if (rule.type === 'rewrite') {
+        if (rule.type === 'rewrite') {
           request.uri = newUri
           return request
+        } else {
+          return redirect(newUri)
         }
       }
     }
+
+    // If no matches, return unmodified request
     return request
   }
 }
