@@ -1,0 +1,788 @@
+rules:
+  - pattern: /motu
+    replacement: http://www.phillyotis.com
+    type: redirect
+
+  - pattern: /otis
+    replacement: http://www.phillyotis.com
+    type: redirect
+
+  - pattern: /districtattorney/resources/pages/pressreleases.aspx
+    replacement: https://phillyda.wordpress.com/
+    type: redirect
+
+  - pattern: /districtattorney/pages/pressreleases.aspx
+    replacement: https://phillyda.wordpress.com/
+    type: redirect
+
+  - pattern: /li/eclipse
+    replacement: https://eclipse.phila.gov/
+    type: redirect
+
+  - pattern: /citylandmarks
+    replacement: http://phl.maps.arcgis.com/apps/CrowdsourceReporter/index.html?appid=7fa0d185a2bd4ada90151b378aea2e1e
+    type: redirect
+
+  - pattern: /historical/taskforce
+    replacement: https://www.phlpreservation.org/
+    type: redirect
+
+  - pattern: /iwa
+    replacement: https://goo.gl/forms/bgDbXCvrvpJoRpul2
+    type: redirect
+
+  - pattern: /lirequest
+    replacement: http://www.phila.gov/li/pages/foodlicenseinspection.aspx
+    type: redirect
+
+  - pattern: /maps/imageryviewer
+    replacement: http://phl.maps.arcgis.com/apps/MapSeries/index.html?appid=a0378ae03f6d4b1c9a186c4cdc396894
+    type: redirect
+
+  - pattern: /maps/vacancy
+    replacement: http://phl.maps.arcgis.com/apps/webappviewer/index.html?id=64ac160773d04952bc17ad895cc00680
+    type: redirect
+
+  - pattern: /rows
+    replacement: https://phl.my.salesforce.com
+    type: redirect
+
+  - pattern: /policeovertime
+    replacement: https://phl.secure.force.com/ROWS/
+    type: redirect
+
+  - pattern: /visitors
+    replacement: http://www.visitphilly.com
+    type: redirect
+
+  - pattern: /volunteer
+    replacement: https://www.serve.phila.gov
+    type: redirect
+
+  - pattern: /philacode
+    replacement: http://www.amlegal.com/codes/client/philadelphia_pa/
+    type: redirect
+
+  - pattern: /potholes
+    replacement: http://www.philadelphiastreets.com
+    type: redirect
+
+  - pattern: /police
+    replacement: http://www.phillypolice.com/
+    type: redirect
+
+  - pattern: /contracts/data
+    replacement: http://cityofphiladelphia.github.io/contracts
+    type: redirect
+
+  - pattern: /citycouncil
+    replacement: http://philadelphiacitycouncil.net/
+    type: redirect
+
+  - pattern: /citymaps
+    replacement: http://citymaps.phila.gov/Map/
+    type: redirect
+
+  - pattern: /dbhmrs
+    replacement: http://www.dbhmrs.org/
+    type: redirect
+
+  - pattern: /defender
+    replacement: http://www.philadefender.org/
+    type: redirect
+
+  - pattern: /getmarried
+    replacement: http://secureprod.phila.gov/wills/marriagelicense.aspx
+    type: redirect
+
+  - pattern: /parking
+    replacement: http://philapark.org/homeFlash.aspx
+    type: redirect
+
+  - pattern: /wills
+    replacement: http://secureprod.phila.gov/wills/
+    type: redirect
+
+  - pattern: /benchmarking
+    replacement: http://www.phillybuildingbenchmarking.com/
+    type: redirect
+
+  - pattern: /reentry
+    replacement: http://rise.phila.gov/
+    type: redirect
+
+  - pattern: /commissioners
+    replacement: http://www.philadelphiavotes.com/
+    type: redirect
+
+  - pattern: /lobbying
+    replacement: http://plis.cloudapp.net
+    type: redirect
+
+  - pattern: /itjobs
+    replacement: https://www.smartrecruiters.com/OfficeOfInnovationTechnology
+    type: redirect
+
+  - pattern: /agefriendly
+    replacement: https://secure.jotform.us/philagov/mca-survey/
+    type: redirect
+
+  - pattern: /business
+    replacement: https://business.phila.gov
+    type: redirect
+
+  - pattern: /citycouncil
+    replacement: http://philadelphiacitycouncil.net/
+    type: redirect
+
+  - pattern: /publicart
+    replacement: http://creativephl.org/tagged/Public-Art/
+    type: redirect
+
+  - pattern: /artincityhall
+    replacement: http://creativephl.org/tagged/Exhibitions-and-Performances/
+    type: redirect
+
+  - pattern: /streets/crplan
+    replacement: https://secure.phila.gov/streets/commrecycling/
+    type: redirect
+
+  - pattern: /streets/backfill
+    replacement: https://secure.phila.gov/streets/backfill/
+    type: redirect
+
+  - pattern: /streets
+    replacement: http://www.philadelphiastreets.com
+    type: redirect
+
+  - pattern: /avicalculator
+    replacement: http://avicalculator.phila.gov
+    type: redirect
+
+  - pattern: /it/aboutus/pages/employment.aspx
+    replacement: https://www.smartrecruiters.com/OfficeOfInnovationTechnology
+    type: redirect
+
+  - pattern: /theoval
+    replacement: http://www.theovalphl.org/
+    type: redirect
+
+  - pattern: /pay
+    replacement: https://secure.phila.gov/PaymentCenter/AccountLookup
+    type: redirect
+
+  - pattern: /landbank
+    replacement: http://www.philadelphialandbank.org
+    type: redirect
+
+  - pattern: /bumpout
+    replacement: http://www.stormwaterpa.org/stormwater-bumpouts.html?key=0
+    type: redirect
+
+  - pattern: /water/swmap
+    replacement: http://web02.phila.gov/water/swmap
+    type: redirect
+
+  - pattern: /stormwater-tree
+    replacement: http://www.stormwaterpa.org/soak-it-up-stormwater-trees.html?key=0
+    type: redirect
+
+  - pattern: /tree-trench
+    replacement: http://www.stormwaterpa.org/keeping-water-on-site-waterview-recreation-center.html?key=0
+    type: redirect
+
+  - pattern: /rain-garden
+    replacement: http://stormwaterpa.org/raingarden.html?key=0
+    type: redirect
+
+  - pattern: /porous-pave
+    replacement: http://www.stormwaterpa.org/percy-street-goes-green.html?key=0
+    type: redirect
+
+  - pattern: /porous-play
+    replacement: http://stormwaterpa.org/greener
+    type: redirect
+
+  - pattern: /stormwater-planter
+    replacement: http://www.stormwaterpa.org/creating-community-columbus-square-park.html?key=1
+    type: redirect
+
+  - pattern: /clean-waters
+    replacement: http://stormwaterpa.org/green-city
+    type: redirect
+
+  - pattern: /stormwater-tools
+    replacement: http://stormwaterpa.org/green-city
+    type: redirect
+
+  - pattern: /licontact
+    replacement: https://form.jotform.com/60346011811139
+    type: redirect
+
+  - pattern: /unitycup
+    replacement: http://unitycup.phila.gov
+    type: redirect
+
+  - pattern: /map
+    replacement: http://gsg.phila.gov/map
+    type: redirect
+
+  - pattern: /marketstreetscape
+    replacement: http://potholes.phila.gov/marketstreetscape
+    type: redirect
+
+  - pattern: /parcelexplorer
+    replacement: http://web02.phila.gov/Records/ParcelExplorer
+    type: redirect
+
+  - pattern: /eslmap
+    replacement: http://phl.maps.arcgis.com/apps/View/index.html?appid=3929071e10db460db6e2265423ed4e83
+    type: redirect
+
+  - pattern: /visionzero
+    replacement: http://phl.maps.arcgis.com/apps/CrowdsourceReporter/index.html?appid=0b7432f7e6734795b1e09721eba506c1
+    type: redirect
+
+  - pattern: /vacancymap
+    replacement: http://phl.maps.arcgis.com/apps/webappviewer/index.html?id=64ac160773d04952bc17ad895cc00680
+    type: redirect
+
+  - pattern: /stressmap
+    replacement: https://phl.maps.arcgis.com/apps/MapSeries/index.html?appid=47afd9a9dcfa4637a2f88024d1c210b4
+    type: redirect
+
+  - pattern: /arts
+    replacement: http://creativephl.org/
+    type: redirect
+
+  - pattern: /globalphiladelphia
+    replacement: https://beta.phila.gov/departments/office-of-immigrant-affairs/
+    type: redirect
+
+  - pattern: /actionguides
+    replacement: https://beta.phila.gov/the-latest/#action-guides
+    type: redirect
+
+  - pattern: /boepaperform
+    replacement: https://beta.phila.gov/documents/board-of-education-job-description/
+    type: redirect
+
+  - pattern: /citizenship
+    replacement: https://beta.phila.gov/2018-01-12-citizenship-information-resources/
+    type: redirect
+
+  - pattern: /cityscholarship
+    replacement: https://beta.phila.gov/documents/philadelphia-city-scholarship-program-application/
+    type: redirect
+
+  - pattern: /dhs
+    replacement: https://beta.phila.gov/departments/department-of-human-services/
+    type: redirect
+
+  - pattern: /getcovered
+    replacement: https://beta.phila.gov/posts/health/2017-11-01-deadline-december-15-everything-you-need-to-know-about-aca-enrollment/
+    type: redirect
+
+  - pattern: /gompers
+    replacement: https://beta.phila.gov/departments/mayors-office-of-education/community-schools/samuel-gompers-school/
+    type: redirect
+
+  - pattern: /green
+    replacement: https://beta.phila.gov/departments/office-of-sustainability/
+    type: redirect
+
+  - pattern: /guncontrolpolicies
+    replacement: https://beta.phila.gov/2018-03-20-gun-control-policies/
+    type: redirect
+
+  - pattern: /gwhs
+    replacement: https://beta.phila.gov/departments/mayors-office-of-education/community-schools/george-washington-high-school/
+    type: redirect
+
+  - pattern: /lifeguards
+    replacement: https://beta.phila.gov/services/working-jobs/become-a-lifeguard/
+    type: redirect
+
+  - pattern: /loop/pages/default.aspx
+    replacement: https://beta.phila.gov/services/payments-assistance-taxes/income-based-assistance-programs/longtime-owner-occupants-program/
+    type: redirect
+
+  - pattern: //parksandrec/campphilly
+    replacement: https://beta.phila.gov/programs/camp-philly/
+    type: redirect
+
+  - pattern: /parksandrecreation/dogs
+    replacement: https://beta.phila.gov/departments/philadelphia-parks-recreation/about/dog-regulations-and-best-practices/
+    type: redirect
+
+  - pattern: /parksandrec/dogs
+    replacement: https://beta.phila.gov/departments/philadelphia-parks-recreation/about/dog-regulations-and-best-practices/
+    type: redirect
+
+  - pattern: /findafacility
+    replacement: https://beta.phila.gov/parks-rec-finder/#/locations
+    type: redirect
+
+  - pattern: /locke
+    replacement: https://beta.phila.gov/departments/mayors-office-of-education/community-schools/alain-locke-school/
+    type: redirect
+
+  - pattern: /parksandrecreation/findafacility
+    replacement: https://beta.phila.gov/parks-rec-finder/#/locations
+    type: redirect
+
+  - pattern: /parksandrec/newsletter
+    replacement: https://beta.phila.gov/departments/parks-recreation/
+    type: redirect
+
+  - pattern: /parksnrecnewsletter
+    replacement: https://beta.phila.gov/departments/philadelphia-parks-recreation/#action-modal
+    type: redirect
+
+  - pattern: /parksandrecreation
+    replacement: https://beta.phila.gov/departments/philadelphia-parks-recreation/
+    type: redirect
+
+  - pattern: //parksandrec
+    replacement: https://beta.phila.gov/departments/philadelphia-parks-recreation/
+    type: redirect
+
+  - pattern: /parks
+    replacement: https://beta.phila.gov/departments/philadelphia-parks-recreation/
+    type: redirect
+
+  - pattern: /pools
+    replacement: https://beta.phila.gov/parks-rec-finder/#/activities
+    type: redirect
+
+  - pattern: /ppr
+    replacement: https://beta.phila.gov/departments/philadelphia-parks-recreation/
+    type: redirect
+
+  - pattern: /recreation
+    replacement: https://beta.phila.gov/departments/philadelphia-parks-recreation/
+    type: redirect
+
+  - pattern: /phlimmigrantbiz
+    replacement: https://beta.phila.gov/posts/office-of-immigrant-affairs/2017-03-09-immigrant-business-week-2017-march-27-april-1/
+    type: redirect
+
+  - pattern: /water-bill-help
+    replacement: https://beta.phila.gov/services/water-gas-utilities/water-bill-customer-assistance/
+    type: redirect
+
+  - pattern: /waterbillhelp
+    replacement: https://beta.phila.gov/services/water-gas-utilities/water-bill-customer-assistance/
+    type: redirect
+
+  - pattern: /immigrantheritagemonth
+    replacement: https://beta.phila.gov/posts/office-of-immigrant-affairs/2017-05-24-immigrant-heritage-month-2017/
+    type: redirect
+
+  - pattern: /localcontrolsurvey
+    replacement: https://beta.phila.gov/departments/mayor/share-what-you-want-in-your-schools/
+    type: redirect
+
+  - pattern: /mayorsbudget
+    replacement: https://beta.phila.gov/departments/mayor/do-you-support-the-budget-proposal
+    type: redirect
+
+  - pattern: /immigrantheritagemonth
+    replacement: https://beta.phila.gov/posts/mayor/2016-05-18-ihm2016
+    type: redirect
+
+  - pattern: /democraticnationalconvention
+    replacement: https://beta.phila.gov/events/democratic-national-convention/
+    type: redirect
+
+  - pattern: /dnc
+    replacement: https://beta.phila.gov/events/democratic-national-convention/
+    type: redirect
+
+  - pattern: /welcomingweek2016
+    replacement: https://beta.phila.gov/posts/office-of-immigrant-affairs/2016-08-31-welcoming-week-2016/
+    type: redirect
+
+  - pattern: /welcomingweek2017
+    replacement: https://beta.phila.gov/posts/office-of-immigrant-affairs/2017-08-31-welcoming-week-2017/
+    type: redirect
+
+  - pattern: /revenue/eitc
+    replacement: https://beta.phila.gov/documents/earned-income-tax-credit-eitc-employer-notice/
+    type: redirect
+
+  - pattern: /revenue/taxpro/pages/refundpetitions.aspx
+    replacement: https://beta.phila.gov/documents/income-based-wage-tax-refund-petition/
+    type: redirect
+
+  - pattern: /revenue/businesses/taxes/pages/amusementtax.aspx
+    replacement: https://beta.phila.gov/services/payments-assistance-taxes/business-taxes/amusement-tax/
+    type: redirect
+
+  - pattern: /revenue/businesses/taxes/pages/birt.aspx
+    replacement: https://beta.phila.gov/services/payments-assistance-taxes/business-taxes/business-income-receipts-tax-birt/
+    type: redirect
+
+  - pattern: /revenue/businesses/taxes/Pages/hoteltax.aspx
+    replacement: https://beta.phila.gov/services/payments-assistance-taxes/business-taxes/hotel-tax/
+    type: redirect
+
+  - pattern: /revenue/businesses
+    replacement: https://beta.phila.gov/services/payments-assistance-taxes/business-taxes/
+    type: redirect
+
+  - pattern: /revenue
+    replacement: https://beta.phila.gov/departments/revenue/
+    type: redirect
+
+  - pattern: /globalphiladelphia
+    replacement: https://beta.phila.gov/departments/office-of-immigrant-affairs/
+    type: redirect
+
+  - pattern: /qualityprek
+    replacement: https://beta.phila.gov/departments/mayors-office-of-education/quality-pre-k-newsletter-signup/
+    type: redirect
+
+  - pattern: /ready
+    replacement: https://beta.phila.gov/departments/oem/
+    type: redirect
+
+  - pattern: /mayor
+    replacement: https://beta.phila.gov/mayor
+    type: redirect
+
+  - pattern: /fire
+    replacement: https://beta.phila.gov/departments/philadelphia-fire-department/
+    type: redirect
+
+  - pattern: /gideon
+    replacement: https://beta.phila.gov/departments/mayors-office-of-education/community-schools/edward-gideon-elementary-school/
+    type: redirect
+
+  - pattern: /fsedmonds
+    replacement: https://beta.phila.gov/departments/mayors-office-of-education/community-schools/f-s-edmonds-elementary-school/
+    type: redirect
+
+  - pattern: /logan
+    replacement: https://beta.phila.gov/departments/mayors-office-of-education/community-schools/james-logan-elementary-school/
+    type: redirect
+
+  - pattern: /khsa
+    replacement: https://beta.phila.gov/departments/mayors-office-of-education/community-schools/kensington-health-sciences-academy/
+    type: redirect
+
+  - pattern: /parkingamnesty
+    replacement: https://beta.phila.gov/programs/parking-amnesty
+    type: redirect
+
+  - pattern: /dobbins
+    replacement: https://beta.phila.gov/departments/mayors-office-of-education/community-schools/murrell-dobbins-cte-high-school/
+    type: redirect
+
+  - pattern: /sphs
+    replacement: https://beta.phila.gov/departments/mayors-office-of-education/community-schools/south-philadelphia-high-school/
+    type: redirect
+
+  - pattern: /southwark
+    replacement: https://beta.phila.gov/departments/mayors-office-of-education/community-schools/southwark-elementary-school/
+    type: redirect
+
+  - pattern: /tilden
+    replacement: https://beta.phila.gov/departments/mayors-office-of-education/community-schools/tilden-middle-school/
+    type: redirect
+
+  - pattern: /cramp
+    replacement: https://beta.phila.gov/departments/mayors-office-of-education/community-schools/william-cramp-elementary-school/
+    type: redirect
+
+  - pattern: /educationnews
+    replacement: https://beta.phila.gov/departments/mayors-office-of-education/newsletter-sign-up/
+    type: redirect
+
+  - pattern: /education
+    replacement: https://beta.phila.gov/departments/mayors-office-of-education/
+    type: redirect
+
+  - pattern: /phillydelivers
+    replacement: https://beta.phila.gov/departments/mayor/help-make-sure-phillydelivers-for-amazon/
+    type: redirect
+
+  - pattern: /workforce
+    replacement: https://beta.phila.gov/programs/workforce-development/
+    type: redirect
+
+  - pattern: /ima/
+    replacement: https://beta.phila.gov/departments/office-of-immigrant-affairs/
+    type: redirect
+
+  - pattern: /vendorpayments
+    replacement: https://secure.phila.gov/finance/vendorpayments/
+    type: redirect
+
+  - pattern: /water/rateboard
+    replacement: https://beta.phila.gov/departments/water-sewer-storm-water-rate-board/
+    type: redirect
+
+  - pattern: /healthreform
+    replacement: http://www.phila.gov/health/Commissioner/healthreform.html
+    type: redirect
+
+  - pattern: /health/farmersmarkets
+    replacement: http://www.phila.gov/health/foodprotection/farmersmarkets.html
+    type: redirect
+
+  - pattern: /experiencephila/mayor.html
+    replacement: http://www.phila.gov/experiencephila/pages/default.aspx
+    type: redirect
+
+  - pattern: /fhc
+    replacement: http://www.phila.gov/fairhousingcommission
+    type: redirect
+
+  - pattern: /fairhousing
+    replacement: http://www.phila.gov/fairhousingcommission
+    type: redirect
+
+  - pattern: /financialempowerment
+    replacement: http://www.phila.gov/fe
+    type: redirect
+
+  - pattern: /healthcenters
+    replacement: http://www.phila.gov/health/Services/Serv_MedicalCare.html
+    type: redirect
+
+  - pattern: /helpme
+    replacement: http://www.phila.gov/311/Pages/default.aspx
+    type: redirect
+
+  - pattern: /inspector
+    replacement: http://www.phila.gov/ig/Pages/default.aspx
+    type: redirect
+
+  - pattern: /mod
+    replacement: http://www.phila.gov/mcpd//index.html
+    type: redirect
+
+  - pattern: /mrc
+    replacement: http://www.phila.gov/health/MedResCorps.html
+    type: redirect
+
+  - pattern: /oeo
+    replacement: http://www.phila.gov/commerce/businesssupport/mwdsbesupport/Pages/default.aspx
+    type: redirect
+
+  - pattern: /bids
+    replacement: http://www.phila.gov/procurement/Pages/default.aspx
+    type: redirect
+
+  - pattern: /health/tobaccopermits
+    replacement: http://www.phila.gov/health/environment/retailerPermits.html
+    type: redirect
+
+  - pattern: /health/peds
+    replacement: http://www.phila.gov/health/pediatriccare/index.html
+    type: redirect
+
+  - pattern: /hhs/privacy
+    replacement: http://www.phila.gov/hhs/pages/privacy.aspx
+    type: redirect
+
+  - pattern: /services/emergency/index.html
+    replacement: http://www.phila.gov/osh/emergencyservices/pages/default.aspx
+    type: redirect
+
+  - pattern: /aco
+    replacement: http://www.phila.gov/mcpd/
+    type: redirect
+
+  - pattern: /osh
+    replacement: http://www.phila.gov/homelessservices
+    type: redirect
+
+  - pattern: /phillystat
+    replacement: http://www.phila.gov/mdo/phillystat
+    type: redirect
+
+  - pattern: /performance
+    replacement: http://www.phila.gov/mdo/phillystat
+    type: redirect
+
+  - pattern: /privacy/index.html
+    replacement: http://www.phila.gov/Pages/privacy.aspx
+    type: redirect
+
+  - pattern: /executive_orders/index.htm
+    replacement: http://www.phila.gov/executiveorders
+    type: redirect
+
+  - pattern: /waterrev
+    replacement: http://www.phila.gov/revenue
+    type: redirect
+
+  - pattern: /townwatch/services.htm
+    replacement: http://www.phila.gov/townwatch
+    type: redirect
+
+  - pattern: /civilservice
+    replacement: http://www.phila.gov/personnel/civilservice.html
+    type: redirect
+
+  - pattern: /mbec
+    replacement: http://www.phila.gov/commerce/businesssupport/mwdsbesupport
+    type: redirect
+
+  - pattern: /rda
+    replacement: http://www.phila.gov/pra
+    type: redirect
+
+  - pattern: /risk
+    replacement: http://www.phila.gov/finance/units-RiskManagement.html
+    type: redirect
+
+  - pattern: /2016-water-quality-data
+    replacement: http://www.phila.gov/water/PDF/2016-water-quality-results.pdf
+    type: redirect
+
+  - pattern: /water/bpp
+    replacement: http://www.phila.gov/water/pdf/bppsummary-8-2015.pdf
+    type: redirect
+
+  - pattern: /water/2014waterquality
+    replacement: http://www.phila.gov/water/pdf/2014waterquality.pdf
+    type: redirect
+
+  - pattern: /water/2017lcrsurvey
+    replacement: http://www.phila.gov/water/wu/drinkingwater/lead/pages/lcr-survey.aspx
+    type: redirect
+
+  - pattern: /2015waterquality
+    replacement: http://www.phila.gov/water/pdf/2015waterquality.pdf
+    type: redirect
+
+  - pattern: /water/lead
+    replacement: http://www.phila.gov/water/wu/drinkingwater/lead/Pages/default.aspx
+    type: redirect
+
+  - pattern: /water/replacelsl
+    replacement: http://www.phila.gov/water/wu/drinkingwater/lead/Pages/ImportantLSLinfo.aspx
+    type: redirect
+
+  - pattern: /water/helploan
+    replacement: http://www.phila.gov/water/educationoutreach/customerassistance/Pages/HelpLoan.aspx
+    type: redirect
+
+  - pattern: /leadhealthyhomes
+    replacement: http://www.phila.gov/health/childhoodlead/landlordtenants.html
+    type: redirect
+
+  - pattern: /water/notifications
+    replacement: http://www.phila.gov/water/aboutus/pages/notifications.aspx
+    type: redirect
+
+  - pattern: /water/rates
+    replacement: http://www.phila.gov/water/wu/ratesregulationsresp/pages/rates.aspx
+    type: redirect
+
+  - pattern: /water/regulations
+    replacement: http://www.phila.gov/water/wu/ratesregulationsresp/pages/regulations.aspx
+    type: redirect
+
+  - pattern: /water/ccc.html
+    replacement: http://www.phila.gov/water/wu/drinkingwater/pages/crossconnectioncontrol.aspx
+    type: redirect
+
+  - pattern: /water/iwu.html
+    replacement: http://www.phila.gov/water/wu/wastewater/pages/industrialwaste.aspx
+    type: redirect
+
+  - pattern: /water/stormwater_billing.html
+    replacement: http://www.phila.gov/water/wu/stormwater/Pages/default.aspx
+    type: redirect
+
+  - pattern: /water/billhelp
+    replacement: http://www.phila.gov/water/educationoutreach/customerassistance/pages/default.aspx
+    type: redirect
+
+  - pattern: /rise/employer/pages/banthebox.aspx
+    replacement: http://www.phila.gov/humanrelations/pages/default.aspx
+    type: redirect
+
+  - pattern: /swgrant
+    replacement: http://www.phila.gov/water/wu/stormwater/Pages/Grants.aspx
+    type: redirect
+
+  - pattern: /pra
+    replacement: http://www.philadelphiaredevelopmentauthority.org
+    type: redirect
+
+  - pattern: /gethealthyphilly
+    replacement: http://www.phila.gov/health/ChronicDisease/gethealthyphilly.html
+    type: redirect
+
+  - pattern: /nutritionstandards
+    replacement: http://www.phila.gov/health/chronicdisease/nutritionstandards.html
+    type: redirect
+
+  - pattern: /foodstandards
+    replacement: http://www.phila.gov/health/chronicdisease/workplace.html
+    type: redirect
+
+  - pattern: /2016waterquality
+    replacement: http://www.phila.gov/water/wu/water%20quality%20reports/2016waterquality.pdf
+    type: redirect
+
+  - pattern: /oho
+    replacement: http://www.phila.gov/hhs
+    type: redirect
+
+  - pattern: /qualityoflife
+    replacement: http://www.phila.gov/clip
+    type: redirect
+
+  - pattern: /zika
+    replacement: http://www.phila.gov/health/diseasecontrol/zika.html
+    type: redirect
+
+  - pattern: /info
+    replacement: http://www.phila.gov/info/pages/wifi.aspx
+    type: redirect
+
+  - pattern: /smartchoice
+    replacement: http://www.phila.gov/commerce/businessattraction
+    type: redirect
+
+  - pattern: /opendata
+    replacement: http://www.phila.gov/data
+    type: redirect
+
+  - pattern: /citybudget
+    replacement: http://www.phila.gov/openbudget/
+    type: redirect
+
+  - pattern: /mayor/faithbased
+    replacement: http://www.phila.gov/faithbased
+    type: redirect
+
+  - pattern: /youthprograms
+    replacement: http://www.phila.gov/youthcommission
+    type: redirect
+
+  - pattern: /li/zoningappeals
+    replacement: http://www.phila.gov/li/zoning-appeals/
+    type: redirect
+
+  - pattern: /ohcd
+    replacement: http://www.phila.gov/dhcd
+    type: redirect
+
+  - pattern: /towing
+    replacement: https://beta.phila.gov/programs/philadelphias-rotational-towing-program/
+    type: redirect
+
+  - pattern: /contracts/data/?(.+)?
+    replacement: https://cityofphiladelphia.github.io/contracts/
+    type: rewrite
+
+  - pattern: /li/zoning-appeals/?(.+)?
+    replacement: https://cityofphiladelphia.github.io/zoning-appeals/$1
+    type: rewrite
