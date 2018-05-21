@@ -3,10 +3,10 @@ const fs = require('fs')
 const yaml = require('js-yaml')
 
 const RULES_FILE = path.join(__dirname, '../rules.yml')
-const rulesFile = yaml.safeLoad(fs.readFileSync(RULES_FILE, 'utf8'))
+const rules = yaml.safeLoad(fs.readFileSync(RULES_FILE, 'utf8'))
 
-exports.createHandler = createHandler
-exports.handler = createHandler(rulesFile.rules)
+exports.createHandler = createHandler // expose for testing
+exports.handler = createHandler(rules) // expose to lambda
 
 function createHandler (rules) {
   return async function (event) {
