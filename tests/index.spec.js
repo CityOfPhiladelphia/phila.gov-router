@@ -1,5 +1,5 @@
 const url = require('url')
-const createFixture = require('./helpers/create-fixture')
+const createEvent = require('./helpers/create-event')
 const { createHandler } = require('../src')
 
 describe('redirects', () => {
@@ -9,7 +9,7 @@ describe('redirects', () => {
       replacement: '/new/',
       type: 'redirect'
     }])
-    const event = createFixture({ uri: '/old' })
+    const event = createEvent({ uri: '/old' })
     const response = await handler(event)
     expectRedirect(response, '/new/')
   })
@@ -20,7 +20,7 @@ describe('redirects', () => {
       replacement: '/new/',
       type: 'redirect'
     }])
-    const event = createFixture({ uri: '/old/' })
+    const event = createEvent({ uri: '/old/' })
     const response = await handler(event)
     expectRedirect(response, '/new/')
   })
@@ -31,7 +31,7 @@ describe('redirects', () => {
       replacement: '/new/sub-page/',
       type: 'redirect'
     }])
-    const event = createFixture({ uri: '/old/sub-page' })
+    const event = createEvent({ uri: '/old/sub-page' })
     const response = await handler(event)
     expectRedirect(response, '/new/sub-page/')
   })
@@ -42,7 +42,7 @@ describe('redirects', () => {
       replacement: '/new/',
       type: 'redirect'
     }])
-    const event = createFixture({ uri: '/old/foo' })
+    const event = createEvent({ uri: '/old/foo' })
     const response = await handler(event)
     expectRedirect(response, '/new/')
   })
@@ -53,7 +53,7 @@ describe('redirects', () => {
       replacement: '/new/$1',
       type: 'redirect'
     }])
-    const event = createFixture({ uri: '/old/sub-page/foo' })
+    const event = createEvent({ uri: '/old/sub-page/foo' })
     const response = await handler(event)
     expectRedirect(response, '/new/sub-page/foo')
   })
@@ -64,7 +64,7 @@ describe('redirects', () => {
       replacement: '/new',
       type: 'redirect'
     }])
-    const event = createFixture({ uri: '/no-match' })
+    const event = createEvent({ uri: '/no-match' })
     const request = await handler(event)
     expect(request.uri).toBe('/no-match')
   })
@@ -77,7 +77,7 @@ describe('rewrites', () => {
       replacement: 'http://example.com',
       type: 'rewrite'
     }])
-    const event = createFixture({ uri: '/old' })
+    const event = createEvent({ uri: '/old' })
     const request = await handler(event)
     expect(request).toHaveProperty('uri')
     expect(request.uri).toBe('http://example.com')
@@ -89,7 +89,7 @@ describe('rewrites', () => {
       replacement: 'http://example.com$1',
       type: 'rewrite'
     }])
-    const event = createFixture({ uri: '/old/foo' })
+    const event = createEvent({ uri: '/old/foo' })
     const request = await handler(event)
     expect(request.uri).toBe('http://example.com/foo')
   })

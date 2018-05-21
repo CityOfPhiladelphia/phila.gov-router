@@ -1,4 +1,4 @@
-module.exports = function createFixture({
+module.exports = function createEvent({
   host = "d111111abcdef8.cloudfront.net",
   userAgent = "curl/7.18.1",
   uri = "/picture.jpg",
