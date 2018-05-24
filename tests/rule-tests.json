@@ -1,0 +1,14 @@
+[
+  {
+    "uri": "/li/zoning-appeals",
+    "expected": "https://cityofphiladelphia.github.io/zoning-appeals/"
+  },
+  {
+    "uri": "/li/zoning-appeals/",
+    "expected": "https://cityofphiladelphia.github.io/zoning-appeals/"
+  },
+  {
+    "uri": "/li/zoning-appeals/foo",
+    "expected": "https://cityofphiladelphia.github.io/zoning-appeals/foo"
+  }
+]

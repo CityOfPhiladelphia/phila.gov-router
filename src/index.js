@@ -1,9 +1,6 @@
 const path = require('path')
 const fs = require('fs')
-const yaml = require('js-yaml')
-
-const RULES_FILE = path.join(__dirname, '../rules.yml')
-const rules = yaml.safeLoad(fs.readFileSync(RULES_FILE, 'utf8'))
+const rules = require('../rules.json')
 
 exports.createHandler = createHandler // expose for testing
 exports.handler = createHandler(rules) // expose to lambda

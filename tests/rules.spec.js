@@ -3,12 +3,8 @@ const fs = require('fs')
 const yaml = require('js-yaml')
 const { handler } = require('../src')
 const createEvent = require('./helpers/create-event')
-
-const RULES_FILE = path.join(__dirname, '../rules.yml')
-const rules = yaml.safeLoad(fs.readFileSync(RULES_FILE, 'utf8'))
-
-const RULE_TESTS_FILE = path.join(__dirname, 'rule-tests.yml')
-const ruleTests = yaml.safeLoad(fs.readFileSync(RULE_TESTS_FILE, 'utf8'))
+const rules = require('../rules.json')
+const ruleTests = require('./rule-tests.json')
 
 describe('rule validations', () => {
   for (const rule of rules) {
