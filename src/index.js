@@ -9,7 +9,7 @@ exports.createHandler = createHandler // expose for testing
 function createHandler (rules) {
   return async function (event) {
     const request = event.Records[0].cf.request
-    const cleanPath = stripTrailingSlash(request.uri.toLowerCase())
+    const cleanPath = request.uri.toLowerCase().replace(TRAILING_SLASH, '')
     log(event)
 
     for (const rule of rules) {
@@ -52,7 +52,7 @@ function createHandler (rules) {
 function setOrigin (request, origin) {
   const url = new URL(origin)
   const protocol = url.protocol.slice(0, -1) // remove trailing colon
-  const path = stripTrailingSlash(url.pathname)
+  const path = url.pathname.replace(TRAILING_SLASH, '')
 
   request.origin = {
     custom: {
@@ -87,9 +87,4 @@ function log (data) {
   if (process.env.NODE_ENV === 'test') return
   // use util.inspect so objects aren't collapsed
   console.log(inspect(data, false, 10))
-}
-
-function stripTrailingSlash (path) {
-  if (path === '/') return path
-  else return path.replace(TRAILING_SLASH, '')
 }

@@ -127,7 +127,7 @@ describe('rewrites', () => {
         domainName: 'example.com',
         protocol: 'http',
         port: 80,
-        path: '/'
+        path: ''
       })
     })
 
