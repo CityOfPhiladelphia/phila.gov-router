@@ -977,11 +977,13 @@
   {
     "pattern": "/contracts/data/?(.+)?",
     "replacement": "https://cityofphiladelphia.github.io/contracts/",
-    "type": "rewrite"
+    "type": "rewrite",
+    "regex": true
   },
   {
     "pattern": "/li/zoning-appeals/?(.+)?",
     "replacement": "https://cityofphiladelphia.github.io/zoning-appeals/$1",
-    "type": "rewrite"
+    "type": "rewrite",
+    "regex": true
   }
 ]

@@ -3,95 +3,136 @@ const createEvent = require('./helpers/create-event')
 const { createHandler } = require('../src')
 
 describe('redirects', () => {
-  test('vanity url', async () => {
-    const handler = createHandler([{
-      pattern: '/old/?$',
-      replacement: '/new/',
-      type: 'redirect'
-    }])
-    const event = createEvent({ uri: '/old' })
-    const response = await handler(event)
-    expectRedirect(response, '/new/')
+  describe('string matches', () => {
+    test('vanity url', async () => {
+      const handler = createHandler([{
+        pattern: '/old',
+        replacement: '/new',
+        type: 'redirect'
+      }])
+      const event = createEvent({ uri: '/old' })
+      const response = await handler(event)
+      expectRedirect(response, '/new')
+    })
+
+    test('ignores trailing slash on request uri', async () => {
+      const handler = createHandler([{
+        pattern: '/old',
+        replacement: '/new',
+        type: 'redirect'
+      }])
+      const event = createEvent({ uri: '/old/' })
+      const response = await handler(event)
+      expectRedirect(response, '/new')
+    })
+
+    test('supports trailing slash on response uri', async () => {
+      const handler = createHandler([{
+        pattern: '/old',
+        replacement: '/new/',
+        type: 'redirect'
+      }])
+      const event = createEvent({ uri: '/old' })
+      const response = await handler(event)
+      expectRedirect(response, '/new/')
+    })
+
+    test('supports full url in replacement', async () => {
+      const handler = createHandler([{
+        pattern: '/old',
+        replacement: 'http://example.com',
+        type: 'redirect'
+      }])
+      const event = createEvent({ uri: '/old' })
+      const response = await handler(event)
+      expectRedirect(response, 'http://example.com')
+    })
+
+    test('2-level path exact match', async () => {
+      const handler = createHandler([{
+        pattern: '/old/sub-page',
+        replacement: '/new/sub-page',
+        type: 'redirect'
+      }])
+      const event = createEvent({ uri: '/old/sub-page' })
+      const response = await handler(event)
+      expectRedirect(response, '/new/sub-page')
+    })
+
+    test('no matches returns original request', async () => {
+      const handler = createHandler([{
+        pattern: '/old',
+        replacement: '/new',
+        type: 'redirect'
+      }])
+      const event = createEvent({ uri: '/no-match' })
+      const request = await handler(event)
+      expect(request.uri).toBe('/no-match')
+    })
   })
 
-  test('treats trailing slashes the same', async () => {
-    const handler = createHandler([{
-      pattern: '/old/?$',
-      replacement: '/new/',
-      type: 'redirect'
-    }])
-    const event = createEvent({ uri: '/old/' })
-    const response = await handler(event)
-    expectRedirect(response, '/new/')
-  })
+  describe('regex matches', () => {
+    test('anything after match goes to same place', async () => {
+      const handler = createHandler([{
+        pattern: '/old/?(.+)',
+        replacement: '/new',
+        type: 'redirect',
+        regex: true
+      }])
+      const event = createEvent({ uri: '/old/foo' })
+      const response = await handler(event)
+      expectRedirect(response, '/new')
+    })
 
-  test('2-level path', async () => {
-    const handler = createHandler([{
-      pattern: '/old/sub-page',
-      replacement: '/new/sub-page/',
-      type: 'redirect'
-    }])
-    const event = createEvent({ uri: '/old/sub-page' })
-    const response = await handler(event)
-    expectRedirect(response, '/new/sub-page/')
-  })
-
-  test('anything under path goes to same place', async () => {
-    const handler = createHandler([{
-      pattern: '/old/(.+)?',
-      replacement: '/new/',
-      type: 'redirect'
-    }])
-    const event = createEvent({ uri: '/old/foo' })
-    const response = await handler(event)
-    expectRedirect(response, '/new/')
-  })
-
-  test('include the rest of the path', async () => {
-    const handler = createHandler([{
-      pattern: '/old/(.+)?',
-      replacement: '/new/$1',
-      type: 'redirect'
-    }])
-    const event = createEvent({ uri: '/old/sub-page/foo' })
-    const response = await handler(event)
-    expectRedirect(response, '/new/sub-page/foo')
-  })
-
-  test('no matches returns original request', async () => {
-    const handler = createHandler([{
-      pattern: '/old',
-      replacement: '/new',
-      type: 'redirect'
-    }])
-    const event = createEvent({ uri: '/no-match' })
-    const request = await handler(event)
-    expect(request.uri).toBe('/no-match')
+    test('include the rest of the path', async () => {
+      const handler = createHandler([{
+        pattern: '/old/?(.+)',
+        replacement: '/new/$1',
+        type: 'redirect',
+        regex: true
+      }])
+      const event = createEvent({ uri: '/old/sub-page/foo' })
+      const response = await handler(event)
+      expectRedirect(response, '/new/sub-page/foo')
+    })
   })
 })
 
 describe('rewrites', () => {
-  test('basic rewrite', async () => {
-    const handler = createHandler([{
-      pattern: '/old',
-      replacement: 'http://example.com',
-      type: 'rewrite'
-    }])
-    const event = createEvent({ uri: '/old' })
-    const request = await handler(event)
-    expect(request).toHaveProperty('uri')
-    expect(request.uri).toBe('http://example.com')
+  describe('string matches', () => {
+    test('basic rewrite', async () => {
+      const handler = createHandler([{
+        pattern: '/old',
+        replacement: 'http://example.com',
+        type: 'rewrite'
+      }])
+      const event = createEvent({ uri: '/old' })
+      const request = await handler(event)
+      expect(request.origin).toHaveProperty('custom')
+      expect(request.origin.custom).toMatchObject({
+        domainName: 'example.com',
+        protocol: 'http',
+        port: 80,
+        path: '/'
+      })
+    })
   })
 
-  test('pass additional paths', async () => {
-    const handler = createHandler([{
-      pattern: '/old(.+)?',
-      replacement: 'http://example.com$1',
-      type: 'rewrite'
-    }])
-    const event = createEvent({ uri: '/old/foo' })
-    const request = await handler(event)
-    expect(request.uri).toBe('http://example.com/foo')
+  describe('regex matches', () => {
+    test('pass additional paths', async () => {
+      const handler = createHandler([{
+        pattern: '/old/?(.+)',
+        replacement: 'http://example.com/$1',
+        type: 'rewrite',
+        regex: true
+      }])
+      const event = createEvent({ uri: '/old/foo' })
+      const request = await handler(event)
+      expect(request.origin.custom).toMatchObject({
+        domainName: 'example.com',
+        path: '/foo'
+      })
+    })
   })
 })
 

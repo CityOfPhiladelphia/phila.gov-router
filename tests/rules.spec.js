@@ -4,27 +4,28 @@ const yaml = require('js-yaml')
 const { handler } = require('../src')
 const createEvent = require('./helpers/create-event')
 const rules = require('../rules.json')
-const ruleTests = require('./rule-tests.json')
 
 describe('rule validations', () => {
   for (const rule of rules) {
-    test(rule.pattern, () => {
-      const validTypes = ['redirect', 'rewrite']
-      expect(validTypes).toContain(rule.type)
-      expect(() => new RegExp(rule.pattern)).not.toThrow()
-    })
-  }
-})
+    describe(rule.pattern, () => {
+      test('valid type', () => {
+        expect(rule.type).toMatch(/redirect|rewrite/)
+      })
 
-describe('rule tests', () => {
-  for (const ruleTest of ruleTests) {
-    test(ruleTest.uri, async () => {
-      const event = createEvent({ uri: ruleTest.uri })
-      const result = await handler(event)
-      if (result.status === '301') {
-        expect(result.headers.location[0].value).toBe(ruleTest.expected)
+      test('no trailing slash in replacement', () => {
+        expect(rule.replacement.slice(0, -1)).not.toBe('/')
+      })
+
+      if (rule.regex) {
+        test('valid regex', () => {
+          expect(() => new RegExp(rule.pattern)).not.toThrow()
+        })
       } else {
-        expect(result.uri).toBe(ruleTest.expected)
+        test('no regex matches in non-regex rule', () => {
+          expect(rule.pattern).not.toContain('(')
+          expect(rule.pattern).not.toContain('$')
+          expect(rule.pattern).not.toContain('^')
+        })
       }
     })
   }
