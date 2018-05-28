@@ -1,3 +1,4 @@
+const { URL } = require('url')
 const TRAILING_SLASH = /\/$/
 let compiledRegexes = {}
 
