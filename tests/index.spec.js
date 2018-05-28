@@ -100,14 +100,28 @@ describe('redirects', () => {
 
 describe('rewrites', () => {
   describe('string matches', () => {
-    test('basic rewrite', async () => {
+    test('basic rewrite, same origin', async () => {
       const handler = createHandler([{
         pattern: '/old',
-        replacement: 'http://example.com',
+        replacement: '/new',
         type: 'rewrite'
       }])
       const event = createEvent({ uri: '/old' })
       const request = await handler(event)
+      expect(request.uri).toBe('/new')
+      expect(request.origin).not.toHaveProperty('custom')
+    })
+
+    test('sets custom origin', async () => {
+      const handler = createHandler([{
+        pattern: '/old',
+        replacement: '',
+        origin: 'http://example.com',
+        type: 'rewrite'
+      }])
+      const event = createEvent({ uri: '/old' })
+      const request = await handler(event)
+      expect(request.uri).toBe('/')
       expect(request.origin).toHaveProperty('custom')
       expect(request.origin.custom).toMatchObject({
         domainName: 'example.com',
@@ -116,21 +130,35 @@ describe('rewrites', () => {
         path: '/'
       })
     })
+
+    test('strips trailing slashes from origin path', async () => {
+      const handler = createHandler([{
+        pattern: '/old',
+        replacement: '',
+        origin: 'http://example.com/new/',
+        type: 'rewrite'
+      }])
+      const event = createEvent({ uri: '/old' })
+      const request = await handler(event)
+      expect(request.origin.custom.path).toBe('/new')
+    })
   })
 
   describe('regex matches', () => {
-    test('pass additional paths', async () => {
+    test('change origin and replace path', async () => {
       const handler = createHandler([{
-        pattern: '/old/?(.+)',
-        replacement: 'http://example.com/$1',
-        type: 'rewrite',
-        regex: true
+        pattern: '/old(/.+)?',
+        regex: true,
+        replacement: '$1',
+        origin: 'http://example.com/new',
+        type: 'rewrite'
       }])
       const event = createEvent({ uri: '/old/foo' })
       const request = await handler(event)
+      expect(request.uri).toBe('/foo')
       expect(request.origin.custom).toMatchObject({
         domainName: 'example.com',
-        path: '/foo'
+        path: '/new'
       })
     })
   })

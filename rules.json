@@ -975,15 +975,31 @@
     "type": "redirect"
   },
   {
-    "pattern": "/contracts/data/?(.+)?",
-    "replacement": "https://cityofphiladelphia.github.io/contracts/",
-    "type": "rewrite",
-    "regex": true
+    "pattern": "/contracts/data(/.+)?",
+    "regex": true,
+    "replacement": "$1",
+    "origin": "https://cityofphiladelphia.github.io/contracts",
+    "type": "rewrite"
   },
   {
-    "pattern": "/li/zoning-appeals/?(.+)?",
-    "replacement": "https://cityofphiladelphia.github.io/zoning-appeals/$1",
-    "type": "rewrite",
-    "regex": true
+    "pattern": "/li/zoning-appeals(/.+)?",
+    "regex": true,
+    "replacement": "$1",
+    "origin": "https://cityofphiladelphia.github.io/zoning-appeals",
+    "type": "rewrite"
+  },
+  {
+    "pattern": "/rewrite(/.+)?",
+    "regex": true,
+    "replacement": "$1",
+    "origin": "http://www.phila.gov",
+    "type": "rewrite"
+  },
+  {
+    "pattern": "/httpbin(/.+)?",
+    "regex": true,
+    "replacement": "$1",
+    "origin": "https://httpbin.org/anything",
+    "type": "rewrite"
   }
 ]

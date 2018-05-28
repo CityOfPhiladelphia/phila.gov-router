@@ -1,4 +1,5 @@
 const { URL } = require('url')
+const { inspect } = require('util')
 const TRAILING_SLASH = /\/$/
 let compiledRegexes = {}
 
@@ -8,10 +9,11 @@ exports.createHandler = createHandler // expose for testing
 function createHandler (rules) {
   return async function (event) {
     const request = event.Records[0].cf.request
-    const cleanPath = request.uri.toLowerCase().replace(TRAILING_SLASH, '')
+    const cleanPath = stripTrailingSlash(request.uri.toLowerCase())
+    log(event)
 
     for (const rule of rules) {
-      let newUrl
+      let newPath = null
 
       if (rule.regex) {
         if (!compiledRegexes.hasOwnProperty(rule.pattern)) {
@@ -20,38 +22,44 @@ function createHandler (rules) {
 
         const regex = compiledRegexes[rule.pattern]
         if (regex.test(cleanPath)) {
-          newUrl = cleanPath.replace(regex, rule.replacement)
+          newPath = cleanPath.replace(regex, rule.replacement)
         }
       } else if (cleanPath === rule.pattern) {
-        newUrl = rule.replacement
+        newPath = rule.replacement
       }
 
-      if (newUrl) {
+      if (newPath !== null) {
         if (rule.type === 'rewrite') {
-          addRewriteToRequest(request, newUrl)
+          request.uri = newPath || '/'
+          if (rule.origin) setOrigin(request, rule.origin)
+          log(request)
           return request
         } else {
-          return createRedirect(newUrl)
+          const response = createRedirect(newPath)
+          log(response)
+          return response
         }
       }
     }
 
     // If no matches, return unmodified request
+    log('no match')
     return request
   }
 }
 
 // Mutates request object
-function addRewriteToRequest (request, newUrl) {
-  const url = new URL(newUrl)
+function setOrigin (request, origin) {
+  const url = new URL(origin)
   const protocol = url.protocol.slice(0, -1) // remove trailing colon
+  const path = stripTrailingSlash(url.pathname)
 
   request.origin = {
     custom: {
       domainName: url.hostname,
-      protocol: protocol,
+      protocol,
       port: (protocol === 'https') ? 443 : 80,
-      path: url.pathname,
+      path,
       sslProtocols: ['TLSv1.2', 'TLSv1.1'],
       readTimeout: 5,
       keepaliveTimeout: 5,
@@ -73,4 +81,15 @@ function createRedirect (newUri) {
       ]
     }
   }
+}
+
+function log (data) {
+  if (process.env.NODE_ENV === 'test') return
+  // use util.inspect so objects aren't collapsed
+  console.log(inspect(data, false, 10))
+}
+
+function stripTrailingSlash (path) {
+  if (path === '/') return path
+  else return path.replace(TRAILING_SLASH, '')
 }

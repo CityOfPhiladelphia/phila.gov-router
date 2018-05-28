@@ -12,10 +12,6 @@ describe('rule validations', () => {
         expect(rule.type).toMatch(/redirect|rewrite/)
       })
 
-      test('no trailing slash in replacement', () => {
-        expect(rule.replacement.slice(0, -1)).not.toBe('/')
-      })
-
       if (rule.regex) {
         test('valid regex', () => {
           expect(() => new RegExp(rule.pattern)).not.toThrow()

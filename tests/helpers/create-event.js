@@ -34,26 +34,6 @@ module.exports = function createEvent({
               ]
             },
             "origin": {
-              "custom": {
-                "customHeaders": {
-                  "my-origin-custom-header": [
-                    {
-                      "key": "My-Origin-Custom-Header",
-                      "value": "Test"
-                    }
-                  ]
-                },
-                "domainName": "example.com",
-                "keepaliveTimeout": 5,
-                "path": "/custom_path",
-                "port": 443,
-                "protocol": "https",
-                "readTimeout": 5,
-                "sslProtocols": [
-                  "TLSv1",
-                  "TLSv1.1"
-                ]
-              },
               "s3": {
                 "authMethod": "origin-access-identity",
                 "customHeaders": {
