@@ -12,33 +12,31 @@ function createHandler (rules) {
     const cleanPath = request.uri.toLowerCase().replace(TRAILING_SLASH, '')
     log(event)
 
-    for (const rule of rules) {
-      let newPath = null
-
+    const matchedRule = rules.find((rule) => {
       if (rule.regex) {
         if (!compiledRegexes.hasOwnProperty(rule.pattern)) {
           compiledRegexes[rule.pattern] = new RegExp(rule.pattern)
         }
-
-        const regex = compiledRegexes[rule.pattern]
-        if (regex.test(cleanPath)) {
-          newPath = cleanPath.replace(regex, rule.replacement)
-        }
-      } else if (cleanPath === rule.pattern) {
-        newPath = rule.replacement
+        return compiledRegexes[rule.pattern].test(cleanPath)
+      } else {
+        return (cleanPath === rule.pattern)
       }
+    })
 
-      if (newPath !== null) {
-        if (rule.type === 'rewrite') {
-          request.uri = newPath || '/'
-          if (rule.origin) setOrigin(request, rule.origin)
-          log(request)
-          return request
-        } else {
-          const response = createRedirect(newPath)
-          log(response)
-          return response
-        }
+    if (matchedRule) {
+      const newPath = (matchedRule.regex)
+        ? cleanPath.replace(compiledRegexes[matchedRule.pattern], matchedRule.replacement)
+        : matchedRule.replacement
+
+      if (matchedRule.type === 'rewrite') {
+        request.uri = newPath || '/'
+        if (matchedRule.origin) setOrigin(request, matchedRule.origin)
+        log(request)
+        return request
+      } else {
+        const response = createRedirect(newPath)
+        log(response)
+        return response
       }
     }
 
