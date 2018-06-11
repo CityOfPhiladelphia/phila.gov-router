@@ -164,6 +164,15 @@ describe('rewrites', () => {
   })
 })
 
+describe('other', () => {
+  it('converts non-matched requests to lowercase', async () => {
+    const handler = createHandler([])
+    const event = createEvent({ uri: '/Testing' })
+    const request = await handler(event)
+    expect(request.uri).toBe('/testing')
+  })
+})
+
 function expectRedirect (response, expectedUri) {
   expect(response.status).toBe('301')
   expect(response.headers.location).toHaveLength(1)

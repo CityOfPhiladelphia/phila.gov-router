@@ -38,11 +38,11 @@ function createHandler (rules) {
         log(response)
         return response
       }
+    } else {
+      log('no match')
+      request.uri = request.uri.toLowerCase()
+      return request
     }
-
-    // If no matches, return unmodified request
-    log('no match')
-    return request
   }
 }
 
