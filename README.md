@@ -11,26 +11,49 @@ npm install
 npm test
 ```
 
-## rule schema
+## examples
 
-### redirects
-`replacement` must be a full URL.
-
+### redirect based on path
 ```json
 {
-  "pattern": "/old",
-  "replacement": "https://example.com/new",
-  "type": "redirect"
+  "test": {
+    "path_exact": "/old"
+  },
+  "redirect": {
+    "location": "https://example.com/new"
+  }
 }
 ```
 
-### rewrites
+### redirect based on host header
 ```json
 {
-  "pattern": "/old(/.+)?",
-  "regex": true,
-  "replacement": "$1",
-  "origin": "https://example.com/new",
-  "type": "rewrite"
+  "test": {
+    "host_exact": "alpha.phila.gov",
+    "path_pattern": "/(.*)"
+  },
+  "redirect": {
+    "location": "https://www.phila.gov/$1"
+  }
 }
 ```
+
+### rewrite based on path
+```json
+{
+  "test": {
+    "path_pattern": "/old(/.+)?"
+  },
+  "rewrite": {
+    "path": "$1",
+    "origin": "https://example.com/new"
+  }
+}
+```
+
+## api caveats
+- A rule cannot have both `redirect` and `rewrite` properties
+- A rule's test cannot have both `path_exact` and `path_pattern` properties
+
+These caveats, along with some other edge cases, should be caught by the "rule tests"
+in the test suite.

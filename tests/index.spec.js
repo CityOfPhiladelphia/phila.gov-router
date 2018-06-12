@@ -6,9 +6,12 @@ describe('redirects', () => {
   describe('string matches', () => {
     test('vanity url', async () => {
       const handler = createHandler([{
-        pattern: '/old',
-        replacement: '/new',
-        type: 'redirect'
+        test: {
+          path_exact: '/old'
+        },
+        redirect: {
+          location: '/new'
+        }
       }])
       const event = createEvent({ uri: '/old' })
       const response = await handler(event)
@@ -17,9 +20,12 @@ describe('redirects', () => {
 
     test('ignores trailing slash on request uri', async () => {
       const handler = createHandler([{
-        pattern: '/old',
-        replacement: '/new',
-        type: 'redirect'
+        test: {
+          path_exact: '/old',
+        },
+        redirect: {
+          location: '/new'
+        }
       }])
       const event = createEvent({ uri: '/old/' })
       const response = await handler(event)
@@ -28,9 +34,12 @@ describe('redirects', () => {
 
     test('supports trailing slash on response uri', async () => {
       const handler = createHandler([{
-        pattern: '/old',
-        replacement: '/new/',
-        type: 'redirect'
+        test: {
+          path_exact: '/old'
+        },
+        redirect: {
+          location: '/new/'
+        }
       }])
       const event = createEvent({ uri: '/old' })
       const response = await handler(event)
@@ -39,9 +48,12 @@ describe('redirects', () => {
 
     test('supports full url in replacement', async () => {
       const handler = createHandler([{
-        pattern: '/old',
-        replacement: 'http://example.com',
-        type: 'redirect'
+        test: {
+          path_exact: '/old'
+        },
+        redirect: {
+          location: 'http://example.com'
+        }
       }])
       const event = createEvent({ uri: '/old' })
       const response = await handler(event)
@@ -50,9 +62,12 @@ describe('redirects', () => {
 
     test('2-level path exact match', async () => {
       const handler = createHandler([{
-        pattern: '/old/sub-page',
-        replacement: '/new/sub-page',
-        type: 'redirect'
+        test: {
+          path_exact: '/old/sub-page'
+        },
+        redirect: {
+          location: '/new/sub-page'
+        }
       }])
       const event = createEvent({ uri: '/old/sub-page' })
       const response = await handler(event)
@@ -61,9 +76,12 @@ describe('redirects', () => {
 
     test('no matches returns original request', async () => {
       const handler = createHandler([{
-        pattern: '/old',
-        replacement: '/new',
-        type: 'redirect'
+        test: {
+          path_exact: '/old'
+        },
+        redirect: {
+          location: '/new'
+        }
       }])
       const event = createEvent({ uri: '/no-match' })
       const request = await handler(event)
@@ -74,10 +92,12 @@ describe('redirects', () => {
   describe('regex matches', () => {
     test('anything after match goes to same place', async () => {
       const handler = createHandler([{
-        pattern: '/old/?(.+)',
-        replacement: '/new',
-        type: 'redirect',
-        regex: true
+        test: {
+          path_pattern: '/old/?(.*)'
+        },
+        redirect: {
+          location: '/new'
+        }
       }])
       const event = createEvent({ uri: '/old/foo' })
       const response = await handler(event)
@@ -86,10 +106,12 @@ describe('redirects', () => {
 
     test('include the rest of the path', async () => {
       const handler = createHandler([{
-        pattern: '/old/?(.+)',
-        replacement: '/new/$1',
-        type: 'redirect',
-        regex: true
+        test: {
+          path_pattern: '/old/?(.*)'
+        },
+        redirect: {
+          location: '/new/$1'
+        }
       }])
       const event = createEvent({ uri: '/old/sub-page/foo' })
       const response = await handler(event)
@@ -102,9 +124,12 @@ describe('rewrites', () => {
   describe('string matches', () => {
     test('basic rewrite, same origin', async () => {
       const handler = createHandler([{
-        pattern: '/old',
-        replacement: '/new',
-        type: 'rewrite'
+        test: {
+          path_exact: '/old'
+        },
+        rewrite: {
+          path: '/new'
+        }
       }])
       const event = createEvent({ uri: '/old' })
       const request = await handler(event)
@@ -114,10 +139,13 @@ describe('rewrites', () => {
 
     test('sets custom origin', async () => {
       const handler = createHandler([{
-        pattern: '/old',
-        replacement: '',
-        origin: 'http://example.com',
-        type: 'rewrite'
+        test: {
+          path_exact: '/old'
+        },
+        rewrite: {
+          path: '',
+          origin: 'http://example.com'
+        }
       }])
       const event = createEvent({ uri: '/old' })
       const request = await handler(event)
@@ -133,10 +161,13 @@ describe('rewrites', () => {
 
     test('strips trailing slashes from origin path', async () => {
       const handler = createHandler([{
-        pattern: '/old',
-        replacement: '',
-        origin: 'http://example.com/new/',
-        type: 'rewrite'
+        test: {
+          path_pattern: '/old'
+        },
+        rewrite: {
+          path: '',
+          origin: 'http://example.com/new/'
+        }
       }])
       const event = createEvent({ uri: '/old' })
       const request = await handler(event)
@@ -147,11 +178,13 @@ describe('rewrites', () => {
   describe('regex matches', () => {
     test('change origin and replace path', async () => {
       const handler = createHandler([{
-        pattern: '/old(/.+)?',
-        regex: true,
-        replacement: '$1',
-        origin: 'http://example.com/new',
-        type: 'rewrite'
+        test: {
+          path_pattern: '/old(/.+)?'
+        },
+        rewrite: {
+          path: '$1',
+          origin: 'http://example.com/new'
+        }
       }])
       const event = createEvent({ uri: '/old/foo' })
       const request = await handler(event)
@@ -170,6 +203,21 @@ describe('other', () => {
     const event = createEvent({ uri: '/Testing' })
     const request = await handler(event)
     expect(request.uri).toBe('/testing')
+  })
+
+  it('redirects requests of alpha.phila.gov to www.phila.gov', async () => {
+    const handler = createHandler([{
+      test: {
+        host_exact: 'alpha.phila.gov',
+        path_pattern: '/(.*)'
+      },
+      redirect: {
+        location: 'https://www.phila.gov/$1'
+      }
+    }])
+    const event = createEvent({ uri: '/testing', host: 'alpha.phila.gov' })
+    const response = await handler(event)
+    expectRedirect(response, 'https://www.phila.gov/testing')
   })
 })
 
