@@ -10,33 +10,33 @@ function createHandler (rules) {
   return async function (event) {
     const request = event.Records[0].cf.request
     const cleanPath = request.uri.toLowerCase().replace(TRAILING_SLASH, '')
+    const hostname = request.headers.host[0].value
     log(event)
 
     const matchedRule = rules.find((rule) => {
-      if (rule.regex) {
-        if (!compiledRegexes.hasOwnProperty(rule.pattern)) {
-          compiledRegexes[rule.pattern] = new RegExp(rule.pattern)
-        }
-        return compiledRegexes[rule.pattern].test(cleanPath)
-      } else {
-        return (cleanPath === rule.pattern)
+      if (rule.test.host_exact) {
+        return (hostname === rule.test.host_exact)
+      } else if (rule.test.path_pattern) {
+        return getRegex(rule.test.path_pattern).test(cleanPath)
+      } else if (rule.test.path_exact) {
+        return (cleanPath === rule.test.path_exact)
       }
     })
 
     if (matchedRule) {
-      const newPath = (matchedRule.regex)
-        ? cleanPath.replace(compiledRegexes[matchedRule.pattern], matchedRule.replacement)
-        : matchedRule.replacement
+      const newPath = getNewPath(cleanPath, matchedRule)
 
-      if (matchedRule.type === 'rewrite') {
-        request.uri = newPath || '/'
-        if (matchedRule.origin) setOrigin(request, matchedRule.origin)
-        log(request)
-        return request
-      } else {
+      if (matchedRule.redirect) {
         const response = createRedirect(newPath)
         log(response)
         return response
+      } else if (matchedRule.rewrite) {
+        request.uri = newPath || '/'
+        const origin = matchedRule.rewrite.origin
+        if (origin) setOrigin(request, origin)
+
+        log(request)
+        return request
       }
     } else {
       log('no match')
@@ -44,6 +44,26 @@ function createHandler (rules) {
       return request
     }
   }
+}
+
+function getRegex (pattern) {
+  if (!compiledRegexes.hasOwnProperty(pattern)) {
+    compiledRegexes[pattern] = new RegExp(pattern)
+  }
+  return compiledRegexes[pattern]
+}
+
+function getNewPath (path, rule) {
+  const pattern = rule.test.path_pattern
+  const replacement = (rule.redirect)
+    ? rule.redirect.location
+    : rule.rewrite.path
+
+  const newPath = (pattern)
+    ? path.replace(getRegex(pattern), replacement)
+    : replacement
+
+  return newPath
 }
 
 // Mutates request object
