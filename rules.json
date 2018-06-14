@@ -68,7 +68,7 @@
       "path_exact": "/lirequest"
     },
     "redirect": {
-      "location": "http://www.phila.gov/li/pages/foodlicenseinspection.aspx"
+      "location": "https://www.phila.website/li/pages/foodlicenseinspection.aspx"
     }
   },
   {
@@ -508,7 +508,7 @@
       "path_exact": "/globalphiladelphia"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/departments/office-of-immigrant-affairs/"
+      "location": "https://www.phila.website/departments/office-of-immigrant-affairs/"
     }
   },
   {
@@ -516,7 +516,7 @@
       "path_exact": "/actionguides"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/the-latest/#action-guides"
+      "location": "https://www.phila.website/the-latest/#action-guides"
     }
   },
   {
@@ -524,7 +524,7 @@
       "path_exact": "/boepaperform"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/documents/board-of-education-job-description/"
+      "location": "https://www.phila.website/documents/board-of-education-job-description/"
     }
   },
   {
@@ -532,7 +532,7 @@
       "path_exact": "/citizenship"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/2018-01-12-citizenship-information-resources/"
+      "location": "https://www.phila.website/2018-01-12-citizenship-information-resources/"
     }
   },
   {
@@ -540,7 +540,7 @@
       "path_exact": "/cityscholarship"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/documents/philadelphia-city-scholarship-program-application/"
+      "location": "https://www.phila.website/documents/philadelphia-city-scholarship-program-application/"
     }
   },
   {
@@ -548,7 +548,7 @@
       "path_exact": "/dhs"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/departments/department-of-human-services/"
+      "location": "https://www.phila.website/departments/department-of-human-services/"
     }
   },
   {
@@ -556,7 +556,7 @@
       "path_exact": "/getcovered"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/posts/health/2017-11-01-deadline-december-15-everything-you-need-to-know-about-aca-enrollment/"
+      "location": "https://www.phila.website/posts/health/2017-11-01-deadline-december-15-everything-you-need-to-know-about-aca-enrollment/"
     }
   },
   {
@@ -564,7 +564,7 @@
       "path_exact": "/gompers"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/departments/mayors-office-of-education/community-schools/samuel-gompers-school/"
+      "location": "https://www.phila.website/departments/mayors-office-of-education/community-schools/samuel-gompers-school/"
     }
   },
   {
@@ -572,7 +572,7 @@
       "path_exact": "/green"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/departments/office-of-sustainability/"
+      "location": "https://www.phila.website/departments/office-of-sustainability/"
     }
   },
   {
@@ -580,7 +580,7 @@
       "path_exact": "/guncontrolpolicies"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/2018-03-20-gun-control-policies/"
+      "location": "https://www.phila.website/2018-03-20-gun-control-policies/"
     }
   },
   {
@@ -588,7 +588,7 @@
       "path_exact": "/gwhs"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/departments/mayors-office-of-education/community-schools/george-washington-high-school/"
+      "location": "https://www.phila.website/departments/mayors-office-of-education/community-schools/george-washington-high-school/"
     }
   },
   {
@@ -596,7 +596,7 @@
       "path_exact": "/lifeguards"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/services/working-jobs/become-a-lifeguard/"
+      "location": "https://www.phila.website/services/working-jobs/become-a-lifeguard/"
     }
   },
   {
@@ -604,7 +604,7 @@
       "path_exact": "/loop/pages/default.aspx"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/services/payments-assistance-taxes/income-based-assistance-programs/longtime-owner-occupants-program/"
+      "location": "https://www.phila.website/services/payments-assistance-taxes/income-based-assistance-programs/longtime-owner-occupants-program/"
     }
   },
   {
@@ -612,7 +612,7 @@
       "path_exact": "//parksandrec/campphilly"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/programs/camp-philly/"
+      "location": "https://www.phila.website/programs/camp-philly/"
     }
   },
   {
@@ -620,7 +620,7 @@
       "path_exact": "/parksandrecreation/dogs"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/departments/philadelphia-parks-recreation/about/dog-regulations-and-best-practices/"
+      "location": "https://www.phila.website/departments/philadelphia-parks-recreation/about/dog-regulations-and-best-practices/"
     }
   },
   {
@@ -628,7 +628,7 @@
       "path_exact": "/parksandrec/dogs"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/departments/philadelphia-parks-recreation/about/dog-regulations-and-best-practices/"
+      "location": "https://www.phila.website/departments/philadelphia-parks-recreation/about/dog-regulations-and-best-practices/"
     }
   },
   {
@@ -636,7 +636,7 @@
       "path_exact": "/findafacility"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/parks-rec-finder/#/locations"
+      "location": "https://www.phila.website/parks-rec-finder/#/locations"
     }
   },
   {
@@ -644,7 +644,7 @@
       "path_exact": "/locke"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/departments/mayors-office-of-education/community-schools/alain-locke-school/"
+      "location": "https://www.phila.website/departments/mayors-office-of-education/community-schools/alain-locke-school/"
     }
   },
   {
@@ -652,7 +652,7 @@
       "path_exact": "/parksandrecreation/findafacility"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/parks-rec-finder/#/locations"
+      "location": "https://www.phila.website/parks-rec-finder/#/locations"
     }
   },
   {
@@ -660,7 +660,7 @@
       "path_exact": "/parksandrec/newsletter"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/departments/parks-recreation/"
+      "location": "https://www.phila.website/departments/parks-recreation/"
     }
   },
   {
@@ -668,7 +668,7 @@
       "path_exact": "/parksnrecnewsletter"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/departments/philadelphia-parks-recreation/#action-modal"
+      "location": "https://www.phila.website/departments/philadelphia-parks-recreation/#action-modal"
     }
   },
   {
@@ -676,7 +676,7 @@
       "path_exact": "/parksandrecreation"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/departments/philadelphia-parks-recreation/"
+      "location": "https://www.phila.website/departments/philadelphia-parks-recreation/"
     }
   },
   {
@@ -684,7 +684,7 @@
       "path_exact": "//parksandrec"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/departments/philadelphia-parks-recreation/"
+      "location": "https://www.phila.website/departments/philadelphia-parks-recreation/"
     }
   },
   {
@@ -692,7 +692,7 @@
       "path_exact": "/parks"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/departments/philadelphia-parks-recreation/"
+      "location": "https://www.phila.website/departments/philadelphia-parks-recreation/"
     }
   },
   {
@@ -700,7 +700,7 @@
       "path_exact": "/pools"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/parks-rec-finder/#/activities"
+      "location": "https://www.phila.website/parks-rec-finder/#/activities"
     }
   },
   {
@@ -708,7 +708,7 @@
       "path_exact": "/ppr"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/departments/philadelphia-parks-recreation/"
+      "location": "https://www.phila.website/departments/philadelphia-parks-recreation/"
     }
   },
   {
@@ -716,7 +716,7 @@
       "path_exact": "/recreation"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/departments/philadelphia-parks-recreation/"
+      "location": "https://www.phila.website/departments/philadelphia-parks-recreation/"
     }
   },
   {
@@ -724,7 +724,7 @@
       "path_exact": "/phlimmigrantbiz"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/posts/office-of-immigrant-affairs/2017-03-09-immigrant-business-week-2017-march-27-april-1/"
+      "location": "https://www.phila.website/posts/office-of-immigrant-affairs/2017-03-09-immigrant-business-week-2017-march-27-april-1/"
     }
   },
   {
@@ -732,7 +732,7 @@
       "path_exact": "/water-bill-help"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/services/water-gas-utilities/water-bill-customer-assistance/"
+      "location": "https://www.phila.website/services/water-gas-utilities/water-bill-customer-assistance/"
     }
   },
   {
@@ -740,7 +740,7 @@
       "path_exact": "/waterbillhelp"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/services/water-gas-utilities/water-bill-customer-assistance/"
+      "location": "https://www.phila.website/services/water-gas-utilities/water-bill-customer-assistance/"
     }
   },
   {
@@ -748,7 +748,7 @@
       "path_exact": "/immigrantheritagemonth"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/posts/office-of-immigrant-affairs/2017-05-24-immigrant-heritage-month-2017/"
+      "location": "https://www.phila.website/posts/office-of-immigrant-affairs/2017-05-24-immigrant-heritage-month-2017/"
     }
   },
   {
@@ -756,7 +756,7 @@
       "path_exact": "/localcontrolsurvey"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/departments/mayor/share-what-you-want-in-your-schools/"
+      "location": "https://www.phila.website/departments/mayor/share-what-you-want-in-your-schools/"
     }
   },
   {
@@ -764,7 +764,7 @@
       "path_exact": "/mayorsbudget"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/departments/mayor/do-you-support-the-budget-proposal"
+      "location": "https://www.phila.website/departments/mayor/do-you-support-the-budget-proposal"
     }
   },
   {
@@ -772,7 +772,7 @@
       "path_exact": "/immigrantheritagemonth"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/posts/mayor/2016-05-18-ihm2016"
+      "location": "https://www.phila.website/posts/mayor/2016-05-18-ihm2016"
     }
   },
   {
@@ -780,7 +780,7 @@
       "path_exact": "/democraticnationalconvention"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/events/democratic-national-convention/"
+      "location": "https://www.phila.website/events/democratic-national-convention/"
     }
   },
   {
@@ -788,7 +788,7 @@
       "path_exact": "/dnc"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/events/democratic-national-convention/"
+      "location": "https://www.phila.website/events/democratic-national-convention/"
     }
   },
   {
@@ -796,7 +796,7 @@
       "path_exact": "/welcomingweek2016"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/posts/office-of-immigrant-affairs/2016-08-31-welcoming-week-2016/"
+      "location": "https://www.phila.website/posts/office-of-immigrant-affairs/2016-08-31-welcoming-week-2016/"
     }
   },
   {
@@ -804,7 +804,7 @@
       "path_exact": "/welcomingweek2017"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/posts/office-of-immigrant-affairs/2017-08-31-welcoming-week-2017/"
+      "location": "https://www.phila.website/posts/office-of-immigrant-affairs/2017-08-31-welcoming-week-2017/"
     }
   },
   {
@@ -812,7 +812,7 @@
       "path_exact": "/revenue/eitc"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/documents/earned-income-tax-credit-eitc-employer-notice/"
+      "location": "https://www.phila.website/documents/earned-income-tax-credit-eitc-employer-notice/"
     }
   },
   {
@@ -820,7 +820,7 @@
       "path_exact": "/revenue/taxpro/pages/refundpetitions.aspx"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/documents/income-based-wage-tax-refund-petition/"
+      "location": "https://www.phila.website/documents/income-based-wage-tax-refund-petition/"
     }
   },
   {
@@ -828,7 +828,7 @@
       "path_exact": "/revenue/businesses/taxes/pages/amusementtax.aspx"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/services/payments-assistance-taxes/business-taxes/amusement-tax/"
+      "location": "https://www.phila.website/services/payments-assistance-taxes/business-taxes/amusement-tax/"
     }
   },
   {
@@ -836,7 +836,7 @@
       "path_exact": "/revenue/businesses/taxes/pages/birt.aspx"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/services/payments-assistance-taxes/business-taxes/business-income-receipts-tax-birt/"
+      "location": "https://www.phila.website/services/payments-assistance-taxes/business-taxes/business-income-receipts-tax-birt/"
     }
   },
   {
@@ -844,7 +844,7 @@
       "path_exact": "/revenue/businesses/taxes/Pages/hoteltax.aspx"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/services/payments-assistance-taxes/business-taxes/hotel-tax/"
+      "location": "https://www.phila.website/services/payments-assistance-taxes/business-taxes/hotel-tax/"
     }
   },
   {
@@ -852,7 +852,7 @@
       "path_exact": "/revenue/businesses"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/services/payments-assistance-taxes/business-taxes/"
+      "location": "https://www.phila.website/services/payments-assistance-taxes/business-taxes/"
     }
   },
   {
@@ -860,7 +860,7 @@
       "path_exact": "/revenue"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/departments/revenue/"
+      "location": "https://www.phila.website/departments/revenue/"
     }
   },
   {
@@ -868,7 +868,7 @@
       "path_exact": "/globalphiladelphia"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/departments/office-of-immigrant-affairs/"
+      "location": "https://www.phila.website/departments/office-of-immigrant-affairs/"
     }
   },
   {
@@ -876,7 +876,7 @@
       "path_exact": "/qualityprek"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/departments/mayors-office-of-education/quality-pre-k-newsletter-signup/"
+      "location": "https://www.phila.website/departments/mayors-office-of-education/quality-pre-k-newsletter-signup/"
     }
   },
   {
@@ -884,7 +884,7 @@
       "path_exact": "/ready"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/departments/oem/"
+      "location": "https://www.phila.website/departments/oem/"
     }
   },
   {
@@ -892,7 +892,7 @@
       "path_exact": "/mayor"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/mayor"
+      "location": "https://www.phila.website/mayor"
     }
   },
   {
@@ -900,7 +900,7 @@
       "path_exact": "/fire"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/departments/philadelphia-fire-department/"
+      "location": "https://www.phila.website/departments/philadelphia-fire-department/"
     }
   },
   {
@@ -908,7 +908,7 @@
       "path_exact": "/gideon"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/departments/mayors-office-of-education/community-schools/edward-gideon-elementary-school/"
+      "location": "https://www.phila.website/departments/mayors-office-of-education/community-schools/edward-gideon-elementary-school/"
     }
   },
   {
@@ -916,7 +916,7 @@
       "path_exact": "/fsedmonds"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/departments/mayors-office-of-education/community-schools/f-s-edmonds-elementary-school/"
+      "location": "https://www.phila.website/departments/mayors-office-of-education/community-schools/f-s-edmonds-elementary-school/"
     }
   },
   {
@@ -924,7 +924,7 @@
       "path_exact": "/logan"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/departments/mayors-office-of-education/community-schools/james-logan-elementary-school/"
+      "location": "https://www.phila.website/departments/mayors-office-of-education/community-schools/james-logan-elementary-school/"
     }
   },
   {
@@ -932,7 +932,7 @@
       "path_exact": "/khsa"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/departments/mayors-office-of-education/community-schools/kensington-health-sciences-academy/"
+      "location": "https://www.phila.website/departments/mayors-office-of-education/community-schools/kensington-health-sciences-academy/"
     }
   },
   {
@@ -940,7 +940,7 @@
       "path_exact": "/parkingamnesty"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/programs/parking-amnesty"
+      "location": "https://www.phila.website/programs/parking-amnesty"
     }
   },
   {
@@ -948,7 +948,7 @@
       "path_exact": "/dobbins"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/departments/mayors-office-of-education/community-schools/murrell-dobbins-cte-high-school/"
+      "location": "https://www.phila.website/departments/mayors-office-of-education/community-schools/murrell-dobbins-cte-high-school/"
     }
   },
   {
@@ -956,7 +956,7 @@
       "path_exact": "/sphs"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/departments/mayors-office-of-education/community-schools/south-philadelphia-high-school/"
+      "location": "https://www.phila.website/departments/mayors-office-of-education/community-schools/south-philadelphia-high-school/"
     }
   },
   {
@@ -964,7 +964,7 @@
       "path_exact": "/southwark"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/departments/mayors-office-of-education/community-schools/southwark-elementary-school/"
+      "location": "https://www.phila.website/departments/mayors-office-of-education/community-schools/southwark-elementary-school/"
     }
   },
   {
@@ -972,7 +972,7 @@
       "path_exact": "/tilden"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/departments/mayors-office-of-education/community-schools/tilden-middle-school/"
+      "location": "https://www.phila.website/departments/mayors-office-of-education/community-schools/tilden-middle-school/"
     }
   },
   {
@@ -980,7 +980,7 @@
       "path_exact": "/cramp"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/departments/mayors-office-of-education/community-schools/william-cramp-elementary-school/"
+      "location": "https://www.phila.website/departments/mayors-office-of-education/community-schools/william-cramp-elementary-school/"
     }
   },
   {
@@ -988,7 +988,7 @@
       "path_exact": "/educationnews"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/departments/mayors-office-of-education/newsletter-sign-up/"
+      "location": "https://www.phila.website/departments/mayors-office-of-education/newsletter-sign-up/"
     }
   },
   {
@@ -996,7 +996,7 @@
       "path_exact": "/education"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/departments/mayors-office-of-education/"
+      "location": "https://www.phila.website/departments/mayors-office-of-education/"
     }
   },
   {
@@ -1004,7 +1004,7 @@
       "path_exact": "/phillydelivers"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/departments/mayor/help-make-sure-phillydelivers-for-amazon/"
+      "location": "https://www.phila.website/departments/mayor/help-make-sure-phillydelivers-for-amazon/"
     }
   },
   {
@@ -1012,7 +1012,7 @@
       "path_exact": "/workforce"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/programs/workforce-development/"
+      "location": "https://www.phila.website/programs/workforce-development/"
     }
   },
   {
@@ -1020,7 +1020,7 @@
       "path_exact": "/ima/"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/departments/office-of-immigrant-affairs/"
+      "location": "https://www.phila.website/departments/office-of-immigrant-affairs/"
     }
   },
   {
@@ -1036,7 +1036,7 @@
       "path_exact": "/water/rateboard"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/departments/water-sewer-storm-water-rate-board/"
+      "location": "https://www.phila.website/departments/water-sewer-storm-water-rate-board/"
     }
   },
   {
@@ -1044,7 +1044,7 @@
       "path_exact": "/healthreform"
     },
     "redirect": {
-      "location": "http://www.phila.gov/health/Commissioner/healthreform.html"
+      "location": "https://www.phila.website/health/Commissioner/healthreform.html"
     }
   },
   {
@@ -1052,7 +1052,7 @@
       "path_exact": "/health/farmersmarkets"
     },
     "redirect": {
-      "location": "http://www.phila.gov/health/foodprotection/farmersmarkets.html"
+      "location": "https://www.phila.website/health/foodprotection/farmersmarkets.html"
     }
   },
   {
@@ -1060,7 +1060,7 @@
       "path_exact": "/experiencephila/mayor.html"
     },
     "redirect": {
-      "location": "http://www.phila.gov/experiencephila/pages/default.aspx"
+      "location": "https://www.phila.website/experiencephila/pages/default.aspx"
     }
   },
   {
@@ -1068,7 +1068,7 @@
       "path_exact": "/fhc"
     },
     "redirect": {
-      "location": "http://www.phila.gov/fairhousingcommission"
+      "location": "https://www.phila.website/fairhousingcommission"
     }
   },
   {
@@ -1076,7 +1076,7 @@
       "path_exact": "/fairhousing"
     },
     "redirect": {
-      "location": "http://www.phila.gov/fairhousingcommission"
+      "location": "https://www.phila.website/fairhousingcommission"
     }
   },
   {
@@ -1084,7 +1084,7 @@
       "path_exact": "/financialempowerment"
     },
     "redirect": {
-      "location": "http://www.phila.gov/fe"
+      "location": "https://www.phila.website/fe"
     }
   },
   {
@@ -1092,7 +1092,7 @@
       "path_exact": "/healthcenters"
     },
     "redirect": {
-      "location": "http://www.phila.gov/health/Services/Serv_MedicalCare.html"
+      "location": "https://www.phila.website/health/Services/Serv_MedicalCare.html"
     }
   },
   {
@@ -1100,7 +1100,7 @@
       "path_exact": "/helpme"
     },
     "redirect": {
-      "location": "http://www.phila.gov/311/Pages/default.aspx"
+      "location": "https://www.phila.website/311/Pages/default.aspx"
     }
   },
   {
@@ -1108,7 +1108,7 @@
       "path_exact": "/inspector"
     },
     "redirect": {
-      "location": "http://www.phila.gov/ig/Pages/default.aspx"
+      "location": "https://www.phila.website/ig/Pages/default.aspx"
     }
   },
   {
@@ -1116,7 +1116,7 @@
       "path_exact": "/mod"
     },
     "redirect": {
-      "location": "http://www.phila.gov/mcpd//index.html"
+      "location": "https://www.phila.website/mcpd//index.html"
     }
   },
   {
@@ -1124,7 +1124,7 @@
       "path_exact": "/mrc"
     },
     "redirect": {
-      "location": "http://www.phila.gov/health/MedResCorps.html"
+      "location": "https://www.phila.website/health/MedResCorps.html"
     }
   },
   {
@@ -1132,7 +1132,7 @@
       "path_exact": "/oeo"
     },
     "redirect": {
-      "location": "http://www.phila.gov/commerce/businesssupport/mwdsbesupport/Pages/default.aspx"
+      "location": "https://www.phila.website/commerce/businesssupport/mwdsbesupport/Pages/default.aspx"
     }
   },
   {
@@ -1140,7 +1140,7 @@
       "path_exact": "/bids"
     },
     "redirect": {
-      "location": "http://www.phila.gov/procurement/Pages/default.aspx"
+      "location": "https://www.phila.website/procurement/Pages/default.aspx"
     }
   },
   {
@@ -1148,7 +1148,7 @@
       "path_exact": "/health/tobaccopermits"
     },
     "redirect": {
-      "location": "http://www.phila.gov/health/environment/retailerPermits.html"
+      "location": "https://www.phila.website/health/environment/retailerPermits.html"
     }
   },
   {
@@ -1156,7 +1156,7 @@
       "path_exact": "/health/peds"
     },
     "redirect": {
-      "location": "http://www.phila.gov/health/pediatriccare/index.html"
+      "location": "https://www.phila.website/health/pediatriccare/index.html"
     }
   },
   {
@@ -1164,7 +1164,7 @@
       "path_exact": "/hhs/privacy"
     },
     "redirect": {
-      "location": "http://www.phila.gov/hhs/pages/privacy.aspx"
+      "location": "https://www.phila.website/hhs/pages/privacy.aspx"
     }
   },
   {
@@ -1172,7 +1172,7 @@
       "path_exact": "/services/emergency/index.html"
     },
     "redirect": {
-      "location": "http://www.phila.gov/osh/emergencyservices/pages/default.aspx"
+      "location": "https://www.phila.website/osh/emergencyservices/pages/default.aspx"
     }
   },
   {
@@ -1180,7 +1180,7 @@
       "path_exact": "/aco"
     },
     "redirect": {
-      "location": "http://www.phila.gov/mcpd/"
+      "location": "https://www.phila.website/mcpd/"
     }
   },
   {
@@ -1188,7 +1188,7 @@
       "path_exact": "/osh"
     },
     "redirect": {
-      "location": "http://www.phila.gov/homelessservices"
+      "location": "https://www.phila.website/homelessservices"
     }
   },
   {
@@ -1196,7 +1196,7 @@
       "path_exact": "/phillystat"
     },
     "redirect": {
-      "location": "http://www.phila.gov/mdo/phillystat"
+      "location": "https://www.phila.website/mdo/phillystat"
     }
   },
   {
@@ -1204,7 +1204,7 @@
       "path_exact": "/performance"
     },
     "redirect": {
-      "location": "http://www.phila.gov/mdo/phillystat"
+      "location": "https://www.phila.website/mdo/phillystat"
     }
   },
   {
@@ -1212,7 +1212,7 @@
       "path_exact": "/privacy/index.html"
     },
     "redirect": {
-      "location": "http://www.phila.gov/Pages/privacy.aspx"
+      "location": "https://www.phila.website/Pages/privacy.aspx"
     }
   },
   {
@@ -1220,7 +1220,7 @@
       "path_exact": "/executive_orders/index.htm"
     },
     "redirect": {
-      "location": "http://www.phila.gov/executiveorders"
+      "location": "https://www.phila.website/executiveorders"
     }
   },
   {
@@ -1228,7 +1228,7 @@
       "path_exact": "/waterrev"
     },
     "redirect": {
-      "location": "http://www.phila.gov/revenue"
+      "location": "https://www.phila.website/revenue"
     }
   },
   {
@@ -1236,7 +1236,7 @@
       "path_exact": "/townwatch/services.htm"
     },
     "redirect": {
-      "location": "http://www.phila.gov/townwatch"
+      "location": "https://www.phila.website/townwatch"
     }
   },
   {
@@ -1244,7 +1244,7 @@
       "path_exact": "/civilservice"
     },
     "redirect": {
-      "location": "http://www.phila.gov/personnel/civilservice.html"
+      "location": "https://www.phila.website/personnel/civilservice.html"
     }
   },
   {
@@ -1252,7 +1252,7 @@
       "path_exact": "/mbec"
     },
     "redirect": {
-      "location": "http://www.phila.gov/commerce/businesssupport/mwdsbesupport"
+      "location": "https://www.phila.website/commerce/businesssupport/mwdsbesupport"
     }
   },
   {
@@ -1260,7 +1260,7 @@
       "path_exact": "/rda"
     },
     "redirect": {
-      "location": "http://www.phila.gov/pra"
+      "location": "https://www.phila.website/pra"
     }
   },
   {
@@ -1268,7 +1268,7 @@
       "path_exact": "/risk"
     },
     "redirect": {
-      "location": "http://www.phila.gov/finance/units-RiskManagement.html"
+      "location": "https://www.phila.website/finance/units-RiskManagement.html"
     }
   },
   {
@@ -1276,7 +1276,7 @@
       "path_exact": "/2016-water-quality-data"
     },
     "redirect": {
-      "location": "http://www.phila.gov/water/PDF/2016-water-quality-results.pdf"
+      "location": "https://www.phila.website/water/PDF/2016-water-quality-results.pdf"
     }
   },
   {
@@ -1284,7 +1284,7 @@
       "path_exact": "/water/bpp"
     },
     "redirect": {
-      "location": "http://www.phila.gov/water/pdf/bppsummary-8-2015.pdf"
+      "location": "https://www.phila.website/water/pdf/bppsummary-8-2015.pdf"
     }
   },
   {
@@ -1292,7 +1292,7 @@
       "path_exact": "/water/2014waterquality"
     },
     "redirect": {
-      "location": "http://www.phila.gov/water/pdf/2014waterquality.pdf"
+      "location": "https://www.phila.website/water/pdf/2014waterquality.pdf"
     }
   },
   {
@@ -1300,7 +1300,7 @@
       "path_exact": "/water/2017lcrsurvey"
     },
     "redirect": {
-      "location": "http://www.phila.gov/water/wu/drinkingwater/lead/pages/lcr-survey.aspx"
+      "location": "https://www.phila.website/water/wu/drinkingwater/lead/pages/lcr-survey.aspx"
     }
   },
   {
@@ -1308,7 +1308,7 @@
       "path_exact": "/2015waterquality"
     },
     "redirect": {
-      "location": "http://www.phila.gov/water/pdf/2015waterquality.pdf"
+      "location": "https://www.phila.website/water/pdf/2015waterquality.pdf"
     }
   },
   {
@@ -1316,7 +1316,7 @@
       "path_exact": "/water/lead"
     },
     "redirect": {
-      "location": "http://www.phila.gov/water/wu/drinkingwater/lead/Pages/default.aspx"
+      "location": "https://www.phila.website/water/wu/drinkingwater/lead/Pages/default.aspx"
     }
   },
   {
@@ -1324,7 +1324,7 @@
       "path_exact": "/water/replacelsl"
     },
     "redirect": {
-      "location": "http://www.phila.gov/water/wu/drinkingwater/lead/Pages/ImportantLSLinfo.aspx"
+      "location": "https://www.phila.website/water/wu/drinkingwater/lead/Pages/ImportantLSLinfo.aspx"
     }
   },
   {
@@ -1332,7 +1332,7 @@
       "path_exact": "/water/helploan"
     },
     "redirect": {
-      "location": "http://www.phila.gov/water/educationoutreach/customerassistance/Pages/HelpLoan.aspx"
+      "location": "https://www.phila.website/water/educationoutreach/customerassistance/Pages/HelpLoan.aspx"
     }
   },
   {
@@ -1340,7 +1340,7 @@
       "path_exact": "/leadhealthyhomes"
     },
     "redirect": {
-      "location": "http://www.phila.gov/health/childhoodlead/landlordtenants.html"
+      "location": "https://www.phila.website/health/childhoodlead/landlordtenants.html"
     }
   },
   {
@@ -1348,7 +1348,7 @@
       "path_exact": "/water/notifications"
     },
     "redirect": {
-      "location": "http://www.phila.gov/water/aboutus/pages/notifications.aspx"
+      "location": "https://www.phila.website/water/aboutus/pages/notifications.aspx"
     }
   },
   {
@@ -1356,7 +1356,7 @@
       "path_exact": "/water/rates"
     },
     "redirect": {
-      "location": "http://www.phila.gov/water/wu/ratesregulationsresp/pages/rates.aspx"
+      "location": "https://www.phila.website/water/wu/ratesregulationsresp/pages/rates.aspx"
     }
   },
   {
@@ -1364,7 +1364,7 @@
       "path_exact": "/water/regulations"
     },
     "redirect": {
-      "location": "http://www.phila.gov/water/wu/ratesregulationsresp/pages/regulations.aspx"
+      "location": "https://www.phila.website/water/wu/ratesregulationsresp/pages/regulations.aspx"
     }
   },
   {
@@ -1372,7 +1372,7 @@
       "path_exact": "/water/ccc.html"
     },
     "redirect": {
-      "location": "http://www.phila.gov/water/wu/drinkingwater/pages/crossconnectioncontrol.aspx"
+      "location": "https://www.phila.website/water/wu/drinkingwater/pages/crossconnectioncontrol.aspx"
     }
   },
   {
@@ -1380,7 +1380,7 @@
       "path_exact": "/water/iwu.html"
     },
     "redirect": {
-      "location": "http://www.phila.gov/water/wu/wastewater/pages/industrialwaste.aspx"
+      "location": "https://www.phila.website/water/wu/wastewater/pages/industrialwaste.aspx"
     }
   },
   {
@@ -1388,7 +1388,7 @@
       "path_exact": "/water/stormwater_billing.html"
     },
     "redirect": {
-      "location": "http://www.phila.gov/water/wu/stormwater/Pages/default.aspx"
+      "location": "https://www.phila.website/water/wu/stormwater/Pages/default.aspx"
     }
   },
   {
@@ -1396,7 +1396,7 @@
       "path_exact": "/water/billhelp"
     },
     "redirect": {
-      "location": "http://www.phila.gov/water/educationoutreach/customerassistance/pages/default.aspx"
+      "location": "https://www.phila.website/water/educationoutreach/customerassistance/pages/default.aspx"
     }
   },
   {
@@ -1404,7 +1404,7 @@
       "path_exact": "/rise/employer/pages/banthebox.aspx"
     },
     "redirect": {
-      "location": "http://www.phila.gov/humanrelations/pages/default.aspx"
+      "location": "https://www.phila.website/humanrelations/pages/default.aspx"
     }
   },
   {
@@ -1412,7 +1412,7 @@
       "path_exact": "/swgrant"
     },
     "redirect": {
-      "location": "http://www.phila.gov/water/wu/stormwater/Pages/Grants.aspx"
+      "location": "https://www.phila.website/water/wu/stormwater/Pages/Grants.aspx"
     }
   },
   {
@@ -1428,7 +1428,7 @@
       "path_exact": "/gethealthyphilly"
     },
     "redirect": {
-      "location": "http://www.phila.gov/health/ChronicDisease/gethealthyphilly.html"
+      "location": "https://www.phila.website/health/ChronicDisease/gethealthyphilly.html"
     }
   },
   {
@@ -1436,7 +1436,7 @@
       "path_exact": "/nutritionstandards"
     },
     "redirect": {
-      "location": "http://www.phila.gov/health/chronicdisease/nutritionstandards.html"
+      "location": "https://www.phila.website/health/chronicdisease/nutritionstandards.html"
     }
   },
   {
@@ -1444,7 +1444,7 @@
       "path_exact": "/foodstandards"
     },
     "redirect": {
-      "location": "http://www.phila.gov/health/chronicdisease/workplace.html"
+      "location": "https://www.phila.website/health/chronicdisease/workplace.html"
     }
   },
   {
@@ -1452,7 +1452,7 @@
       "path_exact": "/2016waterquality"
     },
     "redirect": {
-      "location": "http://www.phila.gov/water/wu/water%20quality%20reports/2016waterquality.pdf"
+      "location": "https://www.phila.website/water/wu/water%20quality%20reports/2016waterquality.pdf"
     }
   },
   {
@@ -1460,7 +1460,7 @@
       "path_exact": "/oho"
     },
     "redirect": {
-      "location": "http://www.phila.gov/hhs"
+      "location": "https://www.phila.website/hhs"
     }
   },
   {
@@ -1468,7 +1468,7 @@
       "path_exact": "/qualityoflife"
     },
     "redirect": {
-      "location": "http://www.phila.gov/clip"
+      "location": "https://www.phila.website/clip"
     }
   },
   {
@@ -1476,7 +1476,7 @@
       "path_exact": "/zika"
     },
     "redirect": {
-      "location": "http://www.phila.gov/health/diseasecontrol/zika.html"
+      "location": "https://www.phila.website/health/diseasecontrol/zika.html"
     }
   },
   {
@@ -1484,7 +1484,7 @@
       "path_exact": "/info"
     },
     "redirect": {
-      "location": "http://www.phila.gov/info/pages/wifi.aspx"
+      "location": "https://www.phila.website/info/pages/wifi.aspx"
     }
   },
   {
@@ -1492,7 +1492,7 @@
       "path_exact": "/smartchoice"
     },
     "redirect": {
-      "location": "http://www.phila.gov/commerce/businessattraction"
+      "location": "https://www.phila.website/commerce/businessattraction"
     }
   },
   {
@@ -1500,7 +1500,7 @@
       "path_exact": "/opendata"
     },
     "redirect": {
-      "location": "http://www.phila.gov/data"
+      "location": "https://www.phila.website/data"
     }
   },
   {
@@ -1508,7 +1508,7 @@
       "path_exact": "/citybudget"
     },
     "redirect": {
-      "location": "http://www.phila.gov/openbudget/"
+      "location": "https://www.phila.website/openbudget/"
     }
   },
   {
@@ -1516,7 +1516,7 @@
       "path_exact": "/mayor/faithbased"
     },
     "redirect": {
-      "location": "http://www.phila.gov/faithbased"
+      "location": "https://www.phila.website/faithbased"
     }
   },
   {
@@ -1524,7 +1524,7 @@
       "path_exact": "/youthprograms"
     },
     "redirect": {
-      "location": "http://www.phila.gov/youthcommission"
+      "location": "https://www.phila.website/youthcommission"
     }
   },
   {
@@ -1532,7 +1532,7 @@
       "path_exact": "/li/zoningappeals"
     },
     "redirect": {
-      "location": "http://www.phila.gov/li/zoning-appeals/"
+      "location": "https://www.phila.website/li/zoning-appeals/"
     }
   },
   {
@@ -1540,7 +1540,7 @@
       "path_exact": "/ohcd"
     },
     "redirect": {
-      "location": "http://www.phila.gov/dhcd"
+      "location": "https://www.phila.website/dhcd"
     }
   },
   {
@@ -1548,7 +1548,7 @@
       "path_exact": "/towing"
     },
     "redirect": {
-      "location": "https://beta.phila.gov/programs/philadelphias-rotational-towing-program/"
+      "location": "https://www.phila.website/programs/philadelphias-rotational-towing-program/"
     }
   },
   {
@@ -1565,7 +1565,7 @@
       "path_exact": "/contracts/data"
     },
     "redirect": {
-      "location": "https://www.phila.gov/contracts/data/"
+      "location": "https://www.phila.website/contracts/data/"
     }
   },
   {
@@ -1582,7 +1582,7 @@
       "path_exact": "/li/zoning-appeals"
     },
     "redirect": {
-      "location": "https://www.phila.gov/li/zoning-appeals/"
+      "location": "https://www.phila.website/li/zoning-appeals/"
     }
   },
   {
@@ -1591,7 +1591,7 @@
     },
     "rewrite": {
       "path": "/$1",
-      "origin": "http://www.phila.gov"
+      "origin": "https://www.phila.website"
     }
   },
   {
