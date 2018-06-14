@@ -145,14 +145,6 @@
   },
   {
     "test": {
-      "path_exact": "/contracts/data"
-    },
-    "redirect": {
-      "location": "http://cityofphiladelphia.github.io/contracts"
-    }
-  },
-  {
-    "test": {
       "path_exact": "/citycouncil"
     },
     "redirect": {
@@ -1561,37 +1553,53 @@
   },
   {
     "test": {
-      "path_pattern": "/contracts/data(/.*)"
+      "path_pattern": "/contracts/data/(.*)"
     },
     "rewrite": {
-      "path": "$1",
+      "path": "/$1",
       "origin": "https://cityofphiladelphia.github.io/contracts"
     }
   },
   {
     "test": {
-      "path_pattern": "/li/zoning-appeals(/.*)"
+      "path_exact": "/contracts/data"
+    },
+    "redirect": {
+      "location": "https://www.phila.gov/contracts/data/"
+    }
+  },
+  {
+    "test": {
+      "path_pattern": "/li/zoning-appeals/(.*)"
     },
     "rewrite": {
-      "path": "$1",
+      "path": "/$1",
       "origin": "https://cityofphiladelphia.github.io/zoning-appeals"
     }
   },
   {
     "test": {
-      "path_pattern": "/rewrite(/.*)"
+      "path_exact": "/li/zoning-appeals"
+    },
+    "redirect": {
+      "location": "https://www.phila.gov/li/zoning-appeals/"
+    }
+  },
+  {
+    "test": {
+      "path_pattern": "/rewrite/(.*)"
     },
     "rewrite": {
-      "path": "$1",
+      "path": "/$1",
       "origin": "http://www.phila.gov"
     }
   },
   {
     "test": {
-      "path_pattern": "/httpbin(/.*)"
+      "path_pattern": "/httpbin/(.*)"
     },
     "rewrite": {
-      "path": "$1",
+      "path": "/$1",
       "origin": "https://httpbin.org/anything"
     }
   }

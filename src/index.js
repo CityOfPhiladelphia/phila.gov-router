@@ -9,7 +9,9 @@ exports.createHandler = createHandler // expose for testing
 function createHandler (rules) {
   return async function (event) {
     const request = event.Records[0].cf.request
-    const cleanPath = request.uri.toLowerCase().replace(TRAILING_SLASH, '')
+    const path = request.uri
+    const lowercasePath = path.toLowerCase()
+    const trimmedLowercasePath = lowercasePath.replace(TRAILING_SLASH, '')
     const hostname = request.headers.host[0].value
     log(event)
 
@@ -17,14 +19,14 @@ function createHandler (rules) {
       if (rule.test.host_exact) {
         return (hostname === rule.test.host_exact)
       } else if (rule.test.path_pattern) {
-        return getRegex(rule.test.path_pattern).test(cleanPath)
+        return getRegex(rule.test.path_pattern).test(lowercasePath)
       } else if (rule.test.path_exact) {
-        return (cleanPath === rule.test.path_exact)
+        return (rule.test.path_exact === trimmedLowercasePath)
       }
     })
 
     if (matchedRule) {
-      const newPath = getNewPath(cleanPath, matchedRule)
+      const newPath = getNewPath(path, matchedRule)
 
       if (matchedRule.redirect) {
         const response = createRedirect(newPath)
@@ -70,7 +72,7 @@ function getNewPath (path, rule) {
 function setOrigin (request, origin) {
   const url = new URL(origin)
   const protocol = url.protocol.slice(0, -1) // remove trailing colon
-  const path = url.pathname.replace(TRAILING_SLASH, '')
+  const path = url.pathname.replace(TRAILING_SLASH, '') // no trailing slash allowed by AWS
 
   request.origin = {
     custom: {

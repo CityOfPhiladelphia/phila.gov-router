@@ -42,10 +42,10 @@ npm test
 ```json
 {
   "test": {
-    "path_pattern": "/old(/.+)?"
+    "path_pattern": "/old/(.*)"
   },
   "rewrite": {
-    "path": "$1",
+    "path": "/$1",
     "origin": "https://example.com/new"
   }
 }
