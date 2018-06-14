@@ -1,4 +1,4 @@
-# phila.gov router
+# phila.gov router [![Build Status](https://travis-ci.org/CityOfPhiladelphia/phila.gov-router.svg?branch=master)](https://travis-ci.org/CityOfPhiladelphia/phila.gov-router)
 Lambda@Edge function for handling redirects and rewrites
 
 ## installation
