@@ -3,48 +3,43 @@ const { inspect } = require('util')
 const TRAILING_SLASH = /\/$/
 let compiledRegexes = {}
 
-exports.handler = createHandler(require('../rules.json')) // expose to lambda
-exports.createHandler = createHandler // expose for testing
+module.exports = async function (rules, event) {
+  const request = event.Records[0].cf.request
+  const path = request.uri
+  const lowercasePath = path.toLowerCase()
+  const trimmedLowercasePath = lowercasePath.replace(TRAILING_SLASH, '')
+  const hostname = request.headers.host[0].value
+  log(event)
 
-function createHandler (rules) {
-  return async function (event) {
-    const request = event.Records[0].cf.request
-    const path = request.uri
-    const lowercasePath = path.toLowerCase()
-    const trimmedLowercasePath = lowercasePath.replace(TRAILING_SLASH, '')
-    const hostname = request.headers.host[0].value
-    log(event)
+  const matchedRule = rules.find((rule) => {
+    if (rule.test.host_exact) {
+      return (hostname === rule.test.host_exact)
+    } else if (rule.test.path_pattern) {
+      return getRegex(rule.test.path_pattern).test(lowercasePath)
+    } else if (rule.test.path_exact) {
+      return (rule.test.path_exact === trimmedLowercasePath)
+    }
+  })
 
-    const matchedRule = rules.find((rule) => {
-      if (rule.test.host_exact) {
-        return (hostname === rule.test.host_exact)
-      } else if (rule.test.path_pattern) {
-        return getRegex(rule.test.path_pattern).test(lowercasePath)
-      } else if (rule.test.path_exact) {
-        return (rule.test.path_exact === trimmedLowercasePath)
-      }
-    })
+  if (matchedRule) {
+    const newPath = getNewPath(path, matchedRule)
 
-    if (matchedRule) {
-      const newPath = getNewPath(path, matchedRule)
+    if (matchedRule.redirect) {
+      const response = createRedirect(newPath)
+      log(response)
+      return response
+    } else if (matchedRule.rewrite) {
+      request.uri = newPath || '/'
+      const origin = matchedRule.rewrite.origin
+      if (origin) setOrigin(request, origin)
 
-      if (matchedRule.redirect) {
-        const response = createRedirect(newPath)
-        log(response)
-        return response
-      } else if (matchedRule.rewrite) {
-        request.uri = newPath || '/'
-        const origin = matchedRule.rewrite.origin
-        if (origin) setOrigin(request, origin)
-
-        log(request)
-        return request
-      }
-    } else {
-      log('no match')
-      request.uri = request.uri.toLowerCase()
+      log(request)
       return request
     }
+  } else {
+    log('no match')
+    request.uri = request.uri.toLowerCase()
+    return request
   }
 }
 
