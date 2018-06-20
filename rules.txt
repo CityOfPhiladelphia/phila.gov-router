@@ -1,0 +1,7 @@
+/otis                     301 http://www.phillyotis.com
+/parksandrec/:any*        301 https://beta.phila.gov/departments/philadelphia-parks-recreation/
+/revenue/:any*            301 /departments/department-of-revenue/:any*
+/li/zoning-appeals/       200 https://cityofphiladelphia.github.io/zoning-appeals/
+/li/zoning-appeals/:any*  200 https://cityofphiladelphia.github.io/zoning-appeals/:any*
+/contracts/data/:any*     200 https://cityofphiladelphia.github.io/contracts/:any*
+/httpbin/:any*            200 https://httpbin.org/anything/:any*
