@@ -57,8 +57,15 @@ function handler (rules, event) {
 
 function parseRulesBody (body) {
   const lines = body.trim().split('\n')
-  const rules = lines.map(parseLine)
+  const rules = lines
+    .filter(isNotEmptyOrComment) // TODO: combine this w/map to avoid 2 loops
+    .map(parseLine)
   return rules
+}
+
+function isNotEmptyOrComment (line) {
+  const trimmedLine = line.trim()
+  return (trimmedLine.length > 0 && !trimmedLine.startsWith('#'))
 }
 
 function parseLine (line) {

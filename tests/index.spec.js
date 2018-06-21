@@ -1,5 +1,28 @@
 const createEvent = require('./helpers/create-event')
-const { handler, parseLine, enhancePattern } = require('../src')
+const { handler, parseRulesBody, parseLine, enhancePattern } = require('../src')
+
+describe('parser', () => {
+  test('ignores blank lines', () => {
+    const lines = `
+      /old /new
+
+      /foo /bar
+    `
+    const rules = parseRulesBody(lines)
+    expect(rules).toHaveLength(2)
+  })
+
+  test('ignores comment lines', () => {
+    const lines = `
+      # first section
+      /old 301 /new
+      # second section
+      /old 301 /new
+    `
+    const rules = parseRulesBody(lines)
+    expect(rules).toHaveLength(2)
+  })
+})
 
 describe('pattern enhancer', () => {
   test('adds leading ^ if absent', () => {
