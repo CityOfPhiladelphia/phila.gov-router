@@ -1,5 +1,37 @@
 const createEvent = require('./helpers/create-event')
-const { handler, parseLine } = require('../src')
+const { handler, parseLine, enhancePattern } = require('../src')
+
+describe('pattern enhancer', () => {
+  test('adds leading ^ if absent', () => {
+    const pattern = '/old'
+    const newPattern = enhancePattern(pattern)
+    expect(newPattern.startsWith('^/old')).toBeTruthy()
+  })
+
+  test('does not add leading ^ if already present', () => {
+    const pattern = '^/old'
+    const newPattern = enhancePattern(pattern)
+    expect(newPattern.startsWith('^/old')).toBeTruthy()
+  })
+
+  test('adds trailing /?$ if absent', () => {
+    const pattern = '/old'
+    const newPattern = enhancePattern(pattern)
+    expect(newPattern.endsWith('/old/?$')).toBeTruthy()
+  })
+
+  test('does not add trailing /?$ if already present', () => {
+    const pattern = '/old/?$'
+    const newPattern = enhancePattern(pattern)
+    expect(newPattern.endsWith('/old/?$')).toBeTruthy()
+  })
+
+  test('does not add trailing /?$ if already ends with $', () => {
+    const pattern = '/old$'
+    const newPattern = enhancePattern(pattern)
+    expect(newPattern.endsWith('/old$')).toBeTruthy()
+  })
+})
 
 describe('redirects', () => {
   describe('exact matches', () => {
@@ -48,14 +80,14 @@ describe('redirects', () => {
 
   describe('pattern matches', () => {
     test('anything after match goes to same place', async () => {
-      const rules = [ parseLine('/old/:any* 301 /new') ]
+      const rules = [ parseLine('/old/(.*) 301 /new') ]
       const event = createEvent({ uri: '/old/foo' })
       const response = handler(rules, event)
       expectRedirect(response, '/new')
     })
 
     test('include the rest of the path', async () => {
-      const rules = [ parseLine('/old/:any* 301 /new/:any*') ]
+      const rules = [ parseLine('/old/(.*) 301 /new/$1') ]
       const event = createEvent({ uri: '/old/sub-page/foo' })
       const response = handler(rules, event)
       expectRedirect(response, '/new/sub-page/foo')
@@ -90,7 +122,7 @@ describe('rewrites', () => {
 
   describe('pattern matches', () => {
     test('change origin and replace uri', async () => {
-      const rules = [ parseLine('/old/:any* 200 http://example.com/new/:any*') ]
+      const rules = [ parseLine('/old/(.*) 200 http://example.com/new/$1') ]
       const event = createEvent({ uri: '/old/foo' })
       const request = handler(rules, event)
       expect(request.uri).toBe('/new/foo')
@@ -100,8 +132,8 @@ describe('rewrites', () => {
       })
     })
 
-    test.skip('maintains trailing slash', async () => {
-      const rules = [ parseLine('/old/:any* 200 /new/:any*') ]
+    test('maintains trailing slash', async () => {
+      const rules = [ parseLine('/old/(.*) 200 /new/$1') ]
       const event = createEvent({ uri: '/old/' })
       const request = handler(rules, event)
       expect(request.uri).toBe('/new/')
