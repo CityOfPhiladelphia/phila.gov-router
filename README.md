@@ -13,47 +13,18 @@ npm test
 
 ## examples
 
-### redirect based on path
-```json
-{
-  "test": {
-    "path_exact": "/old"
-  },
-  "redirect": {
-    "location": "https://example.com/new"
-  }
-}
+```
+/otis                     301 http://www.phillyotis.com
+/parksandrec/(.*)         301 https://beta.phila.gov/departments/philadelphia-parks-recreation/
+/revenue/(.*)             301 /departments/department-of-revenue/$1
+/li/zoning-appeals$       301 /li/zoning-appeals/
+/li/zoning-appeals/(.*)   200 https://cityofphiladelphia.github.io/zoning-appeals/$1
+/contracts/data$          301 /contracts/data/
+/contracts/data/(.*)      200 https://cityofphiladelphia.github.io/contracts/$1
+/httpbin/(.*)             200 https://httpbin.org/anything/$1
 ```
 
-### redirect based on host header
-```json
-{
-  "test": {
-    "host_exact": "alpha.phila.gov",
-    "path_pattern": "/(.*)"
-  },
-  "redirect": {
-    "location": "https://www.phila.gov/$1"
-  }
-}
-```
+Use status code `301` for a redirect, and `200` for a rewrite.
 
-### rewrite based on path
-```json
-{
-  "test": {
-    "path_pattern": "/old/(.*)"
-  },
-  "rewrite": {
-    "path": "/$1",
-    "origin": "https://example.com/new"
-  }
-}
-```
-
-## api caveats
-- A rule cannot have both `redirect` and `rewrite` properties
-- A rule's test cannot have both `path_exact` and `path_pattern` properties
-
-These caveats, along with some other edge cases, should be caught by the "rule tests"
-in the test suite.
+Patterns and converted to case-insensitive regexes, `^` is prepended (unless it's already there)
+and `/?$` is appended unless it or `$` is already there.
