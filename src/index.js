@@ -2,24 +2,21 @@ const fs = require('fs')
 const path = require('path')
 const util = require('util')
 const { URL } = require('url')
+const { parseRules } = require('./parser')
 const IS_URL = /^https?:\/\//
-const WHITESPACE = /\s+/
 const RULES_FILE = '../rules.txt'
 let rules
 
 module.exports = {
   lambda, // used by lambda function
-  handler, // others used by tests
-  parseRulesBody,
-  parseLine,
-  enhancePattern
+  handler // used by tests
 }
 
 async function lambda (event) {
   if (!rules) {
-    const filePath = path.join(__dirname, RULES_FILE)
-    const rulesBody = fs.readFileSync(filePath, 'utf8')
-    rules = parseRulesBody(rulesBody)
+    const rulesFilePath = path.join(__dirname, RULES_FILE)
+    const rulesFileContents = fs.readFileSync(rulesFilePath, 'utf8')
+    rules = parseRules(rulesFileContents)
   }
   return handler(rules, event)
 }
@@ -27,13 +24,14 @@ async function lambda (event) {
 function handler (rules, event) {
   const request = event.Records[0].cf.request
   const requestPath = request.uri
+  log('request', request)
 
   // Apply this function to every rule until a match is found
-  const matchedRule = rules.find((rule) => rule.pattern.test(requestPath))
+  const matchedRule = rules.find((rule) => rule.regex.test(requestPath))
 
   if (matchedRule) {
-    const { pattern, replacement, statusCode } = matchedRule
-    const newLocation = requestPath.replace(pattern, replacement)
+    const { regex, replacement, statusCode } = matchedRule
+    const newLocation = requestPath.replace(regex, replacement)
 
     if (statusCode >= 300 && statusCode < 400) {
       const response = createRedirect(newLocation, statusCode)
@@ -53,42 +51,6 @@ function handler (rules, event) {
     log('no match', request.uri)
     return request
   }
-}
-
-function parseRulesBody (body) {
-  const lines = body.trim().split('\n')
-  const rules = lines
-    .filter(isNotEmptyOrComment) // TODO: combine this w/map to avoid 2 loops
-    .map(parseLine)
-  return rules
-}
-
-function isNotEmptyOrComment (line) {
-  const trimmedLine = line.trim()
-  return (trimmedLine.length > 0 && !trimmedLine.startsWith('#'))
-}
-
-function parseLine (line) {
-  const [ pattern, statusCode, replacement ] = line.trim().split(WHITESPACE)
-  const enhancedPattern = enhancePattern(pattern)
-  const regex = new RegExp(enhancedPattern, 'i') // TODO: rename variable to be more readable
-
-  return {
-    pattern: regex,
-    replacement,
-    statusCode
-  }
-}
-
-function enhancePattern (pattern) {
-  let newPattern = ''
-  if (!pattern.startsWith('^')) newPattern += '^'
-  newPattern += pattern
-  if (!pattern.endsWith('$')) {
-    if (!pattern.endsWith('/?$')) newPattern += '/?$'
-    else newPattern += '$'
-  }
-  return newPattern
 }
 
 function createRedirect (newLocation, statusCode) {
