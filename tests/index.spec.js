@@ -118,8 +118,8 @@ describe('other', () => {
     expect(request.uri).toBe('/testing')
   })
 
-  it.skip('redirects requests of alpha.phila.gov to www.phila.gov', async () => {
-    const rules = parseRules('alpha.phila.gov/:any* 301 https://www.phila.gov/:any*')
+  it('redirects requests of alpha.phila.gov to www.phila.gov', async () => {
+    const rules = parseRules('alpha.phila.gov/(.*) 301 https://www.phila.gov/$1')
     const event = createEvent({ uri: '/testing', host: 'alpha.phila.gov' })
     const response = handler(rules, event)
     expectRedirect(response, 'https://www.phila.gov/testing')

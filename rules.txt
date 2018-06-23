@@ -1,3 +1,5 @@
+alpha.phila.website/(.*)  301 https://www.phila.website/$1
+beta.phila.website/(.*)   301 https://www.phila.website/$1
 /otis                     301 http://www.phillyotis.com
 /parksandrec/(.*)         301 https://beta.phila.gov/departments/philadelphia-parks-recreation/
 /revenue/(.*)             301 /departments/department-of-revenue/$1

@@ -38,11 +38,18 @@ function isEmptyOrComment (line) {
 
 function enhancePattern (pattern) {
   let newPattern = ''
-  if (!pattern.startsWith('^')) newPattern += '^'
+  if (!pattern.startsWith('^')) {
+    newPattern += '^[^\/]*'
+  }
+
   newPattern += pattern
+
   if (!pattern.endsWith('$')) {
-    if (!pattern.endsWith('/?$')) newPattern += '/?$'
-    else newPattern += '$'
+    if (pattern.endsWith('/?')) {
+      newPattern += '$'
+    } else {
+      newPattern += '/?$'
+    }
   }
   return newPattern
 }
