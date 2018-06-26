@@ -1,154 +1,83 @@
-const url = require('url')
 const createEvent = require('./helpers/create-event')
-const { createHandler } = require('../src')
+const { handler } = require('../src/index')
+const { parseRules } = require('../src/parser')
 
 describe('redirects', () => {
-  describe('string matches', () => {
+  describe('exact matches', () => {
     test('vanity url', async () => {
-      const handler = createHandler([{
-        test: {
-          path_exact: '/old'
-        },
-        redirect: {
-          location: '/new'
-        }
-      }])
+      const rules = parseRules('/old 301 /new')
       const event = createEvent({ uri: '/old' })
-      const response = await handler(event)
+      const response = handler(rules, event)
       expectRedirect(response, '/new')
     })
 
     test('ignores trailing slash on request uri', async () => {
-      const handler = createHandler([{
-        test: {
-          path_exact: '/old',
-        },
-        redirect: {
-          location: '/new'
-        }
-      }])
+      const rules = parseRules('/old 301 /new')
       const event = createEvent({ uri: '/old/' })
-      const response = await handler(event)
+      const response = handler(rules, event)
       expectRedirect(response, '/new')
     })
 
     test('supports trailing slash on response uri', async () => {
-      const handler = createHandler([{
-        test: {
-          path_exact: '/old'
-        },
-        redirect: {
-          location: '/new/'
-        }
-      }])
+      const rules = parseRules('/old 301 /new/')
       const event = createEvent({ uri: '/old' })
-      const response = await handler(event)
+      const response = handler(rules, event)
       expectRedirect(response, '/new/')
     })
 
     test('supports full url in replacement', async () => {
-      const handler = createHandler([{
-        test: {
-          path_exact: '/old'
-        },
-        redirect: {
-          location: 'http://example.com'
-        }
-      }])
+      const rules = parseRules('/old 301 http://example.com')
       const event = createEvent({ uri: '/old' })
-      const response = await handler(event)
+      const response = handler(rules, event)
       expectRedirect(response, 'http://example.com')
     })
 
     test('2-level path exact match', async () => {
-      const handler = createHandler([{
-        test: {
-          path_exact: '/old/sub-page'
-        },
-        redirect: {
-          location: '/new/sub-page'
-        }
-      }])
+      const rules = parseRules('/old/sub-page 301 /new/sub-page')
       const event = createEvent({ uri: '/old/sub-page' })
-      const response = await handler(event)
+      const response = handler(rules, event)
       expectRedirect(response, '/new/sub-page')
     })
 
     test('no matches returns original request', async () => {
-      const handler = createHandler([{
-        test: {
-          path_exact: '/old'
-        },
-        redirect: {
-          location: '/new'
-        }
-      }])
+      const rules = parseRules('/old 301 /new')
       const event = createEvent({ uri: '/no-match' })
-      const request = await handler(event)
+      const request = handler(rules, event)
       expect(request.uri).toBe('/no-match')
     })
   })
 
-  describe('regex matches', () => {
+  describe('pattern matches', () => {
     test('anything after match goes to same place', async () => {
-      const handler = createHandler([{
-        test: {
-          path_pattern: '/old/?(.*)'
-        },
-        redirect: {
-          location: '/new'
-        }
-      }])
+      const rules = parseRules('/old/(.*) 301 /new')
       const event = createEvent({ uri: '/old/foo' })
-      const response = await handler(event)
+      const response = handler(rules, event)
       expectRedirect(response, '/new')
     })
 
     test('include the rest of the path', async () => {
-      const handler = createHandler([{
-        test: {
-          path_pattern: '/old/?(.*)'
-        },
-        redirect: {
-          location: '/new/$1'
-        }
-      }])
+      const rules = parseRules('/old/(.*) 301 /new/$1')
       const event = createEvent({ uri: '/old/sub-page/foo' })
-      const response = await handler(event)
+      const response = handler(rules, event)
       expectRedirect(response, '/new/sub-page/foo')
     })
   })
 })
 
 describe('rewrites', () => {
-  describe('string matches', () => {
+  describe('exact matches', () => {
     test('basic rewrite, same origin', async () => {
-      const handler = createHandler([{
-        test: {
-          path_exact: '/old'
-        },
-        rewrite: {
-          path: '/new'
-        }
-      }])
+      const rules = parseRules('/old 200 /new')
       const event = createEvent({ uri: '/old' })
-      const request = await handler(event)
+      const request = handler(rules, event)
       expect(request.uri).toBe('/new')
       expect(request.origin).not.toHaveProperty('custom')
     })
 
     test('sets custom origin', async () => {
-      const handler = createHandler([{
-        test: {
-          path_exact: '/old'
-        },
-        rewrite: {
-          path: '',
-          origin: 'http://example.com'
-        }
-      }])
+      const rules = parseRules('/old 200 http://example.com')
       const event = createEvent({ uri: '/old' })
-      const request = await handler(event)
+      const request = handler(rules, event)
       expect(request.uri).toBe('/')
       expect(request.origin).toHaveProperty('custom')
       expect(request.origin.custom).toMatchObject({
@@ -158,65 +87,41 @@ describe('rewrites', () => {
         path: ''
       })
     })
-
-    test('strips trailing slashes from origin path', async () => {
-      const handler = createHandler([{
-        test: {
-          path_pattern: '/old'
-        },
-        rewrite: {
-          path: '',
-          origin: 'http://example.com/new/'
-        }
-      }])
-      const event = createEvent({ uri: '/old' })
-      const request = await handler(event)
-      expect(request.origin.custom.path).toBe('/new')
-    })
   })
 
-  describe('regex matches', () => {
-    test('change origin and replace path', async () => {
-      const handler = createHandler([{
-        test: {
-          path_pattern: '/old(/.+)?'
-        },
-        rewrite: {
-          path: '$1',
-          origin: 'http://example.com/new'
-        }
-      }])
+  describe('pattern matches', () => {
+    test('change origin and replace uri', async () => {
+      const rules = parseRules('/old/(.*) 200 http://example.com/new/$1')
       const event = createEvent({ uri: '/old/foo' })
-      const request = await handler(event)
-      expect(request.uri).toBe('/foo')
+      const request = handler(rules, event)
+      expect(request.uri).toBe('/new/foo')
       expect(request.origin.custom).toMatchObject({
         domainName: 'example.com',
-        path: '/new'
+        path: ''
       })
+    })
+
+    test('maintains trailing slash', async () => {
+      const rules = parseRules('/old/(.*) 200 /new/$1')
+      const event = createEvent({ uri: '/old/' })
+      const request = handler(rules, event)
+      expect(request.uri).toBe('/new/')
     })
   })
 })
 
 describe('other', () => {
   it('converts non-matched requests to lowercase', async () => {
-    const handler = createHandler([])
+    const rules = []
     const event = createEvent({ uri: '/Testing' })
-    const request = await handler(event)
+    const request = handler(rules, event)
     expect(request.uri).toBe('/testing')
   })
 
   it('redirects requests of alpha.phila.gov to www.phila.gov', async () => {
-    const handler = createHandler([{
-      test: {
-        host_exact: 'alpha.phila.gov',
-        path_pattern: '/(.*)'
-      },
-      redirect: {
-        location: 'https://www.phila.gov/$1'
-      }
-    }])
+    const rules = parseRules('alpha.phila.gov/(.*) 301 https://www.phila.gov/$1')
     const event = createEvent({ uri: '/testing', host: 'alpha.phila.gov' })
-    const response = await handler(event)
+    const response = handler(rules, event)
     expectRedirect(response, 'https://www.phila.gov/testing')
   })
 })

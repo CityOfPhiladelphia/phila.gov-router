@@ -13,6 +13,7 @@
   "author": "City of Philadelphia",
   "license": "MIT",
   "devDependencies": {
-    "jest": "^22.4.4"
+    "jest": "^22.4.4",
+    "safe-regex": "^1.1.0"
   }
 }
