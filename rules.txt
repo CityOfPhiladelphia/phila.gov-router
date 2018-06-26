@@ -365,3 +365,5 @@
 /zoning-appeals-stage/(.*)	200	http://legacy.phila.gov/zoning-appeals-stage/$1
 /zoningarchive	301	/zoningarchive/
 /zoningarchive/(.*)	200	http://legacy.phila.gov/zoningarchive/$1
+/recycle 301 http://www.philadelphiastreets.com/sanitation/residential/
+/fairchancephilly 301 /2018-06-25-philadelphias-fair-chance-hiring-law-heres-what-you-should-know/
