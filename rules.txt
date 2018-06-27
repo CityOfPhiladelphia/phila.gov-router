@@ -317,6 +317,7 @@
 /tax-refunds/request-a-refund	301	/services/payments-assistance-taxes/refunds/
 /theoval	301	http://www.theovalphl.org/
 /tilden	301	/departments/mayors-office-of-education/community-schools/tilden-middle-school/
+/tspd/(.*)	200	https://legacy.phila.gov/TSPD/$1
 /towing	301	/programs/philadelphias-rotational-towing-program/
 /townwatch/services.htm(l)?	301	/townwatch
 /transitionreport	301	/documents/transition-report/
