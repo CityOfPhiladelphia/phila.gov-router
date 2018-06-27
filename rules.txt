@@ -192,7 +192,6 @@
 /oak$	301	/oak/
 /oak/(.*)	200	http://legacy.phila.gov/oak/$1
 /oem	301	/departments/emergency-management/
-/oem/(.*)	301	/oem/$1
 /oeo	301	/commerce/businesssupport/mwdsbesupport/Pages/default.aspx
 /ohcd	301	/dhcd/
 /oho	301	/hhs
