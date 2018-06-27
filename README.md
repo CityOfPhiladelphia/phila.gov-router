@@ -32,3 +32,7 @@ Patterns are converted to regexes with the following enhancements:
 - Case-insensitive
 - `^[^\/]*` is prepended (unless it already starts with `^`)
 - `/?$` is appended (unless it already ends with `$`)
+
+## formatting
+You can use [tsv-pretty](https://ebay.github.io/tsv-utils-dlang/#tsv-pretty) to
+format the file to be more readable.
