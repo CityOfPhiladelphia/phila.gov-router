@@ -1,0 +1,7 @@
+{
+  "lambda": {
+    "role": "test-phila-gov-router",
+    "name": "test-phila-gov-router",
+    "region": "us-east-1"
+  }
+}
