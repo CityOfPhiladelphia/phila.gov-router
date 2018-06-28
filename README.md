@@ -14,7 +14,6 @@ npm test
 ## examples
 
 ```
-alpha.phila.gov/(.*)      301 https://www.phila.gov/$1
 /otis                     301 http://www.phillyotis.com
 /parksandrec/(.*)         301 /departments/philadelphia-parks-recreation/
 /revenue/(.*)             301 /departments/department-of-revenue/$1
@@ -30,7 +29,7 @@ Use status code `301` for a redirect, and `200` for a rewrite.
 Patterns are converted to regexes with the following enhancements:
 
 - Case-insensitive
-- `^[^\/]*` is prepended (unless it already starts with `^`)
+- `^` is prepended (unless it already starts with `^`)
 - `/?$` is appended (unless it already ends with `$`)
 
 ## formatting

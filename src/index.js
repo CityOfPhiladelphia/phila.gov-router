@@ -23,16 +23,14 @@ async function lambda (event) {
 
 function handler (rules, event) {
   const request = event.Records[0].cf.request
-  const hostname = request.headers.host[0].value
-  const requestUrl = path.join(hostname, request.uri) // e.g. "www.foo.com/bar"
   log('request', request)
 
   // Apply this function to every rule until a match is found
-  const matchedRule = rules.find((rule) => rule.regex.test(requestUrl))
+  const matchedRule = rules.find((rule) => rule.regex.test(request.uri))
 
   if (matchedRule) {
     const { regex, replacement, statusCode } = matchedRule
-    const newLocation = requestUrl.replace(regex, replacement)
+    const newLocation = request.uri.replace(regex, replacement)
 
     if (statusCode >= 300 && statusCode < 400) {
       const response = createRedirect(newLocation, statusCode)

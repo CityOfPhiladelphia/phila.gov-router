@@ -39,7 +39,7 @@ function isEmptyOrComment (line) {
 function enhancePattern (pattern) {
   let newPattern = ''
   if (!pattern.startsWith('^')) {
-    newPattern += '^[^\/]*'
+    newPattern += '^'
   }
 
   newPattern += pattern
