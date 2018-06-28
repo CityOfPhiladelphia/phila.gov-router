@@ -36,3 +36,14 @@ Patterns are converted to regexes with the following enhancements:
 ## formatting
 You can use [tsv-pretty](https://ebay.github.io/tsv-utils-dlang/#tsv-pretty) to
 format the file to be more readable.
+
+## deployment
+Deployment should happen automatically by the [Travis CI configuration](.travis.yml), assuming `claudia.json` is correct and Travis CI has the authentication and cloudfront ID environment varibles set. You can also manually deploy:
+
+- Verify the information in `claudia.json` is correct
+- [Create an `.aws/credentials` file](https://claudiajs.com/tutorials/installing.html#configuring-access-credentials)
+- Run the following command, filling in the CloudFront Distribution ID as an environment variable
+
+```bash
+AWS_CLOUDFRONT_ID=xxxxxx npm run deploy
+```

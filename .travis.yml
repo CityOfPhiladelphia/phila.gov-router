@@ -3,3 +3,8 @@ node_js:
   - '8.10'
 script:
   - npm test
+deploy:
+  provider: script
+  script: npm run deploy
+  on:
+    branch: master
