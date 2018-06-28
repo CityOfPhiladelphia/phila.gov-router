@@ -42,4 +42,8 @@ Deployment should happen automatically by the [Travis CI configuration](.travis.
 
 - Verify the information in `claudia.json` is correct
 - [Create an `.aws/credentials` file](https://claudiajs.com/tutorials/installing.html#configuring-access-credentials)
-- Run `AWS_CLOUDFRONT_ID=xxxxxx npm run deploy`, filling in the CloudFront Distribution ID as an environment variable
+- Run the following command, filling in the CloudFront Distribution ID as an environment variable
+
+```bash
+AWS_CLOUDFRONT_ID=xxxxxx npm run deploy
+```

@@ -6,8 +6,8 @@
   "scripts": {
     "test": "jest",
     "deploy": "npm-run-all --sequential deploy:lambda deploy:cloudfront",
-    "deploy:lambda": "claudia update --version staging",
-    "deploy:cloudfront": "claudia set-cloudfront-trigger --distribution-id $AWS_CLOUDFRONT_ID --event-types origin-request --version staging"
+    "deploy:lambda": "claudia update --version claudia",
+    "deploy:cloudfront": "claudia set-cloudfront-trigger --distribution-id $AWS_CLOUDFRONT_ID --event-types origin-request --version claudia"
   },
   "repository": {
     "type": "git",
