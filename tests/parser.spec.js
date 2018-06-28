@@ -25,10 +25,10 @@ describe('parser', () => {
   })
 
   describe('enhancePattern', () => {
-    test('adds leading ^[^\/]* if absent', () => {
+    test('adds leading ^ if absent', () => {
       const pattern = '/old'
       const newPattern = enhancePattern(pattern)
-      expect(newPattern.startsWith('^[^\/]*/old')).toBeTruthy()
+      expect(newPattern.startsWith('^/old')).toBeTruthy()
     })
 
     test('does not add leading ^ if already present', () => {

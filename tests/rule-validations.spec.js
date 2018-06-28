@@ -12,9 +12,10 @@ describe('rule validations', () => {
   for (const rule of rules) {
     const ruleTitle = rule.pattern
     describe(ruleTitle, () => {
-      test('does not include protocol in pattern', () => {
-        expect(rule.pattern.startsWith('http')).toBeFalsy()
+      test('pattern starts with / or ^/', () => {
+        expect(rule.pattern.startsWith('/') || rule.pattern.startsWith('^/')).toBeTruthy()
       })
+
       test('valid regex', () => {
         const enhancedPattern = enhancePattern(rule.pattern)
         expect(() => new RegExp(enhancedPattern)).not.toThrow()
