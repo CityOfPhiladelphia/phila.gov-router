@@ -11,8 +11,6 @@
 /aqi/(.*)                                 200  http://legacy.phila.gov/aqi/$1
 /artincityhall                            301  http://creativephl.org/tagged/Exhibitions-and-Performances/
 /arts                                     301  http://creativephl.org/
-/authorities$                             301  /authorities/
-/authorities/(.*)                         200  http://legacy.phila.gov/authorities/$1
 /avicalculator                            301  http://avicalculator.phila.gov
 /become-a-water-customer                  301  /services/become-a-water-customer/property-owners/
 /benchmarking                             301  http://www.phillybuildingbenchmarking.com/
@@ -91,14 +89,10 @@
 /executive_orders/index.htm(l)?           301  /executiveorders
 /experiencephila/mayor.html               301  /experiencephila/pages/default.aspx
 /fairhousing                              301  /fairhousingcommission
-/features$                                301  /features/
-/features/(.*)                            200  http://legacy.phila.gov/features/$1
 /fhc                                      301  /fairhousingcommission
 /financialempowerment                     301  /fe
 /findafacility                            301  /parks-rec-finder/#/locations
 /fire                                     301  /departments/philadelphia-fire-department/
-/flash$                                   301  /flash/
-/flash/(.*)                               200  http://legacy.phila.gov/flash/$1
 /foodstandards                            301  /health/chronicdisease/workplace.html
 /fosteringphilly                          301  /services/birth-marriage-life-events/become-a-foster-parent/
 /fsedmonds                                301  /departments/mayors-office-of-education/community-schools/f-s-edmonds-elementary-school/
@@ -131,8 +125,6 @@
 /imgs$                                    301  /imgs/
 /imgs/(.*)                                200  http://legacy.phila.gov/imgs/$1
 /immigrantheritagemonth                   301  /spotlight/immigrant-heritage-month/
-/includes$                                301  /includes/
-/includes/(.*)                            200  http://legacy.phila.gov/includes/$1
 /income-based-assistance-programs         301  /services/income-based-assistance-programs/income-based-water-bill-assistance/
 /income-based-assistance-programs/longtime-owner-occupants-program-loop 301 /services/income-based-assistance-programs/longtime-owner-occupants-program/
 /income-based-assistance-programs/low-income-senior-citizen-real-estate-tax-freeze 301 /services/senior-citizen-discounts/low-income-senior-citizen-real-estate-tax-freeze/
@@ -229,8 +221,6 @@
 /pdfs/(.*)                                200  http://legacy.phila.gov/pdfs/$1
 /performance                              301  /mdo/phillystat
 /philacode                                301  http://www.amlegal.com/codes/client/philadelphia_pa/
-/phillycounts$                            301  /phillycounts/
-/phillycounts/(.*)                        200  http://legacy.phila.gov/phillycounts/$1
 /phillydelivers                           301  /departments/mayor/help-make-sure-phillydelivers-for-amazon/
 /phillystat                               301  /mdo/phillystat
 /phlimmigrantbiz                          301  /posts/office-of-immigrant-affairs/2017-03-09-immigrant-business-week-2017-march-27-april-1/
@@ -254,8 +244,6 @@
 /prisons/inmatelocator$                   301  /prisons/inmatelocator/
 /prisons/inmatelocator/(.*)               200  http://legacy.phila.gov/prisons/inmatelocator/$1
 /privacy/index.html                       301  /Pages/privacy.aspx
-/privatesector$                           301  /privatesector/
-/privatesector/(.*)                       200  http://legacy.phila.gov/privatesector/$1
 /programs-initiatives                     301  /programs
 /property                                 301  https://property.phila.gov
 /property-assessments                     301  /services/property-lots-housing/
@@ -270,8 +258,6 @@
 /qualityoflife                            301  /clip
 /qualityprek                              301  /departments/mayors-office-of-education/quality-pre-k-newsletter-signup/
 /rain-garden                              301  http://stormwaterpa.org/raingarden.html?key=0
-/rconotification$                         301  /rconotification/
-/rconotification/(.*)                     200  http://legacy.phila.gov/rconotification/$1
 /rda                                      301  /pra
 /re-notification-letter                   301  /documents/risk-of-foreclosure-notification-letter/
 /ready                                    301  /departments/oem/
@@ -316,7 +302,6 @@
 /tax-refunds/request-a-refund             301  /services/payments-assistance-taxes/refunds/
 /theoval                                  301  http://www.theovalphl.org/
 /tilden                                   301  /departments/mayors-office-of-education/community-schools/tilden-middle-school/
-/tspd/(.*)                                200  https://legacy.phila.gov/TSPD/$1
 /towing                                   301  /programs/philadelphias-rotational-towing-program/
 /townwatch/services.htm(l)?               301  /townwatch
 /transitionreport                         301  /documents/transition-report/
@@ -361,10 +346,6 @@
 /workforce                                301  /programs/workforce-development/
 /youthcommission/pages/default.aspx       301  /youthengagement/pages/default.aspx
 /zika                                     301  /health/diseasecontrol/zika.html
-/zoning-appeals-stage$                    301  /zoning-appeals-stage/
-/zoning-appeals-stage/(.*)                200  http://legacy.phila.gov/zoning-appeals-stage/$1
-/zoningarchive$                           301  /zoningarchive/
-/zoningarchive/(.*)                       200  http://legacy.phila.gov/zoningarchive/$1
 /recycle                                  301  http://www.philadelphiastreets.com/sanitation/residential/
 /fairchancephilly                         301  /2018-06-25-philadelphias-fair-chance-hiring-law-heres-what-you-should-know/
 /welcomeamerica                           301  http://phl.maps.arcgis.com/apps/MapJour/index.html?appid=b0d5efe6fb7a4ed7a5fd9c3c681b8b41
