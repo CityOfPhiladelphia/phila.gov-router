@@ -1,13 +1,10 @@
 /2015waterquality                         301  /water/pdf/2015waterquality.pdf
 /2016-water-quality-data                  301  /water/PDF/2016-water-quality-results.pdf
 /2016waterquality                         301  /water/wu/water%20quality%20reports/2016waterquality.pdf
-/aco$                                     301  /aco/
-/aco/(.*)                                 200  http://legacy.phila.gov/aco/$1
 /actionguides                             301  /the-latest/#action-guides
 /agefriendly                              301  https://secure.jotform.us/philagov/mca-survey/
-/aqi$                                     301  /aqi/
-/aqi-redirect$                            301  /aqi-redirect/
-/aqi-redirect/(.*)                        200  http://legacy.phila.gov/aqi-redirect/$1
+/aqi-redirect                             301  /aqi/
+/aqi                                      301  /aqi/
 /aqi/(.*)                                 200  http://legacy.phila.gov/aqi/$1
 /artincityhall                            301  http://creativephl.org/tagged/Exhibitions-and-Performances/
 /arts                                     301  http://creativephl.org/
@@ -80,8 +77,6 @@
 /documents/2015-income-based-wage-tax-refund-petition 301 /documents/income-based-wage-tax-refund-petition/
 /documents/readynotifypa-brochure         301  /documents/ready-philadelphia-brochure/
 /dot                                      301  /it
-/econtract$                               301  /econtract/
-/econtract/(.*)                           200  http://legacy.phila.gov/econtract/$1
 /education                                301  /departments/mayors-office-of-education/
 /educationnews                            301  /departments/mayors-office-of-education/newsletter-sign-up/
 /eslmap                                   301  http://phl.maps.arcgis.com/apps/View/index.html?appid=3929071e10db460db6e2265423ed4e83
@@ -118,12 +113,6 @@
 /homelessservices                         301  http://www.philadelphiaofficeofhomelessservices.org/
 /homestead                                301  /services/property-lots-housing/get-the-homestead-exemption/
 /ima/                                     301  /departments/office-of-immigrant-affairs/
-/img$                                     301  /img/
-/img/(.*)                                 200  http://legacy.phila.gov/img/$1
-/imggen$                                  301  /imggen/
-/imggen/(.*)                              200  http://legacy.phila.gov/imggen/$1
-/imgs$                                    301  /imgs/
-/imgs/(.*)                                200  http://legacy.phila.gov/imgs/$1
 /immigrantheritagemonth                   301  /spotlight/immigrant-heritage-month/
 /income-based-assistance-programs         301  /services/income-based-assistance-programs/income-based-water-bill-assistance/
 /income-based-assistance-programs/longtime-owner-occupants-program-loop 301 /services/income-based-assistance-programs/longtime-owner-occupants-program/
@@ -137,8 +126,6 @@
 /it/aboutus/pages/employment.aspx         301  https://www.smartrecruiters.com/OfficeOfInnovationTechnology
 /itjobs                                   301  https://www.smartrecruiters.com/OfficeOfInnovationTechnology
 /iwa                                      301  https://goo.gl/forms/bgDbXCvrvpJoRpul2
-/js$                                      301  /js/
-/js/(.*)                                  200  http://legacy.phila.gov/js/$1
 /khsa                                     301  /departments/mayors-office-of-education/community-schools/kensington-health-sciences-academy/
 /landbank                                 301  http://www.philadelphialandbank.org
 /leadhealthyhomes                         301  /health/childhoodlead/landlordtenants.html
@@ -168,8 +155,6 @@
 /mayor/faithbased                         301  /faithbased
 /mayorsbudget                             301  /departments/mayor/do-you-support-the-budget-proposal
 /mbec                                     301  /commerce/businesssupport/mwdsbesupport
-/mcpd$                                    301  /mcpd/
-/mcpd/(.*)                                200  http://legacy.phila.gov/mcpd/$1
 /mdo/specialevents/pages/permitsandapplications.aspx 301 http://www.phlevents.org/applications
 /mod                                      301  /mcpd//index.html
 /motu                                     301  http://www.phillyotis.com
@@ -181,8 +166,6 @@
 /news/office-of-immigrant-affairs/immigration-sanctuary-cities-city-of-philadelphia-action-guide 301 /2018-01-08-immigration-policies/
 /news/office-of-sustainability/environment-sustainability-city-of-philadelphia-action-guide 301 /2017-11-29-environmental-protection-during-the-trump-administration/
 /nutritionstandards                       301  /health/chronicdisease/nutritionstandards.html
-/oak$                                     301  /oak/
-/oak/(.*)                                 200  http://legacy.phila.gov/oak/$1
 /oem                                      301  /departments/emergency-management/
 /oeo                                      301  /commerce/businesssupport/mwdsbesupport/Pages/default.aspx
 /ohcd                                     301  /dhcd/
@@ -217,8 +200,6 @@
 /payment-agreement-letters                301  /documents/sample-payment-agreement-letters/
 /payment-plans                            301  /services/payments-assistance-taxes/payment-plans/
 /paymentplans                             301  /services/payments-assistance-taxes/payment-plans/set-up-a-payment-agreement-for-your-taxes/
-/pdfs$                                    301  /pdfs/
-/pdfs/(.*)                                200  http://legacy.phila.gov/pdfs/$1
 /performance                              301  /mdo/phillystat
 /philacode                                301  http://www.amlegal.com/codes/client/philadelphia_pa/
 /phillydelivers                           301  /departments/mayor/help-make-sure-phillydelivers-for-amazon/
