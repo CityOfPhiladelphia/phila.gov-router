@@ -357,3 +357,5 @@
 /after-an-emergency/                      301  /services/safety-emergency-preparedness/after-an-emergency/
 /city-health-centers/                     301  /services/mental-physical-health/city-health-centers/
 /prepare-for-an-emergency/                301  /services/safety-emergency-preparedness/prepare-for-an-emergency/
+/the-latest/archive$                      301  /the-latest/archives/
+/the-latest/archive/(.*)                  301  /the-latest/archives/$1
