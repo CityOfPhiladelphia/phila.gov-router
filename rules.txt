@@ -5,8 +5,8 @@
 /actionguides                             301  /the-latest/#action-guides
 /agefriendly                              301  https://secure.jotform.us/philagov/mca-survey/
 /aqi-redirect                             301  /aqi/
-/aqi                                      301  /aqi/
-/aqi/(.*)                                 200  http://legacy.phila.gov/aqi/$1
+/aqi$                                     301  /aqi/
+# /aqi/(.*)                               200  http://legacy.phila.gov/aqi/$1 # handled by cloudfront behavior
 /artincityhall                            301  http://creativephl.org/tagged/Exhibitions-and-Performances/
 /arts                                     301  http://creativephl.org/
 /avicalculator                            301  http://avicalculator.phila.gov
@@ -116,6 +116,7 @@
 /homelessservices                         301  http://www.philadelphiaofficeofhomelessservices.org/
 /homestead                                301  /services/property-lots-housing/get-the-homestead-exemption/
 /ima/                                     301  /departments/office-of-immigrant-affairs/
+# /imggen/(.*)                            200  http://legacy.phila.gov/imggen/$1 # handled by cloudfront behavior
 /immigrantheritagemonth                   301  /spotlight/immigrant-heritage-month/
 /income-based-assistance-programs         301  /services/income-based-assistance-programs/income-based-water-bill-assistance/
 /income-based-assistance-programs/longtime-owner-occupants-program-loop 301 /services/income-based-assistance-programs/longtime-owner-occupants-program/
@@ -216,7 +217,7 @@
 /phillystat                               301  /mdo/phillystat
 /phlimmigrantbiz                          301  /posts/office-of-immigrant-affairs/2017-03-09-immigrant-business-week-2017-march-27-april-1/
 /phonedir$                                301  /phonedir/
-/phonedir/(.*)                            200  http://legacy.phila.gov/phonedir/$1
+# /phonedir/(.*)                          200  http://legacy.phila.gov/phonedir/$1 # handled by cloudfront behavior
 /police                                   301  http://www.phillypolice.com/
 /policeovertime                           301  https://phl.secure.force.com/ROWS/
 /pools                                    301  /parks-rec-finder/#/activities
@@ -233,7 +234,7 @@
 /pra                                      301  http://www.philadelphiaredevelopmentauthority.org
 /press-releases                           301  /the-latest/archives/?template=press_release
 /prisons/inmatelocator$                   301  /prisons/inmatelocator/
-/prisons/inmatelocator/(.*)               200  http://legacy.phila.gov/prisons/inmatelocator/$1
+# /prisons/inmatelocator/(.*)             200  http://legacy.phila.gov/prisons/inmatelocator/$1 # handled by cloudfront behavior
 /privacy/index.html                       301  /Pages/privacy.aspx
 /programs-initiatives                     301  /programs
 /property                                 301  https://property.phila.gov
@@ -265,7 +266,7 @@
 /revenue/businesses/taxes/Pages/hoteltax.aspx 301 /services/payments-assistance-taxes/business-taxes/hotel-tax/
 /revenue/eitc                             301  /documents/earned-income-tax-credit-eitc-employer-notice/
 /revenue/realestatetax$                   301  /revenue/realestatetax/
-/revenue/realestatetax/(.*)               200  http://legacy.phila.gov/revenue/realestatetax/$1
+# /revenue/realestatetax/(.*)             200  http://legacy.phila.gov/revenue/realestatetax/$1 # handled by cloudfront behavior
 /revenue/taxpro/pages/refundpetitions.aspx 301 /documents/income-based-wage-tax-refund-petition/
 /rise/employer/pages/banthebox.aspx       301  /humanrelations/pages/default.aspx
 /risk                                     301  /finance/units-RiskManagement.html
@@ -302,6 +303,8 @@
 /trashday/(.*)                            200  https://cityofphiladelphia.github.io/trashday/$1
 /trb/pages/default.aspx                   301  /departments/tax-review-board/
 /tree-trench                              301  http://www.stormwaterpa.org/keeping-water-on-site-waterview-recreation-center.html?key=0
+# /TSbd/(.*)                              200  http://legacy.phila.gov/$1 # handled by cloudfront behavior
+# /TSPD/(.*)                              200  http://legacy.phila.gov/$1 # handled by cloudfront behavior
 /unitycup                                 301  http://unitycup.phila.gov
 /vacancymap                               301  http://phl.maps.arcgis.com/apps/webappviewer/index.html?id=64ac160773d04952bc17ad895cc00680
 /vendorpayments/?$                        301  https://secure.phila.gov/finance/vendorpayments/
@@ -324,7 +327,7 @@
 /water/iwu.html                           301  /water/wu/wastewater/pages/industrialwaste.aspx
 /water/lead                               301  /water/wu/drinkingwater/lead/Pages/default.aspx
 /water/notifications                      301  /water/aboutus/pages/notifications.aspx
-/water/pwdwebapi/(.*)                     200  http://legacy.phila.gov/water/pwdwebapi/$1
+# /water/pwdwebapi/(.*)                   200  http://legacy.phila.gov/water/pwdwebapi/$1 # handled by cloudfront behavior
 /water/rateboard                          301  /departments/water-sewer-storm-water-rate-board/
 /water/rates                              301  /water/wu/ratesregulationsresp/pages/rates.aspx
 /water/regulations                        301  /water/wu/ratesregulationsresp/pages/regulations.aspx
