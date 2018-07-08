@@ -22,6 +22,17 @@ describe('parser', () => {
       const rules = parseRules(lines)
       expect(rules).toHaveLength(2)
     })
+
+    test('supports inline comments', () => {
+      const lines = `
+        /old 301 /new # comment
+      `
+      const rules = parseRules(lines)
+      expect(rules).toHaveLength(1)
+      expect(rules[0].pattern).toBe('/old')
+      expect(rules[0].statusCode).toBe('301')
+      expect(rules[0].replacement).toBe('/new')
+    })
   })
 
   describe('enhancePattern', () => {
