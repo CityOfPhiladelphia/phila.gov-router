@@ -14,9 +14,12 @@ module.exports = {
 
 async function lambda (event) {
   if (!rules) {
+    log('loading rules')
     const rulesFilePath = path.join(__dirname, RULES_FILE)
     const rulesFileContents = fs.readFileSync(rulesFilePath, 'utf8')
     rules = parseRules(rulesFileContents)
+  } else {
+    log('rules already loaded')
   }
   return handler(rules, event)
 }
