@@ -93,5 +93,6 @@ function rewriteRequest (request, newLocation) {
 function log (label, data) {
   if (process.env.NODE_ENV === 'test') return
   // use util.inspect so objects aren't collapsed
-  console.log(label, util.inspect(data, false, 10))
+  if (data) console.log(label, util.inspect(data, false, 10))
+  else console.log(label)
 }
