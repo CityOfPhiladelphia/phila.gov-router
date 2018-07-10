@@ -353,3 +353,8 @@
 /prepare-for-an-emergency/                301  /services/safety-emergency-preparedness/prepare-for-an-emergency/
 /the-latest/archive$                      301  /the-latest/archives/
 /the-latest/archive/(.*)                  301  /the-latest/archives/$1
+/reports/budget.html                      301  /openbudget/
+/tos/index.html                           301  /terms-of-use/
+/tos/(.*)                                 301  /
+/reports/index.html                       301  /programs/open-data-program/
+/reports/(.*)                             301  /department-of-revenue/reports/
