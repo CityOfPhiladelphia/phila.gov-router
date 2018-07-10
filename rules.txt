@@ -6,7 +6,7 @@
 /agefriendly                              301  https://secure.jotform.us/philagov/mca-survey/
 /aqi-redirect                             301  /aqi/
 /aqi$                                     301  /aqi/
-/aqi/(.*)                                 301  /aqi/$1 # handles case variations in cloudfront behavior
+# /aqi/(.*)                               200  http://legacy.phila.gov/aqi/$1 # handled by cloudfront behavior
 /artincityhall                            301  http://creativephl.org/tagged/Exhibitions-and-Performances/
 /arts                                     301  http://creativephl.org/
 /avicalculator                            301  http://avicalculator.phila.gov
@@ -217,7 +217,7 @@
 /phillystat                               301  /mdo/phillystat
 /phlimmigrantbiz                          301  /posts/office-of-immigrant-affairs/2017-03-09-immigrant-business-week-2017-march-27-april-1/
 /phonedir$                                301  /phonedir/
-/phonedir/(.*)                            301  /phonedir/$1 # handles case variations in cloudfront behavior
+# /phonedir/(.*)                          200  http://legacy.phila.gov/phonedir/$1 # handled by cloudfront behavior
 /police                                   301  http://www.phillypolice.com/
 /policeovertime                           301  https://phl.secure.force.com/ROWS/
 /pools                                    301  /parks-rec-finder/#/activities
@@ -234,7 +234,7 @@
 /pra                                      301  http://www.philadelphiaredevelopmentauthority.org
 /press-releases                           301  /the-latest/archives/?template=press_release
 /prisons/inmatelocator$                   301  /prisons/inmatelocator/
-/prisons/inmatelocator/(.*)               301  /prisons/inmatelocator/$1 # handles case variations in cloudfront behavior
+# /prisons/inmatelocator/(.*)             200  http://legacy.phila.gov/prisons/inmatelocator/$1 # handled by cloudfront behavior
 /privacy/index.html                       301  /Pages/privacy.aspx
 /programs-initiatives                     301  /programs
 /property                                 301  https://property.phila.gov
@@ -266,7 +266,7 @@
 /revenue/businesses/taxes/Pages/hoteltax.aspx 301 /services/payments-assistance-taxes/business-taxes/hotel-tax/
 /revenue/eitc                             301  /documents/earned-income-tax-credit-eitc-employer-notice/
 /revenue/realestatetax$                   301  /revenue/realestatetax/
-/revenue/realestatetax/(.*)               301  /revenue/realestatetax/$1 # handles case variations in cloudfront behavior
+# /revenue/realestatetax/(.*)             200  http://legacy.phila.gov/revenue/realestatetax/$1 # handled by cloudfront behavior
 /revenue/taxpro/pages/refundpetitions.aspx 301 /documents/income-based-wage-tax-refund-petition/
 /rise/employer/pages/banthebox.aspx       301  /humanrelations/pages/default.aspx
 /risk                                     301  /finance/units-RiskManagement.html
