@@ -62,7 +62,6 @@
 /departments/mayor/get-involved           301  /departments/mayor/#action-modal
 /departments/mayor/quality-pre-k          301  /departments/mayors-office-of-education/quality-pre-k-newsletter-signup/
 /departments/mayors-office-of-community-empowerment-and-opportunity 301 /departments/office-of-community-empowerment-and-opportunity/
-/departments/office-of-the-chief-diversity-and-inclusion-officer/(.*) 301 /departments/office-of-the-chief-diversity-and-inclusion-officer/
 /departments/parks-recreation             301  /departments/philadelphia-parks-recreation/
 /departments/revenue                      301  /departments/department-of-revenue/
 /departments/water-sewer-stormwater-rate-board 301 /departments/water-sewer-storm-water-rate-board/
@@ -274,7 +273,6 @@
 /service/water-bills                      301  /services/water-gas-utilities/pay-a-water-bill/
 /services/birth-marriage-life-events/foster-or-adopt 301 /services/birth-marriage-life-events/adopt-a-child/
 /services/emergency/index.html            301  /osh/emergencyservices/pages/default.aspx
-/services/mental-physical-health/learn-how-to-get-and-use-naloxone-narcan/(.*) 301 /services/mental-physical-health/learn-how-to-get-and-use-naloxone-narcan/
 /smartchoice/?$                           301  /commerce/businessattraction
 /southwark                                301  /departments/mayors-office-of-education/community-schools/southwark-elementary-school/
 /sphs                                     301  /departments/mayors-office-of-education/community-schools/south-philadelphia-high-school/
