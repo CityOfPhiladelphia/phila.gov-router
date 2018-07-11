@@ -66,8 +66,7 @@
 /departments/parks-recreation             301  /departments/philadelphia-parks-recreation/
 /departments/revenue                      301  /departments/department-of-revenue/
 /departments/water-sewer-stormwater-rate-board 301 /departments/water-sewer-storm-water-rate-board/
-/dhcd$                                    301  /dhcd/
-/dhcd/(.*)                                200  http://ohcdphila.org/$1
+/dhcd/?(.*)                               301  http://ohcdphila.org/$1
 /dhs                                      301  /departments/department-of-human-services/
 /dhs/about                                301  /departments/department-of-human-services/about-us/
 /dhs/qpi                                  301  /programs/quality-parenting-initiative-qpi/
