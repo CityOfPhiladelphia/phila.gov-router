@@ -340,8 +340,7 @@
 /workforce                                301  /programs/workforce-development/
 /youthcommission/pages/default.aspx       301  /youthengagement/pages/default.aspx
 /zika                                     301  /health/diseasecontrol/zika.html
-/zoningarchive$                           301  /zoningarchive/
-/zoningarchive/(.*)                       200  http://legacy.phila.gov/zoningarchive/$1
+/zoningarchive                            301  /services/zoning-planning-development/look-up-zoning-information/
 /recycle                                  301  http://www.philadelphiastreets.com/sanitation/residential/
 /fairchancephilly                         301  /2018-06-25-philadelphias-fair-chance-hiring-law-heres-what-you-should-know/
 /welcomeamerica                           301  http://phl.maps.arcgis.com/apps/MapJour/index.html?appid=b0d5efe6fb7a4ed7a5fd9c3c681b8b41
