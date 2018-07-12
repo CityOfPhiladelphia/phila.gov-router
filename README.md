@@ -40,7 +40,8 @@ format the file to be more readable.
 Deployment should happen automatically by the [Travis CI configuration](.travis.yml), assuming `claudia.json` is correct and Travis CI has the authentication and cloudfront ID environment varibles set. You can also manually deploy:
 
 - Verify the information in `claudia.json` is correct
-- [Create an `.aws/credentials` file](https://claudiajs.com/tutorials/installing.html#configuring-access-credentials)
+- [Create an `.aws/credentials` file](https://claudiajs.com/tutorials/installing.html#configuring-access-credentials) or set AWS credentials through environment variables
+- Set environment variables `AWS_ROUTER_CODE_BUCKET` and `AWS_CLOUDFRONT_ID`
 - Run the following command, filling in the CloudFront Distribution ID as an environment variable
 
 ```bash

@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest",
     "deploy": "npm-run-all --sequential deploy:lambda deploy:cloudfront",
-    "deploy:lambda": "claudia update --version claudia",
+    "deploy:lambda": "claudia update --version claudia --use-s3-bucket $AWS_ROUTER_CODE_BUCKET",
     "deploy:cloudfront": "claudia set-cloudfront-trigger --distribution-id $AWS_CLOUDFRONT_ID --event-types origin-request --version claudia"
   },
   "repository": {
