@@ -356,3 +356,4 @@
 /tos/(.*)                                 301  /
 /reports/index.html                       301  /programs/open-data-program/
 /reports/(.*)                             301  /department-of-revenue/reports/
+/senior-freeze                            301  /services/payments-assistance-taxes/senior-citizen-discounts/low-income-senior-citizen-real-estate-tax-freeze/
