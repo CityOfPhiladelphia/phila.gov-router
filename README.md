@@ -37,13 +37,15 @@ You can use [tsv-pretty](https://ebay.github.io/tsv-utils-dlang/#tsv-pretty) to
 format the file to be more readable.
 
 ## deployment
-Deployment should happen automatically by the [Travis CI configuration](.travis.yml), assuming `claudia.json` is correct and Travis CI has the authentication and cloudfront ID environment varibles set. You can also manually deploy:
+Deployment will happen automatically via [Travis CI](https://travis-ci.org/CityOfPhiladelphia/phila.gov-router) based on [.travis.yml](.travis.yml):
 
-- Verify the information in `claudia.json` is correct
-- [Create an `.aws/credentials` file](https://claudiajs.com/tutorials/installing.html#configuring-access-credentials) or set AWS credentials through environment variables
-- Set environment variables `AWS_ROUTER_CODE_BUCKET` and `AWS_CLOUDFRONT_ID`
-- Run the following command, filling in the CloudFront Distribution ID as an environment variable
+- Pushes to the `staging` branch will deploy to the **staging** environment.
+- Pushes to the `master` branch will deploy to the **production** environment.
 
-```bash
-AWS_CLOUDFRONT_ID=xxxxxx npm run deploy
+You can skip deployment on a push by specifying `[no ci]` in the commit message.
+
+Once you've run `npm install` locally, you can deploy the router manually using the [deploy script](deploy.sh):
+
+```sh
+$ ./deploy.sh $LAMBDA_NAME $LAMBDA_ROLE $S3_BUCKET $CLOUDFRONT_DISTRIBUTION_ID
 ```
