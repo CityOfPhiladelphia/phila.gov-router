@@ -173,7 +173,7 @@
 /nutritionstandards                       301  /health/chronicdisease/nutritionstandards.html
 /oem                                      301  /departments/emergency-management/
 /oeo                                      301  /commerce/businesssupport/mwdsbesupport/Pages/default.aspx
-/ohcd                                     301  /dhcd/
+/ohcd                                     301  http://ohcdphila.org/
 /oho                                      301  /hhs
 /oig                                      301  /oig
 /oit                                      301  /it
