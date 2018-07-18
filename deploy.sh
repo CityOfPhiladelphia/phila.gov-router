@@ -16,7 +16,7 @@ CLOUDFRONT_DISTRIBUTION_ID=$4
 
 if [ "$#" -ne 4 ]; then
   echo "Command requires 4 args: LAMBDA_NAME, LAMBDA_ROLE, S3_BUCKET, CLOUDFRONT_DISTRIBUTION_ID" >&2
-  exit
+  exit 1
 fi
 
 # Create clauda.json file using env vars
