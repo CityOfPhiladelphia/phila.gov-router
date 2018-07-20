@@ -87,8 +87,7 @@
 /fairhousing                              301  /fairhousingcommission
 /fhc                                      301  /fairhousingcommission
 /financialempowerment                     301  /fe
-/findafacility                            301  /
--rec-finder/#/locations
+/findafacility                            301  /parks-rec-finder/#/locations
 /fire                                     301  /departments/philadelphia-fire-department/
 /foodstandards                            301  /health/chronicdisease/workplace.html
 /fosteringphilly                          301  /services/birth-marriage-life-events/become-a-foster-parent/
