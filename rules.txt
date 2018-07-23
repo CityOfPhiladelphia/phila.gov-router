@@ -87,8 +87,8 @@
 /fairhousing                              301  /fairhousingcommission
 /fhc                                      301  /fairhousingcommission
 /financialempowerment                     301  /fe
-/findafacility                            301  /parks-rec-finder/#/locations
-/fire                                     301  /departments/philadelphia-fire-department/
+/findafacility/?.*                        301  /parks-rec-finder/#/locations
+/fire/?.*                                 301  /departments/philadelphia-fire-department/
 /foodstandards                            301  /health/chronicdisease/workplace.html
 /fosteringphilly                          301  /services/birth-marriage-life-events/become-a-foster-parent/
 /fsedmonds                                301  /departments/mayors-office-of-education/community-schools/f-s-edmonds-elementary-school/
@@ -172,7 +172,7 @@
 /nutritionstandards                       301  /health/chronicdisease/nutritionstandards.html
 /oem                                      301  /departments/emergency-management/
 /oeo                                      301  /commerce/businesssupport/mwdsbesupport/Pages/default.aspx
-/ohcd                                     301  http://ohcdphila.org/
+/ohcd/?.*                                 301  http://ohcdphila.org/
 /oho                                      301  /hhs
 /oig                                      301  /oig
 /oit                                      301  /it
@@ -185,7 +185,7 @@
 /opioid$                                  301  /opioid/
 /opioid/(.*)                              200  http://dbhids.org/opioid/$1
 /opioids                                  301  /opioid/
-/osh                                      301  /homelessservices
+/osh/?.*                                  301  http://philadelphiaofficeofhomelessservices.org/
 /otis                                     301  http://www.phillyotis.com
 /parcelexplorer                           301  http://web02.phila.gov/Records/ParcelExplorer
 /parent-support                           301  /programs/parenting-education-and-support/
@@ -228,7 +228,7 @@
 /posts/office-of-sustainability/2017-03-28-environment-sustainability-city-of-philadelphia-action-guide 301 /2017-11-29-environmental-protection-during-the-trump-administration/
 /potholes                                 301  http://www.philadelphiastreets.com
 /ppr                                      301  /departments/philadelphia-parks-recreation/
-/pra                                      301  http://www.philadelphiaredevelopmentauthority.org
+/pra/?.*                                  301  http://www.philadelphiaredevelopmentauthority.org
 /press-releases                           301  /the-latest/archives/?template=press_release
 /prisons/inmatelocator$                   301  /prisons/inmatelocator/
 # /prisons/inmatelocator/(.*)             200  http://legacy.phila.gov/prisons/inmatelocator/$1 # handled by cloudfront behavior
@@ -282,7 +282,7 @@
 /streets/crplan                           301  https://secure.phila.gov/streets/commrecycling/
 /stressmap                                301  https://phl.maps.arcgis.com/apps/MapSeries/index.html?appid=47afd9a9dcfa4637a2f88024d1c210b4
 /sustainability                           301  /departments/office-of-sustainability/
-/swgrant                                  301  /water/wu/stormwater/Pages/Grants.aspx
+/swgrants?                                301  /water/wu/stormwater/Pages/Grants.aspx
 /tax-change                               301  /documents/tax-account-change-form
 /tax-credits/keystone-opportunity-zone-tax-credit-koz 301 /services/tax-credits/keystone-opportunity-zone-tax-credit/
 /tax-credits/life-partner-transgender-care-health-benefits-tax-credit 301 /services/payments-assistance-taxes/tax-credits/life-partner-transgender-care-health-benefits-tax-credits/
@@ -321,7 +321,7 @@
 /water/iwu.html                           301  /water/wu/wastewater/pages/industrialwaste.aspx
 /water/lead                               301  /water/wu/drinkingwater/lead/Pages/default.aspx
 /water/notifications                      301  /water/aboutus/pages/notifications.aspx
-/water/rateboard                          301  /departments/water-sewer-storm-water-rate-board/
+/water/rateboard/?.*                      301  /departments/water-sewer-storm-water-rate-board/
 /water/rates                              301  /water/wu/ratesregulationsresp/pages/rates.aspx
 /water/regulations                        301  /water/wu/ratesregulationsresp/pages/regulations.aspx
 /water/replacelsl                         301  /water/wu/drinkingwater/lead/Pages/ImportantLSLinfo.aspx
