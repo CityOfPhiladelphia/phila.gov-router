@@ -228,6 +228,7 @@
 /posts/office-of-sustainability/2017-03-28-environment-sustainability-city-of-philadelphia-action-guide 301 /2017-11-29-environmental-protection-during-the-trump-administration/
 /potholes                                 301  http://www.philadelphiastreets.com
 /ppr                                      301  /departments/philadelphia-parks-recreation/
+/parksandrecreation/(.*)                  301  /departments/philadelphia-parks-recreation/ 
 /pra                                      301  http://www.philadelphiaredevelopmentauthority.org
 /press-releases                           301  /the-latest/archives/?template=press_release
 /prisons/inmatelocator$                   301  /prisons/inmatelocator/
