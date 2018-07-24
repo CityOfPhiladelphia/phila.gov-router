@@ -353,3 +353,5 @@
 /reports/(.*)                             301  /department-of-revenue/reports/
 /senior-freeze                            301  /services/payments-assistance-taxes/senior-citizen-discounts/low-income-senior-citizen-real-estate-tax-freeze/
 /revenue/realestatetax                    301  http://legacy.phila.gov/revenue/realestatetax/
+/prisons/inmatelocator                    301  http://legacy.phila.gov/prisons/inmatelocator/
+/clip/vacantlotprogram/pages/default.aspx 301  /programs/vacant-lot-program/
