@@ -228,10 +228,10 @@
 /posts/office-of-sustainability/2017-03-28-environment-sustainability-city-of-philadelphia-action-guide 301 /2017-11-29-environmental-protection-during-the-trump-administration/
 /potholes                                 301  http://www.philadelphiastreets.com
 /ppr                                      301  /departments/philadelphia-parks-recreation/
+/parksandrecreation/(.*)                  301  /departments/philadelphia-parks-recreation/ 
 /pra/?.*                                  301  http://www.philadelphiaredevelopmentauthority.org
 /press-releases                           301  /the-latest/archives/?template=press_release
-/prisons/inmatelocator$                   301  /prisons/inmatelocator/
-# /prisons/inmatelocator/(.*)             200  http://legacy.phila.gov/prisons/inmatelocator/$1 # handled by cloudfront behavior
+/prisons/inmatelocator                    301  http://legacy.phila.gov/prisons/inmatelocator/
 /privacy/index.html                       301  /Pages/privacy.aspx
 /programs-initiatives                     301  /programs
 /property                                 301  https://property.phila.gov
@@ -262,8 +262,7 @@
 /revenue/businesses/taxes/pages/birt.aspx 301  /services/payments-assistance-taxes/business-taxes/business-income-receipts-tax-birt/
 /revenue/businesses/taxes/Pages/hoteltax.aspx 301 /services/payments-assistance-taxes/business-taxes/hotel-tax/
 /revenue/eitc                             301  /documents/earned-income-tax-credit-eitc-employer-notice/
-/revenue/realestatetax$                   301  /revenue/realestatetax/
-# /revenue/realestatetax/(.*)             200  http://legacy.phila.gov/revenue/realestatetax/$1 # handled by cloudfront behavior
+/revenue/realestatetax                    301  http://legacy.phila.gov/revenue/realestatetax/
 /revenue/taxpro/pages/refundpetitions.aspx 301 /documents/income-based-wage-tax-refund-petition/
 /rise/employer/pages/banthebox.aspx       301  /humanrelations/pages/default.aspx
 /risk                                     301  /finance/units-RiskManagement.html
@@ -351,5 +350,5 @@
 /reports/index.html                       301  /programs/open-data-program/
 /reports/(.*)                             301  /department-of-revenue/reports/
 /senior-freeze                            301  /services/payments-assistance-taxes/senior-citizen-discounts/low-income-senior-citizen-real-estate-tax-freeze/
-/revenue/realestatetax                    301  http://legacy.phila.gov/revenue/realestatetax/
-/prisons/inmatelocator                    301  http://legacy.phila.gov/prisons/inmatelocator/
+/clip/vacantlotprogram/pages/default.aspx 301  /programs/vacant-lot-program/
+/active-duty-credit                       301  /services/payments-assistance-taxes/tax-credits/active-duty-tax-credit/
