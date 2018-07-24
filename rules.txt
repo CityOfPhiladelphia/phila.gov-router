@@ -354,3 +354,4 @@
 /revenue/realestatetax                    301  http://legacy.phila.gov/revenue/realestatetax/
 /prisons/inmatelocator                    301  http://legacy.phila.gov/prisons/inmatelocator/
 /clip/vacantlotprogram/pages/default.aspx 301  /programs/vacant-lot-program/
+/active-duty-credit                       301  /services/payments-assistance-taxes/tax-credits/active-duty-tax-credit/
