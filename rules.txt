@@ -321,7 +321,7 @@
 /water/iwu.html                           301  /water/wu/wastewater/pages/industrialwaste.aspx
 /water/lead                               301  /water/wu/drinkingwater/lead/Pages/default.aspx
 /water/notifications                      301  /water/aboutus/pages/notifications.aspx
-/water/rateboard/?.*                      301  /departments/water-sewer-storm-water-rate-board/
+/water/rateboard                          301  /departments/water-sewer-storm-water-rate-board/
 /water/rates                              301  /water/wu/ratesregulationsresp/pages/rates.aspx
 /water/regulations                        301  /water/wu/ratesregulationsresp/pages/regulations.aspx
 /water/replacelsl                         301  /water/wu/drinkingwater/lead/Pages/ImportantLSLinfo.aspx
