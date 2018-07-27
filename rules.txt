@@ -58,16 +58,16 @@
 /departments/commission-on-parks-and-recreation 301 /departments/philadelphia-parks-recreation/about/the-commission-on-parks-recreation/
 
 # clicking the dropdown menu header should take you to one of its pages
-/departments/department-of-revenue/about            301  /departments/department-of-revenue/about/contact-us/ # first page of dropdown menu
-/departments/department-of-revenue/our-services/    301 /departments/department-of-revenue/our-services/tax-services/ # first page of dropdown menu
-/departments/department-of-revenue/programs/        301 /departments/department-of-revenue/programs/for-businesses/ # first page of dropdown menu
-/departments/department-of-human-services/about-us/ 301 /departments/department-of-human-services/about-us/key-partnerships/
-/departments/mayors-office-of-education/about/      301 /departments/mayors-office-of-education/about/what-we-do/
-/departments/office-of-open-data-and-digital-transformation/about/          301 /departments/office-of-open-data-and-digital-transformation/about/staff/ # first page of dropdown menu
-/departments/office-of-open-data-and-digital-transformation/speaker-series/ 301 /departments/office-of-open-data-and-digital-transformation/speaker-series/overview/ # first page of dropdown menu
-/departments/office-of-sustainability/about/        301 /departments/office-of-sustainability/about/what-we-do/ # first page of dropdown menu
-/departments/office-of-sustainability/programs/     301 /departments/office-of-sustainability/programs/climate-adaptation-planning/
-/departments/office-of-sustainability/greenworks/   301 /departments/office-of-sustainability/greenworks/greenworks-review/
+/departments/department-of-revenue/about            301  /departments/department-of-revenue/about/contact-us/
+/departments/department-of-revenue/our-services     301 /departments/department-of-revenue/our-services/tax-services/
+/departments/department-of-revenue/programs         301 /departments/department-of-revenue/programs/for-businesses/
+/departments/department-of-human-services/about-us  301 /departments/department-of-human-services/about-us/key-partnerships/
+/departments/mayors-office-of-education/about       301 /departments/mayors-office-of-education/about/what-we-do/
+/departments/office-of-open-data-and-digital-transformation/about           301 /departments/office-of-open-data-and-digital-transformation/about/staff/
+/departments/office-of-open-data-and-digital-transformation/speaker-series  301 /departments/office-of-open-data-and-digital-transformation/speaker-series/overview/
+/departments/office-of-sustainability/about         301 /departments/office-of-sustainability/about/what-we-do/
+/departments/office-of-sustainability/programs      301 /departments/office-of-sustainability/programs/climate-adaptation-planning/
+/departments/office-of-sustainability/greenworks    301 /departments/office-of-sustainability/greenworks/greenworks-review/
 
 /departments/education                    301  /departments/mayors-office-of-education/
 /departments/emergency-management         301  /departments/oem
