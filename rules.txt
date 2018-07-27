@@ -365,3 +365,5 @@
 /senior-freeze                            301  /services/payments-assistance-taxes/senior-citizen-discounts/low-income-senior-citizen-real-estate-tax-freeze/
 /clip/vacantlotprogram/pages/default.aspx 301  /programs/vacant-lot-program/
 /active-duty-credit                       301  /services/payments-assistance-taxes/tax-credits/active-duty-tax-credit/
+/eeocomplaint?                            301  https://beta.phila.gov/services/working-jobs/file-a-sexual-harassment-complaint/
+/eeo-complaint                            301  https://beta.phila.gov/services/working-jobs/file-a-sexual-harassment-complaint/
