@@ -226,7 +226,7 @@
 /paymentplans                             301  /services/payments-assistance-taxes/payment-plans/set-up-a-payment-agreement-for-your-taxes/
 /pchr                                     301  /humanrelations
 /performance                              301  /mdo/phillystat
-/philacode                                301  http://www.amlegal.com/codes/client/philadelphia_pa/
+/philacode/?.*                            301  http://www.amlegal.com/codes/client/philadelphia_pa/
 /phillydelivers                           301  /departments/mayor/help-make-sure-phillydelivers-for-amazon/
 /phillystat                               301  /mdo/phillystat
 /phlimmigrantbiz                          301  /posts/office-of-immigrant-affairs/2017-03-09-immigrant-business-week-2017-march-27-april-1/
