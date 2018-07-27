@@ -279,6 +279,7 @@
 /revenue/businesses/taxes/pages/birt.aspx 301  /services/payments-assistance-taxes/business-taxes/business-income-receipts-tax-birt/
 /revenue/businesses/taxes/Pages/hoteltax.aspx 301 /services/payments-assistance-taxes/business-taxes/hotel-tax/
 /revenue/eitc                             301  /documents/earned-income-tax-credit-eitc-employer-notice/
+/revenue/pages/default.aspx               301  /departments/department-of-revenue/
 /revenue/realestatetax/?(.*)              301  http://legacy.phila.gov/revenue/realestatetax/$1
 /revenue/taxpro/pages/refundpetitions.aspx 301 /documents/income-based-wage-tax-refund-petition/
 /rise/employer/pages/banthebox.aspx       301  /humanrelations/pages/default.aspx
