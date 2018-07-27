@@ -58,16 +58,20 @@
 /departments/commission-on-parks-and-recreation 301 /departments/philadelphia-parks-recreation/about/the-commission-on-parks-recreation/
 
 # clicking the dropdown menu header should take you to one of its pages
-/departments/department-of-revenue/about            301  /departments/department-of-revenue/about/contact-us/ # first page of dropdown menu
-/departments/department-of-revenue/our-services/    301 /departments/department-of-revenue/our-services/tax-services/ # first page of dropdown menu
-/departments/department-of-revenue/programs/        301 /departments/department-of-revenue/programs/for-businesses/ # first page of dropdown menu
-/departments/department-of-human-services/about-us/ 301 /departments/department-of-human-services/about-us/key-partnerships/
-/departments/mayors-office-of-education/about/      301 /departments/mayors-office-of-education/about/what-we-do/
-/departments/office-of-open-data-and-digital-transformation/about/          301 /departments/office-of-open-data-and-digital-transformation/about/staff/ # first page of dropdown menu
-/departments/office-of-open-data-and-digital-transformation/speaker-series/ 301 /departments/office-of-open-data-and-digital-transformation/speaker-series/overview/ # first page of dropdown menu
-/departments/office-of-sustainability/about/        301 /departments/office-of-sustainability/about/what-we-do/ # first page of dropdown menu
-/departments/office-of-sustainability/programs/     301 /departments/office-of-sustainability/programs/climate-adaptation-planning/
-/departments/office-of-sustainability/greenworks/   301 /departments/office-of-sustainability/greenworks/greenworks-review/
+/departments/department-of-revenue/about            301  /departments/department-of-revenue/about/contact-us/
+/departments/department-of-revenue/our-services     301 /departments/department-of-revenue/our-services/tax-services/
+/departments/department-of-revenue/programs         301 /departments/department-of-revenue/programs/for-businesses/
+/departments/department-of-human-services/about-us  301 /departments/department-of-human-services/about-us/key-partnerships/
+/departments/mayors-office-of-education/about       301 /departments/mayors-office-of-education/about/what-we-do/
+/departments/oem/about                              301 /departments/oem/about/staff/
+/departments/oem/programs                           301 /departments/oem/programs/readyphiladelphia/
+/departments/oem/ready-or-not                       301 /departments/oem/ready-or-not/how-to-get-ready/
+/departments/oem/partnerships                       301 /departments/oem/partnerships/local-emergency-planning-lepc/
+/departments/office-of-open-data-and-digital-transformation/about           301 /departments/office-of-open-data-and-digital-transformation/about/staff/
+/departments/office-of-open-data-and-digital-transformation/speaker-series  301 /departments/office-of-open-data-and-digital-transformation/speaker-series/overview/
+/departments/office-of-sustainability/about         301 /departments/office-of-sustainability/about/what-we-do/
+/departments/office-of-sustainability/programs      301 /departments/office-of-sustainability/programs/climate-adaptation-planning/
+/departments/office-of-sustainability/greenworks    301 /departments/office-of-sustainability/greenworks/greenworks-review/
 
 /departments/education                    301  /departments/mayors-office-of-education/
 /departments/emergency-management         301  /departments/oem
@@ -222,7 +226,7 @@
 /paymentplans                             301  /services/payments-assistance-taxes/payment-plans/set-up-a-payment-agreement-for-your-taxes/
 /pchr                                     301  /humanrelations
 /performance                              301  /mdo/phillystat
-/philacode                                301  http://www.amlegal.com/codes/client/philadelphia_pa/
+/philacode/?.*                            301  http://www.amlegal.com/codes/client/philadelphia_pa/
 /phillydelivers                           301  /departments/mayor/help-make-sure-phillydelivers-for-amazon/
 /phillystat                               301  /mdo/phillystat
 /phlimmigrantbiz                          301  /posts/office-of-immigrant-affairs/2017-03-09-immigrant-business-week-2017-march-27-april-1/
@@ -244,7 +248,7 @@
 /parksandrecreation/(.*)                  301  /departments/philadelphia-parks-recreation/ 
 /pra/?.*                                  301  http://www.philadelphiaredevelopmentauthority.org
 /press-releases                           301  /the-latest/archives/?template=press_release
-/prisons/inmatelocator                    301  http://legacy.phila.gov/prisons/inmatelocator/
+/prisons/inmatelocator/?(.*)              301  http://legacy.phila.gov/prisons/inmatelocator/$1
 /privacy/index.html                       301  /Pages/privacy.aspx
 /programs-initiatives                     301  /programs
 /property                                 301  https://property.phila.gov
@@ -275,7 +279,8 @@
 /revenue/businesses/taxes/pages/birt.aspx 301  /services/payments-assistance-taxes/business-taxes/business-income-receipts-tax-birt/
 /revenue/businesses/taxes/Pages/hoteltax.aspx 301 /services/payments-assistance-taxes/business-taxes/hotel-tax/
 /revenue/eitc                             301  /documents/earned-income-tax-credit-eitc-employer-notice/
-/revenue/realestatetax                    301  http://legacy.phila.gov/revenue/realestatetax/
+/revenue/pages/default.aspx               301  /departments/department-of-revenue/
+/revenue/realestatetax/?(.*)              301  http://legacy.phila.gov/revenue/realestatetax/$1
 /revenue/taxpro/pages/refundpetitions.aspx 301 /documents/income-based-wage-tax-refund-petition/
 /rise/employer/pages/banthebox.aspx       301  /humanrelations/pages/default.aspx
 /risk                                     301  /finance/units-RiskManagement.html
@@ -365,3 +370,5 @@
 /senior-freeze                            301  /services/payments-assistance-taxes/senior-citizen-discounts/low-income-senior-citizen-real-estate-tax-freeze/
 /clip/vacantlotprogram/pages/default.aspx 301  /programs/vacant-lot-program/
 /active-duty-credit                       301  /services/payments-assistance-taxes/tax-credits/active-duty-tax-credit/
+/eeocomplaint?                            301  https://beta.phila.gov/services/working-jobs/file-a-sexual-harassment-complaint/
+/eeo-complaint                            301  https://beta.phila.gov/services/working-jobs/file-a-sexual-harassment-complaint/
