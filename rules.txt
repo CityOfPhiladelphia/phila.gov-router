@@ -204,6 +204,7 @@
 /opioids                                  301  /opioid/
 /osh/?.*                                  301  http://philadelphiaofficeofhomelessservices.org/
 /otis                                     301  http://www.phillyotis.com
+/pages/default.aspx                       301  /
 /parcelexplorer                           301  http://web02.phila.gov/Records/ParcelExplorer
 /parent-support                           301  /programs/parenting-education-and-support/
 /parking                                  301  http://philapark.org/homeFlash.aspx
