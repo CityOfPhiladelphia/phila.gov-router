@@ -200,7 +200,7 @@
 /openbudget/(.*)                          200  https://cityofphiladelphia.github.io/open-budget/$1
 /opendata                                 301  /data
 /opioid$                                  301  /opioid/
-/opioid/(.*)                              200  http://dbhids.org/opioid/$1
+/opioid/(.*)                              200  /programs/combating-the-opioid-epidemic/
 /opioids                                  301  /opioid/
 /osh/?.*                                  301  http://philadelphiaofficeofhomelessservices.org/
 /otis                                     301  http://www.phillyotis.com
