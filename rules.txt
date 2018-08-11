@@ -56,23 +56,6 @@
 /departments/(.*)/all-events              301  /the-latest/all-events/
 /departments/board-of-education           301  /departments/philadelphia-board-of-education/
 /departments/commission-on-parks-and-recreation 301 /departments/philadelphia-parks-recreation/about/the-commission-on-parks-recreation/
-
-# clicking the dropdown menu header should take you to one of its pages
-/departments/department-of-revenue/about            301  /departments/department-of-revenue/about/contact-us/
-/departments/department-of-revenue/our-services     301 /departments/department-of-revenue/our-services/tax-services/
-/departments/department-of-revenue/programs         301 /departments/department-of-revenue/programs/for-businesses/
-/departments/department-of-human-services/about-us  301 /departments/department-of-human-services/about-us/key-partnerships/
-/departments/mayors-office-of-education/about       301 /departments/mayors-office-of-education/about/what-we-do/
-/departments/oem/about                              301 /departments/oem/about/staff/
-/departments/oem/programs                           301 /departments/oem/programs/readyphiladelphia/
-/departments/oem/ready-or-not                       301 /departments/oem/ready-or-not/how-to-get-ready/
-/departments/oem/partnerships                       301 /departments/oem/partnerships/local-emergency-planning-lepc/
-/departments/office-of-open-data-and-digital-transformation/about           301 /departments/office-of-open-data-and-digital-transformation/about/staff/
-/departments/office-of-open-data-and-digital-transformation/speaker-series  301 /departments/office-of-open-data-and-digital-transformation/speaker-series/overview/
-/departments/office-of-sustainability/about         301 /departments/office-of-sustainability/about/what-we-do/
-/departments/office-of-sustainability/programs      301 /departments/office-of-sustainability/programs/climate-adaptation-planning/
-/departments/office-of-sustainability/greenworks    301 /departments/office-of-sustainability/greenworks/greenworks-review/
-
 /departments/education                    301  /departments/mayors-office-of-education/
 /departments/emergency-management         301  /departments/oem
 /departments/emergency-management/(.*)    301  /departments/oem/$1
@@ -349,6 +332,8 @@
 /welcomingweek2017                        301  /posts/office-of-immigrant-affairs/2017-08-31-welcoming-week-2017/
 /wills                                    301  http://secureprod.phila.gov/wills/
 /workforce                                301  /programs/workforce-development/
+/wp-admin                                 301  https://admin.phila.gov/wp-admin/
+/wp-login.php                             301  https://admin.phila.gov/wp-login.php
 /youthcommission/pages/default.aspx       301  /youthengagement/pages/default.aspx
 /zika                                     301  /health/diseasecontrol/zika.html
 /zoningarchive                            301  /services/zoning-planning-development/look-up-zoning-information/
@@ -369,5 +354,4 @@
 /senior-freeze                            301  /services/payments-assistance-taxes/senior-citizen-discounts/low-income-senior-citizen-real-estate-tax-freeze/
 /clip/vacantlotprogram/pages/default.aspx 301  /programs/vacant-lot-program/
 /active-duty-credit                       301  /services/payments-assistance-taxes/tax-credits/active-duty-tax-credit/
-/eeocomplaint?                            301  https://beta.phila.gov/services/working-jobs/file-a-sexual-harassment-complaint/
-/eeo-complaint                            301  https://beta.phila.gov/services/working-jobs/file-a-sexual-harassment-complaint/
+/eeo-?complaint?                          301  /services/working-jobs/file-a-sexual-harassment-complaint/
