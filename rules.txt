@@ -308,7 +308,7 @@
 /visitors                                 301  http://www.visitphilly.com
 /volunteer                                301  https://www.serve.phila.gov
 /warningletter                            301  /documents/warning-of-risk-of-tax-foreclosure/
-/water-bill-help                          301  /services/water-gas-utilities/water-bill-customer-assistance/
+/water-bill-help                          301  /services/water-gas-utilities/pay-or-dispute-a-water-bill/water-bill-customer-assistance/
 /water-pipe-meter-maintenance/customer-responsibilities 301 /services/water-pipe-meter-maintenance/customer-responsibilities/
 /water-pipe-meter-maintenance/water-meters 301 /services/water-pipe-meter-maintenance/water-meters/
 /water-shutoffs                           301  /services/water-shutoffs/
@@ -357,3 +357,4 @@
 /clip/vacantlotprogram/pages/default.aspx 301  /programs/vacant-lot-program/
 /active-duty-credit                       301  /services/payments-assistance-taxes/tax-credits/active-duty-tax-credit/
 /eeo-?complaint?                          301  /services/working-jobs/file-a-sexual-harassment-complaint/
+/school-income-tax                        301  /services/payments-assistance-taxes/income-taxes/school-income-tax/
