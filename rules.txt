@@ -171,7 +171,7 @@
 /news/office-of-sustainability/environment-sustainability-city-of-philadelphia-action-guide 301 /2017-11-29-environmental-protection-during-the-trump-administration/
 /nutritionstandards                       301  /health/chronicdisease/nutritionstandards.html
 /oem                                      301  /departments/emergency-management/
-/oeo                                      301  /commerce/businesssupport/mwdsbesupport/Pages/default.aspx
+/oeo                                      301  /departments/office-of-economic-opportunity/
 /ohcd/?.*                                 301  http://ohcdphila.org/
 /oho                                      301  /hhs
 /oig                                      301  /oig
@@ -272,7 +272,7 @@
 /services/emergency/index.html            301  /osh/emergencyservices/pages/default.aspx
 /services/property-lots-housing/get-the-homestead-exemption/ 301 /services/property-lots-housing/get-real-estate-tax-relief/get-the-homestead-exemption/
 /services/water-gas-utilities/water-sewer-services/become-a-water-customer/ 301 /services/water-gas-utilities/become-a-water-customer/
-/smartchoice/?$                           301  /commerce/businessattraction
+/smartchoice/?$                           301  /departments/department-of-commerce/about-us/divisions/office-of-business-development/
 /southwark                                301  /departments/mayors-office-of-education/community-schools/southwark-elementary-school/
 /sphs                                     301  /departments/mayors-office-of-education/community-schools/south-philadelphia-high-school/
 /stormwater-planter                       301  http://www.stormwaterpa.org/creating-community-columbus-square-park.html?key=1
@@ -338,7 +338,7 @@
 /wp-login.php                             301  https://admin.phila.gov/wp-login.php
 /youthcommission/pages/default.aspx       301  /youthengagement/pages/default.aspx
 /zika                                     301  /health/diseasecontrol/zika.html
-/zoningarchive                            301  /services/zoning-planning-development/look-up-zoning-information/
+/zoningarchive                            301  /services/zoning-planning-development/find-location-and-zoning-information/
 /recycle                                  301  http://www.philadelphiastreets.com/sanitation/residential/
 /fairchancephilly                         301  /2018-06-25-philadelphias-fair-chance-hiring-law-heres-what-you-should-know/
 /welcomeamerica                           301  http://phl.maps.arcgis.com/apps/MapJour/index.html?appid=b0d5efe6fb7a4ed7a5fd9c3c681b8b41
@@ -369,3 +369,4 @@
 /commerce/businessSupport/Pages/default.aspx 301 /departments/department-of-commerce/supporting-business/
 /commerce/(.*)                            301  /departments/department-of-commerce/
 /businesssupport                          301  /departments/department-of-commerce/supporting-business/
+/businessattraction                       301  /departments/department-of-commerce/about-us/divisions/office-of-business-development/
