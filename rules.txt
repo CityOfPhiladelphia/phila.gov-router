@@ -370,3 +370,4 @@
 /commerce/(.*)                            301  /departments/department-of-commerce/
 /businesssupport                          301  /departments/department-of-commerce/supporting-business/
 /businessattraction                       301  /departments/department-of-commerce/about-us/divisions/office-of-business-development/
+/programs/stemcityphl/                    301  http://www.stemcityphl.org/
