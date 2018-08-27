@@ -361,3 +361,4 @@
 /solarmap                                 301  https://phl.maps.arcgis.com/apps/MapSeries/index.html?appid=c1a5d30acec04aec8c4acfa4cc60a311
 /programs/rebuild                         301  http://rebuild.phila.gov/
 /programs/startup-phl/                    301  http://startupphl.com/
+/welcome-week                             301  /spotlight/welcoming-week-2018/  
