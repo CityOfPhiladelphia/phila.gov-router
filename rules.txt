@@ -227,7 +227,7 @@
 /posts/office-of-sustainability/2017-03-28-environment-sustainability-city-of-philadelphia-action-guide 301 /2017-11-29-environmental-protection-during-the-trump-administration/
 /potholes                                 301  http://www.philadelphiastreets.com
 /ppr                                      301  /departments/philadelphia-parks-recreation/
-/parksandrecreation/(.*)                  301  /departments/philadelphia-parks-recreation/ 
+/parksandrecreation/(.*)                  301  /departments/philadelphia-parks-recreation/
 /pra/?.*                                  301  http://www.philadelphiaredevelopmentauthority.org
 /press-releases                           301  /the-latest/archives/?template=press_release
 /prisons/inmatelocator/?(.*)              301  http://legacy.phila.gov/prisons/inmatelocator/$1
@@ -361,4 +361,11 @@
 /solarmap                                 301  https://phl.maps.arcgis.com/apps/MapSeries/index.html?appid=c1a5d30acec04aec8c4acfa4cc60a311
 /programs/rebuild                         301  http://rebuild.phila.gov/
 /programs/startup-phl/                    301  http://startupphl.com/
-/welcome-week                             301  /spotlight/welcoming-week-2018/  
+/welcome-week                             301  /spotlight/welcoming-week-2018/
+/commerce/doBusiness/Pages/default.aspx   301  /services/business-self-employment/do-business-with-the-city/
+/commerce/businesssupport/mwdsbesupport/pages/default.aspx 301 /departments/office-of-economic-opportunity/
+/commerce/businessAttraction/Pages/default.aspx 301 /departments/department-of-commerce/about-us/divisions/office-of-business-development/
+/commerce/neighborhoods/Pages/default.aspx 301 /departments/department-of-commerce/investing-in-neighborhoods/
+/commerce/businessSupport/Pages/default.aspx 301 /departments/department-of-commerce/supporting-business/
+/commerce/(.*)                            301  /departments/department-of-commerce/
+/businesssupport                          301  /departments/department-of-commerce/supporting-business/
