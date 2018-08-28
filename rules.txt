@@ -171,7 +171,7 @@
 /news/office-of-sustainability/environment-sustainability-city-of-philadelphia-action-guide 301 /2017-11-29-environmental-protection-during-the-trump-administration/
 /nutritionstandards                       301  /health/chronicdisease/nutritionstandards.html
 /oem                                      301  /departments/emergency-management/
-/oeo                                      301  /commerce/businesssupport/mwdsbesupport/Pages/default.aspx
+/oeo                                      301  /departments/office-of-economic-opportunity/
 /ohcd/?.*                                 301  http://ohcdphila.org/
 /oho                                      301  /hhs
 /oig                                      301  /oig
@@ -227,7 +227,7 @@
 /posts/office-of-sustainability/2017-03-28-environment-sustainability-city-of-philadelphia-action-guide 301 /2017-11-29-environmental-protection-during-the-trump-administration/
 /potholes                                 301  http://www.philadelphiastreets.com
 /ppr                                      301  /departments/philadelphia-parks-recreation/
-/parksandrecreation/(.*)                  301  /departments/philadelphia-parks-recreation/ 
+/parksandrecreation/(.*)                  301  /departments/philadelphia-parks-recreation/
 /pra/?.*                                  301  http://www.philadelphiaredevelopmentauthority.org
 /press-releases                           301  /the-latest/archives/?template=press_release
 /prisons/inmatelocator/?(.*)              301  http://legacy.phila.gov/prisons/inmatelocator/$1
@@ -272,7 +272,7 @@
 /services/emergency/index.html            301  /osh/emergencyservices/pages/default.aspx
 /services/property-lots-housing/get-the-homestead-exemption/ 301 /services/property-lots-housing/get-real-estate-tax-relief/get-the-homestead-exemption/
 /services/water-gas-utilities/water-sewer-services/become-a-water-customer/ 301 /services/water-gas-utilities/become-a-water-customer/
-/smartchoice/?$                           301  /commerce/businessattraction
+/smartchoice/?$                           301  /departments/department-of-commerce/about-us/divisions/office-of-business-development/
 /southwark                                301  /departments/mayors-office-of-education/community-schools/southwark-elementary-school/
 /sphs                                     301  /departments/mayors-office-of-education/community-schools/south-philadelphia-high-school/
 /stormwater-planter                       301  http://www.stormwaterpa.org/creating-community-columbus-square-park.html?key=1
@@ -308,7 +308,7 @@
 /visitors                                 301  http://www.visitphilly.com
 /volunteer                                301  https://www.serve.phila.gov
 /warningletter                            301  /documents/warning-of-risk-of-tax-foreclosure/
-/water-bill-help                          301  /services/water-gas-utilities/water-bill-customer-assistance/
+/water-bill-help                          301  /services/water-gas-utilities/pay-or-dispute-a-water-bill/water-bill-customer-assistance/
 /water-pipe-meter-maintenance/customer-responsibilities 301 /services/water-pipe-meter-maintenance/customer-responsibilities/
 /water-pipe-meter-maintenance/water-meters 301 /services/water-pipe-meter-maintenance/water-meters/
 /water-shutoffs                           301  /services/water-shutoffs/
@@ -338,7 +338,7 @@
 /wp-login.php                             301  https://admin.phila.gov/wp-login.php
 /youthcommission/pages/default.aspx       301  /youthengagement/pages/default.aspx
 /zika                                     301  /health/diseasecontrol/zika.html
-/zoningarchive                            301  /services/zoning-planning-development/look-up-zoning-information/
+/zoningarchive                            301  /services/zoning-planning-development/find-location-and-zoning-information/
 /recycle                                  301  http://www.philadelphiastreets.com/sanitation/residential/
 /fairchancephilly                         301  /2018-06-25-philadelphias-fair-chance-hiring-law-heres-what-you-should-know/
 /welcomeamerica                           301  http://phl.maps.arcgis.com/apps/MapJour/index.html?appid=b0d5efe6fb7a4ed7a5fd9c3c681b8b41
@@ -357,4 +357,18 @@
 /clip/vacantlotprogram/pages/default.aspx 301  /programs/vacant-lot-program/
 /active-duty-credit                       301  /services/payments-assistance-taxes/tax-credits/active-duty-tax-credit/
 /eeo-?complaint?                          301  /services/working-jobs/file-a-sexual-harassment-complaint/
+/school-income-tax                        301  /services/payments-assistance-taxes/income-taxes/school-income-tax/
 /solarmap                                 301  https://phl.maps.arcgis.com/apps/MapSeries/index.html?appid=c1a5d30acec04aec8c4acfa4cc60a311
+/programs/rebuild                         301  http://rebuild.phila.gov/
+/programs/startup-phl/                    301  http://startupphl.com/
+/welcome-week                             301  /spotlight/welcoming-week-2018/
+/commerce/doBusiness/Pages/default.aspx   301  /services/business-self-employment/do-business-with-the-city/
+/commerce/businesssupport/mwdsbesupport/pages/default.aspx 301 /departments/office-of-economic-opportunity/
+/commerce/businessAttraction/Pages/default.aspx 301 /departments/department-of-commerce/about-us/divisions/office-of-business-development/
+/commerce/neighborhoods/Pages/default.aspx 301 /departments/department-of-commerce/investing-in-neighborhoods/
+/commerce/businessSupport/Pages/default.aspx 301 /departments/department-of-commerce/supporting-business/
+/commerce/(.*)                            301  /departments/department-of-commerce/
+/businesssupport                          301  /departments/department-of-commerce/supporting-business/
+/businessattraction                       301  /departments/department-of-commerce/about-us/divisions/office-of-business-development/
+/programs/stemcityphl/                    301  http://www.stemcityphl.org/
+/zipcheck                                 301  /documents/zipcheck-application/
