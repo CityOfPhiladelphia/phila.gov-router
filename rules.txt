@@ -361,7 +361,7 @@
 /solarmap                                 301  https://phl.maps.arcgis.com/apps/MapSeries/index.html?appid=c1a5d30acec04aec8c4acfa4cc60a311
 /programs/rebuild                         301  http://rebuild.phila.gov/
 /programs/startup-phl/                    301  http://startupphl.com/
-/welcome-week                             301  /spotlight/welcoming-week-2018/
+/welcoming-week                             301  /spotlight/welcoming-week-2018/
 /commerce/doBusiness/Pages/default.aspx   301  /services/business-self-employment/do-business-with-the-city/
 /commerce/businesssupport/mwdsbesupport/pages/default.aspx 301 /departments/office-of-economic-opportunity/
 /commerce/businessAttraction/Pages/default.aspx 301 /departments/department-of-commerce/about-us/divisions/office-of-business-development/
