@@ -216,7 +216,7 @@
 # /phonedir/(.*)                          200  http://legacy.phila.gov/phonedir/$1 # handled by cloudfront behavior
 /police                                   301  http://www.phillypolice.com/
 /policeovertime                           301  https://phl.secure.force.com/ROWS/
-/pools                                    301  /parks-rec-finder/#/activities
+/pools                                    301  /parks-rec-finder/#/locations/swimming-pools
 /porous-pave                              301  http://www.stormwaterpa.org/percy-street-goes-green.html?key=0
 /porous-play                              301  http://stormwaterpa.org/greener,-healthier-play-herron-playground.html?key=0
 /posts                                    301  /the-latest/archives/?template=post
