@@ -140,7 +140,7 @@
 /li/zoningappeals                         301  /li/zoning-appeals/
 /licenses(andinspections)?                301  /li
 /licontact                                301  https://form.jotform.com/60346011811139
-/lifeguards                               301  /services/working-jobs/become-a-lifeguard/
+/lifeguards                               301  /services/working-jobs/find-a-job-or-internship/become-a-lifeguard/
 /lirequest                                301  /li/pages/foodlicenseinspection.aspx
 /lobbying                                 301  http://plis.cloudapp.net
 /localcontrolsurvey                       301  /departments/mayor/share-what-you-want-in-your-schools/
