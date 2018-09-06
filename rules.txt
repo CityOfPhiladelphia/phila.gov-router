@@ -256,10 +256,13 @@
 /reentry                                  301  http://rise.phila.gov/
 /regulations-rulings/(.*)                 301  /services/payments-assistance-taxes/regulations-rulings/
 /revenue                                  301  /departments/department-of-revenue/
-/revenue/businesses                       301  /services/payments-assistance-taxes/business-taxes/
+/revenue/individuals/(.*)                 301  /departments/department-of-revenue/
+/revenue/payments/(.*)                    301  /departments/department-of-revenue/
+/revenue/waterbills/(.*)                  301  /departments/department-of-revenue/
 /revenue/businesses/taxes/pages/amusementtax.aspx 301 /services/payments-assistance-taxes/business-taxes/amusement-tax/
 /revenue/businesses/taxes/pages/birt.aspx 301  /services/payments-assistance-taxes/business-taxes/business-income-receipts-tax-birt/
 /revenue/businesses/taxes/Pages/hoteltax.aspx 301 /services/payments-assistance-taxes/business-taxes/hotel-tax/
+/revenue/businesses/(.*)                  301  /services/payments-assistance-taxes/business-taxes/
 /revenue/eitc                             301  /documents/earned-income-tax-credit-eitc-employer-notice/
 /revenue/pages/default.aspx               301  /departments/department-of-revenue/
 /revenue/realestatetax/?(.*)              301  http://legacy.phila.gov/revenue/realestatetax/$1
