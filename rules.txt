@@ -10,7 +10,7 @@
 /artincityhall                            301  http://creativephl.org/tagged/Exhibitions-and-Performances/
 /arts                                     301  http://creativephl.org/
 /avicalculator                            301  http://avicalculator.phila.gov
-/become-a-water-customer                  301  /water-gas-utilities/become-a-water-customer/
+/become-a-water-customer                  301  /services/water-gas-utilities/become-a-water-customer/
 /benchmarking                             301  http://www.phillybuildingbenchmarking.com/
 /bids                                     301  /procurement/Pages/default.aspx
 /bidsonline                               301  https://www.phlcontracts.phila.gov/bso/
@@ -367,7 +367,7 @@
 /commerce/businessAttraction/Pages/default.aspx 301 /departments/department-of-commerce/about-us/divisions/office-of-business-development/
 /commerce/neighborhoods/Pages/default.aspx 301 /departments/department-of-commerce/investing-in-neighborhoods/
 /commerce/businessSupport/Pages/default.aspx 301 /departments/department-of-commerce/supporting-business/
-/commerce/realestate/?(.*)                301  /commerce/realestate/$1
+/commerce/realestate/?(.*)                301  /commerce/realestate/Pages/default.aspx
 /commerce/(.*)                            301  /departments/department-of-commerce/
 /businesssupport                          301  /departments/department-of-commerce/supporting-business/
 /businessattraction                       301  /departments/department-of-commerce/about-us/divisions/office-of-business-development/
