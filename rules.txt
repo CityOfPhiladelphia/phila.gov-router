@@ -367,7 +367,7 @@
 /commerce/businessAttraction/Pages/default.aspx 301 /departments/department-of-commerce/about-us/divisions/office-of-business-development/
 /commerce/neighborhoods/Pages/default.aspx 301 /departments/department-of-commerce/investing-in-neighborhoods/
 /commerce/businessSupport/Pages/default.aspx 301 /departments/department-of-commerce/supporting-business/
-/commerce/realestate/?(.*)                301  /commerce/realestate/$1
+/commerce/realestate/?(.*)                301  /commerce/realestate/Pages/default.aspx
 /commerce/(.*)                            301  /departments/department-of-commerce/
 /businesssupport                          301  /departments/department-of-commerce/supporting-business/
 /businessattraction                       301  /departments/department-of-commerce/about-us/divisions/office-of-business-development/
