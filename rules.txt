@@ -375,3 +375,4 @@
 /zipcheck                                 301  /documents/zipcheck-application/
 /med-week                                 301  /spotlight/philadelphia-minority-enterprise-development-med-week/
 /programs/energy-benchmarking/            301  http://www.phillybuildingbenchmarking.com/
+/dhs/cuacontact.html                      301  /dhs
