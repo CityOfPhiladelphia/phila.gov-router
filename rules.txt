@@ -66,9 +66,9 @@
 /departments/revenue                      301  /departments/department-of-revenue/
 /departments/water-sewer-stormwater-rate-board 301 /departments/water-sewer-storm-water-rate-board/
 /dhcd/?(.*)                               301  http://ohcdphila.org/$1
-/dhs                                      301  /departments/department-of-human-services/
 /dhs/about                                301  /departments/department-of-human-services/about-us/
 /dhs/qpi                                  301  /programs/quality-parenting-initiative-qpi/
+/dhs(.*)                                  301  /departments/department-of-human-services/
 /disputes-appeals                         301  /services/permits-violations-licenses/
 /disputes-appeals/dispute-a-water-bill    301  /services/water-gas-utilities/pay-or-dispute-a-water-bill/dispute-a-water-bill/
 /districtattorney/pages/pressreleases.aspx 301 https://phillyda.wordpress.com/
@@ -375,4 +375,3 @@
 /zipcheck                                 301  /documents/zipcheck-application/
 /med-week                                 301  /spotlight/philadelphia-minority-enterprise-development-med-week/
 /programs/energy-benchmarking/            301  http://www.phillybuildingbenchmarking.com/
-/dhs/cuacontact.html                      301  /dhs
