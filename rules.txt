@@ -255,15 +255,14 @@
 /recreation                               301  /departments/philadelphia-parks-recreation/
 /reentry                                  301  http://rise.phila.gov/
 /regulations-rulings/(.*)                 301  /services/payments-assistance-taxes/regulations-rulings/
-/revenue                                  301  /departments/department-of-revenue/
-/revenue/businesses                       301  /services/payments-assistance-taxes/business-taxes/
 /revenue/businesses/taxes/pages/amusementtax.aspx 301 /services/payments-assistance-taxes/business-taxes/amusement-tax/
 /revenue/businesses/taxes/pages/birt.aspx 301  /services/payments-assistance-taxes/business-taxes/business-income-receipts-tax-birt/
 /revenue/businesses/taxes/Pages/hoteltax.aspx 301 /services/payments-assistance-taxes/business-taxes/hotel-tax/
+/revenue/businesses/(.*)                  301  /services/payments-assistance-taxes/business-taxes/
 /revenue/eitc                             301  /documents/earned-income-tax-credit-eitc-employer-notice/
-/revenue/pages/default.aspx               301  /departments/department-of-revenue/
 /revenue/realestatetax/?(.*)              301  http://legacy.phila.gov/revenue/realestatetax/$1
 /revenue/taxpro/pages/refundpetitions.aspx 301 /documents/income-based-wage-tax-refund-petition/
+/revenue(.*)                              301  /departments/department-of-revenue/
 /rise/employer/pages/banthebox.aspx       301  /humanrelations/pages/default.aspx
 /risk                                     301  /finance/units-RiskManagement.html
 /rows                                     301  https://phl.my.salesforce.com
@@ -329,7 +328,7 @@
 /water/stormwater_billing.html            301  /water/wu/stormwater/Pages/default.aspx
 /water/swmap                              301  http://web02.phila.gov/water/swmap
 /waterbillhelp                            301  /services/water-gas-utilities/pay-or-dispute-a-water-bill/water-bill-customer-assistance/
-/waterrev                                 301  /revenue
+/waterrev                                 301  /departments/department-of-revenue
 /welcomingweek2016                        301  /posts/office-of-immigrant-affairs/2016-08-31-welcoming-week-2016/
 /welcomingweek2017                        301  /posts/office-of-immigrant-affairs/2017-08-31-welcoming-week-2017/
 /wills                                    301  http://secureprod.phila.gov/wills/
