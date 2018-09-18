@@ -328,7 +328,7 @@
 /water/stormwater_billing.html            301  /water/wu/stormwater/Pages/default.aspx
 /water/swmap                              301  http://web02.phila.gov/water/swmap
 /waterbillhelp                            301  /services/water-gas-utilities/water-bill-customer-assistance/
-/waterrev                                 301  /revenue
+/waterrev                                 301  /departments/department-of-revenue
 /welcomingweek2016                        301  /posts/office-of-immigrant-affairs/2016-08-31-welcoming-week-2016/
 /welcomingweek2017                        301  /posts/office-of-immigrant-affairs/2017-08-31-welcoming-week-2017/
 /wills                                    301  http://secureprod.phila.gov/wills/
