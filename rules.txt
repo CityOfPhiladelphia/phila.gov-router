@@ -1,6 +1,7 @@
 /2015waterquality                         301  /water/pdf/2015waterquality.pdf
 /2016-water-quality-data                  301  /water/PDF/2016-water-quality-results.pdf
 /2016waterquality                         301  /water/wu/water%20quality%20reports/2016waterquality.pdf
+/311/report-an-issue                      301  https://iframe.publicstuff.com/#?client_id=242
 /aco                                      301  /mcpd/
 /actionguides                             301  /the-latest/#action-guides
 /agefriendly                              301  https://secure.jotform.us/philagov/mca-survey/
