@@ -66,6 +66,7 @@
 /departments/mayors-office-of-education/community-schools/alain-locke-school/ 310 /programs/community-schools/alain-locke-school/
 /departments/mayors-office-of-education/community-schools/george-washington-high-school/ 301 /programs/community-schools/george-washington-high-school/
 /departments/mayors-office-of-education/community-schools/samuel-gompers-school/ 301 /programs/community-schools/samuel-gompers-school/
+/departments/mayors-office-of-education/community-schools/south-philadelphia-high-school/ 310 /programs/community-schools/south-philadelphia-high-school/
 /departments/mayors-office-of-education/community-schools/tilden-middle-school/ 301 /programs/community-schools/tilden-middle-school/
 /departments/parks-recreation             301  /departments/philadelphia-parks-recreation/
 /departments/revenue                      301  /departments/department-of-revenue/
@@ -286,7 +287,7 @@
 /services/water-gas-utilities/water-sewer-services/become-a-water-customer/ 301 /services/water-gas-utilities/become-a-water-customer/
 /smartchoice/?$                           301  /departments/department-of-commerce/about-us/divisions/office-of-business-development/
 /southwark                                301  /departments/mayors-office-of-education/community-schools/southwark-elementary-school/
-/sphs                                     301  /departments/mayors-office-of-education/community-schools/south-philadelphia-high-school/
+/sphs                                     301  /programs/community-schools/south-philadelphia-high-school/
 /stormwater-planter                       301  http://www.stormwaterpa.org/creating-community-columbus-square-park.html?key=1
 /stormwater-tools                         301  http://stormwaterpa.org/green-city,-clean-waters.html?key=0
 /stormwater-tree                          301  http://www.stormwaterpa.org/soak-it-up-stormwater-trees.html?key=0
