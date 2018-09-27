@@ -63,6 +63,7 @@
 /departments/mayor/get-involved           301  /departments/mayor/#action-modal
 /departments/mayor/quality-pre-k          301  /departments/mayors-office-of-education/quality-pre-k-newsletter-signup/
 /departments/mayors-office-of-community-empowerment-and-opportunity 301 /departments/office-of-community-empowerment-and-opportunity/
+/departments/mayors-office-of-education/community-schools 301 /programs/community-schools/
 /departments/mayors-office-of-education/community-schools/alain-locke-school 310 /programs/community-schools/alain-locke-school/
 /departments/mayors-office-of-education/community-schools/edward-gideon-elementary-school 301 /programs/community-schools/edward-gideon-elementary-school/
 /departments/mayors-office-of-education/community-schools/f-s-edmonds-elementary-school 301 /programs/community-schools/f-s-edmonds-elementary-school/
