@@ -65,6 +65,7 @@
 /departments/mayors-office-of-community-empowerment-and-opportunity 301 /departments/office-of-community-empowerment-and-opportunity/
 /departments/mayors-office-of-education/community-schools/alain-locke-school/ 310 /programs/community-schools/alain-locke-school/
 /departments/mayors-office-of-education/community-schools/george-washington-high-school/ 301 /programs/community-schools/george-washington-high-school/
+/departments/mayors-office-of-education/community-schools/james-logan-elementary-school/ 301 /programs/community-schools/james-logan-elementary-school/
 /departments/mayors-office-of-education/community-schools/samuel-gompers-school/ 301 /programs/community-schools/samuel-gompers-school/
 /departments/mayors-office-of-education/community-schools/south-philadelphia-high-school/ 301 /programs/community-schools/south-philadelphia-high-school/
 /departments/mayors-office-of-education/community-schools/southwark-elementary-school/ 301 /programs/community-schools/southwark-school/
@@ -152,7 +153,7 @@
 /lobbying                                 301  http://plis.cloudapp.net
 /localcontrolsurvey                       301  /departments/mayor/share-what-you-want-in-your-schools/
 /locke                                    301  /programs/community-schools/alain-locke-school/
-/logan                                    301  /departments/mayors-office-of-education/community-schools/james-logan-elementary-school/
+/logan                                    301  /programs/community-schools/james-logan-elementary-school/
 /loop/pages/default.aspx                  301  /services/payments-assistance-taxes/income-based-assistance-programs/longtime-owner-occupants-program/
 /map                                      301  http://gsg.phila.gov/map
 /maps/imageryviewer                       301  http://phl.maps.arcgis.com/apps/MapSeries/index.html?appid=a0378ae03f6d4b1c9a186c4cdc396894
