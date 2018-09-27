@@ -65,6 +65,7 @@
 /departments/mayors-office-of-community-empowerment-and-opportunity 301 /departments/office-of-community-empowerment-and-opportunity/
 /departments/mayors-office-of-education/community-schools/alain-locke-school/ 310 /programs/community-schools/alain-locke-school/
 /departments/mayors-office-of-education/community-schools/george-washington-high-school/ 301 /programs/community-schools/george-washington-high-school/
+/departments/mayors-office-of-education/community-schools/samuel-gompers-school/ 301 /programs/community-schools/samuel-gompers-school/
 /departments/parks-recreation             301  /departments/philadelphia-parks-recreation/
 /departments/revenue                      301  /departments/department-of-revenue/
 /departments/water-sewer-stormwater-rate-board 301 /departments/water-sewer-storm-water-rate-board/
@@ -100,7 +101,7 @@
 /getmarried                               301  http://secureprod.phila.gov/wills/marriagelicense.aspx
 /gideon                                   301  /departments/mayors-office-of-education/community-schools/edward-gideon-elementary-school/
 /globalphiladelphia                       301  /departments/office-of-immigrant-affairs/
-/gompers                                  301  /departments/mayors-office-of-education/community-schools/samuel-gompers-school/
+/gompers                                  301  /programs/community-schools/samuel-gompers-school/
 /green                                    301  /departments/office-of-sustainability/
 /guncontrolpolicies                       301  /2018-03-20-gun-control-policies/
 /gwhs                                     301  /programs/community-schools/george-washington-high-school/
