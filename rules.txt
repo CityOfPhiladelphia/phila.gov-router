@@ -66,6 +66,7 @@
 /departments/mayors-office-of-education/community-schools/alain-locke-school/ 310 /programs/community-schools/alain-locke-school/
 /departments/mayors-office-of-education/community-schools/george-washington-high-school/ 301 /programs/community-schools/george-washington-high-school/
 /departments/mayors-office-of-education/community-schools/samuel-gompers-school/ 301 /programs/community-schools/samuel-gompers-school/
+/departments/mayors-office-of-education/community-schools/tilden-middle-school/ 301 /programs/community-schools/tilden-middle-school/
 /departments/parks-recreation             301  /departments/philadelphia-parks-recreation/
 /departments/revenue                      301  /departments/department-of-revenue/
 /departments/water-sewer-stormwater-rate-board 301 /departments/water-sewer-storm-water-rate-board/
@@ -303,7 +304,7 @@
 /tax-refunds                              301  /services/payments-assistance-taxes/
 /tax-refunds/request-a-refund             301  /services/payments-assistance-taxes/refunds/
 /theoval                                  301  http://www.theovalphl.org/
-/tilden                                   301  /departments/mayors-office-of-education/community-schools/tilden-middle-school/
+/tilden                                   301  /programs/community-schools/tilden-middle-school/
 /towing                                   301  /programs/philadelphias-rotational-towing-program/
 /townwatch/services.htm(l)?               301  /townwatch
 /transitionreport                         301  /documents/transition-report/
