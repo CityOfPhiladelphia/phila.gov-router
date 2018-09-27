@@ -63,6 +63,7 @@
 /departments/mayor/get-involved           301  /departments/mayor/#action-modal
 /departments/mayor/quality-pre-k          301  /departments/mayors-office-of-education/quality-pre-k-newsletter-signup/
 /departments/mayors-office-of-community-empowerment-and-opportunity 301 /departments/office-of-community-empowerment-and-opportunity/
+/departments/mayors-office-of-education/community-schools/alain-locke-school/ 310 /programs/community-schools/alain-locke-school/
 /departments/parks-recreation             301  /departments/philadelphia-parks-recreation/
 /departments/revenue                      301  /departments/department-of-revenue/
 /departments/water-sewer-stormwater-rate-board 301 /departments/water-sewer-storm-water-rate-board/
@@ -145,7 +146,7 @@
 /lirequest                                301  /li/pages/foodlicenseinspection.aspx
 /lobbying                                 301  http://plis.cloudapp.net
 /localcontrolsurvey                       301  /departments/mayor/share-what-you-want-in-your-schools/
-/locke                                    301  /departments/mayors-office-of-education/community-schools/alain-locke-school/
+/locke                                    301  /programs/community-schools/alain-locke-school/
 /logan                                    301  /departments/mayors-office-of-education/community-schools/james-logan-elementary-school/
 /loop/pages/default.aspx                  301  /services/payments-assistance-taxes/income-based-assistance-programs/longtime-owner-occupants-program/
 /map                                      301  http://gsg.phila.gov/map
