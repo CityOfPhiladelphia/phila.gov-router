@@ -65,7 +65,7 @@
 /departments/mayors-office-of-community-empowerment-and-opportunity 301 /departments/office-of-community-empowerment-and-opportunity/
 /departments/mayors-office-of-education/career-technical-education 301 /programs/career-technical-education/
 /departments/mayors-office-of-education/community-schools 301 /programs/community-schools/
-/departments/mayors-office-of-education/community-schools/alain-locke-school 310 /programs/community-schools/alain-locke-school/
+/departments/mayors-office-of-education/community-schools/alain-locke-school 301 /programs/community-schools/alain-locke-school/
 /departments/mayors-office-of-education/community-schools/edward-gideon-elementary-school 301 /programs/community-schools/edward-gideon-elementary-school/
 /departments/mayors-office-of-education/community-schools/f-s-edmonds-elementary-school 301 /programs/community-schools/f-s-edmonds-elementary-school/
 /departments/mayors-office-of-education/community-schools/george-washington-high-school 301 /programs/community-schools/george-washington-high-school/
