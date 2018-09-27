@@ -69,6 +69,7 @@
 /departments/mayors-office-of-education/community-schools/george-washington-high-school/ 301 /programs/community-schools/george-washington-high-school/
 /departments/mayors-office-of-education/community-schools/james-logan-elementary-school/ 301 /programs/community-schools/james-logan-elementary-school/
 /departments/mayors-office-of-education/community-schools/kensington-health-sciences-academy/ 301 /programs/community-schools/kensington-health-sciences-academy/
+/departments/mayors-office-of-education/community-schools/murrell-dobbins-cte-high-school/ 301 /programs/community-schools/murrell-dobbins-cte-high-school/
 /departments/mayors-office-of-education/community-schools/samuel-gompers-school/ 301 /programs/community-schools/samuel-gompers-school/
 /departments/mayors-office-of-education/community-schools/south-philadelphia-high-school/ 301 /programs/community-schools/south-philadelphia-high-school/
 /departments/mayors-office-of-education/community-schools/southwark-elementary-school/ 301 /programs/community-schools/southwark-school/
@@ -85,7 +86,7 @@
 /districtattorney/pages/pressreleases.aspx 301 https://phillyda.wordpress.com/
 /districtattorney/resources/pages/pressreleases.aspx 301 https://phillyda.wordpress.com/
 /dnc                                      301  /events/democratic-national-convention/
-/dobbins                                  301  /departments/mayors-office-of-education/community-schools/murrell-dobbins-cte-high-school/
+/dobbins                                  301  /programs/community-schools/murrell-dobbins-cte-high-school/
 /documents/2015-income-based-wage-tax-refund-petition 301 /documents/income-based-wage-tax-refund-petition/
 /documents/readynotifypa-brochure         301  /documents/ready-philadelphia-brochure/
 /dot                                      301  /it
