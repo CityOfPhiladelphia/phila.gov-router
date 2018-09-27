@@ -66,6 +66,7 @@
 /departments/mayors-office-of-education/community-schools/alain-locke-school/ 310 /programs/community-schools/alain-locke-school/
 /departments/mayors-office-of-education/community-schools/george-washington-high-school/ 301 /programs/community-schools/george-washington-high-school/
 /departments/mayors-office-of-education/community-schools/james-logan-elementary-school/ 301 /programs/community-schools/james-logan-elementary-school/
+/departments/mayors-office-of-education/community-schools/kensington-health-sciences-academy/ 301 /programs/community-schools/kensington-health-sciences-academy/
 /departments/mayors-office-of-education/community-schools/samuel-gompers-school/ 301 /programs/community-schools/samuel-gompers-school/
 /departments/mayors-office-of-education/community-schools/south-philadelphia-high-school/ 301 /programs/community-schools/south-philadelphia-high-school/
 /departments/mayors-office-of-education/community-schools/southwark-elementary-school/ 301 /programs/community-schools/southwark-school/
@@ -136,7 +137,7 @@
 /it/aboutus/pages/employment.aspx         301  https://www.smartrecruiters.com/OfficeOfInnovationTechnology
 /itjobs                                   301  https://www.smartrecruiters.com/OfficeOfInnovationTechnology
 /iwa                                      301  https://goo.gl/forms/bgDbXCvrvpJoRpul2
-/khsa                                     301  /departments/mayors-office-of-education/community-schools/kensington-health-sciences-academy/
+/khsa                                     301  /programs/community-schools/kensington-health-sciences-academy/
 /landbank                                 301  http://www.philadelphialandbank.org
 /leadhealthyhomes                         301  /health/childhoodlead/landlordtenants.html
 /lgbt-pride-month                         301  /spotlight/lgbt-pride-month
