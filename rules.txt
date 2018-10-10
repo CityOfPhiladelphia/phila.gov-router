@@ -164,6 +164,7 @@
 /locke                                    301  /programs/community-schools/alain-locke-school/
 /logan                                    301  /programs/community-schools/james-logan-elementary-school/
 /loop/pages/default.aspx                  301  /services/payments-assistance-taxes/income-based-assistance-programs/longtime-owner-occupants-program/
+/love-park                                301  /spotlight/love-park/
 /map                                      301  http://gsg.phila.gov/map
 /maps/imageryviewer                       301  http://phl.maps.arcgis.com/apps/MapSeries/index.html?appid=a0378ae03f6d4b1c9a186c4cdc396894
 /maps/vacancy                             301  http://phl.maps.arcgis.com/apps/webappviewer/index.html?id=64ac160773d04952bc17ad895cc00680
@@ -398,4 +399,4 @@
 /programs/stemcityphl                     301  http://www.stemcityphl.org/
 /zipcheck                                 301  /documents/zipcheck-application/
 /med-week                                 301  /spotlight/philadelphia-minority-enterprise-development-med-week/
-/programs/energy-benchmarking/            301  http://www.phillybuildingbenchmarking.com/
+/programs/energy-benchmarking/            301  http://www.phillybuildingbenchmarking.com/      
