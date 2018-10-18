@@ -78,6 +78,7 @@
 /departments/mayors-office-of-education/community-schools/tilden-middle-school 301 /programs/community-schools/tilden-middle-school/
 /departments/mayors-office-of-education/community-schools/william-cramp-elementary-school 301 /programs/community-schools/william-cramp-elementary-school/
 /departments/mayors-office-of-education/quality-pre-k 301 /programs/quality-pre-k/
+/departments/office-of-transportation-infrastructure-systems/ 301 /departments/office-of-transportation-infrastructure-sustainability/
 /departments/parks-recreation             301  /departments/philadelphia-parks-recreation/
 /departments/revenue                      301  /departments/department-of-revenue/
 /departments/water-sewer-stormwater-rate-board 301 /departments/water-sewer-storm-water-rate-board/
@@ -399,4 +400,4 @@
 /programs/stemcityphl                     301  http://www.stemcityphl.org/
 /zipcheck                                 301  /documents/zipcheck-application/
 /med-week                                 301  /spotlight/philadelphia-minority-enterprise-development-med-week/
-/programs/energy-benchmarking/            301  http://www.phillybuildingbenchmarking.com/      
+/programs/energy-benchmarking/            301  http://www.phillybuildingbenchmarking.com/
