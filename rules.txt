@@ -402,3 +402,4 @@
 /zipcheck                                 301  /documents/zipcheck-application/
 /med-week                                 301  /spotlight/philadelphia-minority-enterprise-development-med-week/
 /programs/energy-benchmarking/            301  http://www.phillybuildingbenchmarking.com/
+/clip/graffitiremoval/Pages/GraffitiRemovalRequestForm.aspx 301 http://iframe.publicstuff.com/#?client_id=242&request_type_id=1012143
