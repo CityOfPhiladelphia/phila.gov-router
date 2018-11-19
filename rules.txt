@@ -134,6 +134,7 @@
 /health/medicalexaminer                   301  /departments/medical-examiners-office/
 /health/peds                              301  /services/mental-physical-health/get-health-care-and-support/family-and-childrens-health-care/get-pediatric-health-care/
 /health/tobaccopermits                    301  /services/permits-violations-licenses/business-licenses-permits-and-approvals/tobacco-retailers/get-a-tobacco-retailer-permit/
+/health/                                  301  /departments/department-of-public-health/
 /health(.*)                               301  /departments/department-of-public-health/
 /helpme                                   301  /311/Pages/default.aspx
 /hhs/privacy                              301  /hhs/pages/privacy.aspx
