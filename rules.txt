@@ -6,9 +6,8 @@
 /actionguides                             301  /the-latest/#action-guides
 /agefriendly                              301  https://secure.jotform.us/philagov/mca-survey/
 /aging(.*)                                301  /departments/mayors-commission-on-aging/
-/aqi-redirect                             301  /aqi/
-/aqi$                                     301  /aqi/
-# /aqi/(.*)                               200  http://legacy.phila.gov/aqi/$1 # handled by cloudfront behavior
+/aqi-redirect                             301  /services/mental-physical-health/environmental-health-hazards/air-quality/
+/aqi(.*)                                  301  /services/mental-physical-health/environmental-health-hazards/air-quality/
 /artincityhall                            301  http://creativephl.org/tagged/Exhibitions-and-Performances/
 /arts                                     301  http://creativephl.org/
 /avicalculator                            301  http://avicalculator.phila.gov
