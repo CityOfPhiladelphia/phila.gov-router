@@ -416,3 +416,4 @@
 /programs/energy-benchmarking/            301  http://www.phillybuildingbenchmarking.com/
 /clip/graffitiremoval/Pages/GraffitiRemovalRequestForm.aspx 301 http://iframe.publicstuff.com/#?client_id=242&request_type_id=1012143
 /marathonweekend                          301  https://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=0ca57907cd62405ebada2b0d80658a65
+/armynavygame                             301 https://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=e95a27f5b7874ce78147677cf605b1b6
