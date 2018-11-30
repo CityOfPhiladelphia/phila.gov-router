@@ -38,7 +38,15 @@
 /clean-waters                             301  http://stormwaterpa.org/green-city,-clean-waters.html?key=1
 /climatechangeisreal$                     301  /climatechangeisreal/
 /climatechangeisreal/(.*)                 200  https://cityofphiladelphia.github.io/climatechangeisreal/$1
-/clip                                     301  /departments/community-life-improvement-program/
+/clip/aboutus/Pages/communityservicerequest.aspx 301 /programs/community-service-program/community-service-program-request-form/
+/clip/aboutus/Pages/CommunityServiceProgram.aspx 301 /programs/community-service-program/
+/clip/communitypartnershipprogram/Pages/CPPRequestFormaspx.aspx 301 /programs/community-partnership-program/community-partnership-program-request-form/
+/clip/communitypartnershipprogram/Pages/EffectiveCleanup.aspx 301 /programs/community-partnership-program/how-to-organize-an-effective-cleanup/
+/clip/communitypartnershipprogram/Pages/default.aspx 301 /programs/community-partnership-program/
+/clip/graffitiremoval/Pages/GraffitiRemovalRequestForm.aspx 301 http://iframe.publicstuff.com/#?client_id=242&request_type_id=1012143
+/clip/graffitiremoval(.*)                 301 /services/streets-sidewalks-alleys/report-graffiti/
+/clip/vacantlotprogram/pages/default.aspx 301  /programs/vacant-lot-program/
+/clip(.*)                                     301  /departments/community-life-improvement-program/
 /commissioners                            301  http://www.philadelphiavotes.com/
 /content-style-guide                      301  http://standards.phila.gov/guidelines/content/
 /content-style-guide/(.*)                 301  http://standards.phila.gov/guidelines/content/
@@ -393,7 +401,6 @@
 /reports/index.html                       301  /programs/open-data-program/
 /reports/(.*)                             301  /department-of-revenue/reports/
 /senior-freeze                            301  /services/payments-assistance-taxes/senior-citizen-discounts/low-income-senior-citizen-real-estate-tax-freeze/
-/clip/vacantlotprogram/pages/default.aspx 301  /programs/vacant-lot-program/
 /active-duty-credit                       301  /services/payments-assistance-taxes/tax-credits/active-duty-tax-credit/
 /eeo-?complaint?                          301  /services/working-jobs/file-a-sexual-harassment-complaint/
 /school-income-tax                        301  /services/payments-assistance-taxes/income-taxes/school-income-tax/
@@ -413,5 +420,5 @@
 /zipcheck                                 301  /documents/zipcheck-application/
 /med-week                                 301  /spotlight/philadelphia-minority-enterprise-development-med-week/
 /programs/energy-benchmarking/            301  http://www.phillybuildingbenchmarking.com/
-/clip/graffitiremoval/Pages/GraffitiRemovalRequestForm.aspx 301 http://iframe.publicstuff.com/#?client_id=242&request_type_id=1012143
 /marathonweekend                          301  https://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=0ca57907cd62405ebada2b0d80658a65
+/armynavygame                             301 https://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=e95a27f5b7874ce78147677cf605b1b6
