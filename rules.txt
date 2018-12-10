@@ -306,7 +306,7 @@
 /revenue/eitc                             301  /documents/earned-income-tax-credit-eitc-employer-notice/
 /revenue/installment-plan                 301  /services/payments-assistance-taxes/payment-plans/real-estate-tax-installment-plan/
 /revenue/payoff-request-form              301  /documents/bill-certification-and-payoff-request-form/
-/revenue/realestatetax/?(.*)              301  http://legacy.phila.gov/revenue/realestatetax/$1
+/revenue/realestatetax/?(.*)              301  http://realestatetax.s3-website-us-east-1.amazonaws.com/$1
 /revenue/tax-forms                        301  /services/payments-assistance-taxes/tax-forms-instructions/
 /revenue/taxpro/pages/refundpetitions.aspx 301 /documents/income-based-wage-tax-refund-petition/
 /revenue/wage-tax-petition                301  /documents/income-based-wage-tax-refund-petition/
