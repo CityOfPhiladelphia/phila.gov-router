@@ -33,7 +33,7 @@
 /citylandmarks                            301  http://phl.maps.arcgis.com/apps/CrowdsourceReporter/index.html?appid=7fa0d185a2bd4ada90151b378aea2e1e
 /citymaps                                 301  http://citymaps.phila.gov/Map/
 /cityrep                                  301  /departments/office-of-the-city-representative/
-/cityscholarship                          301  /documents/philadelphia-city-scholarship-program-application/
+/cityscholarship                          301  /2018-12-06-high-school-seniors-apply-for-the-philadelphia-city-scholarship/
 /civilservice                             301  /personnel/civilservice.html
 /clean-waters                             301  http://stormwaterpa.org/green-city,-clean-waters.html?key=1
 /climatechangeisreal$                     301  /climatechangeisreal/
