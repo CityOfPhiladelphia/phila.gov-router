@@ -422,4 +422,5 @@
 /med-week                                 301  /spotlight/philadelphia-minority-enterprise-development-med-week/
 /programs/energy-benchmarking/            301  http://www.phillybuildingbenchmarking.com/
 /marathonweekend                          301  https://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=0ca57907cd62405ebada2b0d80658a65
-/armynavygame                             301 https://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=e95a27f5b7874ce78147677cf605b1b6
+/armynavygame                             301  https://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=e95a27f5b7874ce78147677cf605b1b6
+/uas                                      301  https://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=d93906e2068e4eaa9c0e505287b959e2 
