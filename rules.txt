@@ -272,6 +272,8 @@
 /press-releases                           301  /the-latest/archives/?template=press_release
 /prisons/inmatelocator/?(.*)              301  http://legacy.phila.gov/prisons/inmatelocator/$1
 /privacy/index.html                       301  /Pages/privacy.aspx
+/programs/combating-the-opioid-epidemic/the-citys-response/the-philadelphia-resilience-project 301 /programs/philadelphia-resilience-project
+/programs/combating-the-opioid-epidemic/the-citys-response/the-philadelphia-resilience-project/support-the-philadelphia-resilience-project 301 /programs/philadelphia-resilience-project/support-the-philadelphia-resilience-project
 /programs-initiatives                     301  /programs
 /property                                 301  https://property.phila.gov
 /property-assessments                     301  /services/property-lots-housing/
@@ -295,6 +297,7 @@
 /recreation                               301  /departments/philadelphia-parks-recreation/
 /reentry                                  301  http://rise.phila.gov/
 /regulations-rulings/(.*)                 301  /services/payments-assistance-taxes/regulations-rulings/
+/resilientPHL                             301  /programs/philadelphia-resilience-project/
 /revenue/active-duty-tax-credit           301  /services/payments-assistance-taxes/tax-credits/active-duty-tax-credit/
 /revenue/birt-regs                        301  /documents/business-income-receipts-tax-birt-regulations/
 /revenue/businesses/taxes/pages/amusementtax.aspx 301 /services/payments-assistance-taxes/business-taxes/amusement-tax/
