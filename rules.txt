@@ -49,6 +49,8 @@
 /clip/vacantlotprogram/pages/default.aspx 301  /programs/vacant-lot-program/
 /clip(.*)                                     301  /departments/community-life-improvement-program/
 /commissioners                            301  http://www.philadelphiavotes.com/
+/commerce/realEstate/developerServices/Pages/default.aspx 301 /departments/department-of-planning-and-development/development-services/
+/commerce/realEstate/developerServices/Pages/DevelopmentServicesCommittee.aspx 301 /departments/department-of-planning-and-development/development-services/
 /content-style-guide                      301  http://standards.phila.gov/guidelines/content/
 /content-style-guide/(.*)                 301  http://standards.phila.gov/guidelines/content/
 /contractprepfee                          301  https://www.officialpayments.com/pc_entry_cobrand.jsp?productId=635840624434951202173815789925863516
@@ -427,3 +429,4 @@
 /programs/energy-benchmarking/            301  http://www.phillybuildingbenchmarking.com/
 /marathonweekend                          301  https://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=0ca57907cd62405ebada2b0d80658a65
 /armynavygame                             301 https://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=e95a27f5b7874ce78147677cf605b1b6
+/mummers                                  301  https://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=4a5872ec814b48cfb9e2eb6b5d3992dc 
