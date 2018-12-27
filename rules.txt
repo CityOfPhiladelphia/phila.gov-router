@@ -9,6 +9,7 @@
 /aging(.*)                                301  /departments/mayors-commission-on-aging/
 /aqi-redirect                             301  /services/mental-physical-health/environmental-health-hazards/air-quality/
 /aqi(.*)                                  301  /services/mental-physical-health/environmental-health-hazards/air-quality/
+/armynavygame                             301  https://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=e95a27f5b7874ce78147677cf605b1b6
 /artincityhall                            301  http://creativephl.org/tagged/Exhibitions-and-Performances/
 /arts                                     301  http://creativephl.org/
 /avicalculator                            301  http://avicalculator.phila.gov
@@ -206,6 +207,7 @@
 /mois                                     301  /it
 /motu                                     301  http://www.phillyotis.com
 /mrc                                      301  /programs/philadelphia-medical-reserve-corps-pmrc/
+/mummers                                  301  https://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=4a5872ec814b48cfb9e2eb6b5d3992dc
 /news                                     301  /the-latest/
 /news/mayor/affordable-housing-community-development-action-guide 301 /2017-12-11-proposed-department-of-housing-and-urban-development-hud-funding-cuts/
 /news/mayor/lgbtq-protections-city-of-philadelphia-action-guide 301 /2017-12-04-philadelphias-lgbtq-protections/
@@ -428,5 +430,4 @@
 /med-week                                 301  /spotlight/philadelphia-minority-enterprise-development-med-week/
 /programs/energy-benchmarking/            301  http://www.phillybuildingbenchmarking.com/
 /marathonweekend                          301  https://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=0ca57907cd62405ebada2b0d80658a65
-/armynavygame                             301 https://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=e95a27f5b7874ce78147677cf605b1b6
-/mummers                                  301  https://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=4a5872ec814b48cfb9e2eb6b5d3992dc 
+/uas                                      301  https://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=d93906e2068e4eaa9c0e505287b959e2
