@@ -431,3 +431,4 @@
 /programs/energy-benchmarking/            301  http://www.phillybuildingbenchmarking.com/
 /marathonweekend                          301  https://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=0ca57907cd62405ebada2b0d80658a65
 /uas                                      301  https://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=d93906e2068e4eaa9c0e505287b959e2
+/water/lcrsurvey                          301  https://www.phila.gov/water/wu/drinkingwater/lead/Pages/LCR-survey.aspx
