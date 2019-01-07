@@ -371,12 +371,12 @@
 /water-shutoffs                           301  /services/water-gas-utilities/water-shutoffs/
 /water-shutoffs/reasons-for-water-shutoffs 301 /services/water-gas-utilities/water-shutoffs/reasons-for-water-shutoff/
 /water/2014waterquality                   301  /water/pdf/2014waterquality.pdf
-/water/2017lcrsurvey                      301  /water/wu/drinkingwater/lead/pages/lcr-survey.aspx
 /water/billhelp                           301  /water/educationoutreach/customerassistance/pages/default.aspx
 /water/bpp                                301  /water/pdf/bppsummary-8-2015.pdf
 /water/ccc.html                           301  /water/wu/drinkingwater/pages/crossconnectioncontrol.aspx
 /water/helploan                           301  /water/educationoutreach/customerassistance/Pages/HelpLoan.aspx
 /water/iwu.html                           301  /water/wu/wastewater/pages/industrialwaste.aspx
+/water/lcrsurvey                          301  /water/wu/drinkingwater/lead/Pages/LCR-survey.aspx
 /water/lead                               301  /water/wu/drinkingwater/lead/Pages/default.aspx
 /water/notifications                      301  /water/aboutus/pages/notifications.aspx
 /water/rateboard                          301  /departments/water-sewer-storm-water-rate-board/
