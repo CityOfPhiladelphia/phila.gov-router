@@ -423,7 +423,7 @@
 /school-income-tax                        301  /services/payments-assistance-taxes/income-taxes/school-income-tax/
 /solarmap                                 301  https://phl.maps.arcgis.com/apps/MapSeries/index.html?appid=c1a5d30acec04aec8c4acfa4cc60a311
 /programs/startup-phl                     301  http://startupphl.com/
-/welcoming-week                           301  /spotlight/welcoming-week-2018/                               301  /departments/department-of-commerce/
+/welcoming-week                           301  /spotlight/welcoming-week-2018/
 /businesssupport                          301  /departments/department-of-commerce/supporting-business/
 /businessattraction                       301  /departments/department-of-commerce/about-us/divisions/office-of-business-development/
 /programs/stemcityphl                     301  http://www.stemcityphl.org/
