@@ -340,6 +340,7 @@
 /services/emergency/index.html            301  http://philadelphiaofficeofhomelessservices.org/
 /services/property-lots-housing/get-the-homestead-exemption/ 301 /services/property-lots-housing/get-real-estate-tax-relief/get-the-homestead-exemption/
 /services/water-gas-utilities/water-sewer-services/become-a-water-customer/ 301 /services/water-gas-utilities/become-a-water-customer/
+/services/working-jobs/nominate-someone-for-a-mayors-day-of-service-recognition-award/ 301 /services/culture-recreation/volunteer/nominate-someone-for-a-mayors-day-of-service-recognition-award/
 /smartchoice/?$                           301  /departments/department-of-commerce/about-us/divisions/office-of-business-development/
 /southwark                                301  /programs/community-schools/southwark-school/
 /sphs                                     301  /programs/community-schools/south-philadelphia-high-school/
