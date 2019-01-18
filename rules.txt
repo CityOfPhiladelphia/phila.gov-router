@@ -26,7 +26,8 @@
 /business                                 301  https://business.phila.gov
 /business-taxes/sales-use-tax             301  /services/business-self-employment/business-taxes/sales-use-hotel-occupancy-tax/
 /business-taxes/sweetened-beverage-tax    301  /services/business-self-employment/business-taxes/philadelphia-beverage-tax/
-/business-taxes/use-occupancy-tax         301  /services/business-self-employment/business-taxes/use-occupancy-tax/
+/business-taxes/use-occupancy-tax         301  /services/business-self-employment/business-taxes/use-occupancy-
+tax/
 /business-taxes/vehicle-rental-tax        301  /services/business-self-employment/business-taxes/vehicle-rental-tax/
 /businesstaxprograms                      301  /services/payments-assistance-taxes/tax-credits/
 /citizenship                              301  /2018-01-12-citizenship-information-resources/
@@ -137,7 +138,7 @@
 /gideon                                   301  /programs/community-schools/edward-gideon-elementary-school/
 /globalphiladelphia                       301  /departments/office-of-immigrant-affairs/
 /gompers                                  301  /programs/community-schools/samuel-gompers-school/
-/green                                    301  /departments/office-of-sustainability/
+/green(.*)                                301  /departments/office-of-sustainability/
 /guncontrolpolicies                       301  /2018-03-20-gun-control-policies/
 /gwhs                                     301  /programs/community-schools/george-washington-high-school/
 /healthcenters                            301  /services/mental-physical-health/city-health-centers/
