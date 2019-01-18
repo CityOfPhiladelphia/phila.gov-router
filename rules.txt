@@ -137,7 +137,7 @@
 /gideon                                   301  /programs/community-schools/edward-gideon-elementary-school/
 /globalphiladelphia                       301  /departments/office-of-immigrant-affairs/
 /gompers                                  301  /programs/community-schools/samuel-gompers-school/
-/green                                    301  /departments/office-of-sustainability/
+/green(.*)                                301  /departments/office-of-sustainability/
 /guncontrolpolicies                       301  /2018-03-20-gun-control-policies/
 /gwhs                                     301  /programs/community-schools/george-washington-high-school/
 /healthcenters                            301  /services/mental-physical-health/city-health-centers/
