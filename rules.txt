@@ -313,6 +313,7 @@
 /recreation                               301  /departments/philadelphia-parks-recreation/
 /reentry                                  301  http://rise.phila.gov/
 /regulations-rulings/(.*)                 301  /services/payments-assistance-taxes/regulations-rulings/
+/rental-assistance                        301  /services/payments-assistance-taxes/income-based-assistance-programs/get-help-if-you-are-at-risk-of-being-evicted/
 /resilientPHL                             301  /programs/philadelphia-resilience-project/
 /revenue/active-duty-tax-credit           301  /services/payments-assistance-taxes/tax-credits/active-duty-tax-credit/
 /revenue/birt-regs                        301  /documents/business-income-receipts-tax-birt-regulations/
