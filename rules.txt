@@ -76,6 +76,7 @@
 /departments/(.*)/about/all-events        301  /the-latest/all-events/
 /departments/(.*)/all-events              301  /the-latest/all-events/
 /departments/board-of-education           301  /departments/philadelphia-board-of-education/
+/departments/commission-for-women/        301  /departments/office-of-engagement-for-women/philadelphia-commission-for-women/
 /departments/commission-on-parks-and-recreation 301 /departments/philadelphia-parks-recreation/about/the-commission-on-parks-recreation/
 /departments/education                    301  /departments/mayors-office-of-education/
 /departments/emergency-management         301  /departments/oem
@@ -201,6 +202,7 @@
 /logan                                    301  /programs/community-schools/james-logan-elementary-school/
 /loop/pages/default.aspx                  301  /services/payments-assistance-taxes/income-based-assistance-programs/longtime-owner-occupants-program/
 /love-park                                301  /spotlight/love-park/
+/mcaaa(.*)                                301  /departments/mayors-office-of-public-engagement/mayors-commission-on-asian-american-affairs/
 /map                                      301  http://gsg.phila.gov/map
 /maps/imageryviewer                       301  http://phl.maps.arcgis.com/apps/MapSeries/index.html?appid=a0378ae03f6d4b1c9a186c4cdc396894
 /maps/vacancy                             301  http://phl.maps.arcgis.com/apps/webappviewer/index.html?id=64ac160773d04952bc17ad895cc00680
@@ -412,7 +414,10 @@
 /workforce                                301  /programs/workforce-development/
 /wp-admin                                 301  https://admin.phila.gov/wp-admin/
 /wp-login.php                             301  https://admin.phila.gov/wp-login.php
-/youthcommission/pages/default.aspx       301  /youthengagement/pages/default.aspx
+/youthcommission/pages/default.aspx       301  /departments/office-of-youth-engagement/
+/youthengagement/youthcommission/Pages/default.aspx 301 /departments/office-of-youth-engagement/philadelphia-youth-commission/
+/youthengagement/mac/Pages/default.aspx   301  /departments/office-of-youth-engagement/millennial-advisory-committee/
+/youthengagement(.*)                      301  /departments/office-of-youth-engagement/
 /zika                                     301  /services/mental-physical-health/environmental-health-hazards/zika-virus/
 /zoningarchive                            301  /services/zoning-planning-development/find-location-and-zoning-information/
 /recycle                                  301  http://www.philadelphiastreets.com/sanitation/residential/
