@@ -29,6 +29,7 @@
 /business-taxes/use-occupancy-tax         301  /services/business-self-employment/business-taxes/use-occupancy-tax/
 /business-taxes/vehicle-rental-tax        301  /services/business-self-employment/business-taxes/vehicle-rental-tax/
 /businesstaxprograms                      301  /services/payments-assistance-taxes/tax-credits/
+/census                                   301  /programs/philly-counts-2020/
 /citizenship                              301  /2018-01-12-citizenship-information-resources/
 /citybudget                               301  /openbudget/
 /citycouncil                              301  http://philadelphiacitycouncil.net/
@@ -267,6 +268,8 @@
 /pchr                                     301  /humanrelations
 /performance                              301  /mdo/phillystat
 /philacode/?.*                            301  http://www.amlegal.com/codes/client/philadelphia_pa/
+/phillycounts                             301  /programs/philly-counts-2020/
+/philly-counts                            301  /programs/philly-counts-2020/
 /phillydelivers                           301  /departments/mayor/help-make-sure-phillydelivers-for-amazon/
 /phillystat                               301  /mdo/phillystat
 /phlimmigrantbiz                          301  /posts/office-of-immigrant-affairs/2017-03-09-immigrant-business-week-2017-march-27-april-1/
