@@ -116,7 +116,7 @@
 /dobbins                                  301  /programs/community-schools/murrell-dobbins-cte-high-school/
 /documents/2015-income-based-wage-tax-refund-petition 301 /documents/income-based-wage-tax-refund-petition/
 /documents/air-management-regulations/    301  /documents/air-management-guidelines-and-regulations/
-/documents/philadelphia-city-scholarship-program-application/ 310 /2018-12-06-high-school-seniors-apply-for-the-philadelphia-city-scholarship/
+/documents/philadelphia-city-scholarship-program-application/ 301 /2018-12-06-high-school-seniors-apply-for-the-philadelphia-city-scholarship/
 /documents/readynotifypa-brochure         301  /documents/ready-philadelphia-brochure/
 /dot                                      301  /it
 /education                                301  /departments/mayors-office-of-education/
