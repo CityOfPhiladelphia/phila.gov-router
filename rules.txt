@@ -29,6 +29,7 @@
 /business-taxes/use-occupancy-tax         301  /services/business-self-employment/business-taxes/use-occupancy-tax/
 /business-taxes/vehicle-rental-tax        301  /services/business-self-employment/business-taxes/vehicle-rental-tax/
 /businesstaxprograms                      301  /services/payments-assistance-taxes/tax-credits/
+/census                                   301  /programs/philly-counts-2020/
 /citizenship                              301  /2018-01-12-citizenship-information-resources/
 /citybudget                               301  /openbudget/
 /citycouncil                              301  http://philadelphiacitycouncil.net/
@@ -113,8 +114,9 @@
 /districtattorney/resources/pages/pressreleases.aspx 301 https://phillyda.wordpress.com/
 /dnc                                      301  /events/democratic-national-convention/
 /dobbins                                  301  /programs/community-schools/murrell-dobbins-cte-high-school/
-/documents/air-management-regulations/    301  /documents/air-management-guidelines-and-regulations/
 /documents/2015-income-based-wage-tax-refund-petition 301 /documents/income-based-wage-tax-refund-petition/
+/documents/air-management-regulations/    301  /documents/air-management-guidelines-and-regulations/
+/documents/philadelphia-city-scholarship-program-application/ 301 /2018-12-06-high-school-seniors-apply-for-the-philadelphia-city-scholarship/
 /documents/readynotifypa-brochure         301  /documents/ready-philadelphia-brochure/
 /dot                                      301  /it
 /education                                301  /departments/mayors-office-of-education/
@@ -267,6 +269,8 @@
 /pchr                                     301  /humanrelations
 /performance                              301  /mdo/phillystat
 /philacode/?.*                            301  http://www.amlegal.com/codes/client/philadelphia_pa/
+/phillycounts                             301  /programs/philly-counts-2020/
+/philly-counts                            301  /programs/philly-counts-2020/
 /phillydelivers                           301  /departments/mayor/help-make-sure-phillydelivers-for-amazon/
 /phillystat                               301  /mdo/phillystat
 /phlimmigrantbiz                          301  /posts/office-of-immigrant-affairs/2017-03-09-immigrant-business-week-2017-march-27-april-1/
