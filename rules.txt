@@ -230,7 +230,8 @@
 /news/office-of-immigrant-affairs/immigration-sanctuary-cities-city-of-philadelphia-action-guide 301 /2018-01-08-immigration-policies/
 /news/office-of-sustainability/environment-sustainability-city-of-philadelphia-action-guide 301 /2017-11-29-environmental-protection-during-the-trump-administration/
 /nutritionstandards                       301  /documents/city-of-philadelphia-nutrition-standards/
-/oem                                      301  /departments/emergency-management/
+/oem/sUAS-commercial-form                 301  https://veoci.com/veoci/p/form/2ftf44vkr7b3
+/oem(.*)                                  301  /departments/emergency-management/
 /oeo                                      301  /departments/office-of-economic-opportunity/
 /ohcd/?.*                                 301  http://ohcdphila.org/
 /oho                                      301  /hhs
