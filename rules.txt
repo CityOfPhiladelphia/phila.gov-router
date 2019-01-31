@@ -230,7 +230,7 @@
 /news/office-of-immigrant-affairs/immigration-sanctuary-cities-city-of-philadelphia-action-guide 301 /2018-01-08-immigration-policies/
 /news/office-of-sustainability/environment-sustainability-city-of-philadelphia-action-guide 301 /2017-11-29-environmental-protection-during-the-trump-administration/
 /nutritionstandards                       301  /documents/city-of-philadelphia-nutrition-standards/
-/oem                                      301  /departments/emergency-management/
+/oem(.*)                                  301  /departments/emergency-management/
 /oeo                                      301  /departments/office-of-economic-opportunity/
 /ohcd/?.*                                 301  http://ohcdphila.org/
 /oho                                      301  /hhs
@@ -353,6 +353,7 @@
 /services/water-gas-utilities/dispute-a-water-bill/ 301 /services/water-gas-utilities/pay-or-dispute-a-water-bill/dispute-a-water-bill/
 /services/water-gas-utilities/water-sewer-services/become-a-water-customer/ 301 /services/water-gas-utilities/become-a-water-customer/
 /services/water-gas-utilities/water-bill-customer-assistance/ 301 /services/water-gas-utilities/pay-or-dispute-a-water-bill/water-bill-customer-assistance/
+/services/working-jobs/become-a-lifeguard/ 301 /services/working-jobs/find-a-job-or-internship/become-a-lifeguard/
 /services/working-jobs/nominate-someone-for-a-mayors-day-of-service-recognition-award/ 301 /services/culture-recreation/volunteer/nominate-someone-for-a-mayors-day-of-service-recognition-award/
 /smartchoice/?$                           301  /departments/department-of-commerce/about-us/divisions/office-of-business-development/
 /southwark                                301  /programs/community-schools/southwark-school/
@@ -364,6 +365,7 @@
 /streets/backfill                         301  https://secure.phila.gov/streets/backfill/
 /streets/crplan                           301  https://secure.phila.gov/streets/commrecycling/
 /stressmap                                301  https://phl.maps.arcgis.com/apps/MapSeries/index.html?appid=47afd9a9dcfa4637a2f88024d1c210b4
+/sUAS-commercial-form                     301  https://veoci.com/veoci/p/form/2ftf44vkr7b3
 /sustainability                           301  /departments/office-of-sustainability/
 /swgrants?                                301  /water/wu/stormwater/Pages/Grants.aspx
 /tax-change                               301  /documents/tax-account-change-form
@@ -453,3 +455,5 @@
 /programs/energy-benchmarking/            301  http://www.phillybuildingbenchmarking.com/
 /marathonweekend                          301  https://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=0ca57907cd62405ebada2b0d80658a65
 /uas                                      301  https://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=d93906e2068e4eaa9c0e505287b959e2
+/specialeventpayment                      301  https://www.officialpayments.com/pc_entry_cobrand.jsp?productId=149845250351954021456528662661337179 
+/specialeventapplication                  301  https://www.officialpayments.com/pc_entry_cobrand.jsp?productId=149845250351954021456528724669927515
