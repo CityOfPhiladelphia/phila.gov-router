@@ -453,3 +453,5 @@
 /programs/energy-benchmarking/            301  http://www.phillybuildingbenchmarking.com/
 /marathonweekend                          301  https://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=0ca57907cd62405ebada2b0d80658a65
 /uas                                      301  https://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=d93906e2068e4eaa9c0e505287b959e2
+/specialeventpayment                      301  https://www.officialpayments.com/pc_entry_cobrand.jsp?productId=149845250351954021456528662661337179 
+/specialeventapplication                  301  https://www.officialpayments.com/pc_entry_cobrand.jsp?productId=149845250351954021456528724669927515
