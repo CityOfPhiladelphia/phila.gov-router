@@ -365,7 +365,7 @@
 /streets/backfill                         301  https://secure.phila.gov/streets/backfill/
 /streets/crplan                           301  https://secure.phila.gov/streets/commrecycling/
 /stressmap                                301  https://phl.maps.arcgis.com/apps/MapSeries/index.html?appid=47afd9a9dcfa4637a2f88024d1c210b4
-/streetspermitphl                         301  https://stsweb.phila.gov/permitphl
+/streetspermit                            301  https://stsweb.phila.gov/permitphl
 /sUAS-commercial-form                     301  https://veoci.com/veoci/p/form/2ftf44vkr7b3
 /sustainability                           301  /departments/office-of-sustainability/
 /swgrants?                                301  /water/wu/stormwater/Pages/Grants.aspx
