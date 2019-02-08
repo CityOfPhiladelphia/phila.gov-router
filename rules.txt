@@ -298,6 +298,7 @@
 /programs/combating-the-opioid-epidemic/the-citys-response/the-philadelphia-resilience-project/support-the-philadelphia-resilience-project 301 /programs/philadelphia-resilience-project/support-the-philadelphia-resilience-project
 /programs-initiatives                     301  /programs
 /property                                 301  https://property.phila.gov
+/property(.*)                             301  /departments/department-of-public-property/
 /property-assessments                     301  /services/property-lots-housing/
 /property-tax-balance                     301  /services/property-lots-housing/property-taxes/look-up-your-property-tax-balance/
 /property-taxes                           301  /services/property-lots-housing/property-taxes/real-estate-tax/
