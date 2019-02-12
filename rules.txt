@@ -176,8 +176,8 @@
 /income-taxes/net-profits-tax             301  /services/business-self-employment/business-taxes/net-profits-tax/
 /income-taxes/overview                    301  /services/payments-assistance-taxes/income-taxes/
 /info/?$                                  301  /info/pages/wifi.aspx
-/inspector                                301  /ig/Pages/default.aspx
-/inspectorgeneral                         301  /ig/Pages/default.aspx
+/inspector                                301  /departments/office-of-the-inspector-general/
+/inspectorgeneral                         301  /departments/office-of-the-inspector-general/
 /investorconference                       301  /investor/Pages/InvestorConference.aspx
 /it/aboutus/pages/employment.aspx         301  https://www.smartrecruiters.com/OfficeOfInnovationTechnology
 /itjobs                                   301  https://www.smartrecruiters.com/OfficeOfInnovationTechnology
@@ -235,7 +235,7 @@
 /oeo                                      301  /departments/office-of-economic-opportunity/
 /ohcd/?.*                                 301  http://ohcdphila.org/
 /oho                                      301  /hhs
-/oig                                      301  /oig
+/oig                                      301  /departments/office-of-the-inspector-general/
 /oit                                      301  /it
 /oopa                                     301  /services/payments-assistance-taxes/payment-plans/owner-occupied-real-estate-tax-payment-agreement/
 /opa/abatementsexemptions/pages/homestead.aspx 301 /services/property-lots-housing/get-the-homestead-exemption/
