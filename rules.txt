@@ -313,7 +313,7 @@
 /qualityprek                              301  /departments/mayors-office-of-education/quality-pre-k-newsletter-signup/
 /rain-garden                              301  http://stormwaterpa.org/raingarden.html?key=0
 /rconotification$                         301  /rconotification/
-/rconotification/(.*)                     200  http://planning-rco-notification-map.s3-website-us-east-1.amazonaws.com/$1
+/rconotification/(.*)                     200  http://planning-rco-notification-map-dev.s3-website-us-east-1.amazonaws.com/$1
 /rda                                      301  /pra
 /re-notification-letter                   301  /documents/risk-of-foreclosure-notification-letter/
 /ready                                    301  /departments/oem/
