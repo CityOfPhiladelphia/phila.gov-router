@@ -193,7 +193,7 @@
 /li-permit-tracker/(.*)                   200  https://cityofphiladelphia.github.io/li-permit-tracker/$1
 /li/eclipse                               301  https://eclipse.phila.gov/
 /li/zoning-appeals$                       301  /li/zoning-appeals/
-/li/zoning-appeals/(.*)                   200  http://legacy.phila.gov/li/zoning-appeals/$1
+/li/zoning-appeals/(.*)                   200  https://legacy.phila.gov/li/zoning-appeals/$1
 /li/zoningappeals                         301  /li/zoning-appeals/
 /licenses(andinspections)?                301  /li
 /licontact                                301  https://form.jotform.com/60346011811139
@@ -293,7 +293,7 @@
 /parksandrecreation/(.*)                  301  /departments/philadelphia-parks-recreation/
 /pra/?.*                                  301  http://www.philadelphiaredevelopmentauthority.org
 /press-releases                           301  /the-latest/archives/?template=press_release
-/prisons/inmatelocator/?(.*)              301  http://legacy.phila.gov/prisons/inmatelocator/$1
+/prisons/inmatelocator/?(.*)              301  https://legacy.phila.gov/prisons/inmatelocator/$1
 /privacy/index.html                       301  /Pages/privacy.aspx
 /programs/combating-the-opioid-epidemic/the-citys-response/the-philadelphia-resilience-project 301 /programs/philadelphia-resilience-project
 /programs/combating-the-opioid-epidemic/the-citys-response/the-philadelphia-resilience-project/support-the-philadelphia-resilience-project 301 /programs/philadelphia-resilience-project/support-the-philadelphia-resilience-project
