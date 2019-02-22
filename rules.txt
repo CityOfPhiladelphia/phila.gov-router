@@ -10,6 +10,7 @@
 /aqi-redirect                             301  /services/mental-physical-health/environmental-health-hazards/air-quality/
 /aqi(.*)                                  301  /services/mental-physical-health/environmental-health-hazards/air-quality/
 /armynavygame                             301  https://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=e95a27f5b7874ce78147677cf605b1b6
+/artcommission/pages/default.aspx         301  /departments/philadelphia-art-commission/
 /artincityhall                            301  http://creativephl.org/tagged/Exhibitions-and-Performances/
 /arts                                     301  http://creativephl.org/
 /avicalculator                            301  http://avicalculator.phila.gov
@@ -298,6 +299,7 @@
 /programs/combating-the-opioid-epidemic/the-citys-response/the-philadelphia-resilience-project 301 /programs/philadelphia-resilience-project
 /programs/combating-the-opioid-epidemic/the-citys-response/the-philadelphia-resilience-project/support-the-philadelphia-resilience-project 301 /programs/philadelphia-resilience-project/support-the-philadelphia-resilience-project
 /programs-initiatives                     301  /programs
+/property-feedback/                       301  /property-feedback/
 /property                                 301  https://property.phila.gov
 /property(.*)                             301  /departments/department-of-public-property/
 /property-assessments                     301  /services/property-lots-housing/
