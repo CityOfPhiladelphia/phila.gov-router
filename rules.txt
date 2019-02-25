@@ -301,7 +301,11 @@
 /programs-initiatives                     301  /programs
 /property-feedback/                       301  /property-feedback/
 /property                                 301  https://property.phila.gov
-/property(.*)                             301  /departments/department-of-public-property/
+/property/aboutus(.*)                     301  /departments/department-of-public-property/
+/property/capital(.*)                     301  /departments/department-of-public-property/	
+/property/realestate(.*)                  301  /departments/department-of-public-property/
+/property/facilities(.*)                  301  /departments/department-of-public-property/
+/property/Pages/default.aspx	            301  /departments/department-of-public-property/
 /property-assessments                     301  /services/property-lots-housing/
 /property-tax-balance                     301  /services/property-lots-housing/property-taxes/look-up-your-property-tax-balance/
 /property-taxes                           301  /services/property-lots-housing/property-taxes/real-estate-tax/
