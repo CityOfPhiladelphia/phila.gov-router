@@ -135,6 +135,7 @@
 /foodstandards                            301  /documents/city-of-philadelphia-nutrition-standards/
 /fosteringphilly                          301  /services/birth-marriage-life-events/become-a-foster-parent/
 /fsedmonds                                301  /programs/community-schools/f-s-edmonds-elementary-school/
+/FY20-budget                              301  /2019-03-06-mayor-kenneys-fy20-budget-prioritizes-education-inclusion-and-justice/
 /getcovered                               301  /posts/health/2017-11-01-deadline-december-15-everything-you-need-to-know-about-aca-enrollment/
 /gethealthyphilly                         301  /programs/get-healthy-philly/
 /getmarried                               301  http://secureprod.phila.gov/wills/marriagelicense.aspx
@@ -146,6 +147,7 @@
 /gwhs                                     301  /programs/community-schools/george-washington-high-school/
 /healthcenters                            301  /services/mental-physical-health/city-health-centers/
 /healthreform                             301  /departments/department-of-public-health/
+/health/check-and-connect                 301  http://runningstarthealth.phila.gov/check-and-connect
 /health/ChildhoodLead/LandlordTenants.html 301 /programs/lead-and-healthy-homes-program/
 /health/Commissioner/DataResearch.html    301  /departments/department-of-public-health/data/
 /health/contact.html                      301  /departments/department-of-public-health/contact-us/
