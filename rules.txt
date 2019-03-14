@@ -470,3 +470,4 @@
 /specialeventpayment                      301  https://www.officialpayments.com/pc_entry_cobrand.jsp?productId=149845250351954021456528662661337179 
 /specialeventapplication                  301  https://www.officialpayments.com/pc_entry_cobrand.jsp?productId=149845250351954021456528724669927515
 /PHLgovTV                                 301  https://www.phila.gov/channel64/pages/default.aspx
+/DronePhilly                              301  https://veoci.com/veoci/p/dashboard/8vfac7c7b7?preview=true
