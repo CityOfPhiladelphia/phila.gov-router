@@ -120,6 +120,7 @@
 /documents/philadelphia-city-scholarship-program-application/ 301 /2018-12-06-high-school-seniors-apply-for-the-philadelphia-city-scholarship/
 /documents/readynotifypa-brochure         301  /documents/ready-philadelphia-brochure/
 /dot                                      301  /it
+/DronePhilly                              301  https://veoci.com/veoci/p/dashboard/8vfac7c7b7
 /education                                301  /departments/mayors-office-of-education/
 /educationnews                            301  /departments/mayors-office-of-education/newsletter-sign-up/
 /eslmap                                   301  http://phl.maps.arcgis.com/apps/View/index.html?appid=3929071e10db460db6e2265423ed4e83
