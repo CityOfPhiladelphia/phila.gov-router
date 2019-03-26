@@ -75,6 +75,7 @@
 /dbhmrs                                   301  http://www.dbhmrs.org/
 /defender                                 301  http://www.philadefender.org/
 /democraticnationalconvention             301  /events/democratic-national-convention/
+/departmentofpublicproperty/pages/default.aspx 301 /departments/department-of-public-property/
 /departments/(.*)/about/all-events        301  /the-latest/all-events/
 /departments/(.*)/all-events              301  /the-latest/all-events/
 /departments/board-of-education           301  /departments/philadelphia-board-of-education/
