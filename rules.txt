@@ -280,6 +280,7 @@
 /philly-counts                            301  /programs/philly-counts-2020/
 /phillydelivers                           301  /departments/mayor/help-make-sure-phillydelivers-for-amazon/
 /phillystat                               301  /mdo/phillystat
+/phlcityid                                301  /programs/phl-city-id/
 /phlimmigrantbiz                          301  /posts/office-of-immigrant-affairs/2017-03-09-immigrant-business-week-2017-march-27-april-1/
 /phonedir$                                301  /phonedir/
 # /phonedir/(.*)                          200  http://legacy.phila.gov/phonedir/$1 # handled by cloudfront behavior
