@@ -358,6 +358,7 @@
 /service/water-bills                      301  /services/water-gas-utilities/pay-or-dispute-a-water-bill/pay-a-water-bill/
 /services/birth-marriage-life-events/foster-or-adopt 301 /services/birth-marriage-life-events/adopt-a-child/
 /services/emergency/index.html            301  http://philadelphiaofficeofhomelessservices.org/
+/services/diversity-inclusion-immigration/?(.*) 301 /services/diversity-inclusion-accessibility-immigration/$1
 /services/mental-physical-health/sexual-health-and-family-planning/get-free-condoms/ 301 /services/mental-physical-health/sexual-health-and-family-planning/hiv-prevention-testing-and-treatment/get-free-condoms/
 /services/property-lots-housing/get-the-homestead-exemption/ 301 /services/property-lots-housing/get-real-estate-tax-relief/get-the-homestead-exemption/
 /services/safety-emergency-preparedness/find-a-fire-station/ 301 /services/safety-emergency-preparedness/fire-safety/find-a-fire-station/
