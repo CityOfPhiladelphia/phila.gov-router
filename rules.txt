@@ -192,6 +192,7 @@
 /landbank                                 301  http://www.philadelphialandbank.org
 /languageaccess                           301  /programs/language-access-philly/
 /language-access                          301  /programs/language-access-philly/
+/law/(.*)                                 301  /departments/law-department/
 /leadhealthyhomes                         301  /programs/lead-and-healthy-homes-program/
 /lgbt-pride-month                         301  /spotlight/lgbt-pride-month
 /li-permit-tracker$                       301  /li-permit-tracker/
