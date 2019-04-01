@@ -5,6 +5,7 @@
 /311/report-an-issue                      301  https://iframe.publicstuff.com/#?client_id=242
 /aco                                      301  /departments/mayors-office-for-people-with-disabilities/
 /actionguides                             301  /the-latest/#action-guides
+/ada-grievance                            301  /services/diversity-inclusion-accessibility-immigration/submit-an-ada-grievance-against-the-city/
 /agefriendly                              301  https://secure.jotform.us/philagov/mca-survey/
 /aging(.*)                                301  /departments/mayors-commission-on-aging/
 /aqi-redirect                             301  /services/mental-physical-health/environmental-health-hazards/air-quality/
@@ -330,6 +331,7 @@
 /re-notification-letter                   301  /documents/risk-of-foreclosure-notification-letter/
 /ready                                    301  /departments/oem/
 /real-estate-relief                       301  /services/payments-assistance-taxes/get-real-estate-tax-relief/
+/reasonable-modification                  301  /services/diversity-inclusion-accessibility-immigration/submit-a-reasonable-modification-request/
 /recreation                               301  /departments/philadelphia-parks-recreation/
 /reentry                                  301  http://rise.phila.gov/
 /regulations-rulings/(.*)                 301  /services/payments-assistance-taxes/regulations-rulings/
