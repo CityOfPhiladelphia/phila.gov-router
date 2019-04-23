@@ -479,5 +479,5 @@
 /specialeventapplication                  301  https://www.officialpayments.com/pc_entry_cobrand.jsp?productId=149845250351954021456528724669927515
 /PHLgovTV                                 301  https://www.phila.gov/channel64/pages/default.aspx
 /campcraig2019                            301  https://survey123.arcgis.com/share/d5c0af4dbea242819835571e79087d6a
-/zba/appeals-calendar$                    301  /revenue/realestatetax/
-/zba/appeals-calendar/(.*)                200  http://appeals-app.s3-website-us-east-1.amazonaws.com/$1
+/zba/appeals-calendar$                    301  /zba/appeals-calendar/
+/zba/appeals-calendar/(.*)                200  http://appeals-app.s3-website-us-east-1.amazonaws.com/zba/appeals-app/$1
