@@ -14,7 +14,7 @@
   "license": "MIT",
   "devDependencies": {
     "claudia": "^5.2.0",
-    "jest": "^22.4.4",
+    "jest": "^24.7.1",
     "safe-regex": "^1.1.0"
   }
 }
