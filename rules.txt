@@ -175,6 +175,7 @@
 /ig(.*)                                   301  /departments/office-of-the-inspector-general/
 /ima/                                     301  /departments/office-of-immigrant-affairs/
 /immigrantheritagemonth                   301  /spotlight/immigrant-heritage-month/
+/inclusive-growth                         301  /2019-05-02-city-focuses-on-inclusion-and-equity-in-its-economic-growth-plan/
 /income-based-assistance-programs         301  /services/payments-assistance-taxes/income-based-assistance-programs/
 /income-based-assistance-programs/longtime-owner-occupants-program-loop 301 /services/payments-assistance-taxes/income-based-assistance-programs/longtime-owner-occupants-program/
 /income-based-assistance-programs/low-income-senior-citizen-real-estate-tax-freeze 301 /services/property-lots-housing/get-real-estate-tax-relief/low-income-senior-citizen-real-estate-tax-freeze/
