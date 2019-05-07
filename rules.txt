@@ -486,3 +486,4 @@
 /zba/appeals-calendar$                    301  /zba/appeals-calendar/
 /zba/appeals-calendar/(.*)                200  http://appeals-app.s3-website-us-east-1.amazonaws.com/$1
 /BroadStreetRun                           301  http://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=546b42e14be942009f364d81987eaa81
+/reportarson                              301  http://phl.maps.arcgis.com/apps/GeoForm/index.html?appid=f616bfd4091842d694af0aff9983bd24 
