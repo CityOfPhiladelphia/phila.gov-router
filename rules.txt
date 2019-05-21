@@ -169,6 +169,7 @@
 /helpme                                   301  /311/Pages/default.aspx
 /hhs/privacy                              301  /hhs/pages/privacy.aspx
 /historical/taskforce                     301  https://www.phlpreservation.org/
+/historical/(.*)                          301  /departments/philadelphia-historical-commission/
 /holiday-celebrations                     301  /spotlight/city-of-philadelphia-holiday-celebrations/
 /homelessservices                         301  http://www.philadelphiaofficeofhomelessservices.org/
 /homestead                                301  /services/property-lots-housing/get-real-estate-tax-relief/get-the-homestead-exemption/
