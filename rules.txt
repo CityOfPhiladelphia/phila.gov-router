@@ -204,9 +204,8 @@
 /li/appeals-calendar/(.*)                 200  http://appeals-app-all.s3-website-us-east-1.amazonaws.com/$1
 /li/eclipse                               301  https://eclipse.phila.gov/
 /li/pages/Appealscalendar.aspx            301  /li/appeals-calendar/
-/li/zoning-appeals$                       301  /li/zoning-appeals/
-/li/zoning-appeals/(.*)                   200  http://appeals-app-all.s3-website-us-east-1.amazonaws.com/$1
-/li/zoningappeals                         301  /li/zoning-appeals/
+/li/zoning-appeals                        301  /li/appeals-calendar/
+/li/zoningappeals                         301  /li/appeals-calendar/
 /licenses(andinspections)?                301  /li
 /licontact                                301  https://form.jotform.com/60346011811139
 /lifeguards                               301  /services/working-jobs/find-a-job-or-internship/become-a-lifeguard/
