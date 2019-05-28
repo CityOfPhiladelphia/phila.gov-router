@@ -258,6 +258,7 @@
 /osh/?.*                                  301  http://philadelphiaofficeofhomelessservices.org/
 /otis                                     301  http://www.phillyotis.com
 /pages/default.aspx                       301  /
+/pages/privacy.aspx                       301  /privacypolicy/
 /parcelexplorer                           301  http://web02.phila.gov/Records/ParcelExplorer
 /parent-support                           301  /programs/parenting-education-and-support/
 /parking                                  301  http://philapark.org/homeFlash.aspx
@@ -306,7 +307,7 @@
 /pra/?.*                                  301  http://www.philadelphiaredevelopmentauthority.org
 /press-releases                           301  /the-latest/archives/?template=press_release
 /prisons/inmatelocator/?(.*)              301  https://legacy.phila.gov/prisons/inmatelocator/$1
-/privacy/index.html                       301  /Pages/privacy.aspx
+/privacy/index.html                       301  /privacypolicy/
 /programs/combating-the-opioid-epidemic/the-citys-response/the-philadelphia-resilience-project 301 /programs/philadelphia-resilience-project
 /programs/combating-the-opioid-epidemic/the-citys-response/the-philadelphia-resilience-project/support-the-philadelphia-resilience-project 301 /programs/philadelphia-resilience-project/support-the-philadelphia-resilience-project
 /programs-initiatives                     301  /programs
