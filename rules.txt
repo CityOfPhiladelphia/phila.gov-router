@@ -311,7 +311,6 @@
 /programs/combating-the-opioid-epidemic/the-citys-response/the-philadelphia-resilience-project 301 /programs/philadelphia-resilience-project
 /programs/combating-the-opioid-epidemic/the-citys-response/the-philadelphia-resilience-project/support-the-philadelphia-resilience-project 301 /programs/philadelphia-resilience-project/support-the-philadelphia-resilience-project
 /programs-initiatives                     301  /programs
-/property-feedback/                       301  /property-feedback/
 /property                                 301  https://property.phila.gov
 /property/aboutus(.*)                     301  /departments/department-of-public-property/
 /property/capital(.*)                     301  /departments/department-of-public-property/	
