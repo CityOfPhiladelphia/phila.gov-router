@@ -58,8 +58,8 @@
 /commerce/businessAttraction/Pages/default.aspx 301 /departments/department-of-commerce/about-us/divisions/office-of-business-development/
 /commerce/neighborhoods/Pages/default.aspx 301 /departments/department-of-commerce/investing-in-neighborhoods/
 /commerce/businessSupport/Pages/default.aspx 301 /departments/department-of-commerce/supporting-business/
-/commerce/realEstate/developerServices/Pages/default.aspx 301 /departments/department-of-planning-and-development/development-services/
-/commerce/realEstate/developerServices/Pages/DevelopmentServicesCommittee.aspx 301 /departments/department-of-planning-and-development/development-services/
+/commerce/realEstate/developerServices/Pages/default.aspx 301 /departments/division-of-development-services/
+/commerce/realEstate/developerServices/Pages/DevelopmentServicesCommittee.aspx 301 /departments/division-of-development-services/
 /commerce/realEstate/Pages/KeystoneOpportunityZones.aspx 301 /programs/keystone-opportunity-zones/
 /commerce/pages/default.aspx              301  /departments/department-of-commerce/
 /commerce(.*)                             301  /departments/department-of-commerce/
@@ -82,6 +82,8 @@
 /departments/board-of-education           301  /departments/philadelphia-board-of-education/
 /departments/commission-for-women/        301  /departments/office-of-engagement-for-women/philadelphia-commission-for-women/
 /departments/commission-on-parks-and-recreation 301 /departments/philadelphia-parks-recreation/about/the-commission-on-parks-recreation/
+/departments/department-of-planning-and-development/development-services(.*) 301  /departments/division-of-development-services/
+/departments/division-of-housing-community-development/ 301 /departments/division-of-housing-and-community-development/
 /departments/education                    301  /departments/mayors-office-of-education/
 /departments/emergency-management         301  /departments/oem
 /departments/emergency-management/(.*)    301  /departments/oem/$1
@@ -107,7 +109,7 @@
 /departments/parks-recreation             301  /departments/philadelphia-parks-recreation/
 /departments/revenue                      301  /departments/department-of-revenue/
 /departments/water-sewer-stormwater-rate-board 301 /departments/water-sewer-storm-water-rate-board/
-/dhcd/?(.*)                               301  http://ohcdphila.org/$1
+/dhcd/?(.*)                               301  /departments/division-of-housing-and-community-development/
 /dhs/about                                301  /departments/department-of-human-services/about-us/
 /dhs/qpi                                  301  /programs/quality-parenting-initiative-qpi/
 /dhs(.*)                                  301  /departments/department-of-human-services/
