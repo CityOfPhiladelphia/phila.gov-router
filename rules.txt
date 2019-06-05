@@ -109,6 +109,7 @@
 /departments/parks-recreation             301  /departments/philadelphia-parks-recreation/
 /departments/revenue                      301  /departments/department-of-revenue/
 /departments/water-sewer-stormwater-rate-board 301 /departments/water-sewer-storm-water-rate-board/
+/development-services                     301  /departments/division-of-development-services/
 /dhcd/?(.*)                               301  /departments/division-of-housing-and-community-development/
 /dhs/about                                301  /departments/department-of-human-services/about-us/
 /dhs/qpi                                  301  /programs/quality-parenting-initiative-qpi/
