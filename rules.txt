@@ -153,7 +153,7 @@
 /gwhs                                     301  /programs/community-schools/george-washington-high-school/
 /healthcenters                            301  /services/mental-physical-health/city-health-centers/
 /healthreform                             301  /departments/department-of-public-health/
-/health/check-and-connect                 301  http://runningstarthealth.phila.gov/check-and-connect
+/health/check-and-connect                 301  http://runningstarthealth.phila.gov/check-connect
 /health/ChildhoodLead/LandlordTenants.html 301 /programs/lead-and-healthy-homes-program/
 /health/Commissioner/DataResearch.html    301  /departments/department-of-public-health/data/
 /health/contact.html                      301  /departments/department-of-public-health/contact-us/
