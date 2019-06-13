@@ -260,6 +260,10 @@
 /opioids?                                 301  /programs/combating-the-opioid-epidemic/
 /osh/?.*                                  301  http://philadelphiaofficeofhomelessservices.org/
 /otis                                     301  http://www.phillyotis.com
+/pac/meetings/Pages/default.aspx          301  /departments/police-advisory-commission/commission-meetings/
+/pac/Pages/FileAComplaint.aspx            301  /services/crime-law-justice/file-a-complaint-against-a-philadelphia-police-officer/
+/pac/aboutus/Pages/OfficerCommendation.aspx  301  /services/crime-law-justice/recommend-an-officer-for-commendation/
+/pac(.*)                                  301  /departments/police-advisory-commission/
 /pages/default.aspx                       301  /
 /pages/privacy.aspx                       301  /privacypolicy/
 /parcelexplorer                           301  http://web02.phila.gov/Records/ParcelExplorer
