@@ -126,7 +126,7 @@
 /documents/readynotifypa-brochure         301  /documents/ready-philadelphia-brochure/
 /dot                                      301  /it
 /DronePhilly                              301  https://veoci.com/veoci/p/dashboard/8vfac7c7b7
-/education                                301  /departments/mayors-office-of-education/
+/education(.*)                            301  /departments/mayors-office-of-education/
 /educationnews                            301  /departments/mayors-office-of-education/newsletter-sign-up/
 /eslmap                                   301  http://phl.maps.arcgis.com/apps/View/index.html?appid=3929071e10db460db6e2265423ed4e83
 /evacuations/(.*)                         301  /services/safety-emergency-preparedness/evacuations/$1
@@ -376,6 +376,7 @@
 /services/emergency/index.html            301  http://philadelphiaofficeofhomelessservices.org/
 /services/diversity-inclusion-immigration/?(.*) 301 /services/diversity-inclusion-accessibility-immigration/$1
 /services/mental-physical-health/sexual-health-and-family-planning/get-free-condoms/ 301 /services/mental-physical-health/sexual-health-and-family-planning/hiv-prevention-testing-and-treatment/get-free-condoms/
+/services/permits-violations-licenses/get-a-permit-to-use-a-philadelphia-parks-recreation-space/ 301 /services/permits-violations-licenses/apply-for-a-permit/get-a-permit-to-use-a-philadelphia-parks-recreation-space/reserve-a-parks-recreation-facility/
 /services/property-lots-housing/get-the-homestead-exemption/ 301 /services/property-lots-housing/get-real-estate-tax-relief/get-the-homestead-exemption/
 /services/safety-emergency-preparedness/find-a-fire-station/ 301 /services/safety-emergency-preparedness/fire-safety/find-a-fire-station/
 /services/safety-emergency-preparedness/get-a-smoke-alarm-installed/ 301 /services/safety-emergency-preparedness/fire-safety/get-a-smoke-alarm-installed/
