@@ -153,6 +153,10 @@
 /gwhs                                     301  /programs/community-schools/george-washington-high-school/
 /healthcenters                            301  /services/mental-physical-health/city-health-centers/
 /healthreform                             301  /departments/department-of-public-health/
+/health/airmanagement/AirCodes.html       301  /departments/department-of-public-health/for-business-owners/air-and-dust/
+/health/AirManagement/AirPermittingForms.html  301 /departments/department-of-public-health/for-business-owners/air-and-dust/
+/health/airmanagement/AsbestosControl.html 301 /services/permits-violations-licenses/apply-for-a-permit/environmental-permits-and-approvals/dust-air-pollution-and-asbestos/apply-for-an-asbestos-project-permit/
+/health/airmanagement/DryCleaning.html    301  /documents/dry-cleaning-regulations/
 /health/check-and-connect                 301  http://runningstarthealth.phila.gov/check-connect
 /health/ChildhoodLead/LandlordTenants.html 301 /programs/lead-and-healthy-homes-program/
 /health/Commissioner/DataResearch.html    301  /departments/department-of-public-health/data/
@@ -165,8 +169,10 @@
 /health/irb                               301  /services/mental-physical-health/medical-professionals/submit-a-research-study-to-the-institutional-review-board-irb/
 /health/leadlaw                           301  /programs/lead-and-healthy-homes-program/
 /health/MCFH/BreastfeedingPromotion.html  301  /services/mental-physical-health/get-health-care-and-support/family-and-childrens-health-care/get-breastfeeding-support/
+/health/MCFH/specialNeeds.html            301  /services/mental-physical-health/get-health-care-and-support/family-and-childrens-health-care/get-support-for-a-child-with-special-health-care-needs/
 /health/medicalexaminer                   301  /departments/medical-examiners-office/
 /health/peds                              301  /services/mental-physical-health/get-health-care-and-support/family-and-childrens-health-care/get-pediatric-health-care/
+/health/permitsForms.html                 301  /departments/department-of-public-health/for-business-owners/
 /health/tobaccopermits                    301  /services/permits-violations-licenses/business-licenses-permits-and-approvals/tobacco-retailers/get-a-tobacco-retailer-permit/
 /health(.*)                               301  /departments/department-of-public-health/
 /helpme                                   301  /311/Pages/default.aspx
