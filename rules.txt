@@ -153,6 +153,10 @@
 /gwhs                                     301  /programs/community-schools/george-washington-high-school/
 /healthcenters                            301  /services/mental-physical-health/city-health-centers/
 /healthreform                             301  /departments/department-of-public-health/
+/health/airmanagement/AirCodes.html       301  /departments/department-of-public-health/for-business-owners/air-and-dust/
+/health/AirManagement/AirPermittingForms.html  301 /departments/department-of-public-health/for-business-owners/air-and-dust/
+/health/airmanagement/AsbestosControl.html 301 /services/permits-violations-licenses/apply-for-a-permit/environmental-permits-and-approvals/dust-air-pollution-and-asbestos/apply-for-an-asbestos-project-permit/
+/health/airmanagement/DryCleaning.html    301  /documents/dry-cleaning-regulations/
 /health/check-and-connect                 301  http://runningstarthealth.phila.gov/check-connect
 /health/ChildhoodLead/LandlordTenants.html 301 /programs/lead-and-healthy-homes-program/
 /health/Commissioner/DataResearch.html    301  /departments/department-of-public-health/data/
@@ -165,8 +169,10 @@
 /health/irb                               301  /services/mental-physical-health/medical-professionals/submit-a-research-study-to-the-institutional-review-board-irb/
 /health/leadlaw                           301  /programs/lead-and-healthy-homes-program/
 /health/MCFH/BreastfeedingPromotion.html  301  /services/mental-physical-health/get-health-care-and-support/family-and-childrens-health-care/get-breastfeeding-support/
+/health/MCFH/specialNeeds.html            301  /services/mental-physical-health/get-health-care-and-support/family-and-childrens-health-care/get-support-for-a-child-with-special-health-care-needs/
 /health/medicalexaminer                   301  /departments/medical-examiners-office/
 /health/peds                              301  /services/mental-physical-health/get-health-care-and-support/family-and-childrens-health-care/get-pediatric-health-care/
+/health/permitsForms.html                 301  /departments/department-of-public-health/for-business-owners/
 /health/tobaccopermits                    301  /services/permits-violations-licenses/business-licenses-permits-and-approvals/tobacco-retailers/get-a-tobacco-retailer-permit/
 /health(.*)                               301  /departments/department-of-public-health/
 /helpme                                   301  /311/Pages/default.aspx
@@ -377,6 +383,7 @@
 /services/emergency/index.html            301  http://philadelphiaofficeofhomelessservices.org/
 /services/diversity-inclusion-immigration/?(.*) 301 /services/diversity-inclusion-accessibility-immigration/$1
 /services/mental-physical-health/sexual-health-and-family-planning/get-free-condoms/ 301 /services/mental-physical-health/sexual-health-and-family-planning/hiv-prevention-testing-and-treatment/get-free-condoms/
+/services/permits-violations-licenses/environmental-permits-and-approvals/dust-air-pollution-and-asbestos/apply-for-an-asbestos-project-permit/  301  /services/permits-violations-licenses/apply-for-a-permit/environmental-permits-and-approvals/dust-air-pollution-and-asbestos/apply-for-an-asbestos-project-permit/
 /services/permits-violations-licenses/get-a-permit-to-use-a-philadelphia-parks-recreation-space/ 301 /services/permits-violations-licenses/apply-for-a-permit/get-a-permit-to-use-a-philadelphia-parks-recreation-space/reserve-a-parks-recreation-facility/
 /services/property-lots-housing/get-the-homestead-exemption/ 301 /services/property-lots-housing/get-real-estate-tax-relief/get-the-homestead-exemption/
 /services/safety-emergency-preparedness/find-a-fire-station/ 301 /services/safety-emergency-preparedness/fire-safety/find-a-fire-station/
