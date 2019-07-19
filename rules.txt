@@ -326,6 +326,7 @@
 /programs/combating-the-opioid-epidemic/the-citys-response/the-philadelphia-resilience-project 301 /programs/philadelphia-resilience-project
 /programs/combating-the-opioid-epidemic/the-citys-response/the-philadelphia-resilience-project/support-the-philadelphia-resilience-project 301 /programs/philadelphia-resilience-project/support-the-philadelphia-resilience-project
 /programs-initiatives                     301  /programs
+/programs/rebuild/programs/               301  /programs/rebuild/for-businesses/
 /property                                 301  https://property.phila.gov
 /property/aboutus(.*)                     301  /departments/department-of-public-property/
 /property/capital(.*)                     301  /departments/department-of-public-property/	
@@ -351,6 +352,7 @@
 /ready                                    301  /departments/oem/
 /real-estate-relief                       301  /services/payments-assistance-taxes/get-real-estate-tax-relief/
 /reasonable-modification                  301  /services/diversity-inclusion-accessibility-immigration/submit-a-reasonable-modification-request/
+/rebuild/careers/                         301  /programs/rebuild/careers/
 /recreation                               301  /departments/philadelphia-parks-recreation/
 /reentry                                  301  http://rise.phila.gov/
 /regulations-rulings/(.*)                 301  /services/payments-assistance-taxes/regulations-rulings/
