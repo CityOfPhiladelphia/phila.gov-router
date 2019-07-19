@@ -351,6 +351,7 @@
 /ready                                    301  /departments/oem/
 /real-estate-relief                       301  /services/payments-assistance-taxes/get-real-estate-tax-relief/
 /reasonable-modification                  301  /services/diversity-inclusion-accessibility-immigration/submit-a-reasonable-modification-request/
+/rebuild/careers/                         301  /programs/rebuild/careers/
 /recreation                               301  /departments/philadelphia-parks-recreation/
 /reentry                                  301  http://rise.phila.gov/
 /regulations-rulings/(.*)                 301  /services/payments-assistance-taxes/regulations-rulings/
