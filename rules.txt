@@ -278,7 +278,7 @@
 /parkingamnesty                           301  /programs/parking-amnesty
 /parks                                    301  /departments/philadelphia-parks-recreation/
 /parks-rec-finder$                        301  /parks-rec-finder/
-/parks-rec-finder/(.*)                    200  https://cityofphiladelphia.github.io/parks-rec-finder/$1
+/parks-rec-finder/(.*)                    200  http://parks-rec-finder.s3-website-us-east-1.amazonaws.com/prod/$1
 /parksandrec                              301  /departments/philadelphia-parks-recreation/
 /parksandrec/campphilly                   301  /programs/camp-philly/
 /parksandrec/dogs                         301  /departments/philadelphia-parks-recreation/about/dog-regulations-and-best-practices/
