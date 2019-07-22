@@ -37,6 +37,8 @@
 /citycouncil                              301  http://philadelphiacitycouncil.net/
 /citylandmarks                            301  http://phl.maps.arcgis.com/apps/CrowdsourceReporter/index.html?appid=7fa0d185a2bd4ada90151b378aea2e1e
 /citymaps                                 301  http://citymaps.phila.gov/Map/
+/CityPlanning/resources/Publications/RowhouseManual_Final.pdf 301 /documents/philadelphia-rowhouse-manual-a-practical-guide-for-homeowners/
+/cityplanning(.*)                         301  /departments/philadelphia-city-planning-commission/
 /cityrep                                  301  /departments/office-of-the-city-representative/
 /cityscholarship                          301  /programs/philadelphia-city-scholarship-program/
 /civilservice                             301  /personnel/civilservice.html
