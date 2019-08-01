@@ -175,6 +175,8 @@
 /health/MCFH/specialNeeds.html            301  /services/mental-physical-health/get-health-care-and-support/family-and-childrens-health-care/get-support-for-a-child-with-special-health-care-needs/
 /health/medicalexaminer                   301  /departments/medical-examiners-office/
 /health/peds                              301  /services/mental-physical-health/get-health-care-and-support/family-and-childrens-health-care/get-pediatric-health-care/
+/health/pdfs/FoodSafetyCertInsturc.pdf    301  /services/permits-violations-licenses/business-licenses-permits-and-approvals/food-businesses/take-a-food-safety-certification-course/
+/health/pdfs/PSNC%20Directory.pdf         301  /documents/resources-for-families-of-children-with-special-health-care-needs/
 /health/permitsForms.html                 301  /departments/department-of-public-health/for-business-owners/
 /health/tobaccopermits                    301  /services/permits-violations-licenses/business-licenses-permits-and-approvals/tobacco-retailers/get-a-tobacco-retailer-permit/
 /health(.*)                               301  /departments/department-of-public-health/
