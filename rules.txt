@@ -260,6 +260,7 @@
 /nutritionstandards                       301  /documents/city-of-philadelphia-nutrition-standards/
 /obme                                     301  /departments/mayors-office-of-black-male-engagement/
 /oem(.*)                                  301  /departments/emergency-management/
+/oeo/directory                            301  /services/business-self-employment/find-a-minority-woman-or-disabled-owned-business/
 /oeo                                      301  /departments/office-of-economic-opportunity/
 /oew                                      301  /departments/office-of-engagement-for-women/
 /ohcd/?.*                                 301  http://ohcdphila.org/
@@ -468,7 +469,7 @@
 /water/stormwater_billing.html            301  /water/wu/stormwater/Pages/default.aspx
 /water/swmap                              301  https://stormwater.phila.gov/parcelviewer
 /waterbillhelp                            301  /services/water-gas-utilities/pay-or-dispute-a-water-bill/water-bill-customer-assistance/
-/waterrev                                 301  /departments/department-of-revenue
+/waterrev(.*)                             301  /departments/department-of-revenue
 /welcomingweek2016                        301  /posts/office-of-immigrant-affairs/2016-08-31-welcoming-week-2016/
 /welcomingweek2017                        301  /posts/office-of-immigrant-affairs/2017-08-31-welcoming-week-2017/
 /wills                                    301  http://secureprod.phila.gov/wills/
