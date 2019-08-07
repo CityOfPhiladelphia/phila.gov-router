@@ -8,6 +8,7 @@
 /ada-grievance                            301  /services/diversity-inclusion-accessibility-immigration/submit-an-ada-grievance-against-the-city/
 /adult-education                          301  /departments/office-of-adult-education/
 /agefriendly                              301  https://secure.jotform.us/philagov/mca-survey/
+/agencies(.*)                             301  /departments/
 /aging(.*)                                301  /departments/mayors-commission-on-aging/
 /aqi-redirect                             301  /services/mental-physical-health/environmental-health-hazards/air-quality/
 /aqi(.*)                                  301  /services/mental-physical-health/environmental-health-hazards/air-quality/
@@ -305,9 +306,11 @@
 /pchr                                     301  /humanrelations
 /performance                              301  /mdo/phillystat
 /philacode/?.*                            301  http://www.amlegal.com/codes/client/philadelphia_pa/
+/philareads(.*)                           301  https://www.philareads.org/              
 /phillycounts                             301  /programs/philly-counts-2020/
 /philly-counts                            301  /programs/philly-counts-2020/
 /phillydelivers                           301  /departments/mayor/help-make-sure-phillydelivers-for-amazon/
+/phillyrising(.*)                         301  https://www.serve.phila.gov
 /phillystat                               301  /mdo/phillystat
 /plan-develop                             301  /departments/department-of-planning-and-development/
 /phlcityid                                301  /programs/phl-city-id/
@@ -368,6 +371,7 @@
 /refinery                                 301  /programs/refinery-advisory-group/
 /regulations-rulings/(.*)                 301  /services/payments-assistance-taxes/regulations-rulings/
 /rental-assistance                        301  /services/payments-assistance-taxes/income-based-assistance-programs/get-help-if-you-are-at-risk-of-being-evicted/
+/residents(.*)                            301  /services/
 /resilientPHL                             301  /programs/philadelphia-resilience-project/
 /revenue/active-duty-tax-credit           301  /services/payments-assistance-taxes/tax-credits/active-duty-tax-credit/
 /revenue/birt-regs                        301  /documents/business-income-receipts-tax-birt-regulations/
@@ -391,6 +395,7 @@
 /rise/employer/pages/banthebox.aspx       301  /humanrelations/pages/default.aspx
 /risk                                     301  /finance/units-RiskManagement.html
 /rows                                     301  https://phl.my.salesforce.com
+/safetyandjustice(.*)                     301  /programs/philadelphia-safety-and-justice-challenge/
 /service/water-bills                      301  /services/water-gas-utilities/pay-or-dispute-a-water-bill/pay-a-water-bill/
 /services/birth-marriage-life-events/foster-or-adopt 301 /services/birth-marriage-life-events/adopt-a-child/
 /services/emergency/index.html            301  http://philadelphiaofficeofhomelessservices.org/
@@ -441,6 +446,7 @@
 /trb/pages/default.aspx                   301  /departments/tax-review-board/
 /tree-trench                              301  http://www.stormwaterpa.org/keeping-water-on-site-waterview-recreation-center.html?key=0
 /unitycup                                 301  http://unitycup.phila.gov
+/universalprek(.*)                        301  /programs/quality-pre-k/
 /vacancymap                               301  http://phl.maps.arcgis.com/apps/webappviewer/index.html?id=64ac160773d04952bc17ad895cc00680
 /vendorpayments/?$                        301  https://secure.phila.gov/finance/vendorpayments/
 /veterans                                 301  http://www.phlveterans.com/
