@@ -6,7 +6,7 @@ Store your redirect and rewrite rules in `rules.txt`.
 
 ```
 /otis                     301 http://www.phillyotis.com
-/parksandrec/(.*)         301 /departments/philadelphia-parks-recreation/
+/parksandrec(.*)          301 /departments/philadelphia-parks-recreation/
 /revenue/(.*)             301 /departments/department-of-revenue/$1
 /contracts/data$          301 /contracts/data/
 /contracts/data/(.*)      200 https://cityofphiladelphia.github.io/contracts/$1
