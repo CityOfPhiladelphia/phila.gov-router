@@ -392,6 +392,7 @@
 /revenue/realestatetax/(.*)               200  http://realestatetax.s3-website-us-east-1.amazonaws.com/$1
 /revenue/tax-forms                        301  /services/payments-assistance-taxes/tax-forms-instructions/
 /revenue/taxpro/pages/refundpetitions.aspx 301 /documents/income-based-wage-tax-refund-petition/
+/revenue/use-occupancy                    301  /services/payments-assistance-taxes/business-taxes/use-occupancy-tax/
 /revenue/wage-tax-petition                301  /documents/income-based-wage-tax-refund-petition/
 /revenue(.*)                              301  /departments/department-of-revenue/
 /rise/employer/pages/banthebox.aspx       301  /humanrelations/pages/default.aspx
