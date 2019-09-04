@@ -292,6 +292,7 @@
 /parks                                    301  /departments/philadelphia-parks-recreation/
 /parks-rec-finder$                        301  /parks-rec-finder/
 /parks-rec-finder/(.*)                    200  http://parks-rec-finder.s3-website-us-east-1.amazonaws.com/prod/$1
+/parksandrec/trails                       301  https://phl.maps.arcgis.com/apps/webappviewer/index.html?id=2e70012008fc409e9f34810f18102f01
 /parksandrec                              301  /departments/philadelphia-parks-recreation/
 /parksandrec/campphilly                   301  /programs/camp-philly/
 /parksandrec/dogs                         301  /departments/philadelphia-parks-recreation/about/dog-regulations-and-best-practices/
