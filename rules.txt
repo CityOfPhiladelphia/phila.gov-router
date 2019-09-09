@@ -332,6 +332,7 @@
 /posts/office-of-lgbt-affairs/2017-05-04-lgbtq-protections-city-of-philadelphia-action-guide 301 /2017-12-04-philadelphias-lgbtq-protections/
 /posts/office-of-sustainability/2017-03-28-environment-sustainability-city-of-philadelphia-action-guide 301 /2017-11-29-environmental-protection-during-the-trump-administration/
 /potholes                                 301  http://www.philadelphiastreets.com
+/ppdcommissioner(.*)                      301  /departments/mayor/philadelphia-police-commissioner-public-input-survey/ 
 /ppr                                      301  /departments/philadelphia-parks-recreation/
 /parksandrecreation/(.*)                  301  /departments/philadelphia-parks-recreation/
 /pra/?.*                                  301  http://www.philadelphiaredevelopmentauthority.org
