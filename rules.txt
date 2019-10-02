@@ -17,8 +17,8 @@
 /artincityhall                            301  http://creativephl.org/tagged/Exhibitions-and-Performances/
 /arts                                     301  http://creativephl.org/
 /avicalculator                            301  http://avicalculator.phila.gov
-/bankon                                   301  /services/business-self-employment/open-a-safe-and-affordable-bank-account/
-/bank-on                                  301  /services/business-self-employment/open-a-safe-and-affordable-bank-account/
+/bankon                                   301  /services/payments-assistance-taxes/open-a-safe-and-affordable-bank-account/
+/bank-on                                  301  /services/payments-assistance-taxes/open-a-safe-and-affordable-bank-account/
 /become-a-water-customer                  301  /services/water-gas-utilities/become-a-water-customer/
 /benchmarking                             301  http://www.phillybuildingbenchmarking.com/
 /bids                                     301  /procurement/Pages/default.aspx
