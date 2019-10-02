@@ -17,8 +17,8 @@
 /artincityhall                            301  http://creativephl.org/tagged/Exhibitions-and-Performances/
 /arts                                     301  http://creativephl.org/
 /avicalculator                            301  http://avicalculator.phila.gov
-/bankon                                   301  /services/business-self-employment/open-a-safe-and-affordable-bank-account/
-/bank-on                                  301  /services/business-self-employment/open-a-safe-and-affordable-bank-account/
+/bankon                                   301  /services/payments-assistance-taxes/open-a-safe-and-affordable-bank-account/
+/bank-on                                  301  /services/payments-assistance-taxes/open-a-safe-and-affordable-bank-account/
 /become-a-water-customer                  301  /services/water-gas-utilities/become-a-water-customer/
 /benchmarking                             301  http://www.phillybuildingbenchmarking.com/
 /bids                                     301  /procurement/Pages/default.aspx
@@ -26,8 +26,6 @@
 /board-of-education                       301  /departments/philadelphia-board-of-education/
 /boepaperform                             301  /documents/board-of-education-job-description/
 /broadstreetrun                           301  http://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=546b42e14be942009f364d81987eaa81
-/budget                                   301  /openbudget/
-/budgetupdate                             301  /openbudget/
 /bumpout                                  301  http://www.stormwaterpa.org/stormwater-bumpouts.html?key=0
 /business                                 301  https://business.phila.gov
 /business-taxes/sales-use-tax             301  /services/business-self-employment/business-taxes/sales-use-hotel-occupancy-tax/
@@ -37,7 +35,6 @@
 /businesstaxprograms                      301  /services/payments-assistance-taxes/tax-credits/
 /census                                   301  /programs/philly-counts-2020/
 /citizenship                              301  /2018-01-12-citizenship-information-resources/
-/citybudget                               301  /openbudget/
 /citycouncil                              301  http://philadelphiacitycouncil.net/
 /citylandmarks                            301  http://phl.maps.arcgis.com/apps/CrowdsourceReporter/index.html?appid=7fa0d185a2bd4ada90151b378aea2e1e
 /citymaps                                 301  http://citymaps.phila.gov/Map/
@@ -276,8 +273,6 @@
 /oopa                                     301  /services/payments-assistance-taxes/payment-plans/owner-occupied-real-estate-tax-payment-agreement/
 /opa/abatementsexemptions/pages/homestead.aspx 301 /services/property-lots-housing/get-the-homestead-exemption/
 /opa/search                               301  https://property.phila.gov
-/openbudget$                              301  /openbudget/
-/openbudget/(.*)                          200  https://cityofphiladelphia.github.io/open-budget/$1
 /opendata                                 301  /data
 /opioids?                                 301  /programs/combating-the-opioid-epidemic/
 /otis                                     301  http://www.phillyotis.com
@@ -505,7 +500,6 @@
 /prepare-for-an-emergency                 301  /services/safety-emergency-preparedness/prepare-for-an-emergency/
 /the-latest/archive$                      301  /the-latest/archives/
 /the-latest/archive/(.*)                  301  /the-latest/archives/$1
-/reports/budget.html                      301  /openbudget/
 /tos/index.html                           301  /terms-of-use/
 /tos/(.*)                                 301  /
 /reports/index.html                       301  /programs/open-data-program/
