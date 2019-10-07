@@ -153,6 +153,7 @@
 /globalphiladelphia                       301  /departments/office-of-immigrant-affairs/
 /gompers                                  301  /programs/community-schools/samuel-gompers-school/
 /green(.*)                                301  /departments/office-of-sustainability/
+/guides                                   301  /guides/lead-guide/
 /guncontrolpolicies                       301  /2018-03-20-gun-control-policies/
 /guncontrol                               301  /2018-03-20-gun-control-policies/
 /gwhs                                     301  /programs/community-schools/george-washington-high-school/
@@ -465,7 +466,7 @@
 /water/billhelp                           301  /water/educationoutreach/customerassistance/pages/default.aspx
 /water/bpp                                301  /water/pdf/bppsummary-8-2015.pdf
 /water/ccc.html                           301  /water/wu/drinkingwater/pages/crossconnectioncontrol.aspx
-/water/helploan                           301  /water/educationoutreach/customerassistance/Pages/HelpLoan.aspx
+/water/helploan                           301  /programs/homeowners-emergency-loan-program-help/
 /water/iwu.html                           301  /water/wu/wastewater/pages/industrialwaste.aspx
 /water/lcrsurvey                          301  /water/wu/drinkingwater/lead/Pages/LCR-survey.aspx
 /water/lead                               301  /water/wu/drinkingwater/lead/Pages/default.aspx
