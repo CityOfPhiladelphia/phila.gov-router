@@ -214,6 +214,7 @@
 /languageaccess                           301  /programs/language-access-philly/
 /language-access                          301  /programs/language-access-philly/
 /law/(.*)                                 301  /departments/law-department/
+/lead                                     301  /guides/lead-guide/
 /leadhealthyhomes                         301  /programs/lead-and-healthy-homes-program/
 /lgbt                                     301  /departments/office-of-lgbt-affairs/
 /lgbt-pride-month                         301  /spotlight/lgbt-pride-month
