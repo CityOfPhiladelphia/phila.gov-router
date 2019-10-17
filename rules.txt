@@ -460,6 +460,7 @@
 /visitors                                 301  http://www.visitphilly.com
 /volunteer                                301  https://www.serve.phila.gov
 /warningletter                            301  /documents/warning-of-risk-of-tax-foreclosure/
+/waterbill                                301  https://secure8.i-doxs.net/CityOfPhiladelphiaWRB/SignIn.aspx
 /water-bill-help                          301  /services/water-gas-utilities/pay-or-dispute-a-water-bill/water-bill-customer-assistance/
 /water-pipe-meter-maintenance/customer-responsibilities 301 /services/water-gas-utilities/water-pipe-meter-maintenance/customer-responsibilities/
 /water-pipe-meter-maintenance/water-meters 301 /services/water-gas-utilities/water-pipe-meter-maintenance/water-meters/
