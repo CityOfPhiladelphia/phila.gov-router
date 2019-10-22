@@ -220,8 +220,8 @@
 /lgbt-pride-month                         301  /spotlight/lgbt-pride-month
 /li-permit-tracker$                       301  /li-permit-tracker/
 /li-permit-tracker/(.*)                   200  https://cityofphiladelphia.github.io/li-permit-tracker/$1
-/li/contractor-permit-lookup$             301  /li/contractor-permit-lookup/
-/li/contractor-permit-lookup/(.*)         200  http://contractor-permit-lookup.s3-website-us-east-1.amazonaws.com/$1
+/li/contractor-permit-lookup(.*)          200  http://li-vue-apps.s3-website-us-east-1.amazonaws.com/li/contractor-permit-lookup$1
+/li/find-a-licensed-contractor(.*)        200  http://li-vue-apps.s3-website-us-east-1.amazonaws.com/li/find-a-licensed-contractor$1
 /li/appeals-calendar$                     301  /li/appeals-calendar/
 /li/appeals-calendar/(.*)                 200  http://appeals-app-all.s3-website-us-east-1.amazonaws.com/$1
 /li/eclipse                               301  https://eclipse.phila.gov/
