@@ -2,7 +2,7 @@
 Lambda@Edge function for handling redirects and rewrites
 
 ## usage
-Store your redirect and rewrite rules in `rules.txt`.
+Store your redirect and rewrite rules in `rules.txt`
 
 ```
 /otis                     301 http://www.phillyotis.com
