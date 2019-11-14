@@ -410,7 +410,7 @@
 /services/mental-physical-health/sexual-health-and-family-planning/get-free-condoms/ 301 /services/mental-physical-health/sexual-health-and-family-planning/hiv-prevention-testing-and-treatment/get-free-condoms/
 /services/permits-violations-licenses/environmental-permits-and-approvals/dust-air-pollution-and-asbestos/apply-for-an-asbestos-project-permit/  301  /services/permits-violations-licenses/apply-for-a-permit/environmental-permits-and-approvals/dust-air-pollution-and-asbestos/apply-for-an-asbestos-project-permit/
 /services/permits-violations-licenses/get-a-permit-to-use-a-philadelphia-parks-recreation-space/ 301 /services/permits-violations-licenses/apply-for-a-permit/get-a-permit-to-use-a-philadelphia-parks-recreation-space/reserve-a-parks-recreation-facility/
-/services/permits-violations-licenses/business-licenses-permits-and-approvals/(.*)  301  /services/permits-violations-licenses/get-a-license/business-licenses-permits-and-approvals/$1
+/services/permits-violations-licenses/business-licenses-permits-and-approvals/?(.*)  301  /services/permits-violations-licenses/get-a-license/business-licenses-permits-and-approvals/$1
 /services/property-lots-housing/get-the-homestead-exemption/ 301 /services/property-lots-housing/get-real-estate-tax-relief/get-the-homestead-exemption/
 /services/safety-emergency-preparedness/find-a-fire-station/ 301 /services/safety-emergency-preparedness/fire-safety/find-a-fire-station/
 /services/safety-emergency-preparedness/get-a-smoke-alarm-installed/ 301 /services/safety-emergency-preparedness/fire-safety/get-a-smoke-alarm-installed/
