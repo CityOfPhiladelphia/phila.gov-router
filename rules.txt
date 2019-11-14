@@ -279,6 +279,7 @@
 /opa/abatementsexemptions/pages/homestead.aspx 301 /services/property-lots-housing/get-the-homestead-exemption/
 /opa/search                               301  https://property.phila.gov
 /opendata                                 301  /data
+/openbudget/                              301  https://data.phila.gov/visualizations/payments-aggregate/
 /opioids?                                 301  /programs/combating-the-opioid-epidemic/
 /otis                                     301  http://www.phillyotis.com
 /pac/meetings/Pages/default.aspx          301  /departments/police-advisory-commission/commission-meetings/
