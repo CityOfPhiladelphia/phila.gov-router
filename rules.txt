@@ -238,7 +238,7 @@
 /locke                                    301  /programs/community-schools/alain-locke-school/
 /logan                                    301  /programs/community-schools/james-logan-elementary-school/
 /loop/pages/default.aspx                  301  /services/payments-assistance-taxes/income-based-assistance-programs/longtime-owner-occupants-program/
-/love-park                                301  /spotlight/love-park/
+/love-park                                301  /spotlight/christmas-village-in-love-park/
 /mcaaa(.*)                                301  /departments/mayors-office-of-public-engagement/mayors-commission-on-asian-american-affairs/
 /map                                      301  http://gsg.phila.gov/map
 /maps/imageryviewer                       301  http://phl.maps.arcgis.com/apps/MapSeries/index.html?appid=a0378ae03f6d4b1c9a186c4cdc396894
