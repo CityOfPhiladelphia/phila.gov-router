@@ -432,7 +432,7 @@
 /southwark                                301  /programs/community-schools/southwark-school/
 /sphs                                     301  /programs/community-schools/south-philadelphia-high-school/
 /spotlight                                301  /the-latest
-/spotlight/love-park/                     301  /spotlight/christmas-village-in-love-park-2019/
+/spotlight/love-park                      301  /spotlight/christmas-village-in-love-park-2019/
 /stormwater-planter                       301  http://www.stormwaterpa.org/creating-community-columbus-square-park.html?key=1
 /stormwater-tools                         301  http://stormwaterpa.org/green-city,-clean-waters.html?key=0
 /stormwater-tree                          301  http://www.stormwaterpa.org/soak-it-up-stormwater-trees.html?key=0
