@@ -343,7 +343,7 @@
 /prisons/inmatelocator/?(.*)              301  https://legacy.phila.gov/prisons/inmatelocator/$1
 /privacy/                                 301  /privacypolicy/
 /privacy/index.html                       301  /privacypolicy/
-/programs                                 301  /programs-initiatives/
+/programs(.*)                                301  /programs-initiatives/
 /programs/combating-the-opioid-epidemic/the-citys-response/the-philadelphia-resilience-project 301 /programs/philadelphia-resilience-project
 /programs/combating-the-opioid-epidemic/the-citys-response/the-philadelphia-resilience-project/support-the-philadelphia-resilience-project 301 /programs/philadelphia-resilience-project/support-the-philadelphia-resilience-project
 /programs/rebuild/programs/               301  /programs/rebuild/for-businesses/
