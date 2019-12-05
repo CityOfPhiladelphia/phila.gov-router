@@ -348,7 +348,6 @@
 /procurement/Documents/Consent_Authorization.pdf 301 /documents/procurement-contract-forms/
 /procurement/Documents/SA_Vendor_Registration.pdf 301 /documents/procurement-contract-forms/
 /procurement/Documents/Seller_Guide_for_Creating_and_Editing_Quotes.pdf 301 /documents/phlcontracts-user-guides/
-/procurement/aboutus/Pages/PHLContractsFAQ.aspx 301 /departments/procurement-department/resources/
 /procurement/Documents/City%20of%20Philadelphia%20Local%20Business%20Entity%20Listing.pdf 301 /documents/local-business-entity-information/
 /procurement(.*)                          301 /departments/procurement-department/
 /programs                                 301  /programs-initiatives/
