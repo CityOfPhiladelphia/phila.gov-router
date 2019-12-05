@@ -345,6 +345,7 @@
 /privacy/index.html                       301  /privacypolicy/
 /procurement/LBP/Pages/default.aspx       301  /departments/procurement-department/local-preference/
 /procurement/aboutus/Pages/PHLContractsFAQ.aspx 301 /departments/procurement-department/resources/
+/procurement(.*)                          301 /departments/procurement-department/
 /programs                                 301  /programs-initiatives/
 /programs/combating-the-opioid-epidemic/the-citys-response/the-philadelphia-resilience-project 301 /programs/philadelphia-resilience-project
 /programs/combating-the-opioid-epidemic/the-citys-response/the-philadelphia-resilience-project/support-the-philadelphia-resilience-project 301 /programs/philadelphia-resilience-project/support-the-philadelphia-resilience-project
