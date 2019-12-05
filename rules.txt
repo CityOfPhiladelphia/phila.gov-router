@@ -21,7 +21,7 @@
 /bank-on                                  301  /services/payments-assistance-taxes/open-a-safe-and-affordable-bank-account/
 /become-a-water-customer                  301  /services/water-gas-utilities/become-a-water-customer/
 /benchmarking                             301  http://www.phillybuildingbenchmarking.com/
-/bids                                     301  /procurement/Pages/default.aspx
+/bids                                     301  /departments/procurement-department/
 /bidsonline                               301  https://www.phlcontracts.phila.gov/bso/
 /board-of-education                       301  /departments/philadelphia-board-of-education/
 /boepaperform                             301  /documents/board-of-education-job-description/
@@ -343,6 +343,8 @@
 /prisons/inmatelocator/?(.*)              301  https://legacy.phila.gov/prisons/inmatelocator/$1
 /privacy/                                 301  /privacypolicy/
 /privacy/index.html                       301  /privacypolicy/
+/procurement/LBP/Pages/default.aspx       301  /departments/procurement-department/local-preference/
+/procurement/aboutus/Pages/PHLContractsFAQ.aspx 301 /departments/procurement-department/resources/
 /programs                                 301  /programs-initiatives/
 /programs/combating-the-opioid-epidemic/the-citys-response/the-philadelphia-resilience-project 301 /programs/philadelphia-resilience-project
 /programs/combating-the-opioid-epidemic/the-citys-response/the-philadelphia-resilience-project/support-the-philadelphia-resilience-project 301 /programs/philadelphia-resilience-project/support-the-philadelphia-resilience-project
@@ -505,7 +507,6 @@
 /youthengagement(.*)                      301  /departments/office-of-youth-engagement/
 /youth-engagement                         301  /departments/office-of-youth-engagement/
 /zika                                     301  /services/mental-physical-health/environmental-health-hazards/zika-virus/
-/zoningarchive                            301  /services/zoning-planning-development/find-location-and-zoning-information/
 /recycle                                  301  http://www.philadelphiastreets.com/sanitation/residential/
 /fairchancephilly                         301  /2018-06-25-philadelphias-fair-chance-hiring-law-heres-what-you-should-know/
 /welcomeamerica                           301  http://phl.maps.arcgis.com/apps/MapJour/index.html?appid=b0d5efe6fb7a4ed7a5fd9c3c681b8b41
