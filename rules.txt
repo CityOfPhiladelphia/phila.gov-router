@@ -503,6 +503,7 @@
 /welcomingweek2016                        301  /posts/office-of-immigrant-affairs/2016-08-31-welcoming-week-2016/
 /welcomingweek2017                        301  /posts/office-of-immigrant-affairs/2017-08-31-welcoming-week-2017/
 /wills                                    301  http://secureprod.phila.gov/wills/
+/winter-meals                             301  /2019-12-09-winter-meals-and-food-pantries-for-students-and-families/
 /workforce                                301  /programs/workforce-development/
 /wp-admin                                 301  https://admin.phila.gov/wp-admin/
 /wp-login.php                             301  https://admin.phila.gov/wp-login.php
