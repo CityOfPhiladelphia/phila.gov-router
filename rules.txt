@@ -28,6 +28,8 @@
 /broadstreetrun                           301  http://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=546b42e14be942009f364d81987eaa81
 /bumpout                                  301  http://www.stormwaterpa.org/stormwater-bumpouts.html?key=0
 /business                                 301  https://business.phila.gov
+/businesssupport                          301  /departments/department-of-commerce/supporting-business/
+/businessattraction                       301  /departments/department-of-commerce/about-us/divisions/office-of-business-development/
 /business-taxes/sales-use-tax             301  /services/business-self-employment/business-taxes/sales-use-hotel-occupancy-tax/
 /business-taxes/sweetened-beverage-tax    301  /services/business-self-employment/business-taxes/philadelphia-beverage-tax/
 /business-taxes/use-occupancy-tax         301  /services/business-self-employment/business-taxes/use-occupancy-tax/
@@ -63,6 +65,7 @@
 /commerce/businessAttraction/Pages/default.aspx 301 /departments/department-of-commerce/about-us/divisions/office-of-business-development/
 /commerce/neighborhoods/Pages/default.aspx 301 /departments/department-of-commerce/investing-in-neighborhoods/
 /commerce/businessSupport/Pages/default.aspx 301 /departments/department-of-commerce/supporting-business/
+/commerce/business-resource-finder(.*)    200  http://phila-resource-finder.s3-website-us-east-1.amazonaws.com/commerce/business-resource-finder$1
 /commerce/realEstate/developerServices/Pages/default.aspx 301 /departments/division-of-development-services/
 /commerce/realEstate/developerServices/Pages/DevelopmentServicesCommittee.aspx 301 /departments/division-of-development-services/
 /commerce/realEstate/Pages/KeystoneOpportunityZones.aspx 301 /programs/keystone-opportunity-zones/
@@ -538,8 +541,6 @@
 /solarmap                                 301  https://phl.maps.arcgis.com/apps/MapSeries/index.html?appid=c1a5d30acec04aec8c4acfa4cc60a311
 /programs/startup-phl                     301  http://startupphl.com/
 /welcoming-week                           301  /spotlight/welcoming-week-2019/
-/businesssupport                          301  /departments/department-of-commerce/supporting-business/
-/businessattraction                       301  /departments/department-of-commerce/about-us/divisions/office-of-business-development/
 /programs/stemcityphl                     301  http://www.stemcityphl.org/
 /zipcheck                                 301  /documents/zipcheck-application/
 /med-week                                 301  /spotlight/philadelphia-minority-enterprise-development-med-week/
