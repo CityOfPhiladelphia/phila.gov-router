@@ -519,7 +519,7 @@
 /youth-engagement                         301  /departments/office-of-youth-engagement/
 /zika                                     301  /services/mental-physical-health/environmental-health-hazards/zika-virus/
 /recycle                                  301  http://www.philadelphiastreets.com/sanitation/residential/
-/recycling-donation-finder(.*)            200  http://phila-resource-finder.s3-website-us-east-1.amazonaws.com/recycling-and-donation-finder$1  
+/recycling-donation-finder(.*)            200  http://phila-resource-finder.s3-website-us-east-1.amazonaws.com/recycling-donation-finder$1  
 /fairchancephilly                         301  /2018-06-25-philadelphias-fair-chance-hiring-law-heres-what-you-should-know/
 /welcomeamerica                           301  http://phl.maps.arcgis.com/apps/MapJour/index.html?appid=b0d5efe6fb7a4ed7a5fd9c3c681b8b41
 /loop                                     301  /services/payments-assistance-taxes/income-based-assistance-programs/longtime-owner-occupants-program/
