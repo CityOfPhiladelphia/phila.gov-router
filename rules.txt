@@ -275,7 +275,7 @@
 /oho                                      301  /hhs
 /ohs(.*)                                  301  /departments/office-of-homeless-services/
 /oia                                      301  /departments/office-of-immigrant-affairs/
-/oia/resource-finder(.*)                  200  http://phila-resource-finder.s3-website-us-east-1.amazonaws.com/immigrant/prod/$1
+/oia/resource-finder(.*)                  200  http://phila-resource-finder.s3-website-us-east-1.amazonaws.com/oia/resource-finder$1
 /oig                                      301  /departments/office-of-the-inspector-general/
 /oit                                      301  /it
 /oopa                                     301  /services/payments-assistance-taxes/payment-plans/owner-occupied-real-estate-tax-payment-agreement/
