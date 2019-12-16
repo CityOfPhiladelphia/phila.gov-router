@@ -28,6 +28,8 @@
 /broadstreetrun                           301  http://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=546b42e14be942009f364d81987eaa81
 /bumpout                                  301  http://www.stormwaterpa.org/stormwater-bumpouts.html?key=0
 /business                                 301  https://business.phila.gov
+/businesssupport                          301  /departments/department-of-commerce/supporting-business/
+/businessattraction                       301  /departments/department-of-commerce/about-us/divisions/office-of-business-development/
 /business-taxes/sales-use-tax             301  /services/business-self-employment/business-taxes/sales-use-hotel-occupancy-tax/
 /business-taxes/sweetened-beverage-tax    301  /services/business-self-employment/business-taxes/philadelphia-beverage-tax/
 /business-taxes/use-occupancy-tax         301  /services/business-self-employment/business-taxes/use-occupancy-tax/
@@ -63,6 +65,7 @@
 /commerce/businessAttraction/Pages/default.aspx 301 /departments/department-of-commerce/about-us/divisions/office-of-business-development/
 /commerce/neighborhoods/Pages/default.aspx 301 /departments/department-of-commerce/investing-in-neighborhoods/
 /commerce/businessSupport/Pages/default.aspx 301 /departments/department-of-commerce/supporting-business/
+/commerce/business-resource-finder(.*)    200  http://phila-resource-finder.s3-website-us-east-1.amazonaws.com/commerce/business-resource-finder$1
 /commerce/realEstate/developerServices/Pages/default.aspx 301 /departments/division-of-development-services/
 /commerce/realEstate/developerServices/Pages/DevelopmentServicesCommittee.aspx 301 /departments/division-of-development-services/
 /commerce/realEstate/Pages/KeystoneOpportunityZones.aspx 301 /programs/keystone-opportunity-zones/
@@ -274,6 +277,8 @@
 /ohcd/?.*                                 301  http://ohcdphila.org/
 /oho                                      301  /hhs
 /ohs(.*)                                  301  /departments/office-of-homeless-services/
+/oia                                      301  /departments/office-of-immigrant-affairs/
+/oia/resource-finder(.*)                  200  http://phila-resource-finder.s3-website-us-east-1.amazonaws.com/oia/resource-finder$1
 /oig                                      301  /departments/office-of-the-inspector-general/
 /oit                                      301  /it
 /oopa                                     301  /services/payments-assistance-taxes/payment-plans/owner-occupied-real-estate-tax-payment-agreement/
@@ -517,6 +522,7 @@
 /youth-engagement                         301  /departments/office-of-youth-engagement/
 /zika                                     301  /services/mental-physical-health/environmental-health-hazards/zika-virus/
 /recycle                                  301  http://www.philadelphiastreets.com/sanitation/residential/
+/recycling-donation-finder(.*)            200  http://phila-resource-finder.s3-website-us-east-1.amazonaws.com/recycling-donation-finder$1  
 /fairchancephilly                         301  /2018-06-25-philadelphias-fair-chance-hiring-law-heres-what-you-should-know/
 /welcomeamerica                           301  http://phl.maps.arcgis.com/apps/MapJour/index.html?appid=b0d5efe6fb7a4ed7a5fd9c3c681b8b41
 /loop                                     301  /services/payments-assistance-taxes/income-based-assistance-programs/longtime-owner-occupants-program/
@@ -536,8 +542,6 @@
 /solarmap                                 301  https://phl.maps.arcgis.com/apps/MapSeries/index.html?appid=c1a5d30acec04aec8c4acfa4cc60a311
 /programs/startup-phl                     301  http://startupphl.com/
 /welcoming-week                           301  /spotlight/welcoming-week-2019/
-/businesssupport                          301  /departments/department-of-commerce/supporting-business/
-/businessattraction                       301  /departments/department-of-commerce/about-us/divisions/office-of-business-development/
 /programs/stemcityphl                     301  http://www.stemcityphl.org/
 /zipcheck                                 301  /documents/zipcheck-application/
 /med-week                                 301  /spotlight/philadelphia-minority-enterprise-development-med-week/
