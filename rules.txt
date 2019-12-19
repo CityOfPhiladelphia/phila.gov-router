@@ -337,8 +337,7 @@
 /plan-develop                             301  /departments/department-of-planning-and-development/
 /phlcityid                                301  /programs/phl-city-id/
 /phlimmigrantbiz                          301  /posts/office-of-immigrant-affairs/2017-03-09-immigrant-business-week-2017-march-27-april-1/
-/phonedir$                                301  /phonedir/
-# /phonedir/(.*)                          200  http://legacy.phila.gov/phonedir/$1 # handled by cloudfront behavior
+/phonedir$                                301  /departments/
 /police                                   301  http://www.phillypolice.com/
 /policeovertime                           301  https://phl.secure.force.com/ROWS/
 /pools                                    301  /parks-rec-finder/#/locations/swimming-pools
@@ -356,7 +355,7 @@
 /parksandrecreation/(.*)                  301  /departments/philadelphia-parks-recreation/
 /pra/?.*                                  301  http://www.philadelphiaredevelopmentauthority.org
 /press-releases                           301  /the-latest/archives/?template=press_release
-/prisons/inmatelocator/?(.*)              301  https://legacy.phila.gov/prisons/inmatelocator/$1
+/prisons/inmatelocator/?(.*)              301  https://inmate-locator.phila.gov/ 
 /privacy/                                 301  /privacypolicy/
 /privacy/index.html                       301  /privacypolicy/
 /procurement/LBP/Pages/default.aspx       301  /departments/procurement-department/local-preference/
