@@ -300,7 +300,7 @@
 /opioids?                                 301  /programs/combating-the-opioid-epidemic/
 /ost                                      301  /programs/out-of-school-time-ost/
 /ost/program-locator$                     301  /ost/program-locator/
-/ost/program-locator(.*)                  200  https://ost-program-locator.s3.amazonaws.com/$1
+/ost/program-locator(.*)                  200  https://ost-program-locator.s3.amazonaws.com/index.html$1
 /otis                                     301  http://www.phillyotis.com
 /pac/meetings/Pages/default.aspx          301  /departments/police-advisory-commission/commission-meetings/
 /pac/Pages/FileAComplaint.aspx            301  /services/crime-law-justice/file-a-complaint-against-a-philadelphia-police-officer/
