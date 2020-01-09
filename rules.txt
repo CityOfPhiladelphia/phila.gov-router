@@ -419,6 +419,7 @@
 /revenue/job-creation-tax-credit          301  /services/payments-assistance-taxes/tax-credits/job-creation-tax-credit/ 
 /revenue/mef                              301  /services/payments-assistance-taxes/paying-city-taxes/e-filing-city-taxes/
 /revenue/payoff-request-form              301  /documents/bill-certification-and-payoff-request-form/
+/revenue/pbt                              301  /services/payments-assistance-taxes/business-taxes/philadelphia-beverage-tax/
 /revenue/pbt-instructions                 301  /documents/philadelphia-beverage-tax-pbt-filing-instructions/
 /revenue/realestatetax$                   301  /revenue/realestatetax/
 /revenue/realestatetax/(.*)               200  http://realestatetax.s3-website-us-east-1.amazonaws.com/$1
