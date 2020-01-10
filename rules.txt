@@ -117,6 +117,7 @@
 /departments/mayors-office-of-education/community-schools/william-cramp-elementary-school 301 /programs/community-schools/william-cramp-elementary-school/
 /departments/mayors-office-of-education/quality-pre-k 301 /programs/quality-pre-k/
 /departments/office-of-transportation-infrastructure-systems/ 301 /departments/office-of-transportation-infrastructure-sustainability/
+/departments/office-of-the-chief-diversity-and-inclusion-officer/(.*) 301 /departments/office-of-diversity-equity-and-inclusion/$1
 /departments/parks-recreation             301  /departments/philadelphia-parks-recreation/
 /departments/revenue                      301  /departments/department-of-revenue/
 /departments/water-sewer-stormwater-rate-board 301 /departments/water-sewer-storm-water-rate-board/
