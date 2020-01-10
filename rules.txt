@@ -433,6 +433,7 @@
 /risk                                     301  /finance/units-RiskManagement.html
 /rows                                     301  https://phl.my.salesforce.com
 /safetyandjustice(.*)                     301  /programs/philadelphia-safety-and-justice-challenge/
+/services/                                301  /services-directory/
 /service/water-bills                      301  /services/water-gas-utilities/pay-or-dispute-a-water-bill/pay-a-water-bill/
 /services/birth-marriage-life-events/foster-or-adopt 301 /services/birth-marriage-life-events/adopt-a-child/
 /services/crime-law-justice/find-an-inmate/  301  /services/crime-law-justice/inmates/find-an-inmate/
