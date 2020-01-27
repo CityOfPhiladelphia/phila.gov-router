@@ -287,9 +287,9 @@
 /oeo/directory                            301  /services/business-self-employment/find-a-minority-woman-or-disabled-owned-business/
 /oeo                                      301  /departments/office-of-economic-opportunity/
 /oew                                      301  /departments/office-of-engagement-for-women/
-/departments/office-of-engagement-for-women/(.*) 301 /departments/mayors-office-of-engagement-for-women/$1
-/departments/office-of-youth-engagement/(.*) 301 /departments/mayors-office-of-youth-engagement/$1
-/departments/office-of-civic-engagement-and-volunteer-service/(.*) 301 /departments/mayors-office-of-civic-engagement-and-volunteer-service/$1
+/departments/office-of-engagement-for-women(.*) 301 /departments/mayors-office-of-engagement-for-women$1
+/departments/office-of-youth-engagement(.*) 301 /departments/mayors-office-of-youth-engagement$1
+/departments/office-of-civic-engagement-and-volunteer-service(.*) 301 /departments/mayors-office-of-civic-engagement-and-volunteer-service$1
 /ohcd/?.*                                 301  http://ohcdphila.org/
 /oho                                      301  /hhs
 /ohs(.*)                                  301  /departments/office-of-homeless-services/
