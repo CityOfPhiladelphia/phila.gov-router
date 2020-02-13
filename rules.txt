@@ -582,3 +582,4 @@
 /paving                                   301  https://www.philadelphiastreets.com/highways/paving/
 /America                                  301  http://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=b0d5efe6fb7a4ed7a5fd9c3c681b8b41
 /ReadyEmployee                            301  https://veoci.com/veoci/p/form/hftffc2yehwz
+/droneguide                               301  https://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=d93906e2068e4eaa9c0e505287b959e2
