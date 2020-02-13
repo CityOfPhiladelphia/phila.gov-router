@@ -146,6 +146,7 @@
 /experiencephila/mayor.html               301  /experiencephila/pages/default.aspx
 /experiencephila/pages/default.aspx       301  https://jobs.smartrecruiters.com/CityofPhiladelphia/743999701558066-mayor-s-internship-program-mip-summer-2020
 /fairhousing                              301  /fairhousingcommission
+/families                                 301  /departments/office-of-children-and-families/
 /fhc                                      301  /fairhousingcommission
 /financialempowerment                     301  /fe
 /findafacility/?.*                        301  /parks-rec-finder/#/locations
