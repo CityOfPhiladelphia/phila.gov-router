@@ -128,6 +128,7 @@
 /dhs(.*)                                  301  /departments/department-of-human-services/
 /disputes-appeals                         301  /services/permits-violations-licenses/
 /disputes-appeals/dispute-a-water-bill    301  /services/water-gas-utilities/pay-or-dispute-a-water-bill/dispute-a-water-bill/
+/disston                                  301  /programs/community-schools/hamilton-disston-school/
 /districtattorney/pages/pressreleases.aspx 301 https://phillyda.wordpress.com/
 /districtattorney/resources/pages/pressreleases.aspx 301 https://phillyda.wordpress.com/
 /dnc                                      301  /events/democratic-national-convention/
@@ -146,6 +147,7 @@
 /experiencephila/mayor.html               301  /experiencephila/pages/default.aspx
 /experiencephila/pages/default.aspx       301  https://jobs.smartrecruiters.com/CityofPhiladelphia/743999701558066-mayor-s-internship-program-mip-summer-2020
 /fairhousing                              301  /fairhousingcommission
+/families                                 301  /departments/office-of-children-and-families/
 /fhc                                      301  /fairhousingcommission
 /financialempowerment                     301  /fe
 /findafacility/?.*                        301  /parks-rec-finder/#/locations
@@ -267,6 +269,7 @@
 /mayor/faithbased                         301  /faithbased
 /mayorsbudget                             301  /departments/mayor/do-you-support-the-budget-proposal
 /mbec                                     301  /commerce/businesssupport/mwdsbesupport
+/mcclure                                  301  /programs/community-schools/alexander-k-mcclure-school/
 /mcpd(.*)                                 301  /departments/mayors-office-for-people-with-disabilities/
 /mdo/specialevents/pages/permitsandapplications.aspx 301 http://www.phlevents.org/applications
 /mocs                                     301  /ceo
@@ -283,6 +286,7 @@
 /news/office-of-sustainability/environment-sustainability-city-of-philadelphia-action-guide 301 /2017-11-29-environmental-protection-during-the-trump-administration/
 /nutritionstandards                       301  /documents/city-of-philadelphia-nutrition-standards/
 /obme                                     301  /departments/mayors-office-of-black-male-engagement/
+/oec                                      301  /programs/community-schools/overbrook-educational-center/
 /oem(.*)                                  301  /departments/emergency-management/
 /oeo/directory                            301  /services/business-self-employment/find-a-minority-woman-or-disabled-owned-business/
 /oeo                                      301  /departments/office-of-economic-opportunity/
@@ -529,6 +533,7 @@
 /water/swmap                              301  https://stormwater.phila.gov/parcelviewer
 /waterbillhelp                            301  /services/water-gas-utilities/pay-or-dispute-a-water-bill/water-bill-customer-assistance/
 /waterrev(.*)                             301  /departments/department-of-revenue/our-services/water-revenue/
+/webster                                  301  /programs/community-schools/john-h-webster-school/
 /welcomingweek2016                        301  /posts/office-of-immigrant-affairs/2016-08-31-welcoming-week-2016/
 /welcomingweek2017                        301  /posts/office-of-immigrant-affairs/2017-08-31-welcoming-week-2017/
 /wills                                    301  http://secureprod.phila.gov/wills/
@@ -536,6 +541,7 @@
 /workforce                                301  /programs/workforce-development/
 /wp-admin                                 301  https://admin.phila.gov/wp-admin/
 /wp-login.php                             301  https://admin.phila.gov/wp-login.php
+/wright                                   301  /programs/community-schools/richard-r-wright-school/
 /youthcommission/pages/default.aspx       301  /departments/office-of-youth-engagement/
 /youthengagement/youthcommission/Pages/default.aspx 301 /departments/office-of-youth-engagement/philadelphia-youth-commission/
 /youthengagement/mac/Pages/default.aspx   301  /departments/office-of-youth-engagement/millennial-advisory-committee/
@@ -583,3 +589,4 @@
 /America                                  301  http://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=b0d5efe6fb7a4ed7a5fd9c3c681b8b41
 /ReadyEmployee                            301  https://veoci.com/veoci/p/form/hftffc2yehwz
 /sera                                     301  https://philadelphia.maps.arcgis.com/apps/webappviewer/index.html?id=8a2a28d8b6be43048c6aa266b812e003
+/droneguide                               301  https://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=d93906e2068e4eaa9c0e505287b959e2
