@@ -234,6 +234,7 @@
 /li/find-a-licensed-contractor(.*)        200  http://li-vue-apps.s3-website-us-east-1.amazonaws.com/li/find-a-licensed-contractor$1
 /li/appeals-calendar$                     301  /li/appeals-calendar/
 /li/appeals-calendar/(.*)                 200  http://appeals-app-all.s3-website-us-east-1.amazonaws.com/$1
+/li/appeals-materials                     301  /documents/licenses-and-inspections-appeals-materials/
 /li/codesandregulations/Pages/default.aspx  301  /departments/department-of-licenses-and-inspections/resources/applicable-codes/ 
 /li/eclipse                               301  https://eclipse.phila.gov/
 /li/pages/Appealscalendar.aspx            301  /li/appeals-calendar/
@@ -255,7 +256,7 @@
 /localcontrolsurvey                       301  /departments/mayor/share-what-you-want-in-your-schools/
 /locke                                    301  /programs/community-schools/alain-locke-school/
 /logan                                    301  /programs/community-schools/james-logan-elementary-school/
-/loop/pages/default.aspx                  301  /services/payments-assistance-taxes/income-based-assistance-programs/longtime-owner-occupants-program/
+/loop(.*)                                 301  /services/payments-assistance-taxes/income-based-assistance-programs/longtime-owner-occupants-program/
 /love-park                                301  /spotlight/christmas-village-in-love-park-2019/
 /mcaaa(.*)                                301  /departments/mayors-office-of-public-engagement/mayors-commission-on-asian-american-affairs/
 /map                                      301  http://gsg.phila.gov/map
@@ -495,7 +496,7 @@
 /townwatch/services.htm(l)?               301  /townwatch
 /transitionreport                         301  /documents/transition-report/
 /trashday$                                301  /trashday/
-/trashday/(.*)                            200  https://cityofphiladelphia.github.io/trashday/$1
+/trashday/(.*)                            200  http://philagov-trashday.s3-website-us-east-1.amazonaws.com/$1
 /trb/petition                             301  /documents/tax-appeal-petition-form/
 /trb/pages/default.aspx                   301  /departments/tax-review-board/
 /tree-trench                              301  http://www.stormwaterpa.org/keeping-water-on-site-waterview-recreation-center.html?key=0
@@ -551,7 +552,6 @@
 /recycling-donation-finder(.*)            200  http://phila-resource-finder.s3-website-us-east-1.amazonaws.com/recycling-donation-finder$1  
 /fairchancephilly                         301  /2018-06-25-philadelphias-fair-chance-hiring-law-heres-what-you-should-know/
 /welcomeamerica                           301  http://phl.maps.arcgis.com/apps/MapJour/index.html?appid=b0d5efe6fb7a4ed7a5fd9c3c681b8b41
-/loop                                     301  /services/payments-assistance-taxes/income-based-assistance-programs/longtime-owner-occupants-program/
 /after-an-emergency                       301  /services/safety-emergency-preparedness/after-an-emergency/
 /city-health-centers                      301  /services/mental-physical-health/city-health-centers/
 /prepare-for-an-emergency                 301  /services/safety-emergency-preparedness/prepare-for-an-emergency/
