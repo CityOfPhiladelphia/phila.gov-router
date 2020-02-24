@@ -496,7 +496,7 @@
 /townwatch/services.htm(l)?               301  /townwatch
 /transitionreport                         301  /documents/transition-report/
 /trashday$                                301  /trashday/
-/trashday/(.*)                            200  https://philagov-trashday.s3.amazonaws.com/trashday/index.html$1
+/trashday/(.*)                            200  https://philagov-trashday.s3.amazonaws.com/trashday/$1
 /trb/petition                             301  /documents/tax-appeal-petition-form/
 /trb/pages/default.aspx                   301  /departments/tax-review-board/
 /tree-trench                              301  http://www.stormwaterpa.org/keeping-water-on-site-waterview-recreation-center.html?key=0
