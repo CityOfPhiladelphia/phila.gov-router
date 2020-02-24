@@ -332,7 +332,7 @@
 /parksandrecreation/dogs                  301  /departments/philadelphia-parks-recreation/about/dog-regulations-and-best-practices/
 /parksandrecreation/findafacility         301  /parks-rec-finder/#/locations
 /parksnrecnewsletter                      301  /departments/philadelphia-parks-recreation/#action-modal
-/pay                                      301  https://secure.phila.gov/PaymentCenter/AccountLookup
+/pay                                      301  https://epay.phila.gov/paymentcenter/accountlookup/
 /pay-property-work                        301  /services/payments-assistance-taxes/debt-collection/pay-for-work-done-by-the-city-on-your-property/
 /payment-agreement-letters                301  /documents/sample-payment-agreement-letters/
 /payment-plans                            301  /services/payments-assistance-taxes/payment-plans/
