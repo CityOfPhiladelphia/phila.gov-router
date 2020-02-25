@@ -136,6 +136,8 @@
 /documents/air-management-regulations/    301  /documents/air-management-guidelines-and-regulations/
 /documents/philadelphia-city-scholarship-program-application/ 301 /2018-12-06-high-school-seniors-apply-for-the-philadelphia-city-scholarship/
 /documents/readynotifypa-brochure         301  /documents/ready-philadelphia-brochure/
+/documents/miles-mack-playground-plans-and-renderings-for-rebuild/ 301 /documents/miles-mack-playground-rebuild-plans-and-resources/
+/documents/hancock-playground-plans-and-renderings-for-rebuild/ 301 /documents/hancock-playground-rebuild-plans-and-resources/
 /dot                                      301  /it
 /DronePhilly                              301  https://veoci.com/veoci/p/dashboard/8vfac7c7b7
 /education(.*)                            301  /departments/mayors-office-of-education/
