@@ -296,7 +296,7 @@
 /departments/office-of-engagement-for-women(.*) 301 /departments/mayors-office-of-engagement-for-women$1
 /departments/office-of-youth-engagement(.*) 301 /departments/mayors-office-of-youth-engagement$1
 /departments/office-of-civic-engagement-and-volunteer-service(.*) 301 /departments/mayors-office-of-civic-engagement-and-volunteer-service$1
-/ohcd/?.*                                 301  http://ohcdphila.org/
+/ohcd(.*)                                 301  /departments/division-of-housing-and-community-development/
 /oho                                      301  /hhs
 /ohs(.*)                                  301  /departments/office-of-homeless-services/
 /oia                                      301  /departments/office-of-immigrant-affairs/
