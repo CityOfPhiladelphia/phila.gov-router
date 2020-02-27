@@ -306,6 +306,7 @@
 /oopa                                     301  /services/payments-assistance-taxes/payment-plans/owner-occupied-real-estate-tax-payment-agreement/
 /opa/abatementsexemptions/pages/homestead.aspx 301 /services/property-lots-housing/get-the-homestead-exemption/
 /opa/search                               301  https://property.phila.gov
+/ops                                      301  /2020-02-12-heres-what-you-need-to-know-about-overdose-prevention-sites/
 /opendata                                 301  /data
 /openbudget                               301  https://data.phila.gov/visualizations/payments-aggregate/
 /opioids?                                 301  /programs/combating-the-opioid-epidemic/
