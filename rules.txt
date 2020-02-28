@@ -78,6 +78,7 @@
 /contractprepfee                          301  https://www.officialpayments.com/pc_entry_cobrand.jsp?productId=635840624434951202173815789925863516
 /contracts/data$                          301  /contracts/data/
 /contracts/data/(.*)                      200  https://cityofphiladelphia.github.io/contracts/$1
+/covid-19                                 301  /services/mental-physical-health/environmental-health-hazards/covid-19/
 /cramp                                    301  /programs/community-schools/william-cramp-elementary-school/
 /data                                     301  /programs/open-data-program/
 /data/discuss                             301  https://groups.google.com/forum/#!forum/opendataphilly
