@@ -444,6 +444,7 @@
 /revenue/wage-tax-petition                301  /documents/income-based-wage-tax-refund-petition/
 /revenue(.*)                              301  /departments/department-of-revenue/
 /rise/employer/pages/banthebox.aspx       301  /humanrelations/pages/default.aspx
+/rise(.*)                                 301  /departments/office-of-reentry-partnerships/
 /risk                                     301  /finance/units-RiskManagement.html
 /rows                                     301  https://phl.my.salesforce.com
 /safetyandjustice(.*)                     301  /programs/philadelphia-safety-and-justice-challenge/
