@@ -201,7 +201,7 @@
 /helpme                                   301  /311/Pages/default.aspx
 /hhs/privacy                              301  /hhs/pages/privacy.aspx
 /historical/taskforce                     301  https://www.phlpreservation.org/
-/historical(.*)                               301  /departments/philadelphia-historical-commission/
+/historical(.*)                           301  /departments/philadelphia-historical-commission/
 /holiday-celebrations                     301  /spotlight/city-of-philadelphia-holiday-celebrations-2019/
 /homelessservices                         301  /departments/office-of-homeless-services/
 /homeless-services                        301  /departments/office-of-homeless-services/
