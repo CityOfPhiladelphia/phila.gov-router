@@ -475,6 +475,7 @@
 /services/working-jobs/become-a-lifeguard/ 301 /services/working-jobs/find-a-job-or-internship/become-a-lifeguard/
 /services/working-jobs/nominate-someone-for-a-mayors-day-of-service-recognition-award/ 301 /services/culture-recreation/volunteer/nominate-someone-for-a-mayors-day-of-service-recognition-award/
 /smartchoice/?$                           301  /departments/department-of-commerce/about-us/divisions/office-of-business-development/
+/solar-rebate                             301  /programs/solar-rebate-program/
 /southwark                                301  /programs/community-schools/southwark-school/
 /sphs                                     301  /programs/community-schools/south-philadelphia-high-school/
 /spotlight                                301  /the-latest
