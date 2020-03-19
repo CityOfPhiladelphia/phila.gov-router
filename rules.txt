@@ -414,6 +414,7 @@
 /rda                                      301  /pra
 /re-notification-letter                   301  /documents/risk-of-foreclosure-notification-letter/
 /ready                                    301  /departments/oem/
+/readyemployee                            301  https://member.everbridge.net/892807736722946/login
 /real-estate-relief                       301  /services/payments-assistance-taxes/get-real-estate-tax-relief/
 /reasonable-modification                  301  /services/diversity-inclusion-accessibility-immigration/submit-a-reasonable-modification-request/
 /rebuild/careers                          301  /programs/rebuild/careers/
@@ -597,6 +598,5 @@
 /reportarson                              301  http://phl.maps.arcgis.com/apps/GeoForm/index.html?appid=f616bfd4091842d694af0aff9983bd24 
 /paving                                   301  https://www.philadelphiastreets.com/highways/paving/
 /America                                  301  http://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=b0d5efe6fb7a4ed7a5fd9c3c681b8b41
-/ReadyEmployee                            301  https://veoci.com/veoci/p/form/hftffc2yehwz
 /sera                                     301  https://philadelphia.maps.arcgis.com/apps/webappviewer/index.html?id=8a2a28d8b6be43048c6aa266b812e003
 /droneguide                               301  https://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=d93906e2068e4eaa9c0e505287b959e2
