@@ -390,6 +390,7 @@
 /programs                                 301  /programs-initiatives/
 /programs/combating-the-opioid-epidemic/the-citys-response/the-philadelphia-resilience-project 301 /programs/philadelphia-resilience-project
 /programs/combating-the-opioid-epidemic/the-citys-response/the-philadelphia-resilience-project/support-the-philadelphia-resilience-project 301 /programs/philadelphia-resilience-project/support-the-philadelphia-resilience-project
+/programs/philadelphia-covid-19-small-business-relief-fund/  301  /COVID-19-business-relief
 /programs/rebuild/programs/               301  /programs/rebuild/for-businesses/
 /property                                 301  https://property.phila.gov
 /property/aboutus(.*)                     301  /departments/department-of-public-property/
