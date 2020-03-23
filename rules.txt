@@ -82,6 +82,8 @@
 /covid                                    301  /programs/coronavirus-disease-2019-covid-19/
 /covid19                                  301  /programs/coronavirus-disease-2019-covid-19/
 /covid-19                                 301  /programs/coronavirus-disease-2019-covid-19/
+/covid19businessrelief                    301  /programs/philadelphia-covid-19-small-business-relief-fund/
+/covid-19-business-relief                 301  /programs/philadelphia-covid-19-small-business-relief-fund/
 /cramp                                    301  /programs/community-schools/william-cramp-elementary-school/
 /data                                     301  /programs/open-data-program/
 /data/discuss                             301  https://groups.google.com/forum/#!forum/opendataphilly
@@ -390,7 +392,6 @@
 /programs                                 301  /programs-initiatives/
 /programs/combating-the-opioid-epidemic/the-citys-response/the-philadelphia-resilience-project 301 /programs/philadelphia-resilience-project
 /programs/combating-the-opioid-epidemic/the-citys-response/the-philadelphia-resilience-project/support-the-philadelphia-resilience-project 301 /programs/philadelphia-resilience-project/support-the-philadelphia-resilience-project
-/programs/philadelphia-covid-19-small-business-relief-fund/  301  /COVID-19-business-relief
 /programs/rebuild/programs/               301  /programs/rebuild/for-businesses/
 /property                                 301  https://property.phila.gov
 /property/aboutus(.*)                     301  /departments/department-of-public-property/
