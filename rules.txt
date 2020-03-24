@@ -140,7 +140,9 @@
 /dnc                                      301  /events/democratic-national-convention/
 /dobbins                                  301  /programs/community-schools/murrell-dobbins-cte-high-school/
 /documents/2015-income-based-wage-tax-refund-petition 301 /documents/income-based-wage-tax-refund-petition/
-/documents/air-management-regulations/    301  /documents/air-management-guidelines-and-regulations/
+/documents/air-management-regulations     301  /documents/air-management-guidelines-and-regulations/
+/documents/coronavirus-covid-19-resources  301  /programs/coronavirus-disease-2019-covid-19/multi-language-resources/covid-19-coronavirus-resources-in-english/
+/documents/covid-19-resource-translations  301  /programs/coronavirus-disease-2019-covid-19/multi-language-resources/
 /documents/philadelphia-city-scholarship-program-application/ 301 /2018-12-06-high-school-seniors-apply-for-the-philadelphia-city-scholarship/
 /documents/readynotifypa-brochure         301  /documents/ready-philadelphia-brochure/
 /documents/miles-mack-playground-plans-and-renderings-for-rebuild/ 301 /documents/miles-mack-playground-rebuild-plans-and-resources/
@@ -391,6 +393,7 @@
 /procurement/Documents/City%20of%20Philadelphia%20Local%20Business%20Entity%20Listing.pdf 301 /documents/local-business-entity-information/
 /procurement(.*)                          301 /departments/procurement-department/
 /programs                                 301  /programs-initiatives/
+/programs/coronavirus-disease-2019-covid-19/translations  301  /programs/coronavirus-disease-2019-covid-19/multi-language-resources/
 /programs/combating-the-opioid-epidemic/the-citys-response/the-philadelphia-resilience-project 301 /programs/philadelphia-resilience-project
 /programs/combating-the-opioid-epidemic/the-citys-response/the-philadelphia-resilience-project/support-the-philadelphia-resilience-project 301 /programs/philadelphia-resilience-project/support-the-philadelphia-resilience-project
 /programs/rebuild/programs/               301  /programs/rebuild/for-businesses/
@@ -460,6 +463,17 @@
 /services/birth-marriage-life-events/foster-or-adopt 301 /services/birth-marriage-life-events/adopt-a-child/
 /services/crime-law-justice/find-an-inmate/  301  /services/crime-law-justice/inmates/find-an-inmate/
 /services/diversity-inclusion-immigration/?(.*) 301 /services/diversity-inclusion-accessibility-immigration/$1
+/services/mental-physical-health/environmental-health-hazards/covid-19/could-i-have-covid-19  301  /programs/coronavirus-disease-2019-covid-19/guidance/signs-and-symptoms/
+/services/mental-physical-health/environmental-health-hazards/covid-19/covid-19-and-children  301  /programs/coronavirus-disease-2019-covid-19/guidance/children-and-pregnancy/
+/services/mental-physical-health/environmental-health-hazards/covid-19/covid-19-and-pregnancy  301  /programs/coronavirus-disease-2019-covid-19/guidance/children-and-pregnancy/
+/services/mental-physical-health/environmental-health-hazards/covid-19/covid-19-urgent-care-and-health-centers  301 /programs/coronavirus-disease-2019-covid-19/covid-19-urgent-care-and-health-centers/
+/services/mental-physical-health/environmental-health-hazards/covid-19/information-for-health-care-providers  301  /programs/coronavirus-disease-2019-covid-19/guidance/health-care-providers/
+/services/mental-physical-health/environmental-health-hazards/covid-19/overview  301  /programs/coronavirus-disease-2019-covid-19/guidance/about-covid-19/
+/services/mental-physical-health/environmental-health-hazards/covid-19/planning-guidance-for-businesses-and-nonprofit-organizations  301  /programs/coronavirus-disease-2019-covid-19/interim-planning-guidance/
+/services/mental-physical-health/environmental-health-hazards/covid-19/what-the-city-is-doing  301  /programs/coronavirus-disease-2019-covid-19/the-citys-response/
+/services/mental-physical-health/environmental-health-hazards/covid-19/what-you-can-do/  301  /programs/coronavirus-disease-2019-covid-19/guidance/health-and-preparedness/
+/services/mental-physical-health/environmental-health-hazards/covid-19/whats-new/  301  /programs/coronavirus-disease-2019-covid-19/updates/
+
 /services/mental-physical-health/sexual-health-and-family-planning/get-free-condoms/ 301 /services/mental-physical-health/sexual-health-and-family-planning/hiv-prevention-testing-and-treatment/get-free-condoms/
 /services/permits-violations-licenses/environmental-permits-and-approvals/?(.*)  301  /services/permits-violations-licenses/apply-for-a-permit/environmental-permits-and-approvals/$1
 /services/permits-violations-licenses/get-a-license/find-out-what-license-you-need-for-your-business/  301  /services/permits-violations-licenses/get-a-license/business-licenses-permits-and-approvals/
