@@ -141,8 +141,6 @@
 /dobbins                                  301  /programs/community-schools/murrell-dobbins-cte-high-school/
 /documents/2015-income-based-wage-tax-refund-petition 301 /documents/income-based-wage-tax-refund-petition/
 /documents/air-management-regulations     301  /documents/air-management-guidelines-and-regulations/
-/documents/coronavirus-covid-19-resources  301  /programs/coronavirus-disease-2019-covid-19/multi-language-resources/covid-19-coronavirus-resources-in-english/
-/documents/covid-19-resource-translations  301  /programs/coronavirus-disease-2019-covid-19/multi-language-resources/
 /documents/philadelphia-city-scholarship-program-application/ 301 /2018-12-06-high-school-seniors-apply-for-the-philadelphia-city-scholarship/
 /documents/readynotifypa-brochure         301  /documents/ready-philadelphia-brochure/
 /documents/miles-mack-playground-plans-and-renderings-for-rebuild/ 301 /documents/miles-mack-playground-rebuild-plans-and-resources/
@@ -393,7 +391,6 @@
 /procurement/Documents/City%20of%20Philadelphia%20Local%20Business%20Entity%20Listing.pdf 301 /documents/local-business-entity-information/
 /procurement(.*)                          301 /departments/procurement-department/
 /programs                                 301  /programs-initiatives/
-/programs/coronavirus-disease-2019-covid-19/translations  301  /programs/coronavirus-disease-2019-covid-19/multi-language-resources/
 /programs/combating-the-opioid-epidemic/the-citys-response/the-philadelphia-resilience-project 301 /programs/philadelphia-resilience-project
 /programs/combating-the-opioid-epidemic/the-citys-response/the-philadelphia-resilience-project/support-the-philadelphia-resilience-project 301 /programs/philadelphia-resilience-project/support-the-philadelphia-resilience-project
 /programs/rebuild/programs/               301  /programs/rebuild/for-businesses/
