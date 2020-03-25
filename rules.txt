@@ -469,11 +469,11 @@
 /services/mental-physical-health/environmental-health-hazards/covid-19/covid-19-urgent-care-and-health-centers  301 /programs/coronavirus-disease-2019-covid-19/covid-19-urgent-care-and-health-centers/
 /services/mental-physical-health/environmental-health-hazards/covid-19/information-for-health-care-providers  301  /programs/coronavirus-disease-2019-covid-19/guidance/health-care-providers/
 /services/mental-physical-health/environmental-health-hazards/covid-19/overview  301  /programs/coronavirus-disease-2019-covid-19/guidance/about-covid-19/
+/services/mental-physical-health/environmental-health-hazards/covid-19  301  /programs/coronavirus-disease-2019-covid-19/
 /services/mental-physical-health/environmental-health-hazards/covid-19/planning-guidance-for-businesses-and-nonprofit-organizations  301  /programs/coronavirus-disease-2019-covid-19/interim-planning-guidance/
 /services/mental-physical-health/environmental-health-hazards/covid-19/what-the-city-is-doing  301  /programs/coronavirus-disease-2019-covid-19/the-citys-response/
 /services/mental-physical-health/environmental-health-hazards/covid-19/what-you-can-do/  301  /programs/coronavirus-disease-2019-covid-19/guidance/health-and-preparedness/
 /services/mental-physical-health/environmental-health-hazards/covid-19/whats-new/  301  /programs/coronavirus-disease-2019-covid-19/updates/
-
 /services/mental-physical-health/sexual-health-and-family-planning/get-free-condoms/ 301 /services/mental-physical-health/sexual-health-and-family-planning/hiv-prevention-testing-and-treatment/get-free-condoms/
 /services/permits-violations-licenses/environmental-permits-and-approvals/?(.*)  301  /services/permits-violations-licenses/apply-for-a-permit/environmental-permits-and-approvals/$1
 /services/permits-violations-licenses/get-a-license/find-out-what-license-you-need-for-your-business/  301  /services/permits-violations-licenses/get-a-license/business-licenses-permits-and-approvals/
