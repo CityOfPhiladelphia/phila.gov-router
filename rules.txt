@@ -378,6 +378,7 @@
 /potholes                                 301  http://www.philadelphiastreets.com
 /ppdcommissioner(.*)                      301  /departments/mayor/philadelphia-police-commissioner-public-input-survey/ 
 /ppe-donation                             301  https://veoci.com/veoci/p/form/pauqjjhrzsw8
+/ppedonation                              301  https://veoci.com/veoci/p/form/pauqjjhrzsw8
 /ppr                                      301  /departments/philadelphia-parks-recreation/
 /parksandrecreation/(.*)                  301  /departments/philadelphia-parks-recreation/
 /pra/?.*                                  301  http://www.philadelphiaredevelopmentauthority.org
