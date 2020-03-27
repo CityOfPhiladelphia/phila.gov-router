@@ -377,8 +377,10 @@
 /posts/office-of-sustainability/2017-03-28-environment-sustainability-city-of-philadelphia-action-guide 301 /2017-11-29-environmental-protection-during-the-trump-administration/
 /potholes                                 301  http://www.philadelphiastreets.com
 /ppdcommissioner(.*)                      301  /departments/mayor/philadelphia-police-commissioner-public-input-survey/ 
-/ppe-donation                             301  https://veoci.com/veoci/p/form/pauqjjhrzsw8
 /ppedonation                              301  https://veoci.com/veoci/p/form/pauqjjhrzsw8
+/ppe-donation                             301  https://veoci.com/veoci/p/form/pauqjjhrzsw8
+/ppebids                                  301  https://veoci.com/veoci/p/form/8nzuw5ffjc3s#tab=entryForm
+/ppe-bids                                 301  https://veoci.com/veoci/p/form/8nzuw5ffjc3s#tab=entryForm
 /ppr                                      301  /departments/philadelphia-parks-recreation/
 /parksandrecreation/(.*)                  301  /departments/philadelphia-parks-recreation/
 /pra/?.*                                  301  http://www.philadelphiaredevelopmentauthority.org
