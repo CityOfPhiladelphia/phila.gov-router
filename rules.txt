@@ -428,7 +428,7 @@
 /reasonable-modification                  301  /services/diversity-inclusion-accessibility-immigration/submit-a-reasonable-modification-request/
 /rebuild/careers                          301  /programs/rebuild/careers/
 /recreation                               301  /departments/philadelphia-parks-recreation/
-/recycling-donation-finder(.*)            200  http://phila-resource-finder.s3-website-us-east-1.com/recycling/prod$1
+/recycling-donation-finder(.*)            200  http://phila-resource-finder.s3-website-us-east-1.amazonaws.com/recycling/prod
 /reentry                                  301  /departments/office-of-reentry-partnerships/
 /refinery                                 301  /programs/refinery-advisory-group/
 /regulations-rulings/(.*)                 301  /services/payments-assistance-taxes/regulations-rulings/
