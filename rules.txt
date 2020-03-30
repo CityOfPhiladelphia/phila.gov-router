@@ -84,6 +84,8 @@
 /covid-19                                 301  /programs/coronavirus-disease-2019-covid-19/
 /covid19businessrelief                    301  /programs/philadelphia-covid-19-small-business-relief-fund/
 /covid-19-business-relief                 301  /programs/philadelphia-covid-19-small-business-relief-fund/
+/covid19taxrelief                         301  /documents/coronavirus-tax-guidance/
+/covid-19-tax-relief                      301  /documents/coronavirus-tax-guidance/
 /cramp                                    301  /programs/community-schools/william-cramp-elementary-school/
 /data                                     301  /programs/open-data-program/
 /data/discuss                             301  https://groups.google.com/forum/#!forum/opendataphilly
