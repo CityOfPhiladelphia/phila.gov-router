@@ -428,6 +428,8 @@
 /reasonable-modification                  301  /services/diversity-inclusion-accessibility-immigration/submit-a-reasonable-modification-request/
 /rebuild/careers                          301  /programs/rebuild/careers/
 /recreation                               301  /departments/philadelphia-parks-recreation/
+/recycling-donation-finder$               301  /recycling-donation-finder/
+/recycling-donation-finder/(.*)           200  http://phila-resource-finder.s3-website-us-east-1.amazonaws.com/recycling/prod/$1
 /reentry                                  301  /departments/office-of-reentry-partnerships/
 /refinery                                 301  /programs/refinery-advisory-group/
 /regulations-rulings/(.*)                 301  /services/payments-assistance-taxes/regulations-rulings/
@@ -581,7 +583,6 @@
 /youth-engagement                         301  /departments/office-of-youth-engagement/
 /zika                                     301  /services/mental-physical-health/environmental-health-hazards/zika-virus/
 /recycle                                  301  http://www.philadelphiastreets.com/sanitation/residential/
-/recycling-donation-finder(.*)            200  http://phila-resource-finder.s3-website-us-east-1.amazonaws.com/recycling-donation-finder$1  
 /fairchancephilly                         301  /2018-06-25-philadelphias-fair-chance-hiring-law-heres-what-you-should-know/
 /welcomeamerica                           301  http://phl.maps.arcgis.com/apps/MapJour/index.html?appid=b0d5efe6fb7a4ed7a5fd9c3c681b8b41
 /after-an-emergency                       301  /services/safety-emergency-preparedness/after-an-emergency/
