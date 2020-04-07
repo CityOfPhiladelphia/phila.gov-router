@@ -400,6 +400,10 @@
 /procurement(.*)                          301 /departments/procurement-department/
 /programs                                 301  /programs-initiatives/
 /programs/coronavirus-disease-2019-covid-19/translations  301  /programs/coronavirus-disease-2019-covid-19/multi-language-resources/
+/programs/coronavirus-disease-2019-covid-19/the-citys-response/monitoring-and-testing  301  /programs/coronavirus-disease-2019-covid-19/testing-and-data/
+/programs/coronavirus-disease-2019-covid-19/the-workplace  301  /programs/coronavirus-disease-2019-covid-19/support-for-the-community/information-for-businesses/
+/programs/coronavirus-disease-2019-covid-19/the-citys-response  301  /programs/coronavirus-disease-2019-covid-19/
+/programs/coronavirus-disease-2019-covid-19/guidance/health-care-providers  301  /programs/coronavirus-disease-2019-covid-19/support-for-the-community/information-for-health-care-providers/
 /programs/combating-the-opioid-epidemic/the-citys-response/the-philadelphia-resilience-project 301 /programs/philadelphia-resilience-project
 /programs/combating-the-opioid-epidemic/the-citys-response/the-philadelphia-resilience-project/support-the-philadelphia-resilience-project 301 /programs/philadelphia-resilience-project/support-the-philadelphia-resilience-project
 /programs/rebuild/programs/               301  /programs/rebuild/for-businesses/
