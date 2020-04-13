@@ -390,7 +390,6 @@
 /press-releases                           301  /the-latest/archives/?template=press_release
 /prisons/inmatelocator/?(.*)              301  https://inmate-locator.phila.gov/ 
 /prisons/Facilities/Pages/default.aspx    301 /departments/philadelphia-department-of-prisons/about/facilities/
-/prisons/programs/Pages/default.aspx#page=1 301 /departments/philadelphia-department-of-prisons/prison-programming/
 /prisons/inmatesupport/Pages/default.aspx 301 /services/crime-law-justice/inmates/visit-an-inmate/
 /prisons/inmatesupport/Pages/VisitingInformation.aspx 301 /services/crime-law-justice/inmates/visit-an-inmate/
 /prisons/inmatesupport/Pages/inmateaccess.aspx 301 /services/crime-law-justice/inmates/visit-an-inmate/
