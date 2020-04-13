@@ -389,6 +389,13 @@
 /pra/?.*                                  301  http://www.philadelphiaredevelopmentauthority.org
 /press-releases                           301  /the-latest/archives/?template=press_release
 /prisons/inmatelocator/?(.*)              301  https://inmate-locator.phila.gov/ 
+/prisons/Facilities/Pages/default.aspx    301 /departments/philadelphia-department-of-prisons/about/facilities/
+/prisons/programs/Pages/default.aspx#page=1 301 /departments/philadelphia-department-of-prisons/prison-programming/
+/prisons/inmatesupport/Pages/default.aspx 301 /services/crime-law-justice/inmates/visit-an-inmate/
+/prisons/inmatesupport/Pages/VisitingInformation.aspx 301 /services/crime-law-justice/inmates/visit-an-inmate/
+/prisons/inmatesupport/Pages/inmateaccess.aspx 301 /services/crime-law-justice/inmates/visit-an-inmate/
+/prisons/aboutus/Pages/StaffDirectory.aspx 301 /departments/philadelphia-department-of-prisons/about/staff/
+/prisons/aboutus/Pages/ExecutiveStaff.aspx 301 /departments/philadelphia-department-of-prisons/about/staff/
 /privacy/                                 301  /privacypolicy/
 /privacy/index.html                       301  /privacypolicy/
 /procurement/LBP/Pages/default.aspx       301  /departments/procurement-department/local-preference/
@@ -475,6 +482,9 @@
 /service/water-bills                      301  /services/water-gas-utilities/pay-or-dispute-a-water-bill/pay-a-water-bill/
 /services/birth-marriage-life-events/foster-or-adopt 301 /services/birth-marriage-life-events/adopt-a-child/
 /services/crime-law-justice/find-an-inmate/  301  /services/crime-law-justice/inmates/find-an-inmate/
+/services/crime-law-justice/inmates/visit-a-person-in-jail-or-prison/  301 /services/crime-law-justice/inmates/visit-an-inmate/
+/services/crime-law-justice/inmates/send-mail-to-someone-in-jail-or-prison/ 301 /services/crime-law-justice/inmates/contact-an-inmate-by-mail/
+/services/crime-law-justice/inmates/find-an-inmate/ 301 /services/crime-law-justice/inmates/locate-an-inmate/
 /services/diversity-inclusion-immigration/?(.*) 301 /services/diversity-inclusion-accessibility-immigration/$1
 /services/mental-physical-health/environmental-health-hazards/covid-19/could-i-have-covid-19  301  /programs/coronavirus-disease-2019-covid-19/guidance/signs-and-symptoms/
 /services/mental-physical-health/environmental-health-hazards/covid-19/covid-19-and-children  301  /programs/coronavirus-disease-2019-covid-19/guidance/children-and-pregnancy/
