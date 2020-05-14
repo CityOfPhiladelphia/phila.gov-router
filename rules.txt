@@ -487,6 +487,7 @@
 /reasonable-modification                  301  /services/diversity-inclusion-accessibility-immigration/submit-a-reasonable-modification-request/
 /rebuild/careers                          301  /programs/rebuild/careers/
 /recovery                                 301  /programs/covid-19-recovery-office/
+/recoverPHL                               301  /programs/covid-19-recovery-office/
 /recoveryPHL                              301  /programs/covid-19-recovery-office/
 /recreation                               301  /departments/philadelphia-parks-recreation/
 /recycling-donation-finder$               301  /recycling-donation-finder/
