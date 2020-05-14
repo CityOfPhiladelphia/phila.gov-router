@@ -45,6 +45,11 @@
 /board-of-education                       301  /departments/philadelphia-board-of-education/
 /boepaperform                             301  /documents/board-of-education-job-description/
 /broadstreetrun                           301  http://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=546b42e14be942009f364d81987eaa81
+/brt/pages/default.aspx 301 /departments/board-of-revision-of-taxes/
+/brt/appeals/Pages/default.aspx 301 /departments/board-of-revision-of-taxes/property-assessment-appeals/ 
+/brt/CalendarHearingSchedule/Pages/default.aspx 301 /departments/board-of-revision-of-taxes/
+/brt/propertyinformation/Pages/default.aspx 301 /services/property-lots-housing/find-property-information/
+/brt/aboutus/Pages/FAQ.aspx 301 /departments/board-of-revision-of-taxes/faq/
 /bumpout                                  301  http://www.stormwaterpa.org/stormwater-bumpouts.html?key=0
 /business                                 301  https://business.phila.gov
 /businesssupport                          301  /departments/department-of-commerce/supporting-business/
@@ -338,6 +343,17 @@
 /oig                                      301  /departments/office-of-the-inspector-general/
 /oit                                      301  /it
 /oopa                                     301  /services/payments-assistance-taxes/payment-plans/owner-occupied-real-estate-tax-payment-agreement/
+/OPA/Pages/PropertyInformation.aspx 301 /departments/office-of-property-assessment/
+/OPA/AbatementsExemptions/Pages/Abatements.aspx 301  /services/property-lots-housing/property-taxes/get-real-estate-tax-relief/get-a-property-tax-abatement/
+/OPA/AbatementsExemptions/Pages/NonProfits.aspx 301 /services/property-lots-housing/property-taxes/get-real-estate-tax-relief/get-a-nonprofit-real-estate-tax-exemption/
+/services/property-lots-housing/property-taxes/get-real-estate-tax-relief/property-tax-exemptions/ 301 /departments/office-of-property-assessment/tax-exemptions-and-abatements/
+/OPA/AbatementsExemptions/Pages/DisabledVeterans.aspx 301 /departments/office-of-property-assessment/tax-exemptions-and-abatements/
+/OPA/AbatementsExemptions/Pages/CatastrophicLoss.aspx 301 /services/property-lots-housing/property-taxes/get-real-estate-tax-relief/get-a-real-estate-tax-adjustment-after-a-catastrophic-loss/
+/OPA/Assessments/Pages/HowOPAAssessessProperty.aspx 301 /departments/office-of-property-assessment/property-assessments/ 
+/OPA/Assessments/Pages/AssessmentData.aspx 301 /departments/office-of-property-assessment/property-assessments/ 
+/OPA/Assessments/Pages/Appeals.aspx 301 /departments/office-of-property-assessment/property-assessments/ 
+/OPA/Pages/FAQ.aspx 301 /departments/office-of-property-assessment/faq/ 
+/OPA/Pages/Glossary.aspx 301 /departments/office-of-property-assessment/glossary/
 /opa/abatementsexemptions/pages/homestead.aspx 301 /services/property-lots-housing/get-the-homestead-exemption/
 /opa/search                               301  https://property.phila.gov
 /ops                                      301  /2020-02-12-heres-what-you-need-to-know-about-overdose-prevention-sites/
@@ -669,3 +685,4 @@
 /droneguide                               301  https://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=d93906e2068e4eaa9c0e505287b959e2
 /covid/faithPHL                           301  https://veoci.com/veoci/p/form/s4n33gugsg7c
 /covid/testing-bids                       301  https://veoci.com/veoci/p/form/gfxhjgwvcxeh#tab=entryForm
+/covid/service-needs                      301  https://form.jotform.com/philagov/covid-service-needs
