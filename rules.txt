@@ -685,3 +685,4 @@
 /droneguide                               301  https://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=d93906e2068e4eaa9c0e505287b959e2
 /covid/faithPHL                           301  https://veoci.com/veoci/p/form/s4n33gugsg7c
 /covid/testing-bids                       301  https://veoci.com/veoci/p/form/gfxhjgwvcxeh#tab=entryForm
+/covid/service-needs                      301  https://form.jotform.com/philagov/covid-service-needs
