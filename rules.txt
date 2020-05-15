@@ -109,6 +109,8 @@
 /covid-19-business-relief                 301  /programs/philadelphia-covid-19-small-business-relief-fund/
 /covid19taxrelief                         301  /documents/coronavirus-tax-guidance/
 /covid-19-tax-relief                      301  /documents/coronavirus-tax-guidance/
+/covid-testing-sites$                     301  /covid-testing-sites/
+/covid-testing-sites/(.*)                 200  http://phila-resource-finder.s3-website-us-east-1.amazonaws.com/covid-testing/prod/$1
 /cramp                                    301  /programs/community-schools/william-cramp-elementary-school/
 /data                                     301  /programs/open-data-program/
 /data/discuss                             301  https://groups.google.com/forum/#!forum/opendataphilly
@@ -589,6 +591,7 @@
 /tax-credits/veterans-employment-tax-credit 301 /services/payments-assistance-taxes/tax-credits/veterans-employment-tax-credit/
 /tax-refunds                              301  /services/payments-assistance-taxes/
 /tax-refunds/request-a-refund             301  /services/payments-assistance-taxes/refunds/
+/testing                                  301  /covid-testing-sites/
 /theoval                                  301  http://www.theovalphl.org/
 /tilden                                   301  /programs/community-schools/tilden-middle-school/
 /towing                                   301  /programs/philadelphias-rotational-towing-program/
