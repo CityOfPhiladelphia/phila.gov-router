@@ -425,6 +425,7 @@
 /ppebids                                  301  https://veoci.com/veoci/p/form/8nzuw5ffjc3s#tab=entryForm
 /ppe-bids                                 301  https://veoci.com/veoci/p/form/8nzuw5ffjc3s#tab=entryForm
 /ppr                                      301  /departments/philadelphia-parks-recreation/
+/ppr/summer-jobs                          301  /programs/parks-rec-summer-youth-employment-program/
 /parksandrecreation/(.*)                  301  /departments/philadelphia-parks-recreation/
 /pra/?.*                                  301  http://www.philadelphiaredevelopmentauthority.org
 /press-releases                           301  /the-latest/archives/?template=press_release
@@ -461,7 +462,8 @@
 /programs/coronavirus-disease-2019-covid-19/guidance/signs-and-symptoms/ 301 /programs/coronavirus-disease-2019-covid-19/guidance/faq/#about-covid-19/
 /programs/coronavirus-disease-2019-covid-19/guidance/getting-tested-for-covid-19/ 301 /programs/coronavirus-disease-2019-covid-19/guidance/faq/#getting-tested
 /programs/coronavirus-disease-2019-covid-19/guidance/children-and-pregnancy/ 301 /programs/coronavirus-disease-2019-covid-19/guidance/faq/#children-and-families
-/programs/rebuild/programs/               301  /programs/rebuild/for-businesses/
+/programs/rebuild/programs                301  /programs/rebuild/for-businesses/
+/programs/workready-at-parks-rec          301  /programs/parks-rec-summer-youth-employment-program/
 /property                                 301  https://property.phila.gov
 /property/aboutus(.*)                     301  /departments/department-of-public-property/
 /property/capital(.*)                     301  /departments/department-of-public-property/	
