@@ -59,6 +59,7 @@
 /business-taxes/use-occupancy-tax         301  /services/business-self-employment/business-taxes/use-occupancy-tax/
 /business-taxes/vehicle-rental-tax        301  /services/business-self-employment/business-taxes/vehicle-rental-tax/
 /businesstaxprograms                      301  /services/payments-assistance-taxes/tax-credits/
+/cao                                      301  /departments/office-of-the-chief-administrative-officer/
 /census                                   301  /programs/philly-counts-2020/
 /citizenship                              301  /2018-01-12-citizenship-information-resources/
 /citycouncil                              301  http://philadelphiacitycouncil.net/
