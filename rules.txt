@@ -448,6 +448,7 @@
 /procurement/Documents/City%20of%20Philadelphia%20Local%20Business%20Entity%20Listing.pdf 301 /documents/local-business-entity-information/
 /procurement(.*)                          301 /departments/procurement-department/
 /programs                                 301  /programs-initiatives/
+/programs/covid-19-recovery-office/       301 /departments/covid-19-recovery-office/ 
 /programs/coronavirus-disease-2019-covid-19/translations  301  /programs/coronavirus-disease-2019-covid-19/multi-language-resources/
 /programs/coronavirus-disease-2019-covid-19/the-citys-response/monitoring-and-testing  301  /programs/coronavirus-disease-2019-covid-19/testing-and-data/
 /programs/coronavirus-disease-2019-covid-19/the-workplace  301  /programs/coronavirus-disease-2019-covid-19/support-for-the-community/information-for-businesses/
