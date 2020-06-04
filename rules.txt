@@ -699,3 +699,5 @@
 /covid/faithPHL                           301  https://veoci.com/veoci/p/form/s4n33gugsg7c
 /covid/testing-bids                       301  https://veoci.com/veoci/p/form/gfxhjgwvcxeh#tab=entryForm
 /covid/service-needs                      301  https://form.jotform.com/philagov/covid-service-needs
+/employee-screener                        301  /employee-screener/
+/employee-screener/                       200  https://philagov-covid-questionnaire.s3.amazonaws.com/index.html#/
