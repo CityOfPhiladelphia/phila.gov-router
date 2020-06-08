@@ -410,6 +410,8 @@
 /phlcityid                                301  /programs/phl-city-id/
 /phlimmigrantbiz                          301  /posts/office-of-immigrant-affairs/2017-03-09-immigrant-business-week-2017-march-27-april-1/
 /phonedir$                                301  /departments/
+/play-it-safe-PHL                         301 /2020-05-21-summer-2020-update/
+/playitsafePHL                            301 /2020-05-21-summer-2020-update/
 /police                                   301  http://www.phillypolice.com/
 /policeovertime                           301  https://phl.secure.force.com/ROWS/
 /pools                                    301  /parks-rec-finder/#/locations/swimming-pools
