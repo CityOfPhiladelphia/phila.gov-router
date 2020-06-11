@@ -576,6 +576,10 @@
 /services/water-gas-utilities/water-bill-customer-assistance/ 301 /services/water-gas-utilities/pay-or-dispute-a-water-bill/water-bill-customer-assistance/
 /services/working-jobs/become-a-lifeguard/ 301 /services/working-jobs/find-a-job-or-internship/become-a-lifeguard/
 /services/working-jobs/nominate-someone-for-a-mayors-day-of-service-recognition-award/ 301 /services/culture-recreation/volunteer/nominate-someone-for-a-mayors-day-of-service-recognition-award/
+/services/business-self-employment/for-vendors/register-as-a-minority-woman-or-disabled-owned-business/  301 /services/business-self-employment/for-vendors/register-as-a-minority-woman-or-disabled-owned-business/ 
+/services/business-self-employment/get-certified-as-a-local-business-entity/ 301 /services/business-self-employment/bidding-on-a-city-contract/get-certified-as-a-local-business-entity/
+/servicedesignstudio 301 /departments/office-of-the-chief-administrative-officer/service-design-studio/ 
+/service-design-studio 301 /departments/office-of-the-chief-administrative-officer/service-design-studio/ 
 /smartchoice/?$                           301  /departments/department-of-commerce/about-us/divisions/office-of-business-development/
 /solar-rebate                             301  /programs/solar-rebate-program/
 /southwark                                301  /programs/community-schools/southwark-school/
