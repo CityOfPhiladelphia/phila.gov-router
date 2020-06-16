@@ -182,6 +182,8 @@
 /DronePhilly                              301  https://veoci.com/veoci/p/dashboard/8vfac7c7b7
 /education(.*)                            301  /departments/mayors-office-of-education/
 /educationnews                            301  /departments/mayors-office-of-education/newsletter-sign-up/
+/employee-screener$                       301  /employee-screener/
+/employee-screener/(.*)                   200  http://philagov-covid-questionnaire.s3-website-us-east-1.amazonaws.com/$1
 /eoc-gisrequest                           301  https://veoci.com/veoci/p/dashboard/4p9brrkav6
 /eslmap                                   301  http://phl.maps.arcgis.com/apps/View/index.html?appid=3929071e10db460db6e2265423ed4e83
 /evacuations/(.*)                         301  /services/safety-emergency-preparedness/evacuations/$1
@@ -708,5 +710,3 @@
 /covid/faithPHL                           301  https://veoci.com/veoci/p/form/s4n33gugsg7c
 /covid/testing-bids                       301  https://veoci.com/veoci/p/form/gfxhjgwvcxeh#tab=entryForm
 /covid/service-needs                      301  https://form.jotform.com/philagov/covid-service-needs
-/employee-screener$                       301  /employee-screener/
-/employee-screener/(.*)                   200  http://philagov-covid-questionnaire.s3-website-us-east-1.amazonaws.com/$1
