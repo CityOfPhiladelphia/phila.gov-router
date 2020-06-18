@@ -533,6 +533,7 @@
 /revenue/taxpro/pages/refundpetitions.aspx 301 /documents/income-based-wage-tax-refund-petition/
 /revenue/use-occupancy                    301  /services/payments-assistance-taxes/business-taxes/use-occupancy-tax/
 /revenue/wage-tax-petition                301  /documents/income-based-wage-tax-refund-petition/
+/revenue/payment-appointment              301  /payments-assistance-taxes/paying-city-taxes/make-an-appointment-to-pay-city-taxes-or-a-water-bill-in-person/
 /revenue(.*)                              301  /departments/department-of-revenue/
 /rise/employer/pages/banthebox.aspx       301  /humanrelations/pages/default.aspx
 /rise(.*)                                 301  /departments/office-of-reentry-partnerships/
