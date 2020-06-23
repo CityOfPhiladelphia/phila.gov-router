@@ -86,6 +86,7 @@
 /clip/vacantlotprogram/pages/default.aspx 301  /programs/vacant-lot-program/
 /clip(.*)                                     301  /departments/community-life-improvement-program/
 /codeBlue.html                            301  /services/mental-physical-health/environmental-health-hazards/extreme-weather/code-blue/
+/columbus-feedback                        301  https://form.jotform.com/philagov/columbus-feedback
 /commissioners                            301  http://www.philadelphiavotes.com/
 /commerce/doBusiness/Pages/default.aspx   301  /services/business-self-employment/do-business-with-the-city/
 /commerce/businesssupport/mwdsbesupport/pages/default.aspx 301 /departments/office-of-economic-opportunity/
@@ -711,3 +712,5 @@
 /covid/faithPHL                           301  https://veoci.com/veoci/p/form/s4n33gugsg7c
 /covid/testing-bids                       301  https://veoci.com/veoci/p/form/gfxhjgwvcxeh#tab=entryForm
 /covid/service-needs                      301  https://form.jotform.com/philagov/covid-service-needs
+/employee-screener$                       301  /employee-screener/
+/employee-screener/(.*)                   200  http://philagov-covid-questionnaire.s3-website-us-east-1.amazonaws.com/$1
