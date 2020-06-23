@@ -185,6 +185,8 @@
 /DronePhilly                              301  https://veoci.com/veoci/p/dashboard/8vfac7c7b7
 /education(.*)                            301  /departments/mayors-office-of-education/
 /educationnews                            301  /departments/mayors-office-of-education/newsletter-sign-up/
+/employee-screener$                       301  /employee-screener/
+/employee-screener/(.*)                   200  http://philagov-covid-questionnaire.s3-website-us-east-1.amazonaws.com/$1
 /eoc-gisrequest                           301  https://veoci.com/veoci/p/dashboard/4p9brrkav6
 /eslmap                                   301  http://phl.maps.arcgis.com/apps/View/index.html?appid=3929071e10db460db6e2265423ed4e83
 /evacuations/(.*)                         301  /services/safety-emergency-preparedness/evacuations/$1
@@ -532,7 +534,7 @@
 /revenue/taxpro/pages/refundpetitions.aspx 301 /documents/income-based-wage-tax-refund-petition/
 /revenue/use-occupancy                    301  /services/payments-assistance-taxes/business-taxes/use-occupancy-tax/
 /revenue/wage-tax-petition                301  /documents/income-based-wage-tax-refund-petition/
-/revenue/payment-appointment              301  /payments-assistance-taxes/paying-city-taxes/make-an-appointment-to-pay-city-taxes-or-a-water-bill-in-person/
+/revenue/payment-appointment              301  /services/payments-assistance-taxes/paying-city-taxes/make-an-appointment-to-pay-city-taxes-or-a-water-bill-in-person/
 /revenue(.*)                              301  /departments/department-of-revenue/
 /rise/employer/pages/banthebox.aspx       301  /humanrelations/pages/default.aspx
 /rise(.*)                                 301  /departments/office-of-reentry-partnerships/
