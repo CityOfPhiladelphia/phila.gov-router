@@ -212,6 +212,7 @@
 /gompers                                  301  /programs/community-schools/samuel-gompers-school/
 /green(.*)                                301  /departments/office-of-sustainability/
 /guides                                   301  /guides/lead-guide/
+/guides/safter-at-home(.*)                301  /guides/reopening-with-care/
 /guncontrolpolicies                       301  /2018-03-20-gun-control-policies/
 /guncontrol                               301  /2018-03-20-gun-control-policies/
 /gwhs                                     301  /programs/community-schools/george-washington-high-school/
@@ -510,6 +511,9 @@
 /refinery                                 301  /programs/refinery-advisory-group/
 /regulations-rulings/(.*)                 301  /services/payments-assistance-taxes/regulations-rulings/
 /rental-assistance                        301  /services/payments-assistance-taxes/income-based-assistance-programs/get-help-if-you-are-at-risk-of-being-evicted/
+/reopen                                   301  /guides/reopening-with-care/
+/reopening                                301  /guides/reopening-with-care/
+/reopening-with-care                      301  /guides/reopening-with-care/
 /residents(.*)                            301  /services/
 /resilientPHL                             301  /programs/philadelphia-resilience-project/
 /revenue/active-duty-tax-credit           301  /services/payments-assistance-taxes/tax-credits/active-duty-tax-credit/
@@ -540,8 +544,8 @@
 /rise(.*)                                 301  /departments/office-of-reentry-partnerships/
 /risk                                     301  /finance/units-RiskManagement.html
 /rows                                     301  https://phl.my.salesforce.com
-/saferathome                              301  /guides/safer-at-home/
-/safer-at-home                            301  /guides/safer-at-home/
+/saferathome                              301  /guides/reopening-with-care/
+/safer-at-home                            301  /guides/reopening-with-care/
 /safetyandjustice(.*)                     301  /programs/philadelphia-safety-and-justice-challenge/
 /services/                                301  /service-directory/
 /service/water-bills                      301  /services/water-gas-utilities/pay-or-dispute-a-water-bill/pay-a-water-bill/
