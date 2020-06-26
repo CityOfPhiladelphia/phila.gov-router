@@ -212,7 +212,7 @@
 /gompers                                  301  /programs/community-schools/samuel-gompers-school/
 /green(.*)                                301  /departments/office-of-sustainability/
 /guides                                   301  /guides/lead-guide/
-/guides/safter-at-home(.*)                301  /guides/reopening-with-care/
+/guides/safer-at-home(.*)                 301  /guides/reopening-with-care/
 /guncontrolpolicies                       301  /2018-03-20-gun-control-policies/
 /guncontrol                               301  /2018-03-20-gun-control-policies/
 /gwhs                                     301  /programs/community-schools/george-washington-high-school/
