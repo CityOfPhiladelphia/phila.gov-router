@@ -402,6 +402,7 @@
 /parks                                    301  /departments/philadelphia-parks-recreation/
 /parks-rec-finder$                        301  /parks-rec-finder/
 /parks-rec-finder/(.*)                    200  http://parks-rec-finder.s3-website-us-east-1.amazonaws.com/prod/$1
+/parks-rec-finder/#/locations/sprinklers-spraygrounds  301  /parks-rec-finder/#/locations/sprinklers-and-spraygrounds/
 /parksandrec/trails                       301  https://phl.maps.arcgis.com/apps/webappviewer/index.html?id=2e70012008fc409e9f34810f18102f01
 /parksandrec                              301  /departments/philadelphia-parks-recreation/
 /parksandrec/campphilly                   301  /programs/camp-philly/
@@ -578,6 +579,7 @@
 /services/                                301  /service-directory/
 /service/water-bills                      301  /services/water-gas-utilities/pay-or-dispute-a-water-bill/pay-a-water-bill/
 /services/birth-marriage-life-events/foster-or-adopt 301 /services/birth-marriage-life-events/adopt-a-child/
+/services/business-self-employment/for-vendors/do-business-with-the-city/  301  /services/business-self-employment/bidding-on-a-city-contract/do-business-with-the-city/
 /services/crime-law-justice/find-an-inmate/  301  /services/crime-law-justice/inmates/find-an-inmate/
 /services/crime-law-justice/inmates/visit-a-person-in-jail-or-prison/  301 /services/crime-law-justice/inmates/visit-an-inmate/
 /services/crime-law-justice/inmates/send-mail-to-someone-in-jail-or-prison/ 301 /services/crime-law-justice/inmates/contact-an-inmate-by-mail/
