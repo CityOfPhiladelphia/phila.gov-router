@@ -256,6 +256,7 @@
 /health(.*)                               301  /departments/department-of-public-health/
 /helpme                                   301  /311/Pages/default.aspx
 /hhs/privacy                              301  /hhs/pages/privacy.aspx
+/hh3                                      301  /2019-06-11-what-happens-when-the-city-declares-a-heat-health-emergency/
 /historical/taskforce                     301  https://www.phlpreservation.org/
 /historical(.*)                           301  /departments/philadelphia-historical-commission/
 /holiday-celebrations                     301  /spotlight/city-of-philadelphia-holiday-celebrations-2019/
