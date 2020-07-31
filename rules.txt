@@ -68,8 +68,6 @@
 /census                                   301  /programs/philly-counts-2020/
 /citizenship                              301  /2018-01-12-citizenship-information-resources/
 /citycouncil                              301  http://philadelphiacitycouncil.net/
-/city-council-transcript-room$            301  /city-council-transcript-room/
-/city-council-transcript-room/(.*)        200  http://council-transcript-room.s3-website-us-east-1.amazonaws.com/$1
 /citylandmarks                            301  http://phl.maps.arcgis.com/apps/CrowdsourceReporter/index.html?appid=7fa0d185a2bd4ada90151b378aea2e1e
 /citymaps                                 301  http://citymaps.phila.gov/Map/
 /CityPlanning/projectreviews/Pages/RegisteredCommunityOrganizations.aspx 301 /programs/registered-community-organizations-rcos/
