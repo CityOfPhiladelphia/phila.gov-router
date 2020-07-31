@@ -78,8 +78,6 @@
 /city-health-centers                      301  /services/mental-physical-health/city-health-centers/
 /civilservice                             301  /personnel/civilservice.html
 /clean-waters                             301  http://stormwaterpa.org/green-city,-clean-waters.html?key=1
-/climatechangeisreal$                     301  /climatechangeisreal/
-/climatechangeisreal/(.*)                 200  https://cityofphiladelphia.github.io/climatechangeisreal/$1
 /clip/aboutus/Pages/communityservicerequest.aspx 301 /programs/community-service-program/community-service-program-request-form/
 /clip/aboutus/Pages/CommunityServiceProgram.aspx 301 /programs/community-service-program/
 /clip/communitypartnershipprogram/Pages/CPPRequestFormaspx.aspx 301 /programs/community-partnership-program/community-partnership-program-request-form/
