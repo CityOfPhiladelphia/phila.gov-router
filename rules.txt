@@ -425,6 +425,7 @@
 /phillydelivers                           301  /departments/mayor/help-make-sure-phillydelivers-for-amazon/
 /phillyrising(.*)                         301  https://www.serve.phila.gov
 /phillystat                               301  /mdo/phillystat
+/PHLConnectED                             301  /2020-08-06-phlconnected-connecting-k-12-students-to-the-internet/
 /PHLgovTV                                 301  https://www.phila.gov/channel64/pages/default.aspx
 /plan-develop                             301  /departments/department-of-planning-and-development/
 /phlcityid                                301  /programs/phl-city-id/
