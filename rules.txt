@@ -486,6 +486,8 @@
 /programs/coronavirus-disease-2019-covid-19/the-citys-response/services-and-support 301 /programs/coronavirus-disease-2019-covid-19/support-for-the-community/
 /programs/coronavirus-disease-2019-covid-19/guidance/health-care-providers  301  /programs/coronavirus-disease-2019-covid-19/support-for-the-community/information-for-health-care-providers/
 /programs/coronavirus-disease-2019-covid-19/multi-language-resources/covid-19-coronavirus-resources-in-english/ 301 /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/ 
+/programs/coronavirus-disease-2019-covid-19/support-for-the-community/information-for-workers/  301  /programs/coronavirus-disease-2019-covid-19/support-for-the-community/support-for-residents/
+/programs/coronavirus-disease-2019-covid-19/support-for-the-community/services-and-support-for-residents/  301  /programs/coronavirus-disease-2019-covid-19/support-for-the-community/support-for-residents/
 /programs/combating-the-opioid-epidemic/the-citys-response/the-philadelphia-resilience-project 301 /programs/philadelphia-resilience-project
 /programs/combating-the-opioid-epidemic/the-citys-response/the-philadelphia-resilience-project/support-the-philadelphia-resilience-project 301 /programs/philadelphia-resilience-project/support-the-philadelphia-resilience-project
 /programs/coronavirus-disease-2019-covid-19/guidance/about-covid-19/ 301 /programs/coronavirus-disease-2019-covid-19/guidance/faq/
