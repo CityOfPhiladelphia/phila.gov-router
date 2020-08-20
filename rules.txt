@@ -282,6 +282,7 @@
 /iwa                                      301  https://goo.gl/forms/bgDbXCvrvpJoRpul2
 /kenney-?1000-?days                       301  /documents/first-1000-days-of-the-kenney-administration/
 /khsa                                     301  /programs/community-schools/kensington-health-sciences-academy/
+/labor                                    301  /departments/mayors-office-of-labor/
 /landbank                                 301  http://www.philadelphialandbank.org
 /languageaccess                           301  /programs/language-access-philly/
 /language-access                          301  /programs/language-access-philly/
