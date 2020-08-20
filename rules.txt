@@ -22,6 +22,8 @@
 /2020-03-14-find-free-meals-for-students-while-schools-are-closed-ru/ 301 /food/
 /2020-03-14-trouver-des-repas-gratuits-pour-les-etudiants-pendant-la-fermeture-des-ecoles/ 301 /food/
 /aco                                      301  /departments/mayors-office-for-people-with-disabilities/
+/access-centers                           301  /2020-08-20-where-to-find-supervised-connected-access-centers-for-digital-learning/
+/accesscenters                            301  /2020-08-20-where-to-find-supervised-connected-access-centers-for-digital-learning/
 /actionguides                             301  /the-latest/#action-guides
 /active-duty-credit                       301  /services/payments-assistance-taxes/tax-credits/active-duty-tax-credit/
 /ada-grievance                            301  /services/diversity-inclusion-accessibility-immigration/submit-an-ada-grievance-against-the-city/
