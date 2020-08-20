@@ -278,7 +278,7 @@
 /info/?$                                  301  /info/pages/wifi.aspx
 /inspector                                301  /departments/office-of-the-inspector-general/
 /inspectorgeneral                         301  /departments/office-of-the-inspector-general/
-/integrityworks                           301  /programs/integrity-works/
+/integrityworks(.*)                       301  /programs/integrity-works/
 /investorconference                       301  /investor/Pages/InvestorConference.aspx
 /it/aboutus/pages/employment.aspx         301  https://www.smartrecruiters.com/OfficeOfInnovationTechnology
 /itjobs                                   301  https://www.smartrecruiters.com/OfficeOfInnovationTechnology
