@@ -23,7 +23,7 @@
 /2020-03-14-trouver-des-repas-gratuits-pour-les-etudiants-pendant-la-fermeture-des-ecoles/ 301 /food/
 /aco                                      301  /departments/mayors-office-for-people-with-disabilities/
 /access-center-finder$                    301  /access-center-finder/
-/access-center-finder/(*.)                200  http://phila-resource-finder.s3-website-us-east-1.amazonaws.com/access-centers/prod/$1
+/access-center-finder/(.*)                200  http://phila-resource-finder.s3-website-us-east-1.amazonaws.com/access-centers/prod/$1
 /access-centers                           301  /2020-08-20-where-to-find-supervised-connected-access-centers-for-digital-learning/
 /accesscenters                            301  /2020-08-20-where-to-find-supervised-connected-access-centers-for-digital-learning/
 /actionguides                             301  /the-latest/#action-guides
