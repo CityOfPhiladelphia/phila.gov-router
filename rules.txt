@@ -24,8 +24,8 @@
 /aco                                      301  /departments/mayors-office-for-people-with-disabilities/
 /access-center-finder$                    301  /access-center-finder/
 /access-center-finder/(.*)                200  http://phila-resource-finder.s3-website-us-east-1.amazonaws.com/access-centers/prod/$1
-/access-centers                           301  /2020-08-20-where-to-find-supervised-connected-access-centers-for-digital-learning/
-/accesscenters                            301  /2020-08-20-where-to-find-supervised-connected-access-centers-for-digital-learning/
+/access-centers                           301  /programs/access-centers/
+/accesscenters                            301  /programs/access-centers/
 /actionguides                             301  /the-latest/#action-guides
 /active-duty-credit                       301  /services/payments-assistance-taxes/tax-credits/active-duty-tax-credit/
 /ada-grievance                            301  /services/diversity-inclusion-accessibility-immigration/submit-an-ada-grievance-against-the-city/
