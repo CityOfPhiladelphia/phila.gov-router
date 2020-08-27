@@ -111,9 +111,11 @@
 /commerce(.*)                             301  /departments/department-of-commerce/
 /content-style-guide                      301  http://standards.phila.gov/guidelines/content/
 /content-style-guide/(.*)                 301  http://standards.phila.gov/guidelines/content/
-/contractprepfee                          301  https://www.officialpayments.com/pc_entry_cobrand.jsp?productId=635840624434951202173815789925863516
+/contractprepfee                          301  https://www.officialpayments.com/pc_entry_cobrand.jsp?productId=635840624434951202173815789925863516                    
 /contracts/data$                          301  /contracts/data/
 /contracts/data/(.*)                      200  https://cityofphiladelphia.github.io/contracts/$1
+/contracts/additional-opportunities       301  /departments/office-of-the-chief-administrative-officer/contracts-legislation-unit/contract-opportunities-with-special-application-processes/
+/contracts(.*)                            301  https://contracts.phila.gov
 /covid/faithPHL                           301  https://veoci.com/veoci/p/form/s4n33gugsg7c
 /covid/service-needs                      301  https://form.jotform.com/philagov/covid-service-needs
 /covid/testing-bids                       301  https://veoci.com/veoci/p/form/gfxhjgwvcxeh#tab=entryForm
@@ -579,6 +581,7 @@
 /revenue/wage-tax-petition                301  /documents/income-based-wage-tax-refund-petition/
 /revenue/payment-appointment              301  /services/payments-assistance-taxes/paying-city-taxes/make-an-appointment-to-pay-city-taxes-or-a-water-bill-in-person/
 /revenue(.*)                              301  /departments/department-of-revenue/
+/rfp(.*)                                  301  https://contracts.phila.gov
 /rise/employer/pages/banthebox.aspx       301  /humanrelations/pages/default.aspx
 /rise(.*)                                 301  /departments/office-of-reentry-partnerships/
 /risk                                     301  /finance/units-RiskManagement.html
