@@ -50,6 +50,7 @@
 /benchmarking                             301  http://www.phillybuildingbenchmarking.com/
 /bids                                     301  /departments/procurement-department/
 /bidsonline                               301  https://www.phlcontracts.phila.gov/bso/
+/bikeshare/pages/default.aspx             301  http://www.phillyotis.com/portfolio-item/indego/
 /board-of-education                       301  /departments/philadelphia-board-of-education/
 /boepaperform                             301  /documents/board-of-education-job-description/
 /broadstreetrun                           301  http://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=546b42e14be942009f364d81987eaa81
@@ -432,6 +433,7 @@
 /performance                              301  /mdo/phillystat
 /philacode/?.*                            301  http://www.amlegal.com/codes/client/philadelphia_pa/
 /philareads(.*)                           301  https://www.philareads.org/              
+/phillyid/pages/default.aspx              301  /programs/phl-city-id/
 /phillycounts                             301  /programs/philly-counts-2020/
 /philly-counts                            301  /programs/philly-counts-2020/
 /phillydelivers                           301  /departments/mayor/help-make-sure-phillydelivers-for-amazon/
