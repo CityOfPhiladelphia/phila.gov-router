@@ -718,7 +718,7 @@
 /welcomeamerica                           301  http://phl.maps.arcgis.com/apps/MapJour/index.html?appid=b0d5efe6fb7a4ed7a5fd9c3c681b8b41
 /welcomingweek2016                        301  /posts/office-of-immigrant-affairs/2016-08-31-welcoming-week-2016/
 /welcomingweek2017                        301  /posts/office-of-immigrant-affairs/2017-08-31-welcoming-week-2017/
-/welcoming-week                           301  /spotlight/welcoming-week-2019/
+/welcoming-week                           301  /spotlight/welcoming-week-2020/
 /wills                                    301  http://secureprod.phila.gov/wills/
 /winter-meals                             301  /2019-12-10-winter-meals-and-food-pantries-for-students-and-families/
 /workforce                                301  /programs/workforce-development/
