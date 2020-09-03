@@ -734,4 +734,4 @@
 /zba/appeals-calendar/(.*)                200  http://appeals-app.s3-website-us-east-1.amazonaws.com/$1
 /zba                                      301  /departments/zoning-board-of-adjustment/
 /zika                                     301  /services/mental-physical-health/environmental-health-hazards/zika-virus/
-/zipcheck                                 301  /documents/zipcheck-application/ß
+/zipcheck                                 301  /documents/zipcheck-application/
