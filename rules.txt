@@ -297,6 +297,7 @@
 /language-access                          301  /programs/language-access-philly/
 /law/(.*)                                 301  /departments/law-department/
 /lbe-certification                        301  /services/business-self-employment/bidding-on-a-city-contract/get-certified-as-a-local-business-entity/
+/lcorc                                    301  https://forms.office.com/Pages/ResponsePage.aspx?id=T4ZGIOpofUmvNKZimmzXAHtUgHT1kUNJm83x--pZVsJURFoxN0UwRVhDR0E0MjNNTllKUTJINU5ONC4u
 /lead                                     301  /guides/lead-guide/
 /leadhealthyhomes                         301  /programs/lead-and-healthy-homes-program/
 /lgbt                                     301  /departments/office-of-lgbt-affairs/
