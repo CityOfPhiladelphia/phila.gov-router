@@ -746,4 +746,4 @@
 /zika                                     301  /services/mental-physical-health/environmental-health-hazards/zika-virus/
 /zipcheck                                 301  /documents/zipcheck-application/
 /zoning-summary-generator$                301  /zoning-summary-generator/
-/zoning-summary-generator/(*)             200  http://dpd-zoning-summary-generator.s3-website-us-east-1.amazonaws.com/$1            
+/zoning-summary-generator/(.*)             200  http://dpd-zoning-summary-generator.s3-website-us-east-1.amazonaws.com/$1            
