@@ -636,8 +636,13 @@
 /services/water-gas-utilities/water-bill-customer-assistance/ 301 /services/water-gas-utilities/pay-or-dispute-a-water-bill/water-bill-customer-assistance/
 /services/working-jobs/become-a-lifeguard/ 301 /services/working-jobs/find-a-job-or-internship/become-a-lifeguard/
 /services/working-jobs/nominate-someone-for-a-mayors-day-of-service-recognition-award/ 301 /services/culture-recreation/volunteer/nominate-someone-for-a-mayors-day-of-service-recognition-award/
-/services/business-self-employment/for-vendors/register-as-a-minority-woman-or-disabled-owned-business/  301 /services/business-self-employment/for-vendors/register-as-a-minority-woman-or-disabled-owned-business/ 
-/services/business-self-employment/get-certified-as-a-local-business-entity/ 301 /services/business-self-employment/bidding-on-a-city-contract/get-certified-as-a-local-business-entity/
+/services/business-self-employment/for-vendors/	301 /services/business-self-employment/bidding-on-a-city-contract/
+/services/business-self-employment/bid-on-a-supplies-equipment-and-non-professional-services-contract/	301 /services/business-self-employment/bidding-on-a-city-contract/bid-on-a-supplies-equipment-and-non-professional-services-contract/
+/services/business-self-employment/bid-on-a-public-works-contract/	301 /services/business-self-employment/bidding-on-a-city-contract/bid-on-a-public-works-contract/
+/services/business-self-employment/for-vendors/do-business-with-the-city/	301 /services/business-self-employment/bidding-on-a-city-contract/do-business-with-the-city/
+/services/business-self-employment/for-vendors/register-as-a-minority-woman-or-disabled-owned-business/	301 /services/business-self-employment/bidding-on-a-city-contract/register-as-a-minority-woman-or-disabled-owned-business/
+/services/business-self-employment/for-vendors/vendor-payments-status/	301 /services/business-self-employment/bidding-on-a-city-contract/vendor-payments-status/
+/services/business-self-employment/get-certified-as-a-local-business-entity/	301 /services/business-self-employment/bidding-on-a-city-contract/get-certified-as-a-local-business-entity/
 /servicedesignstudio 301 /departments/office-of-the-chief-administrative-officer/service-design-studio/ 
 /service-design-studio 301 /departments/office-of-the-chief-administrative-officer/service-design-studio/ 
 /smartchoice/?$                           301  /departments/department-of-commerce/about-us/divisions/office-of-business-development/
@@ -740,3 +745,5 @@
 /zba                                      301  /departments/zoning-board-of-adjustment/
 /zika                                     301  /services/mental-physical-health/environmental-health-hazards/zika-virus/
 /zipcheck                                 301  /documents/zipcheck-application/
+/zoning-summary-generator$                301  /zoning-summary-generator/
+/zoning-summary-generator/(*)             200  http://dpd-zoning-summary-generator.s3-website-us-east-1.amazonaws.com/$1            
