@@ -348,7 +348,7 @@
 /mcclure                                  301  /programs/community-schools/alexander-k-mcclure-school/
 /mcpd(.*)                                 301  /departments/mayors-office-for-people-with-disabilities/
 /mdo/specialevents/pages/permitsandapplications.aspx 301 http://www.phlevents.org/applications
-/med-week                                 301  /spotlight/philadelphia-minority-enterprise-development-med-week/
+/med-week                                 301  /spotlight/philadelphia-minority-enterprise-development-week-2020/
 /mocs                                     301  /ceo
 /mod                                      301  /departments/mayors-office-for-people-with-disabilities/
 /mois                                     301  /it
