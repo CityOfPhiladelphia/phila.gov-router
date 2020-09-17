@@ -48,6 +48,7 @@
 /bank-on                                  301  /services/payments-assistance-taxes/open-a-safe-and-affordable-bank-account/
 /become-a-water-customer                  301  /services/water-gas-utilities/become-a-water-customer/
 /benchmarking                             301  http://www.phillybuildingbenchmarking.com/
+/bge                                      301  /programs/broad-germantown-and-erie-bge/
 /bids                                     301  /departments/procurement-department/
 /bidsonline                               301  https://www.phlcontracts.phila.gov/bso/
 /bikeshare/pages/default.aspx             301  http://www.phillyotis.com/portfolio-item/indego/
@@ -71,6 +72,7 @@
 /businesstaxprograms                      301  /services/payments-assistance-taxes/tax-credits/
 /campcraig2019                            301  https://survey123.arcgis.com/share/d5c0af4dbea242819835571e79087d6a
 /cao                                      301  /departments/office-of-the-chief-administrative-officer/
+/ceo(.*)                                  301  /departments/office-of-community-empowerment-and-opportunity/
 /census                                   301  /programs/philly-counts-2020/
 /channel64/Pages/default.aspx             301  /departments/office-of-innovation-and-technology/phlgovtv/
 /channel64/Documents/weeklySchedule.pdf   301  /documents/phlgovtv-broadcast-schedule/
@@ -212,6 +214,7 @@
 /fairchancephilly                         301  /2018-06-25-philadelphias-fair-chance-hiring-law-heres-what-you-should-know/
 /fairhousing                              301  /fairhousingcommission
 /families                                 301  /departments/office-of-children-and-families/
+/fe(.*)                                   301  /programs/financial-empowerment-centers/
 /fhc                                      301  /fairhousingcommission
 /financialempowerment                     301  /fe
 /findafacility/?.*                        301  /parks-rec-finder/#/locations
