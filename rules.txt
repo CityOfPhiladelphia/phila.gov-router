@@ -213,6 +213,7 @@
 /executive_orders/?.*                     301  /executiveorders/
 /fairchancephilly                         301  /2018-06-25-philadelphias-fair-chance-hiring-law-heres-what-you-should-know/
 /fairhousing                              301  /fairhousingcommission
+/faithbased(.*)                           301  /departments/office-of-community-empowerment-and-opportunity/
 /families                                 301  /departments/office-of-children-and-families/
 /fe(.*)                                   301  /programs/financial-empowerment-centers/
 /fhc                                      301  /fairhousingcommission
