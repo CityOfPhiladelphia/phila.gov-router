@@ -199,6 +199,7 @@
 /documents/hancock-playground-plans-and-renderings-for-rebuild/ 301 /documents/hancock-playground-rebuild-plans-and-resources/
 /documents/greenworks-review-2017/        301 /documents/greenworks-review/
 /documents/philadelphia-prisons-daily-census/ 301 /departments/philadelphia-department-of-prisons/daily-headcount-and-census/
+/documents/information-for-businesses-interested-in-working-on-rebuild/ 301 /documents/rebuild-resources-for-businesses/
 /dot                                      301  /it
 /droneguide                               301  https://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=d93906e2068e4eaa9c0e505287b959e2
 /DronePhilly                              301  https://veoci.com/veoci/p/dashboard/8vfac7c7b7
