@@ -402,6 +402,7 @@
 /opendata                                 301  /data
 /openbudget                               301  https://data.phila.gov/visualizations/payments-aggregate/
 /opioids?                                 301  /programs/combating-the-opioid-epidemic/
+/osh(.*)                                  301  /departments/office-of-homeless-services/
 /ost                                      301  /programs/out-of-school-time-ost/
 /ost/program-locator$                     301  /ost/program-locator/
 /ost/program-locator/(.*)                 200  http://ost-program-locator.s3-website-us-east-1.amazonaws.com/$1
