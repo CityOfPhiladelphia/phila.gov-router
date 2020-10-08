@@ -705,7 +705,7 @@
 /vacancymap                               301  http://phl.maps.arcgis.com/apps/webappviewer/index.html?id=64ac160773d04952bc17ad895cc00680
 /vendorpayments/?$                        301  https://secure.phila.gov/finance/vendorpayments/
 /veterans                                 301  http://www.phlveterans.com/
-/visit-a-satellite-election-office-today  301  /2020-09-29-vote-early-at-one-of-these-satellite-election-offices/
+/2020-09-29-vote-early-at-one-of-these-satellite-election-offices  301  /2020-09-29-visit-a-satellite-election-office-today/
 /visionzero                               301  http://phl.maps.arcgis.com/apps/CrowdsourceReporter/index.html?appid=0b7432f7e6734795b1e09721eba506c1
 /visitors                                 301  http://www.visitphilly.com
 /volunteer                                301  https://www.serve.phila.gov
