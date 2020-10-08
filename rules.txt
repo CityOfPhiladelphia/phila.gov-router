@@ -437,6 +437,8 @@
 /payment-agreement-letters                301  /documents/sample-payment-agreement-letters/
 /payment-plans                            301  /services/payments-assistance-taxes/payment-plans/
 /paymentplans                             301  /services/payments-assistance-taxes/payment-plans/set-up-a-payment-agreement-for-your-taxes/
+/paymentagreements                        301  /services/payments-assistance-taxes/payment-plans/set-up-a-payment-agreement-for-your-taxes/
+/payment-agreements                       301  /services/payments-assistance-taxes/payment-plans/set-up-a-payment-agreement-for-your-taxes/
 /pchr                                     301  /humanrelations
 /performance                              301  /mdo/phillystat
 /philacode/?.*                            301  http://www.amlegal.com/codes/client/philadelphia_pa/
@@ -556,6 +558,7 @@
 /reentry                                  301  /departments/office-of-reentry-partnerships/
 /refinery                                 301  /programs/refinery-advisory-group/
 /reforming-philadelphia                   301  /programs/philadelphia-reforms/
+/regionalems(.*)                          301  /departments/philadelphia-regional-office-of-emergency-medical-service/
 /reformingphiladelphia                    301  /programs/philadelphia-reforms/
 /regulations-rulings/(.*)                 301  /services/payments-assistance-taxes/regulations-rulings/
 /rental-assistance                        301  /services/payments-assistance-taxes/income-based-assistance-programs/get-help-if-you-are-at-risk-of-being-evicted/
@@ -649,6 +652,7 @@
 /services/business-self-employment/for-vendors/register-as-a-minority-woman-or-disabled-owned-business/	301 /services/business-self-employment/bidding-on-a-city-contract/register-as-a-minority-woman-or-disabled-owned-business/
 /services/business-self-employment/for-vendors/vendor-payments-status/	301 /services/business-self-employment/bidding-on-a-city-contract/vendor-payments-status/
 /services/business-self-employment/get-certified-as-a-local-business-entity/	301 /services/business-self-employment/bidding-on-a-city-contract/get-certified-as-a-local-business-entity/
+/services/trash-recycling-city-upkeep/trash-recycling-pickup-schedules/ 301 /services/trash-recycling-city-upkeep/find-your-trash-and-recycling-collection-day/
 /servicedesignstudio 301 /departments/office-of-the-chief-administrative-officer/service-design-studio/ 
 /service-design-studio 301 /departments/office-of-the-chief-administrative-officer/service-design-studio/ 
 /smartchoice/?$                           301  /departments/department-of-commerce/about-us/divisions/office-of-business-development/
@@ -752,6 +756,8 @@
 /zba/appeals-calendar$                    301  /zba/appeals-calendar/
 /zba/appeals-calendar/(.*)                200  http://appeals-app.s3-website-us-east-1.amazonaws.com/$1
 /zba                                      301  /departments/zoning-board-of-adjustment/
+/zero-waste                               301  /programs/zero-waste-initiatives/
+/zerowaste                                301  /programs/zero-waste-initiatives/
 /zika                                     301  /services/mental-physical-health/environmental-health-hazards/zika-virus/
 /zipcheck                                 301  /documents/zipcheck-application/
 /zoning-summary-generator$                301  /zoning-summary-generator/
