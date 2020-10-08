@@ -218,7 +218,7 @@
 /families                                 301  /departments/office-of-children-and-families/
 /fe/(.*)                                  301  /programs/financial-empowerment-centers/
 /fhc                                      301  /fairhousingcommission
-/financialempowerment                     301  /fe
+/financialempowerment                     301  /programs/financial-empowerment-centers/
 /findafacility/?.*                        301  /parks-rec-finder/#/locations
 /fire/?.*                                 301  /departments/philadelphia-fire-department/
 /fleet(.*)                                301  /departments/office-of-fleet-management/
