@@ -72,7 +72,7 @@
 /businesstaxprograms                      301  /services/payments-assistance-taxes/tax-credits/
 /campcraig2019                            301  https://survey123.arcgis.com/share/d5c0af4dbea242819835571e79087d6a
 /cao                                      301  /departments/office-of-the-chief-administrative-officer/
-/ceo(.*)                                  301  /departments/office-of-community-empowerment-and-opportunity/
+/ceo/(.*)                                 301  /departments/office-of-community-empowerment-and-opportunity/
 /census                                   301  /programs/philly-counts-2020/
 /channel64/Pages/default.aspx             301  /departments/office-of-innovation-and-technology/phlgovtv/
 /channel64/Documents/weeklySchedule.pdf   301  /documents/phlgovtv-broadcast-schedule/
@@ -97,7 +97,7 @@
 /clip/graffitiremoval/Pages/GraffitiRemovalRequestForm.aspx 301 http://iframe.publicstuff.com/#?client_id=242&request_type_id=1012143
 /clip/graffitiremoval(.*)                 301 /services/streets-sidewalks-alleys/report-graffiti/
 /clip/vacantlotprogram/pages/default.aspx 301  /programs/vacant-lot-program/
-/clip(.*)                                     301  /departments/community-life-improvement-program/
+/clip(.*)                                 301  /departments/community-life-improvement-program/
 /codeBlue.html                            301  /services/mental-physical-health/environmental-health-hazards/extreme-weather/code-blue/
 /columbus-feedback                        301  https://form.jotform.com/philagov/columbus-feedback
 /commissioners                            301  http://www.philadelphiavotes.com/
@@ -114,7 +114,7 @@
 /commerce(.*)                             301  /departments/department-of-commerce/
 /content-style-guide                      301  http://standards.phila.gov/guidelines/content/
 /content-style-guide/(.*)                 301  http://standards.phila.gov/guidelines/content/
-/contractprepfee                          301  https://www.officialpayments.com/pc_entry_cobrand.jsp?productId=635840624434951202173815789925863516                    
+/contractprepfee                          301  https://www.officialpayments.com/pc_entry_cobrand.jsp?productId=635840624434951202173815789925863516
 /contracts/data$                          301  /contracts/data/
 /contracts/data/(.*)                      200  https://cityofphiladelphia.github.io/contracts/$1
 /contracts/additional-opportunities       301  /departments/office-of-the-chief-administrative-officer/contracts-legislation-unit/contract-opportunities-with-special-application-processes/
@@ -216,7 +216,7 @@
 /fairhousing                              301  /fairhousingcommission
 /faithbased(.*)                           301  /departments/faith-based-and-interfaith-affairs/
 /families                                 301  /departments/office-of-children-and-families/
-/fe(.*)                                   301  /programs/financial-empowerment-centers/
+/fe/(.*)                                  301  /programs/financial-empowerment-centers/
 /fhc                                      301  /fairhousingcommission
 /financialempowerment                     301  /fe
 /findafacility/?.*                        301  /parks-rec-finder/#/locations
