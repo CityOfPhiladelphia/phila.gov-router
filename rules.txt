@@ -183,6 +183,7 @@
 /dhs/about                                301  /departments/department-of-human-services/about-us/
 /dhs/qpi                                  301  /programs/quality-parenting-initiative-qpi/
 /dhs(.*)                                  301  /departments/department-of-human-services/
+/disability-access                        301  /departments/mayors-office-for-people-with-disabilities/submit-your-comments-on-the-city-of-philadelphias-ada-transition-plan/
 /disputes-appeals                         301  /services/permits-violations-licenses/
 /disputes-appeals/dispute-a-water-bill    301  /services/water-gas-utilities/pay-or-dispute-a-water-bill/dispute-a-water-bill/
 /districtattorney/pages/pressreleases.aspx 301 https://phillyda.wordpress.com/
