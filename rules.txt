@@ -306,6 +306,7 @@
 /lcorc                                    301  https://forms.office.com/Pages/ResponsePage.aspx?id=T4ZGIOpofUmvNKZimmzXAHtUgHT1kUNJm83x--pZVsJURFoxN0UwRVhDR0E0MjNNTllKUTJINU5ONC4u
 /lead                                     301  /guides/lead-guide/
 /leadhealthyhomes                         301  /programs/lead-and-healthy-homes-program/
+/leaf-recycling                           301  /services/trash-recycling-city-upkeep/residential-trash-and-recycling/recycle-fall-leaves/
 /lgbt                                     301  /departments/office-of-lgbt-affairs/
 /lgbt-pride-month                         301  /spotlight/lgbt-pride-month
 /li-permit-tracker$                       301  /li-permit-tracker/
