@@ -306,6 +306,7 @@
 /lcorc                                    301  https://forms.office.com/Pages/ResponsePage.aspx?id=T4ZGIOpofUmvNKZimmzXAHtUgHT1kUNJm83x--pZVsJURFoxN0UwRVhDR0E0MjNNTllKUTJINU5ONC4u
 /lead                                     301  /guides/lead-guide/
 /leadhealthyhomes                         301  /programs/lead-and-healthy-homes-program/
+/leaf-recycling                           301  /services/trash-recycling-city-upkeep/residential-trash-and-recycling/recycle-fall-leaves/
 /lgbt                                     301  /departments/office-of-lgbt-affairs/
 /lgbt-pride-month                         301  /spotlight/lgbt-pride-month
 /li-permit-tracker$                       301  /li-permit-tracker/
@@ -747,6 +748,7 @@
 /welcomingweek2016                        301  /posts/office-of-immigrant-affairs/2016-08-31-welcoming-week-2016/
 /welcomingweek2017                        301  /posts/office-of-immigrant-affairs/2017-08-31-welcoming-week-2017/
 /welcoming-week                           301  /spotlight/welcoming-week-2020/
+/wholesale-wastewater                     301  https://secure8.i-doxs.net/CityOfPhiladelphiaWRB/WastewaterValidate.aspx
 /wills                                    301  http://secureprod.phila.gov/wills/
 /winter-meals                             301  /2019-12-10-winter-meals-and-food-pantries-for-students-and-families/
 /workforce                                301  /programs/workforce-development/
