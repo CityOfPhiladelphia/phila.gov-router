@@ -1,11 +1,11 @@
-name: Deploy router update to staging
+name: Deploy router updates to staging
 on:
   push:
     branches:
       - staging
 jobs:
   build:
-    name: Build files
+    name: Run lambda and invalidate cloudfront
     runs-on: ubuntu-latest
     steps: 
       - name: Setup node
@@ -19,3 +19,4 @@ jobs:
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
         run: |
           ./deploy.sh ${{ secrets.STAGING_LAMBDA_NAME }} ${{ secrets.STAGING_LAMBDA_ROLE }} ${{ secrets.PROD_S3_BUCKET }}  ${{ secrets.STAGING_CLOUDFRONT_DISTRIBUTION_ID }}
+          aws cloudfront create-invalidation --distribution-id ${{ secrets.STAGING_CLOUDFRONT_DISTRIBUTION_ID }} --paths "/*"
