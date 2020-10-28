@@ -14,8 +14,8 @@ jobs:
             node-version: '10.x'
       - uses: actions/checkout@master
       - name: run deploy shell script
-      env: 
-        AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-        AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+        env: 
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
         run: |
           ./deploy.sh ${{ secrets.STAGING_LAMBDA_NAME }} ${{ secrets.STAGING_LAMBDA_ROLE }} ${{ secrets.PROD_S3_BUCKET }}  ${{ secrets.STAGING_CLOUDFRONT_DISTRIBUTION_ID }}
