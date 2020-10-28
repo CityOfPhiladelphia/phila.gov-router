@@ -1,4 +1,4 @@
-name: Deploy router update to prod
+name: Deploy router update to PROD
 on:
   push:
     branches:
@@ -13,9 +13,9 @@ jobs:
         with: 
             node-version: '10.x'
       - uses: actions/checkout@master
-      - name: test project files
-        run: |
-          npm test
       - name: run deploy shell script
-        run: 
+        env: 
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+        run: |
           ./deploy.sh ${{ secrets.PROD_LAMBDA_NAME }} ${{ secrets.PROD_LAMBDA_ROLE }} ${{ secrets.PROD_S3_BUCKET }}  ${{ secrets.PROD_CLOUDFRONT_DISTRIBUTION_ID }}
