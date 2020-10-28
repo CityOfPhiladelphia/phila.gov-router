@@ -1,11 +1,11 @@
-name: Deploy router update to PROD
+name: Deploy router updates to prod
 on:
   push:
     branches:
       - master
 jobs:
   build:
-    name: Build files
+    name: Run lambda and invalidate cloudfront
     runs-on: ubuntu-latest
     steps: 
       - name: Setup node

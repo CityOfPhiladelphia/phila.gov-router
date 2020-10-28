@@ -1,11 +1,11 @@
-name: Deploy router update to staging
+name: Deploy router updates to staging
 on:
   push:
     branches:
       - staging
 jobs:
   build:
-    name: Build files
+    name: Run lambda and invalidate cloudfront
     runs-on: ubuntu-latest
     steps: 
       - name: Setup node
