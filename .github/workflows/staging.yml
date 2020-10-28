@@ -1,0 +1,21 @@
+name: Deploy router update to staging
+on:
+  push:
+    branches:
+      - staging
+jobs:
+  build:
+    name: Build files
+    runs-on: ubuntu-latest
+    steps: 
+      - name: Setup node
+        uses: actions/setup-node@v1
+        with: 
+            node-version: '10.x'
+      - uses: actions/checkout@master
+      - name: test project files
+        run: |
+          npm test
+      - name: run deploy shell script
+        run: |
+          ./deploy.sh ${{ secrets.STAGING_LAMBDA_NAME }} ${{ secrets.STAGING_LAMBDA_ROLE }} ${{ secrets.PROD_S3_BUCKET }}  ${{ secrets.STAGING_CLOUDFRONT_DISTRIBUTION_ID }}
