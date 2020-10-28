@@ -1,0 +1,21 @@
+name: Deploy router update to PROD
+on:
+  push:
+    branches:
+      - master
+jobs:
+  build:
+    name: Build files
+    runs-on: ubuntu-latest
+    steps: 
+      - name: Setup node
+        uses: actions/setup-node@v1
+        with: 
+            node-version: '10.x'
+      - uses: actions/checkout@master
+      - name: run deploy shell script
+        env: 
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+        run: |
+          ./deploy.sh ${{ secrets.PROD_LAMBDA_NAME }} ${{ secrets.PROD_LAMBDA_ROLE }} ${{ secrets.PROD_S3_BUCKET }}  ${{ secrets.PROD_CLOUDFRONT_DISTRIBUTION_ID }}
