@@ -153,7 +153,7 @@
 /departments/emergency-management/(.*)    301  /departments/oem/$1
 /departments/mayor/get-involved           301  /departments/mayor/#action-modal
 /departments/mayor/quality-pre-k          301  /departments/mayors-office-of-education/quality-pre-k-newsletter-signup/
-/departments/office-of-immigrant-affairs/mayors-commission-on-asian-american-affairs/(.*) 301 /departments/office-of-immigrant-affairs/mayors-commission-on-asian-pacific-american-affairs/$
+/departments/office-of-immigrant-affairs/mayors-commission-on-asian-american-affairs/(.*) 301 /departments/office-of-immigrant-affairs/mayors-commission-on-asian-pacific-american-affairs/$1
 /departments/mayors-office-of-community-empowerment-and-opportunity 301 /departments/office-of-community-empowerment-and-opportunity/
 /departments/mayors-office-of-education/career-technical-education 301 /programs/career-technical-education/
 /departments/mayors-office-of-education/community-schools 301 /programs/community-schools/
