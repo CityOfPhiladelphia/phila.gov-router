@@ -153,6 +153,7 @@
 /departments/emergency-management/(.*)    301  /departments/oem/$1
 /departments/mayor/get-involved           301  /departments/mayor/#action-modal
 /departments/mayor/quality-pre-k          301  /departments/mayors-office-of-education/quality-pre-k-newsletter-signup/
+/departments/office-of-immigrant-affairs/mayors-commission-on-asian-american-affairs/(.*) 301 /departments/office-of-immigrant-affairs/mayors-commission-on-asian-pacific-american-affairs/$
 /departments/mayors-office-of-community-empowerment-and-opportunity 301 /departments/office-of-community-empowerment-and-opportunity/
 /departments/mayors-office-of-education/career-technical-education 301 /programs/career-technical-education/
 /departments/mayors-office-of-education/community-schools 301 /programs/community-schools/
@@ -169,6 +170,7 @@
 /departments/mayors-office-of-education/community-schools/tilden-middle-school 301 /programs/community-schools/tilden-middle-school/
 /departments/mayors-office-of-education/community-schools/william-cramp-elementary-school 301 /programs/community-schools/william-cramp-elementary-school/
 /departments/mayors-office-of-education/quality-pre-k 301 /programs/quality-pre-k/
+/departments/mayors-office-of-labor/(.*) 301 /departments/department-of-labor/$
 /departments/mayors-office-of-public-engagement/mayors-commission-on-asian-american-affairs/ 301 /departments/office-of-immigrant-affairs/mayors-commission-on-asian-american-affairs/
 /departments/mayors-office-of-reintegration-services/ 301 /departments/office-of-reentry-partnerships/
 /departments/office-of-transportation-infrastructure-systems/ 301 /departments/office-of-transportation-infrastructure-sustainability/
@@ -524,6 +526,7 @@
 /programs/coronavirus-disease-2019-covid-19/guidance/getting-tested-for-covid-19/ 301 /programs/coronavirus-disease-2019-covid-19/guidance/faq/#getting-tested
 /programs/coronavirus-disease-2019-covid-19/guidance/children-and-pregnancy/ 301 /programs/coronavirus-disease-2019-covid-19/guidance/faq/#children-and-families
 /programs/e3-power-centers/               301  /programs/e3-services/
+/programs/education-and-childcare-services/(.*) 301 /programs/education-support-center/$
 /programs/energy-benchmarking/            301  http://www.phillybuildingbenchmarking.com/
 /programs/rebuild/programs                301  /programs/rebuild/for-businesses/
 /programs/startup-phl                     301  http://startupphl.com/
@@ -601,6 +604,7 @@
 /revenue/use-occupancy                    301  /services/payments-assistance-taxes/business-taxes/use-occupancy-tax/
 /revenue/wage-tax-petition                301  /documents/income-based-wage-tax-refund-petition/
 /revenue/payment-appointment              301  /services/payments-assistance-taxes/paying-city-taxes/make-an-appointment-to-pay-city-taxes-or-a-water-bill-in-person/
+/revenue/homestead-percent-form           301  https://form.jotform.com/202933990588065 
 /revenue(.*)                              301  /departments/department-of-revenue/
 /rfp(.*)                                  301  https://contracts.phila.gov
 /rise/employer/pages/banthebox.aspx       301  /humanrelations/pages/default.aspx
