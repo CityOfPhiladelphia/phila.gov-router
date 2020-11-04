@@ -651,6 +651,7 @@
 /services/safety-emergency-preparedness/report-a-possible-fire-code-violation/ 301 /services/safety-emergency-preparedness/fire-safety/report-a-possible-fire-code-violation/
 /services/streets-sidewalks-alleys/get-a-construction-dumpster-license/  301  /services/permits-violations-licenses/get-a-license/business-licenses-permits-and-approvals/dumpsters/get-a-construction-dumpster-license/
 /services/streets-sidewalks-alleys/get-a-dumpster-license-private-or-right-of-way/  301 /services/permits-violations-licenses/get-a-license/business-licenses-permits-and-approvals/dumpsters/get-a-dumpster-license-private-or-right-of-way/
+/services/trash-recycling-city-upkeep/residential-trash-and-recycling/dispose-of-christmas-trees-leaves-or-pumpkins/  301  /services/trash-recycling-city-upkeep/residential-trash-and-recycling/dispose-of-christmas-trees/
 /services/water-gas-utilities/pay-a-water-bill/ 301 /services/water-gas-utilities/pay-or-dispute-a-water-bill/pay-a-water-bill/
 /services/water-gas-utilities/dispute-a-water-bill/ 301 /services/water-gas-utilities/pay-or-dispute-a-water-bill/dispute-a-water-bill/
 /services/water-gas-utilities/water-sewer-services/become-a-water-customer/ 301 /services/water-gas-utilities/become-a-water-customer/
