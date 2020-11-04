@@ -722,8 +722,7 @@
 /visitors                                 301  http://www.visitphilly.com
 /volunteer                                301  https://www.serve.phila.gov
 /vote-by-mail                             301  /2020-09-08-general-election-mail-in-ballot-guide-for-philadelphia-voters/
-/voting$                                  301  /voting/
-/voting/(.*)                              200  http://phila-resource-finder.s3-website-us-east-1.amazonaws.com/voting/prod/$1
+/voting(.*)                               301  /2020-11-02-an-open-letter-to-philadelphians-about-our-citys-election/
 /warningletter                            301  /documents/warning-of-risk-of-tax-foreclosure/
 /waterbill                                301  https://secure8.i-doxs.net/CityOfPhiladelphiaWRB/SignIn.aspx
 /water-bill                               301  https://secure8.i-doxs.net/CityOfPhiladelphiaWRB/SignIn.aspx
