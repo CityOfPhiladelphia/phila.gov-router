@@ -707,8 +707,7 @@
 /towing                                   301  /programs/philadelphias-rotational-towing-program/
 /townwatch/services.htm(l)?               301  /townwatch
 /transitionreport                         301  /documents/transition-report/
-/trashday$                                301  /trashday/
-/trashday/(.*)                            200  http://philagov-trashday.s3-website-us-east-1.amazonaws.com/$1
+/trashday(.*)                             301  /services/trash-recycling-city-upkeep/residential-trash-and-recycling/find-your-trash-and-recycling-collection-day/
 /trb/petition                             301  /documents/tax-appeal-petition-form/
 /trb/pages/default.aspx                   301  /departments/tax-review-board/
 /tree-trench                              301  http://www.stormwaterpa.org/keeping-water-on-site-waterview-recreation-center.html?key=0
