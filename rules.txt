@@ -180,6 +180,7 @@
 /departments/water-sewer-stormwater-rate-board 301 /departments/water-sewer-storm-water-rate-board/
 /departments/mayors-office-of-education/quality-pre-k-newsletter-signup/ 301 /programs/quality-pre-k/newsletter-sign-up/ 
 /departments/office-of-open-data-and-digital-transformation(.*)    301 /2019-10-14-the-evolution-of-design-tech-and-data-at-the-city/
+/departments/philadelphia-historical-commission/agendas-and-minutes/ 301 /departments/philadelphia-historical-commission/public-meetings/ 
 /development-services                     301  /departments/division-of-development-services/
 /dhcd/?(.*)                               301  /departments/division-of-housing-and-community-development/
 /dhs/about                                301  /departments/department-of-human-services/about-us/
