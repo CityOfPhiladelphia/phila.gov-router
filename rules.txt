@@ -710,6 +710,7 @@
 /trashday(.*)                             301  /services/trash-recycling-city-upkeep/residential-trash-and-recycling/find-your-trash-and-recycling-collection-day/
 /trb/petition                             301  /documents/tax-appeal-petition-form/
 /trb/pages/default.aspx                   301  /departments/tax-review-board/
+/trb-appeal                               301  https://form.jotform.com/philagov/petition-for-tax-appeal
 /tree-trench                              301  http://www.stormwaterpa.org/keeping-water-on-site-waterview-recreation-center.html?key=0
 /uas                                      301  https://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=d93906e2068e4eaa9c0e505287b959e2
 /unitycup                                 301  http://unitycup.phila.gov
