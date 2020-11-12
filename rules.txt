@@ -720,6 +720,8 @@
 /vendorpayments/?$                        301  https://secure.phila.gov/finance/vendorpayments/
 /veterans                                 301  http://www.phlveterans.com/
 /2020-09-29-vote-early-at-one-of-these-satellite-election-offices  301  /2020-09-29-visit-a-satellite-election-office-today/
+/violenceprevention                       301  /departments/office-of-violence-prevention/
+/violence-prevention                      301  /departments/office-of-violence-prevention/
 /visionzero                               301  http://phl.maps.arcgis.com/apps/CrowdsourceReporter/index.html?appid=0b7432f7e6734795b1e09721eba506c1
 /visitors                                 301  http://www.visitphilly.com
 /volunteer                                301  https://www.serve.phila.gov
