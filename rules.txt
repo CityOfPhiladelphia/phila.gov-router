@@ -242,7 +242,6 @@
 /gompers                                  301  /programs/community-schools/samuel-gompers-school/
 /green(.*)                                301  /departments/office-of-sustainability/
 /guides                                   301  /guides/lead-guide/
-/guides/safer-at-home(.*)                 301  /guides/reopening-with-care/
 /guncontrolpolicies                       301  /2018-03-20-gun-control-policies/
 /guncontrol                               301  /2018-03-20-gun-control-policies/
 /gwhs                                     301  /programs/community-schools/george-washington-high-school/
@@ -574,9 +573,9 @@
 /reformingphiladelphia                    301  /programs/philadelphia-reforms/
 /regulations-rulings/(.*)                 301  /services/payments-assistance-taxes/regulations-rulings/
 /rental-assistance                        301  /services/payments-assistance-taxes/income-based-assistance-programs/get-help-if-you-are-at-risk-of-being-evicted/
-/reopen                                   301  /guides/reopening-with-care/
-/reopening                                301  /guides/reopening-with-care/
-/reopening-with-care                      301  /guides/reopening-with-care/
+/reopen                                   301  /guides/safer-at-home/
+/reopening                                301  /guides/safer-at-home/
+/reopening-with-care                      301  /guides/safer-at-home/
 /reportarson                              301  http://phl.maps.arcgis.com/apps/GeoForm/index.html?appid=f616bfd4091842d694af0aff9983bd24
 /reports/index.html                       301  /programs/open-data-program/
 /reports/(.*)                             301  /department-of-revenue/reports/
@@ -612,8 +611,8 @@
 /rise(.*)                                 301  /departments/office-of-reentry-partnerships/
 /risk                                     301  /finance/units-RiskManagement.html
 /rows                                     301  https://phl.my.salesforce.com
-/saferathome                              301  /guides/reopening-with-care/
-/safer-at-home                            301  /guides/reopening-with-care/
+/saferathome                              301  /guides/safer-at-home/
+/safer-at-home                            301  /guides/safer-at-home/
 /safetyandjustice(.*)                     301  /programs/philadelphia-safety-and-justice-challenge/
 /school-income-tax                        301  /services/payments-assistance-taxes/income-taxes/school-income-tax/
 /senior-freeze                            301  /services/payments-assistance-taxes/senior-citizen-discounts/low-income-senior-citizen-real-estate-tax-freeze/
