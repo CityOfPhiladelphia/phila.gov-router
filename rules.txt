@@ -682,7 +682,7 @@
 /stormwater-planter                       301  http://www.stormwaterpa.org/creating-community-columbus-square-park.html?key=1
 /stormwater-tools                         301  http://stormwaterpa.org/green-city,-clean-waters.html?key=0
 /stormwater-tree                          301  http://www.stormwaterpa.org/soak-it-up-stormwater-trees.html?key=0
-/streets                                  301  http://www.philadelphiastreets.com
+/streets                                  301  /departments/department-of-streets/
 /streets/backfill                         301  https://secure.phila.gov/streets/backfill/
 /streets/crplan                           301  https://secure.phila.gov/streets/commrecycling/
 /stressmap                                301  https://phl.maps.arcgis.com/apps/MapSeries/index.html?appid=47afd9a9dcfa4637a2f88024d1c210b4
