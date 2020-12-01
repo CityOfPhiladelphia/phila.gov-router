@@ -212,8 +212,8 @@
 /education(.*)                            301  /departments/mayors-office-of-education/
 /educationnews                            301  /departments/mayors-office-of-education/newsletter-sign-up/
 /eeo-?complaint?                          301  /services/working-jobs/file-a-sexual-harassment-complaint/
-/employee-screener123$                       301  /employee-screener/
-/employee-screener123/(.*)                   200  http://philagov-employee-screener.s3-website-us-east-1.amazonaws.com/$1
+/employee-screener$                       301  /employee-screener/
+/employee-screener/(.*)                   200  http://philagov-employee-screener.s3-website-us-east-1.amazonaws.com/$1
 /eoc-gisrequest                           301  https://veoci.com/veoci/p/dashboard/4p9brrkav6
 /eslmap                                   301  http://phl.maps.arcgis.com/apps/View/index.html?appid=3929071e10db460db6e2265423ed4e83
 /evacuations/(.*)                         301  /services/safety-emergency-preparedness/evacuations/$1
