@@ -361,6 +361,7 @@
 /mcpd(.*)                                 301  /departments/mayors-office-for-people-with-disabilities/
 /mdo/specialevents/pages/permitsandapplications.aspx 301 http://www.phlevents.org/applications
 /med-week                                 301  /spotlight/philadelphia-minority-enterprise-development-week-2020/
+/media/20201118125433/Guidance-for-positive-test-1.pdf  301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/what-to-do-if-someone-tests-positive-for-covid-19-at-work/
 /mocs                                     301  /ceo
 /mod                                      301  /departments/mayors-office-for-people-with-disabilities/
 /mois                                     301  /it
