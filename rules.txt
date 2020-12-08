@@ -458,6 +458,7 @@
 /phillyrising(.*)                         301  https://www.serve.phila.gov
 /phillystat                               301  /mdo/phillystat
 /PHLConnectED                             301  /programs/phlconnected/
+/phldonatetech                            301  /2020-12-07-phldonatetech-providing-computers-to-families-and-residents-in-need/
 /PHLgovTV                                 301  /departments/office-of-innovation-and-technology/phlgovtv/
 /phl-tcb                                  301  /programs/phl-taking-care-of-business/
 /plan-develop                             301  /departments/department-of-planning-and-development/
