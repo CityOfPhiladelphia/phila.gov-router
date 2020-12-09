@@ -48,10 +48,15 @@ function handler (rules, event) {
       log('uri rewrite', newLocation)
       return request
     }
-  } else {
-    request.uri = request.uri.toLowerCase() // mutate request object
-    log('no match', request.uri)
-    return request
+  } else {//no match found
+    if (request.uri.includes('/media/') ) {
+      log('no match, mediaURL', request.uri)
+      return request
+    }else{
+      request.uri = request.uri.toLowerCase() // mutate request object
+      log('no match', request.uri)
+      return request
+      }
   }
 }
 
