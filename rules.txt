@@ -374,8 +374,6 @@
 /media/20200529130515/Guidelines-for-Office-Workers.pdf  301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
 /media/20200529131928/Guidelines-for-Religious-Institutions.pdf  301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
 /media/20200529131930/Guidelines-for-Funerals.pdf  301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
-/media/20200611105211/Guidelines-for-Outdoor-Dining.pdf  301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
-/media/20200611105438/Temporary-Street-Closure-Pilot-Application.pdf  301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
 /media/20200623214438/Guidelines-for-Social-Gatherings.pdf  301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
 /media/20200623214940/Guidelines-for-Personal-Services.pdf  301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
 /media/20200623222727/Guidelines-for-Indoor-Malls.pdf  301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
@@ -388,7 +386,6 @@
 /media/20200728121943/Home-care-instructions-for-COVID-19-coronavirus_7_28.pdf  301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
 /media/20200813092815/Guidelines-for-Colleges-Universities.pdf  301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
 /media/20200901105513/Guidelines-for-Recreational-Activities-Sports.pdf  301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
-/media/20200910163029/Application-for-Food-Business-Outdoor-Seating-50.pdf  301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
 /media/20201006111309/Recommendations-for-household-members-awaiting-test-results.pdf  301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
 /media/20201015082504/Guidelines-for-Winter-Outdoor-Dining.pdf  301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
 /media/20201020094207/Guidance-for-Wedding-Ceremonies.pdf  301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
