@@ -30,7 +30,7 @@
 /actionguides                             301  /the-latest/#action-guides
 /active-duty-credit                       301  /services/payments-assistance-taxes/tax-credits/active-duty-tax-credit/
 /ada-grievance                            301  /services/diversity-inclusion-accessibility-immigration/submit-an-ada-grievance-against-the-city/
-/adult-education                          301  /departments/office-of-adult-education/
+/adult-education                          301  /programs/adult-education/
 /after-an-emergency                       301  /services/safety-emergency-preparedness/after-an-emergency/
 /agefriendly                              301  https://secure.jotform.us/philagov/mca-survey/
 /agencies(.*)                             301  /departments/
