@@ -297,6 +297,12 @@
 /inspectorgeneral                         301  /departments/office-of-the-inspector-general/
 /integrityworks(.*)                       301  /programs/integrity-works/
 /investorconference                       301  /investor/Pages/InvestorConference.aspx
+/it/pages/default.aspx                    301 /departments/office-of-innovation-and-technology/
+/it/Innovation/Pages/InnovationManagement.aspx 301 /departments/office-of-innovation-and-technology/innovation-management-team/
+/it/aboutus/Pages/default.aspx            301 /departments/office-of-innovation-and-technology/about/
+/it/aboutus/Pages/Leadership.aspx         301 /departments/office-of-innovation-and-technology/about/leadership/
+/it/aboutus/units/(.*)                    301 /departments/office-of-innovation-and-technology/about/units/
+/it/aboutus/units/Pages/GISServicesGroup.aspx 301 /departments/office-of-innovation-and-technology/innovation-management-team/
 /it/aboutus/pages/employment.aspx         301  https://www.smartrecruiters.com/OfficeOfInnovationTechnology
 /itjobs                                   301  https://www.smartrecruiters.com/OfficeOfInnovationTechnology
 /iwa                                      301  https://goo.gl/forms/bgDbXCvrvpJoRpul2
