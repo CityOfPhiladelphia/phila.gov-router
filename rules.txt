@@ -183,7 +183,7 @@
 /departments/philadelphia-historical-commission/agendas-and-minutes/ 301 /departments/philadelphia-historical-commission/public-meetings/ 
 /development-services                     301  /departments/division-of-development-services/
 /dhcd/neighborhood-resources$             301  /dhcd/neighborhood-resources/
-/dhcd/neighborhood-resources/(.*)         200  http://phila-resource-finder.s3-website-us-east-1.amazonaws.com/covid-testing/prod/$1
+/dhcd/neighborhood-resources/(.*)         200  http://phila-resource-finder.s3-website-us-east-1.amazonaws.com/nacs/prod/$1
 /dhcd/?(.*)                               301  /departments/division-of-housing-and-community-development/
 /dhs/about                                301  /departments/department-of-human-services/about-us/
 /dhs/qpi                                  301  /programs/quality-parenting-initiative-qpi/
