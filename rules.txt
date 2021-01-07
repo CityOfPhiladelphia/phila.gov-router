@@ -706,7 +706,7 @@
 /services/business-self-employment/for-vendors/vendor-payments-status/	301 /services/business-self-employment/bidding-on-a-city-contract/vendor-payments-status/
 /services/business-self-employment/get-certified-as-a-local-business-entity/	301 /services/business-self-employment/bidding-on-a-city-contract/get-certified-as-a-local-business-entity/
 /services/trash-recycling-city-upkeep/trash-recycling-pickup-schedules/ 301 /services/trash-recycling-city-upkeep/find-your-trash-and-recycling-collection-day/
-/services/permits-violations-licenses/get-a-license/business-licenses-permits-and-approvals/food-businesses/register-for-temporary-outdoor-dining/ 301 /services/permits-violations-licenses/get-a-license/business-licenses-permits-and-approvals/food-businesses/get-a-temporary-sidewalk-cafe-streetery-license/ 
+/services/permits-violations-licenses/get-a-license/business-licenses-permits-and-approvals/food-businesses/register-for-temporary-outdoor-dining/ 301 /services/permits-violations-licenses/get-a-license/business-licenses-permits-and-approvals/food-businesses/get-a-temporary-sidewalk-cafe-streetery-license/
 /servicedesignstudio 301 /departments/office-of-the-chief-administrative-officer/service-design-studio/ 
 /service-design-studio 301 /departments/office-of-the-chief-administrative-officer/service-design-studio/ 
 /smartchoice/?$                           301  /departments/department-of-commerce/about-us/divisions/office-of-business-development/
