@@ -647,7 +647,7 @@
 /revenue/payment-appointment              301  /services/payments-assistance-taxes/paying-city-taxes/make-an-appointment-to-pay-city-taxes-or-a-water-bill-in-person/
 /revenue/homestead-percent-form           301  https://form.jotform.com/202933990588065 
 /revenue(.*)                              301  /departments/department-of-revenue/
-/rgrp                                     301  /2021-01-20-philadelphia-covid-19-restaurant-and-gym-relief-program/
+/rgrp                                     301  /2021-01-21-philadelphia-covid-19-restaurant-and-gym-relief-program/
 /rfp(.*)                                  301  https://contracts.phila.gov
 /rise/employer/pages/banthebox.aspx       301  /humanrelations/pages/default.aspx
 /rise(.*)                                 301  /departments/office-of-reentry-partnerships/
