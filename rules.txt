@@ -764,7 +764,6 @@
 /vaccineinterest                          301  https://covid-vaccine-interest.phila.gov/
 /vaccine-interest                         301  https://covid-vaccine-interest.phila.gov/
 /vacancymap                               301  http://phl.maps.arcgis.com/apps/webappviewer/index.html?id=64ac160773d04952bc17ad895cc00680
-/vaccineinterest                          301  https://covid-vaccine-interest.phila.gov/
 /vendorpayments/?$                        301  https://secure.phila.gov/finance/vendorpayments/
 /veterans                                 301  http://www.phlveterans.com/
 /2020-09-29-vote-early-at-one-of-these-satellite-election-offices  301  /2020-09-29-visit-a-satellite-election-office-today/
