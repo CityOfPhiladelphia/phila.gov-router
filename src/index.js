@@ -84,7 +84,7 @@ function rewriteRequest (request, newLocation) {
       protocol,
       port: (protocol === 'https') ? 443 : 80,
       path: '', // TODO: probably not ideal to put all this in request.uri
-      sslProtocols: ['TLSv1.2', 'TLSv1.1'],
+      sslProtocols: ['TLSv1.2_2019'],
       readTimeout: 5,
       keepaliveTimeout: 5,
       customHeaders: {}
