@@ -129,8 +129,8 @@
 /covid-19                                 301  /programs/coronavirus-disease-2019-covid-19/
 /covid19businessrelief                    301  /programs/philadelphia-covid-19-small-business-relief-fund/
 /covid-19-business-relief                 301  /programs/philadelphia-covid-19-small-business-relief-fund/
-/covid19taxrelief                         301  /documents/coronavirus-tax-guidance/
-/covid-19-tax-relief                      301  /documents/coronavirus-tax-guidance/
+/covid19taxrelief                         301  /departments/department-of-revenue/our-services/tax-services/tax-guidance-in-response-to-covid-19/
+/covid-19-tax-relief                      301  /departments/department-of-revenue/our-services/tax-services/tax-guidance-in-response-to-covid-19/
 /covid-testing-sites$                     301  /covid-testing-sites/
 /covid-testing-sites/(.*)                 200  http://phila-resource-finder.s3-website-us-east-1.amazonaws.com/covid-testing/prod/$1
 /cramp                                    301  /programs/community-schools/william-cramp-elementary-school/
@@ -201,6 +201,7 @@
 /documents/2015-income-based-wage-tax-refund-petition 301 /documents/income-based-wage-tax-refund-petition/
 /documents/air-management-regulations     301  /documents/air-management-guidelines-and-regulations/
 /documents/coronavirus-covid-19-resources  301  /programs/coronavirus-disease-2019-covid-19/multi-language-resources/covid-19-coronavirus-resources-in-english/
+/documents/coronavirus-tax-guidance/       301  /departments/department-of-revenue/our-services/tax-services/tax-guidance-in-response-to-covid-19/
 /documents/covid-19-resource-translations  301  /programs/coronavirus-disease-2019-covid-19/multi-language-resources/
 /documents/philadelphia-city-scholarship-program-application/ 301 /2018-12-06-high-school-seniors-apply-for-the-philadelphia-city-scholarship/
 /documents/readynotifypa-brochure         301  /documents/ready-philadelphia-brochure/
