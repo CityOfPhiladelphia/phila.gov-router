@@ -70,6 +70,8 @@
 /business-taxes/use-occupancy-tax         301  /services/business-self-employment/business-taxes/use-occupancy-tax/
 /business-taxes/vehicle-rental-tax        301  /services/business-self-employment/business-taxes/vehicle-rental-tax/
 /businesstaxprograms                      301  /services/payments-assistance-taxes/tax-credits/
+/business-vaccine                         301  https://form.jotform.com/philagov/workforce-covid-vaccine-planning
+/businessvaccine                          301  https://form.jotform.com/philagov/workforce-covid-vaccine-planning
 /campcraig2019                            301  https://survey123.arcgis.com/share/d5c0af4dbea242819835571e79087d6a
 /cao                                      301  /departments/office-of-the-chief-administrative-officer/
 /ceo/(.*)                                 301  /departments/office-of-community-empowerment-and-opportunity/
