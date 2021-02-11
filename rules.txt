@@ -636,7 +636,7 @@
 /revenue/delinquency-reports              301  /documents/tax-delinquency-trend-action-reports/
 /revenue/eft-ach                          301  /services/payments-assistance-taxes/paying-city-taxes/electronic-funds-transfer-eft/
 /revenue/eitc                             301  /documents/earned-income-tax-credit-eitc-employer-notice/
-/revenue/income-refund                    301  /departments/department-of-revenue/our-services/tax-services/income-based-wage-tax-refund-petition/
+/revenue/income-refund                    301  /departments/department-of-revenue/our-services/tax-services/online-income-based-wage-tax-refund-petition/
 /revenue/installment-plan                 301  /services/payments-assistance-taxes/payment-plans/real-estate-tax-installment-plan/
 /revenue/job-creation-tax-credit          301  /services/payments-assistance-taxes/tax-credits/job-creation-tax-credit/ 
 /revenue/mef                              301  /services/payments-assistance-taxes/paying-city-taxes/e-filing-city-taxes/
