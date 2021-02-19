@@ -34,9 +34,6 @@ module.exports = function createEvent({
               ]
             },
             "origin": {
-              "custom": {
-                "sslProtocols": ["TLSv1.2"]
-              },
               "s3": {
                 "authMethod": "origin-access-identity",
                 "customHeaders": {
