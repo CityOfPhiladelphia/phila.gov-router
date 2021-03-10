@@ -666,6 +666,7 @@
 /saferathome                              301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
 /safer-at-home                            301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
 /safetyandjustice(.*)                     301  /programs/philadelphia-safety-and-justice-challenge/
+/safe-routes-philly                       301  /programs/safe-routes-philly/
 /school-income-tax                        301  /services/payments-assistance-taxes/income-taxes/school-income-tax/
 /senior-freeze                            301  /services/payments-assistance-taxes/senior-citizen-discounts/low-income-senior-citizen-real-estate-tax-freeze/
 /sera                                     301  https://philadelphia.maps.arcgis.com/apps/webappviewer/index.html?id=8a2a28d8b6be43048c6aa266b812e003
