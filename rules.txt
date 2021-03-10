@@ -70,6 +70,8 @@
 /business-taxes/use-occupancy-tax         301  /services/business-self-employment/business-taxes/use-occupancy-tax/
 /business-taxes/vehicle-rental-tax        301  /services/business-self-employment/business-taxes/vehicle-rental-tax/
 /businesstaxprograms                      301  /services/payments-assistance-taxes/tax-credits/
+/business-vaccine                         301  https://form.jotform.com/philagov/workforce-covid-vaccine-planning
+/businessvaccine                          301  https://form.jotform.com/philagov/workforce-covid-vaccine-planning
 /campcraig2019                            301  https://survey123.arcgis.com/share/d5c0af4dbea242819835571e79087d6a
 /cao                                      301  /departments/office-of-the-chief-administrative-officer/
 /ceo/(.*)                                 301  /departments/office-of-community-empowerment-and-opportunity/
@@ -77,6 +79,7 @@
 /channel64/Pages/default.aspx             301  /departments/office-of-innovation-and-technology/phlgovtv/
 /channel64/Documents/weeklySchedule.pdf   301  /documents/phlgovtv-broadcast-schedule/
 /channel64/Pages/CableComplaintForm.aspx  301  /services/water-gas-utilities/submit-a-cable-tv-service-complaint/
+/chirp                                    301  /2021-03-09-new-grant-opportunity-for-philadelphia-businesses-in-the-hospitality-industry
 /citizenship                              301  /2018-01-12-citizenship-information-resources/
 /citycouncil                              301  http://philadelphiacitycouncil.net/
 /citylandmarks                            301  http://phl.maps.arcgis.com/apps/CrowdsourceReporter/index.html?appid=7fa0d185a2bd4ada90151b378aea2e1e
@@ -129,8 +132,8 @@
 /covid-19                                 301  /programs/coronavirus-disease-2019-covid-19/
 /covid19businessrelief                    301  /programs/philadelphia-covid-19-small-business-relief-fund/
 /covid-19-business-relief                 301  /programs/philadelphia-covid-19-small-business-relief-fund/
-/covid19taxrelief                         301  /documents/coronavirus-tax-guidance/
-/covid-19-tax-relief                      301  /documents/coronavirus-tax-guidance/
+/covid19taxrelief                         301  /departments/department-of-revenue/our-services/tax-services/tax-guidance-in-response-to-covid-19/
+/covid-19-tax-relief                      301  /departments/department-of-revenue/our-services/tax-services/tax-guidance-in-response-to-covid-19/
 /covid-testing-sites$                     301  /covid-testing-sites/
 /covid-testing-sites/(.*)                 200  http://phila-resource-finder.s3-website-us-east-1.amazonaws.com/covid-testing/prod/$1
 /cramp                                    301  /programs/community-schools/william-cramp-elementary-school/
@@ -143,6 +146,8 @@
 /defender                                 301  http://www.philadefender.org/
 /democraticnationalconvention             301  /events/democratic-national-convention/
 /departmentofpublicproperty/pages/default.aspx 301 /departments/department-of-public-property/
+/departments                              301  /city-government-directory/
+/departments/                             301  /city-government-directory/
 /departments/(.*)/about/all-events        301  /the-latest/all-events/
 /departments/(.*)/all-events              301  /the-latest/all-events/
 /departments/board-of-education           301  /departments/philadelphia-board-of-education/
@@ -175,6 +180,7 @@
 /departments/mayors-office-of-labor/(.*) 301 /departments/department-of-labor/$1
 /departments/mayors-office-of-public-engagement/mayors-commission-on-asian-american-affairs/(.*) 301 /departments/office-of-immigrant-affairs/mayors-commission-on-asian-american-affairs/$1
 /departments/mayors-office-of-reintegration-services/ 301 /departments/office-of-reentry-partnerships/
+/departments/office-of-innovation-management/         301 /departments/office-of-innovation-and-technology/innovation-management-team/
 /departments/office-of-transportation-infrastructure-systems/ 301 /departments/office-of-transportation-infrastructure-sustainability/
 /departments/office-of-the-chief-diversity-and-inclusion-officer 301 /departments/office-of-diversity-equity-and-inclusion/
 /departments/parks-recreation             301  /departments/philadelphia-parks-recreation/
@@ -200,6 +206,7 @@
 /documents/2015-income-based-wage-tax-refund-petition 301 /documents/income-based-wage-tax-refund-petition/
 /documents/air-management-regulations     301  /documents/air-management-guidelines-and-regulations/
 /documents/coronavirus-covid-19-resources  301  /programs/coronavirus-disease-2019-covid-19/multi-language-resources/covid-19-coronavirus-resources-in-english/
+/documents/coronavirus-tax-guidance/       301  /departments/department-of-revenue/our-services/tax-services/tax-guidance-in-response-to-covid-19/
 /documents/covid-19-resource-translations  301  /programs/coronavirus-disease-2019-covid-19/multi-language-resources/
 /documents/philadelphia-city-scholarship-program-application/ 301 /2018-12-06-high-school-seniors-apply-for-the-philadelphia-city-scholarship/
 /documents/readynotifypa-brochure         301  /documents/ready-philadelphia-brochure/
@@ -634,6 +641,7 @@
 /revenue/delinquency-reports              301  /documents/tax-delinquency-trend-action-reports/
 /revenue/eft-ach                          301  /services/payments-assistance-taxes/paying-city-taxes/electronic-funds-transfer-eft/
 /revenue/eitc                             301  /documents/earned-income-tax-credit-eitc-employer-notice/
+/revenue/income-refund                    301  /departments/department-of-revenue/our-services/tax-services/online-income-based-wage-tax-refund-petition/
 /revenue/installment-plan                 301  /services/payments-assistance-taxes/payment-plans/real-estate-tax-installment-plan/
 /revenue/job-creation-tax-credit          301  /services/payments-assistance-taxes/tax-credits/job-creation-tax-credit/ 
 /revenue/mef                              301  /services/payments-assistance-taxes/paying-city-taxes/e-filing-city-taxes/
@@ -825,3 +833,4 @@
 /zipcheck                                 301  /documents/zipcheck-application/
 /zoning-summary-generator$                301  /zoning-summary-generator/
 /zoning-summary-generator/(.*)             200  http://dpd-zoning-summary-generator.s3-website-us-east-1.amazonaws.com/$1            
+/ReadyNPO                                 301  https://veoci.com/veoci/p/dashboard/ztvz85x3vq
