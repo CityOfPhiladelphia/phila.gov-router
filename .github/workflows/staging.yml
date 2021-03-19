@@ -8,11 +8,10 @@ jobs:
     name: Run lambda and invalidate cloudfront
     runs-on: ubuntu-latest
     steps: 
-      - uses: actions/checkout@v2
       - name: Setup node
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v1
         with: 
-            node-version: '14'
+            node-version: '10.x'
       - uses: actions/checkout@master
       - name: test
         run: |
@@ -25,4 +24,4 @@ jobs:
           AWS_DEFAULT_REGION: us-east-1
         run: |
           ./deploy.sh ${{ secrets.STAGING_LAMBDA_NAME }} ${{ secrets.STAGING_LAMBDA_ROLE }} ${{ secrets.PROD_S3_BUCKET }}  ${{ secrets.STAGING_CLOUDFRONT_DISTRIBUTION_ID }}
-          aws cloudfront create-invalidation --distribution-id ${{ secrets.STAGING_CLOUDFRONT_DISTRIBUTION_ID }} --paths "/*" --debug
+          aws cloudfront create-invalidation --distribution-id ${{ secrets.STAGING_CLOUDFRONT_DISTRIBUTION_ID }} --paths "/*"
