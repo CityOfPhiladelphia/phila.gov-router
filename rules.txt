@@ -438,6 +438,7 @@
 /oia/resource-finder(.*)                  200  http://phila-resource-finder.s3-website-us-east-1.amazonaws.com/oia/resource-finder$1
 /oig                                      301  /departments/office-of-the-inspector-general/
 /oit                                      301  /it
+/onephilly-claim-form                     301  https://phila.jotform.com/210747178026961
 /oopa                                     301  /services/payments-assistance-taxes/payment-plans/owner-occupied-real-estate-tax-payment-agreement/
 /OPA/Pages/PropertyInformation.aspx       301 /departments/office-of-property-assessment/
 /OPA/AbatementsExemptions/Pages/Abatements.aspx 301  /services/property-lots-housing/property-taxes/get-real-estate-tax-relief/get-a-property-tax-abatement/
@@ -615,6 +616,7 @@
 /recoveryPHL                              301  /programs/covid-19-recovery-office/
 /recreation                               301  /departments/philadelphia-parks-recreation/
 /recycle                                  301  http://www.philadelphiastreets.com/sanitation/residential/
+/recycling                                301  /programs/recycling-program/
 /recycling-donation-finder$               301  /recycling-donation-finder/
 /recycling-donation-finder/(.*)           200  http://phila-resource-finder.s3-website-us-east-1.amazonaws.com/recycling/prod/$1
 /reentry                                  301  /departments/office-of-reentry-partnerships/
@@ -740,6 +742,7 @@
 /streets                                  301  /departments/department-of-streets/
 /streets/backfill                         301  https://secure.phila.gov/streets/backfill/
 /streets/crplan                           301  https://secure.phila.gov/streets/commrecycling/
+/streets/recycling                        301  /programs/recycling-program/
 /stressmap                                301  https://phl.maps.arcgis.com/apps/MapSeries/index.html?appid=47afd9a9dcfa4637a2f88024d1c210b4
 /streetspermit                            301  https://stsweb.phila.gov/permitphl
 /sUAS-commercial-form                     301  https://veoci.com/veoci/p/form/2ftf44vkr7b3
@@ -801,6 +804,7 @@
 /water/lcrsurvey                          301  /water/wu/drinkingwater/lead/Pages/LCR-survey.aspx
 /water/lead                               301  /water/wu/drinkingwater/lead/Pages/default.aspx
 /water/notifications                      301  /water/aboutus/pages/notifications.aspx
+/water/pages/                             301  /water/pages/default.aspx
 /water/rateboard                          301  /departments/water-sewer-storm-water-rate-board/
 /water/rates                              301  /water/wu/ratesregulationsresp/pages/rates.aspx
 /water/regulations                        301  /water/wu/ratesregulationsresp/pages/regulations.aspx
