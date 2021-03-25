@@ -577,6 +577,9 @@
 /programs/coronavirus-disease-2019-covid-19/guidance/getting-tested-for-covid-19/ 301 /programs/coronavirus-disease-2019-covid-19/guidance/faq/#getting-tested
 /programs/coronavirus-disease-2019-covid-19/guidance/children-and-pregnancy/ 301 /programs/coronavirus-disease-2019-covid-19/guidance/faq/#children-and-families
 /programs/coronavirus-disease-2019-covid-19/support-for-the-community/services-and-support-for-residents/covid-19-food-distribution-sites  301   /programs/coronavirus-disease-2019-covid-19/updates/how-you-can-help/services-and-support-for-residents/covid-19-food-distribution-sites/
+/programs/coronavirus-disease-2019-covid-19/testing-and-data  301  /programs/coronavirus-disease-2019-covid-19/data/testing/
+/programs/coronavirus-disease-2019-covid-19/vaccines/data  301  /programs/coronavirus-disease-2019-covid-19/data/vaccines/
+/programs/coronavirus-disease-2019-covid-19/guidance/faq?(.*) 301  /programs/coronavirus-disease-2019-covid-19/faq/$1
 /programs/e3-power-centers/               301  /programs/e3-services/
 /programs/education-and-childcare-services/(.*) 301 /programs/education-support-center/$1
 /programs/energy-benchmarking/            301  http://www.phillybuildingbenchmarking.com/
