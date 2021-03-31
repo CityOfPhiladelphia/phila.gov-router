@@ -91,6 +91,7 @@
 /cityscholarship                          301  /programs/philadelphia-city-scholarship-program/
 /city-health-centers                      301  /services/mental-physical-health/city-health-centers/
 /civilservice                             301  /personnel/civilservice.html
+/cjps                                     301 /departments/office-of-policy-and-strategic-initiatives-for-criminal-justice-and-public-safety/ 
 /clean-waters                             301  http://stormwaterpa.org/green-city,-clean-waters.html?key=1
 /clip/aboutus/Pages/communityservicerequest.aspx 301 /programs/community-service-program/community-service-program-request-form/
 /clip/aboutus/Pages/CommunityServiceProgram.aspx 301 /programs/community-service-program/
