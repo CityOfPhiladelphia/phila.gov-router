@@ -43,6 +43,7 @@
 /art-commission                           301  /departments/philadelphia-art-commission/
 /artincityhall                            301  http://creativephl.org/tagged/Exhibitions-and-Performances/
 /arts                                     301  http://creativephl.org/
+/asistencia-factura-agua                  301  https://cap.phila.gov/static/index-spanish.html  
 /avicalculator                            301  http://avicalculator.phila.gov
 /bankon                                   301  /services/payments-assistance-taxes/open-a-safe-and-affordable-bank-account/
 /bank-on                                  301  /services/payments-assistance-taxes/open-a-safe-and-affordable-bank-account/
