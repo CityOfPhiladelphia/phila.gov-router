@@ -239,6 +239,7 @@
 /fhc                                      301  /fairhousingcommission
 /financialempowerment                     301  /programs/financial-empowerment-centers/
 /findafacility/?.*                        301  /parks-rec-finder/#/locations
+/fire/recruit                             301  /departments/philadelphia-fire-department/recruitment/
 /fire/?.*                                 301  /departments/philadelphia-fire-department/
 /fleet(.*)                                301  /departments/office-of-fleet-management/
 /foodstandards                            301  /documents/city-of-philadelphia-nutrition-standards/
@@ -515,6 +516,7 @@
 /phlcityid                                301  /programs/phl-city-id/
 /phlimmigrantbiz                          301  /posts/office-of-immigrant-affairs/2017-03-09-immigrant-business-week-2017-march-27-april-1/
 /phonedir$                                301  /departments/
+/plastic-bag-ban                          301  /programs/plastic-bag-ban/
 /play-it-safe-PHL                         301 /2020-05-21-summer-2020-update/
 /playitsafePHL                            301 /2020-05-21-summer-2020-update/
 /police                                   301  http://www.phillypolice.com/
@@ -536,6 +538,7 @@
 /ppe-bids                                 301  https://veoci.com/veoci/p/form/8nzuw5ffjc3s#tab=entryForm
 /ppr                                      301  /departments/philadelphia-parks-recreation/
 /ppr/summer-jobs                          301  /programs/parks-rec-summer-youth-employment-program/
+/ppr/tree-plan                            301  /programs/philly-tree-plan/
 /parksandrecreation/(.*)                  301  /departments/philadelphia-parks-recreation/
 /pra/?.*                                  301  http://www.philadelphiaredevelopmentauthority.org
 /prepare-for-an-emergency                 301  /services/safety-emergency-preparedness/prepare-for-an-emergency/
