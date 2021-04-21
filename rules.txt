@@ -75,6 +75,7 @@
 /businessvaccine                          301  https://form.jotform.com/philagov/workforce-covid-vaccine-planning
 /campcraig2019                            301  https://survey123.arcgis.com/share/d5c0af4dbea242819835571e79087d6a
 /cao                                      301  /departments/office-of-the-chief-administrative-officer/
+/ccvc                                     301  /2021-03-02-getting-vaccinated-at-the-center-city-vaccination-center-what-you-need-to-know/
 /ceo/(.*)                                 301  /departments/office-of-community-empowerment-and-opportunity/
 /census                                   301  /programs/philly-counts-2020/
 /channel64/Pages/default.aspx             301  /departments/office-of-innovation-and-technology/phlgovtv/
@@ -784,6 +785,7 @@
 /uas                                      301  https://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=d93906e2068e4eaa9c0e505287b959e2
 /unitycup                                 301  http://unitycup.phila.gov
 /universalprek(.*)                        301  /programs/quality-pre-k/
+/vaccine                                  301  /2021-04-20-sign-up-for-your-covid-19-vaccine-appointment-here/
 /vaccineinterest                          301  https://covid-vaccine-interest.phila.gov/
 /vaccine-interest                         301  https://covid-vaccine-interest.phila.gov/
 /vacancymap                               301  http://phl.maps.arcgis.com/apps/webappviewer/index.html?id=64ac160773d04952bc17ad895cc00680
