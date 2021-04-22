@@ -519,8 +519,8 @@
 /phlimmigrantbiz                          301  /posts/office-of-immigrant-affairs/2017-03-09-immigrant-business-week-2017-march-27-april-1/
 /phonedir$                                301  /departments/
 /plastic-bag-ban                          301  /programs/plastic-bag-ban/
-/play-it-safe-PHL                         301 /2020-05-21-summer-2020-update/
-/playitsafePHL                            301 /2020-05-21-summer-2020-update/
+/play-it-safe-PHL                         301  /2021-04-21-summer-2021-update-camps-summer-jobs-activities-and-more
+/playitsafePHL                            301  /2021-04-21-summer-2021-update-camps-summer-jobs-activities-and-more
 /police                                   301  http://www.phillypolice.com/
 /policeovertime                           301  https://phl.secure.force.com/ROWS/
 /pools                                    301  /parks-rec-finder/#/locations/swimming-pools
