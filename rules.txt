@@ -785,7 +785,7 @@
 /uas                                      301  https://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=d93906e2068e4eaa9c0e505287b959e2
 /unitycup                                 301  http://unitycup.phila.gov
 /universalprek(.*)                        301  /programs/quality-pre-k/
-/vaccine                                  301  /2021-04-20-sign-up-for-your-covid-19-vaccine-appointment-here/
+/vaccine                                  301  https://cw2-philadelphia-pa-production.herokuapp.com/clinic/search
 /vaccineinterest                          301  https://covid-vaccine-interest.phila.gov/
 /vaccine-interest                         301  https://covid-vaccine-interest.phila.gov/
 /vacancymap                               301  http://phl.maps.arcgis.com/apps/webappviewer/index.html?id=64ac160773d04952bc17ad895cc00680
