@@ -118,6 +118,7 @@
 /commerce/realEstate/Pages/KeystoneOpportunityZones.aspx 301 /programs/keystone-opportunity-zones/
 /commerce/pages/default.aspx              301  /departments/department-of-commerce/
 /commerce(.*)                             301  /departments/department-of-commerce/
+/complete-streets/chestnut-walnut-traffic-safety 301 /programs/complete-streets/projects/chestnut-walnut-repaving-and-complete-street-safety-project/ 
 /content-style-guide                      301  http://standards.phila.gov/guidelines/content/
 /content-style-guide/(.*)                 301  http://standards.phila.gov/guidelines/content/
 /contractprepfee                          301  https://www.officialpayments.com/pc_entry_cobrand.jsp?productId=635840624434951202173815789925863516
@@ -595,6 +596,7 @@
 /programs/startup-phl                     301  http://startupphl.com/
 /programs/stemcityphl                     301  http://www.stemcityphl.org/
 /programs/workready-at-parks-rec          301  /programs/parks-rec-summer-youth-employment-program/
+/programs/workforce-development/          301  /departments/department-of-commerce/about-us/divisions/office-of-workforce-development/
 /property                                 301  https://property.phila.gov
 /property/aboutus(.*)                     301  /departments/department-of-public-property/
 /property/capital(.*)                     301  /departments/department-of-public-property/	
@@ -833,7 +835,7 @@
 /wholesale-wastewater                     301  https://secure8.i-doxs.net/CityOfPhiladelphiaWRB/WastewaterValidate.aspx
 /wills                                    301  http://secureprod.phila.gov/wills/
 /winter-meals                             301  /2019-12-10-winter-meals-and-food-pantries-for-students-and-families/
-/workforce                                301  /programs/workforce-development/
+/workforce                                301  /departments/department-of-commerce/about-us/divisions/office-of-workforce-development/
 /wp-admin                                 301  https://admin.phila.gov/wp-admin/
 /wp-login.php                             301  https://admin.phila.gov/wp-login.php
 /wright                                   301  /programs/community-schools/richard-r-wright-school/
