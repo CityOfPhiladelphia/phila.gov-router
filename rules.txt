@@ -221,6 +221,8 @@
 /documents/information-for-businesses-interested-in-working-on-rebuild/ 301 /documents/rebuild-resources-for-businesses/
 /documents/civic-design-review-cdr-meeting-materials/ 301 /departments/philadelphia-city-planning-commission/public-meetings/ 
 /documents/philadelphia-city-planning-commission-meeting-agendas-and-minutes/ 301 /departments/philadelphia-city-planning-commission/public-meetings/ 
+/documents                                301  /publications-forms/
+/documents/                               301  /publications-forms/
 /dot                                      301  /it
 /droneguide                               301  https://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=d93906e2068e4eaa9c0e505287b959e2
 /DronePhilly                              301  https://veoci.com/veoci/p/dashboard/8vfac7c7b7
