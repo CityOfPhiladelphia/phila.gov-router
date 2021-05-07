@@ -626,6 +626,19 @@
 /real-estate-relief                       301  /services/payments-assistance-taxes/get-real-estate-tax-relief/
 /reasonable-modification                  301  /services/diversity-inclusion-accessibility-immigration/submit-a-reasonable-modification-request/
 /rebuild/careers                          301  /programs/rebuild/careers/
+/records/PoliceFire/Police.html           301  /documents/public-safety-report-request-forms/
+/records/DocumentRecording/DocumentRecording.html 301 /services/property-lots-housing/record-a-deed-or-other-document/
+/records/DocumentRecording/Military_Discharges.html 301 /services/property-lots-housing/get-a-copy-of-a-deed-or-other-recorded-document/
+/records/DocumentRecording/Deeds.html     301  /services/property-lots-housing/record-a-deed-or-other-document/
+/records/DocumentRecording/DocumentRecordingReq.html 301 /services/property-lots-housing/record-a-deed-or-other-document/
+/records/DocumentRecording/Hints.html     301  /services/property-lots-housing/record-a-deed-or-other-document/
+/records/PoliceFire/Traffic_Accident_Reports.html 301 /documents/public-safety-report-request-forms/
+/records/Archives/Archives.html           301  /departments/department-of-records/city-archives/
+/records/Archives/OnlineApplications.html 301  /departments/department-of-records/city-archives/
+/phils/carchive.htm                       301  /departments/department-of-records/city-archives/
+/records/PoliceFire/Reports.html          301  /documents/public-safety-report-request-forms/
+/records/Archives/FAQ.html                301  /departments/department-of-records/frequently-asked-questions/
+/records(.*)                              301  /departments/department-of-records/
 /recovery                                 301  /programs/covid-19-recovery-office/
 /recoverPHL                               301  /programs/covid-19-recovery-office/
 /recoveryPHL                              301  /programs/covid-19-recovery-office/
@@ -696,6 +709,7 @@
 /services/crime-law-justice/inmates/visit-a-person-in-jail-or-prison/  301 /services/crime-law-justice/inmates/visit-an-inmate/
 /services/crime-law-justice/inmates/send-mail-to-someone-in-jail-or-prison/ 301 /services/crime-law-justice/inmates/contact-an-inmate-by-mail/
 /services/crime-law-justice/inmates/find-an-inmate/ 301 /services/crime-law-justice/inmates/locate-an-inmate/
+/services/crime-law-justice/police/get-a-police-report/ 301 /services/crime-law-justice/get-a-copy-of-a-public-safety-report/
 /services/diversity-inclusion-immigration/?(.*) 301 /services/diversity-inclusion-accessibility-immigration/$1
 /services/mental-physical-health/environmental-health-hazards/covid-19/could-i-have-covid-19  301  /programs/coronavirus-disease-2019-covid-19/guidance/signs-and-symptoms/
 /services/mental-physical-health/environmental-health-hazards/covid-19/covid-19-and-children  301  /programs/coronavirus-disease-2019-covid-19/guidance/children-and-pregnancy/
