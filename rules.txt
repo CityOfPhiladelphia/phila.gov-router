@@ -357,6 +357,7 @@
 /li/pages/tenantlandlord.aspx             301  /services/property-lots-housing/buy-sell-or-rent-a-property/information-about-renting/rent-your-property/
 /li/pages/Zoning.aspx                     301  /departments/department-of-licenses-and-inspections/permits-and-certificates/zoning-permits-and-approvals/
 /li/pages/Appeals.aspx                    301  /departments/department-of-licenses-and-inspections/appeals/
+/li/pay-violation-fee                     301  /services/permits-violations-licenses/pay-a-fine-or-ticket/pay-an-li-violation-fee-or-fine/
 /li/zoning-appeals                        301  /zba/appeals-calendar/
 /li/zoningappeals                         301  /zba/appeals-calendar/
 /licenses(andinspections)?                301  /departments/department-of-licenses-and-inspections/
