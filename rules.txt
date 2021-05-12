@@ -639,7 +639,7 @@
 /phils/carchive.htm                       301  /departments/department-of-records/city-archives/
 /records/PoliceFire/Reports.html          301  /documents/public-safety-report-request-forms/
 /Records/styles/css/nav.css               301  https://www.phila.gov/Records/styles/css/nav.css      
-/Records/images/go_button_new.gif         301  https://www.phila.gov//Records/images/go_button_new.gif      
+/Records/images/go_button_new.gif         301  https://www.phila.gov/Records/images/go_button_new.gif      
 /Records/styles/scripts/web/background.js 301  https://www.phila.gov/Records/styles/scripts/web/background.js 
 /records/Archives/FAQ.html                301  /departments/department-of-records/frequently-asked-questions/
 /records(.*)                              301  /departments/department-of-records/
