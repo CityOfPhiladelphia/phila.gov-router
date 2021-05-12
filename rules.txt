@@ -82,6 +82,8 @@
 /channel64/Documents/weeklySchedule.pdf   301  /documents/phlgovtv-broadcast-schedule/
 /channel64/Pages/CableComplaintForm.aspx  301  /services/water-gas-utilities/submit-a-cable-tv-service-complaint/
 /chirp                                    301  /2021-03-09-new-grant-opportunity-for-philadelphia-businesses-in-the-hospitality-industry
+/childtaxcredit                           301  /2021-04-28-child-tax-credit-what-you-need-to-know/
+/child-tax-credit                         301  /2021-04-28-child-tax-credit-what-you-need-to-know/
 /citizenship                              301  /2018-01-12-citizenship-information-resources/
 /citycouncil                              301  http://philadelphiacitycouncil.net/
 /citylandmarks                            301  http://phl.maps.arcgis.com/apps/CrowdsourceReporter/index.html?appid=7fa0d185a2bd4ada90151b378aea2e1e
