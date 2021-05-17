@@ -345,14 +345,14 @@
 /li-permit-tracker/(.*)                   200  http://li-permit-tracker.s3-website-us-east-1.amazonaws.com/$1
 /li/appointment                           301  /services/permits-violations-licenses/make-an-appointment-to-visit-the-li-permit-and-license-center/
 /li/contractor-permit-lookup(.*)          200  http://li-vue-apps.s3-website-us-east-1.amazonaws.com/li/contractor-permit-lookup$1
-/li/find-a-licensed-contractor(.*)        200  http://li-vue-apps.s3-website-us-east-1.amazonaws.com/li/find-a-licensed-contractor$1
+/li/find-a-licensed-contractor(.*)        200  https://li.phila.gov/Contractor-Lookup/$1
 /li/appeals-calendar$                     301  /li/appeals-calendar/
 /li/appeals-calendar/(.*)                 200  http://appeals-app-all.s3-website-us-east-1.amazonaws.com/$1
 /li/appeals-materials                     301  /documents/licenses-and-inspections-appeals-materials/
 /li/codesandregulations/Pages/default.aspx  301  /departments/department-of-licenses-and-inspections/resources/applicable-codes/ 
 /li/eclipse                               301  https://eclipse.phila.gov/
 /li/pages/Appealscalendar.aspx            301  /li/appeals-calendar/
-/li/pages/findlicensedprofessional.aspx   301  /li/find-a-licensed-contractor/
+/li/pages/findlicensedprofessional.aspx   301  https://li.phila.gov/Contractor-Lookup
 /li/Pages/FloodplainManagement.aspx       301  /services/permits-violations-licenses/apply-for-a-permit/building-and-repair/get-approval-for-construction-in-the-floodplain/
 /li/pages/Licenses.aspx                   301  /departments/department-of-licenses-and-inspections/licenses/
 /li/pages/PermitsCertificates.aspx        301  /departments/department-of-licenses-and-inspections/permits-and-certificates/
