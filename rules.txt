@@ -22,6 +22,7 @@
 /2020-03-14-find-free-meals-for-students-while-schools-are-closed-ru/ 301 /food/
 /2020-03-14-trouver-des-repas-gratuits-pour-les-etudiants-pendant-la-fermeture-des-ecoles/ 301 /food/
 /2020-08-20-where-to-find-supervised-connected-access-centers-for-digital-learning/ 301 /programs/access-centers/
+/311/pages/default.aspx                   301  /departments/philly311/
 /aco                                      301  /departments/mayors-office-for-people-with-disabilities/
 /access-center-finder$                    301  /access-center-finder/
 /access-center-finder/(.*)                200  http://phila-resource-finder.s3-website-us-east-1.amazonaws.com/access-centers/prod/$1
