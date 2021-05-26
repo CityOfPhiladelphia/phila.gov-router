@@ -319,6 +319,7 @@
 /inspectorgeneral                         301  /departments/office-of-the-inspector-general/
 /integrityworks(.*)                       301  /programs/integrity-works/
 /investorconference                       301  /investor/Pages/InvestorConference.aspx
+/investor/pages/default.aspx              301 /programs/investor-information/
 /it/pages/default.aspx                    301 /departments/office-of-innovation-and-technology/
 /it/Innovation/Pages/InnovationManagement.aspx 301 /departments/office-of-innovation-and-technology/innovation-management-team/
 /it/aboutus/Pages/default.aspx            301 /departments/office-of-innovation-and-technology/about/
