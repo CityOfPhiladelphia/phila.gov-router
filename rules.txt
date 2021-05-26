@@ -816,6 +816,14 @@
 /trb/petition                             301  /documents/tax-appeal-petition-form/
 /trb/pages/default.aspx                   301  /departments/tax-review-board/
 /trb-appeal                               301  https://form.jotform.com/philagov/petition-for-tax-appeal
+/Treasurer/Pages/AuthorizedDepositories.aspx 301 /departments/city-treasurers-office/
+/Treasurer/Pages/DepositoryReInvestmentGoals.aspx 301 /departments/city-treasurers-office/
+/Treasurer/Pages/Forms.aspx               301 /departments/city-treasurers-office/
+/Treasurer/Pages/Functions.aspx           301 /departments/city-treasurers-office/
+/Treasurer/Pages/default.aspx             301 /departments/city-treasurers-office/
+/Treasurer/Pages/taxcompliance.aspx       301 /departments/city-treasurers-office/
+/Treasurer/aboutus/Pages/FAQ.aspx         301 /departments/city-treasurers-office/
+/Treasurer/aboutus/Pages/default.aspx     301 /departments/city-treasurers-office/
 /tree-trench                              301  http://www.stormwaterpa.org/keeping-water-on-site-waterview-recreation-center.html?key=0
 /uas                                      301  https://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=d93906e2068e4eaa9c0e505287b959e2
 /unitycup                                 301  http://unitycup.phila.gov
