@@ -2,7 +2,6 @@
 /2016-water-quality-data                  301  /water/PDF/2016-water-quality-results.pdf
 /2016waterquality                         301  /water/wu/water%20quality%20reports/2016waterquality.pdf
 /2018                                     301  /2018-12-21-10-big-moments-from-2018-in-philadelphia/
-/311/report-an-issue                      301  https://iframe.publicstuff.com/#?client_id=242
 /2020-03-28-where-to-find-free-nutritious-food-during-covid-19/ 301 /food/
 /2020-03-29-donde-conseguir-comidas-gratis-y-nutritivas-para-familias-y-estudiantes/ 301 /food/
 /2020-03-28-where-to-find-free-nutritious-food-during-covid-19-zh/ 301 /food/
@@ -22,7 +21,8 @@
 /2020-03-14-find-free-meals-for-students-while-schools-are-closed-ru/ 301 /food/
 /2020-03-14-trouver-des-repas-gratuits-pour-les-etudiants-pendant-la-fermeture-des-ecoles/ 301 /food/
 /2020-08-20-where-to-find-supervised-connected-access-centers-for-digital-learning/ 301 /programs/access-centers/
-/311/pages/default.aspx                   301  /departments/philly311/
+/311/(.*)                                 301  /departments/philly311/
+/311/report-an-issue                      301  https://iframe.publicstuff.com/#?client_id=242
 /aco                                      301  /departments/mayors-office-for-people-with-disabilities/
 /access-center-finder$                    301  /access-center-finder/
 /access-center-finder/(.*)                200  http://phila-resource-finder.s3-website-us-east-1.amazonaws.com/access-centers/prod/$1
@@ -294,7 +294,7 @@
 /health/permitsForms.html                 301  /departments/department-of-public-health/for-business-owners/
 /health/tobaccopermits                    301  /services/permits-violations-licenses/business-licenses-permits-and-approvals/tobacco-retailers/get-a-tobacco-retailer-permit/
 /health(.*)                               301  /departments/department-of-public-health/
-/helpme                                   301  /311/Pages/default.aspx
+/helpme                                   301  /departments/philly311/
 /hhs/privacy                              301  /hhs/pages/privacy.aspx
 /hhe                                      301  /2019-06-11-what-happens-when-the-city-declares-a-heat-health-emergency/
 /historical/taskforce                     301  https://www.phlpreservation.org/
@@ -318,8 +318,8 @@
 /inspector                                301  /departments/office-of-the-inspector-general/
 /inspectorgeneral                         301  /departments/office-of-the-inspector-general/
 /integrityworks(.*)                       301  /programs/integrity-works/
-/investorconference                       301  /investor/Pages/InvestorConference.aspx
-/investor/pages/default.aspx              301 /programs/investor-information/
+/investorconference                       301  /programs/investor-information/
+/investor/(.*)                            301 /programs/investor-information/
 /it/pages/default.aspx                    301 /departments/office-of-innovation-and-technology/
 /it/Innovation/Pages/InnovationManagement.aspx 301 /departments/office-of-innovation-and-technology/innovation-management-team/
 /it/aboutus/Pages/default.aspx            301 /departments/office-of-innovation-and-technology/about/
