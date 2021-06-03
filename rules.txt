@@ -72,8 +72,8 @@
 /business-taxes/use-occupancy-tax         301  /services/business-self-employment/business-taxes/use-occupancy-tax/
 /business-taxes/vehicle-rental-tax        301  /services/business-self-employment/business-taxes/vehicle-rental-tax/
 /businesstaxprograms                      301  /services/payments-assistance-taxes/tax-credits/
-/business-vaccine                         301  https://cw2-philadelphia-pa-production.herokuapp.com/clinic/search
-/businessvaccine                          301  https://cw2-philadelphia-pa-production.herokuapp.com/clinic/search
+/business-vaccine                         301  /services/mental-physical-health/get-vaccinated/sign-up-to-get-a-covid-19-vaccine/
+/businessvaccine                          301  /services/mental-physical-health/get-vaccinated/sign-up-to-get-a-covid-19-vaccine/
 /campcraig2019                            301  https://survey123.arcgis.com/share/d5c0af4dbea242819835571e79087d6a
 /cao                                      301  /departments/office-of-the-chief-administrative-officer/
 /ccvc                                     301  /2021-03-02-getting-vaccinated-at-the-center-city-vaccination-center-what-you-need-to-know/
@@ -828,9 +828,9 @@
 /uas                                      301  https://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=d93906e2068e4eaa9c0e505287b959e2
 /unitycup                                 301  http://unitycup.phila.gov
 /universalprek(.*)                        301  /programs/quality-pre-k/
-/vaccine                                  301  https://cw2-philadelphia-pa-production.herokuapp.com/clinic/search
-/vaccineinterest                          301  https://cw2-philadelphia-pa-production.herokuapp.com/clinic/search
-/vaccine-interest                         301  https://cw2-philadelphia-pa-production.herokuapp.com/clinic/search
+/vaccine                                  301  /services/mental-physical-health/get-vaccinated/sign-up-to-get-a-covid-19-vaccine/
+/vaccineinterest                          301  /services/mental-physical-health/get-vaccinated/sign-up-to-get-a-covid-19-vaccine/
+/vaccine-interest                         301  /services/mental-physical-health/get-vaccinated/sign-up-to-get-a-covid-19-vaccine/
 /vacancymap                               301  http://phl.maps.arcgis.com/apps/webappviewer/index.html?id=64ac160773d04952bc17ad895cc00680
 /vendorpayments/?$                        301  https://secure.phila.gov/finance/vendorpayments/
 /veterans                                 301  http://www.phlveterans.com/
