@@ -46,6 +46,8 @@
 /arts                                     301  http://creativephl.org/
 /asistencia-factura-agua                  301  https://cap.phila.gov/static/index-spanish.html  
 /avicalculator                            301  http://avicalculator.phila.gov
+/bag-ban                                  301  /programs/plastic-bag-ban/
+/bagban                                   301  /programs/plastic-bag-ban/
 /bankon                                   301  /services/payments-assistance-taxes/open-a-safe-and-affordable-bank-account/
 /bank-on                                  301  /services/payments-assistance-taxes/open-a-safe-and-affordable-bank-account/
 /become-a-water-customer                  301  /services/water-gas-utilities/become-a-water-customer/
@@ -122,6 +124,7 @@
 /commerce/pages/default.aspx              301  /departments/department-of-commerce/
 /commerce(.*)                             301  /departments/department-of-commerce/
 /complete-streets/chestnut-walnut-traffic-safety 301 /programs/complete-streets/projects/chestnut-walnut-repaving-and-complete-street-safety-project/ 
+/complete-streets/west-chestnut-walnut    301 /programs/complete-streets/projects/chestnut-walnut-repaving-and-complete-street-safety-project/
 /content-style-guide                      301  http://standards.phila.gov/guidelines/content/
 /content-style-guide/(.*)                 301  http://standards.phila.gov/guidelines/content/
 /contractprepfee                          301  https://www.officialpayments.com/pc_entry_cobrand.jsp?productId=635840624434951202173815789925863516
@@ -224,6 +227,7 @@
 /documents/information-for-businesses-interested-in-working-on-rebuild/ 301 /documents/rebuild-resources-for-businesses/
 /documents/civic-design-review-cdr-meeting-materials/ 301 /departments/philadelphia-city-planning-commission/public-meetings/ 
 /documents/philadelphia-city-planning-commission-meeting-agendas-and-minutes/ 301 /departments/philadelphia-city-planning-commission/public-meetings/ 
+/documents/community-school-profiles-fall-2016-cohort/ 301 /programs/community-schools/ 
 /documents                                301  /publications-forms/
 /documents/                               301  /publications-forms/
 /dot                                      301  /it
@@ -753,6 +757,7 @@
 /services/streets-sidewalks-alleys/get-a-dumpster-license-private-or-right-of-way/  301 /services/permits-violations-licenses/get-a-license/business-licenses-permits-and-approvals/dumpsters/get-a-dumpster-license-private-or-right-of-way/
 /services/streets-sidewalks-alleys/street-closures/plan-a-block-party/  301  /services/streets-sidewalks-alleys/street-closures/apply-to-hold-a-block-party-or-street-event/
 /services/trash-recycling-city-upkeep/residential-trash-and-recycling/dispose-of-christmas-trees-leaves-or-pumpkins/  301  /services/trash-recycling-city-upkeep/residential-trash-and-recycling/dispose-of-christmas-trees/
+/services/trash-recycling-city-upkeep/residential-trash-and-recycling/find-a-trash-or-recycling-center/ 301 /services/trash-recycling-city-upkeep/residential-trash-and-recycling/find-a-sanitation-convenience-center-to-drop-off-trash-or-recycling/
 /services/water-gas-utilities/pay-a-water-bill/ 301 /services/water-gas-utilities/pay-or-dispute-a-water-bill/pay-a-water-bill/
 /services/water-gas-utilities/dispute-a-water-bill/ 301 /services/water-gas-utilities/pay-or-dispute-a-water-bill/dispute-a-water-bill/
 /services/water-gas-utilities/water-sewer-services/become-a-water-customer/ 301 /services/water-gas-utilities/become-a-water-customer/
