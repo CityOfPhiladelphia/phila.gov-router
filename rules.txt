@@ -815,7 +815,7 @@
 /tos/index.html                           301  /terms-of-use/
 /tos/(.*)                                 301  /
 /towing                                   301  /programs/philadelphias-rotational-towing-program/
-/townwatch/services.htm(l)?               301  /townwatch
+/townwatch(.*)                            301  /departments/town-watch-integrated-services/ 
 /transitionreport                         301  /documents/transition-report/
 /trashday(.*)                             301  /services/trash-recycling-city-upkeep/residential-trash-and-recycling/find-your-trash-and-recycling-collection-day/
 /trb/petition                             301  /documents/tax-appeal-petition-form/
