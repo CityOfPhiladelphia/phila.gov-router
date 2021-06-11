@@ -247,6 +247,7 @@
 /fairhousing                              301  /fairhousingcommission
 /faithbased(.*)                           301  /departments/faith-based-and-interfaith-affairs/
 /families                                 301  /departments/office-of-children-and-families/
+/farmers-markets                          301  /services/permits-violations-licenses/get-a-license/business-licenses-permits-and-approvals/food-businesses/operate-a-farmers-market/
 /fe/(.*)                                  301  /programs/financial-empowerment-centers/
 /fhc                                      301  /fairhousingcommission
 /financialempowerment                     301  /programs/financial-empowerment-centers/
