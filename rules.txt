@@ -255,6 +255,7 @@
 /fire/recruit                             301  /departments/philadelphia-fire-department/recruitment/
 /fire/?.*                                 301  /departments/philadelphia-fire-department/
 /fleet(.*)                                301  /departments/office-of-fleet-management/
+/flood-management                         301  /programs/flood-management-program/
 /foodstandards                            301  /documents/city-of-philadelphia-nutrition-standards/
 /food$                                    301  /food/
 /food/(.*)                                200  http://phila-resource-finder.s3-website-us-east-1.amazonaws.com/free-meals/prod/$1
@@ -268,6 +269,8 @@
 /globalphiladelphia                       301  /departments/office-of-immigrant-affairs/
 /gompers                                  301  /programs/community-schools/samuel-gompers-school/
 /green(.*)                                301  /departments/office-of-sustainability/
+/grief-support                            301 /programs/substance-use-prevention-and-harm-reduction/bereavement-support-services/
+/griefsupport                             301 /programs/substance-use-prevention-and-harm-reduction/bereavement-support-services/
 /guides                                   301  /guides/lead-guide/
 /guides/reopening-with-care(.*)           301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
 /guncontrolpolicies                       301  /2018-03-20-gun-control-policies/
