@@ -905,8 +905,8 @@
 /water/wu/drinkingwater/lead/Pages/(.*) 301 https://water.phila.gov/lead/
 /water/sustainability/protectingwaterways/Pages/?(.*).aspx 301 https://water.phila.gov/watershed-protection/$1
 /water/helploan                           301  /programs/homeowners-emergency-loan-program-help/
-/water/rateboard/Pages/(.*)         301 https://www.phila.gov/departments/water-sewer-storm-water-rate-board/
-/water/rateboard/rateproceeding/(.*)      301 https://www.phila.gov/departments/water-sewer-storm-water-rate-board/rate-proceedings/2016-rate-proceeding/
+/water/rateboard/Pages(.*)                301 https://www.phila.gov/departments/water-sewer-storm-water-rate-board/
+/water/rateboard/rateproceeding(.*)       301 https://www.phila.gov/departments/water-sewer-storm-water-rate-board/rate-proceedings/2016-rate-proceeding/
 /water/?(.*)                              301 https://water.phila.gov/$1 
 /waterbillhelp                            301  /services/water-gas-utilities/pay-or-dispute-a-water-bill/water-bill-customer-assistance/
 /waterrev(.*)                             301  /departments/department-of-revenue/our-services/water-revenue/
