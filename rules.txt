@@ -529,14 +529,14 @@
 /personnel/Codes.html	                    301  /departments/office-of-human-resources/jobs/job-class-specifications/
 /personnel/EEO_AA.html	                  301  /departments/office-of-human-resources/policies/
 /personnel/ExamsFAQ.html	                301  /departments/office-of-human-resources/jobs/civil-service-faqs/
-/personnel/fmlaFAQ.html	                  301  /departments/office-of-human-resources/policies/family-and-medical-leave-act-fmla-faqs/
+/personnel/fmlaFAQ.html	                  301  /departments/office-of-human-resources/
 /personnel/Labor.html	                    301  /departments/department-of-labor/
 /personnel/laborrel/AppealGuide.html	    301  /departments/civil-service-commission/civil-service-appeal-guide/
 /personnel/Ladders.html	                  301  /documents/career-ladders/
 /personnel/Payranges.html	                301  /departments/office-of-human-resources/jobs/pay-ranges/
 /personnel/Pension.html	                  301  /departments/board-of-pensions-and-retirement/
 /personnel/politicalActivityRestrictions.html	301  /departments/office-of-human-resources/policies/
-/personnel/Reg32.html	                    301  /departments/office-of-human-resources/policies/regulation-32-faqs/
+/personnel/Reg32.html	                    301  /departments/office-of-human-resources/
 /personnel/specs/	                        301  /departments/office-of-human-resources/jobs/job-class-specifications/
 /personnel/specs/agenitem/(.*)	          301  /departments/civil-service-commission/civil-service-commission-meeting-agendas/
 /personnel/specs/careerladders/(.*)	      301  /documents/career-ladders/
