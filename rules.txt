@@ -555,6 +555,7 @@
 /personnel/specs/agenitem/(.*)	          301  /departments/civil-service-commission/civil-service-commission-meeting-agendas/
 /personnel/specs/careerladders/(.*)	      301  /documents/career-ladders/
 /personnel/specs/JobInterestForm.html	    301  /departments/office-of-human-resources/jobs/job-class-specifications/
+/personnel/webregs    	                  301  /publications/civil-service-regulations/#/
 /personnel/webregs/summary.htm	          301  /publications/civil-service-regulations/#/page/34.
 /personnel/webregs/(.*)	                  301  /publications/civil-service-regulations/#/
 /philacode/?.*                            301  http://www.amlegal.com/codes/client/philadelphia_pa/
