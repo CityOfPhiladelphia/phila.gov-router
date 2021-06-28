@@ -532,7 +532,7 @@
 /payment-agreements                       301  /services/payments-assistance-taxes/payment-plans/set-up-a-payment-agreement-for-your-taxes/
 /pchr                                     301  /humanrelations
 /performance                              301  /mdo/phillystat
-/personnel/	                              301  /departments/office-of-human-resources/
+/personnel	                              301  /departments/office-of-human-resources/
 /personnel/ADAFAQ.html	                  301  /departments/office-of-human-resources/policies/
 /personnel/ADAFAQ2.html	                  301  /departments/office-of-human-resources/policies/
 /personnel/ADAFAQ3.html	                  301  /departments/office-of-human-resources/policies/
@@ -555,7 +555,7 @@
 /personnel/specs/agenitem/(.*)	          301  /departments/civil-service-commission/civil-service-commission-meeting-agendas/
 /personnel/specs/careerladders/(.*)	      301  /documents/career-ladders/
 /personnel/specs/JobInterestForm.html	    301  /departments/office-of-human-resources/jobs/job-class-specifications/
-/personnel/webregs/	                      301  /publications/civil-service-regulations/#/
+/personnel/webregs	                      301  /publications/civil-service-regulations/#/
 /personnel/webregs/summary.htm	          301  /publications/civil-service-regulations/#/page/34.
 /philacode/?.*                            301  http://www.amlegal.com/codes/client/philadelphia_pa/
 /philareads(.*)                           301  https://www.philareads.org/              
