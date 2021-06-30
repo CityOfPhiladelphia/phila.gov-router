@@ -56,6 +56,7 @@
 /bids                                     301  /departments/procurement-department/
 /bidsonline                               301  https://www.phlcontracts.phila.gov/bso/
 /bikeshare/pages/default.aspx             301  http://www.phillyotis.com/portfolio-item/indego/
+/bluezone                                 301  https://phila.city/display/bluezone
 /board-of-education                       301  /departments/philadelphia-board-of-education/
 /boepaperform                             301  /documents/board-of-education-job-description/
 /broadstreetrun                           301  http://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=546b42e14be942009f364d81987eaa81
@@ -147,6 +148,10 @@
 /covid-testing-sites$                     301  /covid-testing-sites/
 /covid-testing-sites/(.*)                 200  http://phila-resource-finder.s3-website-us-east-1.amazonaws.com/covid-testing/prod/$1
 /cramp                                    301  /programs/community-schools/william-cramp-elementary-school/
+/crossingguard                            301 /programs/school-crossing-guard-program/ 
+/crossingguards                           301 /programs/school-crossing-guard-program/ 
+/crossing-guard                           301 /programs/school-crossing-guard-program/ 
+/crossing-guards                          301 /programs/school-crossing-guard-program/ 
 /data                                     301  /programs/open-data-program/
 /data/discuss                             301  https://groups.google.com/forum/#!forum/opendataphilly
 /data/exeutive-order                      301  /documents/open-data-program-executive-order/
@@ -325,6 +330,7 @@
 /homelessservices                         301  /departments/office-of-homeless-services/
 /homeless-services                        301  /departments/office-of-homeless-services/
 /homestead                                301  /services/property-lots-housing/get-real-estate-tax-relief/get-the-homestead-exemption/
+/humanrelations(.*)                       301  /departments/philadelphia-commission-on-human-relations/
 /ig(.*)                                   301  /departments/office-of-the-inspector-general/
 /ima/                                     301  /departments/office-of-immigrant-affairs/
 /immigrant-business-week                  301  /spotlight/immigrant-business-week-2020/
@@ -336,7 +342,6 @@
 /income-based-assistance-programs/real-estate-tax-deferral-program 301 /services/payments-assistance-taxes/get-real-estate-tax-relief/real-estate-tax-deferral-program/
 /income-taxes/net-profits-tax             301  /services/business-self-employment/business-taxes/net-profits-tax/
 /income-taxes/overview                    301  /services/payments-assistance-taxes/income-taxes/
-/info/?$                                  301  /info/pages/wifi.aspx
 /inspector                                301  /departments/office-of-the-inspector-general/
 /inspectorgeneral                         301  /departments/office-of-the-inspector-general/
 /integrityworks(.*)                       301  /programs/integrity-works/
@@ -390,7 +395,6 @@
 /li/(.*)                                  301  /departments/department-of-licenses-and-inspections/
 /licontact                                301  http://iframe.publicstuff.com/#?client_id=242&request_type_id=1013002
 /lifeguards                               301  /services/working-jobs/find-a-job-or-internship/become-a-lifeguard/
-/lirequest                                301  /li/pages/foodlicenseinspection.aspx
 /lobbying                                 301  http://plis.cloudapp.net
 /localcontrolsurvey                       301  /departments/mayor/share-what-you-want-in-your-schools/
 /locke                                    301  /programs/community-schools/alain-locke-school/
@@ -411,7 +415,8 @@
 /mbec                                     301  /commerce/businesssupport/mwdsbesupport
 /mcclure                                  301  /programs/community-schools/alexander-k-mcclure-school/
 /mcpd(.*)                                 301  /departments/mayors-office-for-people-with-disabilities/
-/mdo/specialevents/pages/permitsandapplications.aspx 301 http://www.phlevents.org/applications
+/mdo                                      301  /departments/managing-directors-office/
+/mdo/(.*)                                 301  /departments/managing-directors-office/
 /med-week                                 301  /spotlight/philadelphia-minority-enterprise-development-week-2020/
 /media/20200406144703/Guidance-for-transport-of-patients-with-confirmed-or-suspected-COVID-19_4_6.pdf  301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
 /media/20200529130239/Guidelines-for-Ride-Share-Taxis.pdf  301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
@@ -506,9 +511,9 @@
 /pages/privacy.aspx                       301  /privacypolicy/
 /parcelexplorer                           301  http://web02.phila.gov/Records/ParcelExplorer
 /parent-support                           301  /programs/parenting-education-and-support/
-/parking                                  301  http://philapark.org/homeFlash.aspx
+/parking                                  301  https://philapark.org/
 /parkingamnesty                           301  /programs/parking-amnesty
-/parkside-traffic-safety                  301 /programs/parkside-avenue-traffic-safety-project/
+/parkside-traffic-safety                  301  /programs/parkside-avenue-traffic-safety-project/
 /parks                                    301  /departments/philadelphia-parks-recreation/
 /parks-rec-finder$                        301  /parks-rec-finder/
 /parks-rec-finder/(.*)                    200  http://parks-rec-finder.s3-website-us-east-1.amazonaws.com/prod/$1
@@ -531,7 +536,6 @@
 /paymentagreements                        301  /services/payments-assistance-taxes/payment-plans/set-up-a-payment-agreement-for-your-taxes/
 /payment-agreements                       301  /services/payments-assistance-taxes/payment-plans/set-up-a-payment-agreement-for-your-taxes/
 /pchr                                     301  /humanrelations
-/performance                              301  /mdo/phillystat
 /personnel	                              301  /departments/office-of-human-resources/
 /personnel/ADAFAQ.html	                  301  /departments/office-of-human-resources/policies/
 /personnel/ADAFAQ2.html	                  301  /departments/office-of-human-resources/policies/
@@ -565,7 +569,6 @@
 /philly-counts                            301  /programs/philly-counts-2020/
 /phillydelivers                           301  /departments/mayor/help-make-sure-phillydelivers-for-amazon/
 /phillyrising(.*)                         301  https://www.serve.phila.gov
-/phillystat                               301  /mdo/phillystat
 /PHLConnectED                             301  /programs/phlconnected/
 /phldonatetech                            301  /2020-12-07-phldonatetech-providing-computers-to-families-and-residents-in-need/
 /PHLgovTV                                 301  /departments/office-of-innovation-and-technology/phlgovtv/
@@ -676,6 +679,7 @@
 /re-notification-letter                   301  /documents/risk-of-foreclosure-notification-letter/
 /ready                                    301  /departments/oem/
 /readyemployee                            301  https://member.everbridge.net/892807736722946/login
+/ReadyNPO                                 301  https://veoci.com/veoci/p/dashboard/ztvz85x3vq
 /real-estate-relief                       301  /services/payments-assistance-taxes/get-real-estate-tax-relief/
 /reasonable-modification                  301  /services/diversity-inclusion-accessibility-immigration/submit-a-reasonable-modification-request/
 /rebuild/careers                          301  /programs/rebuild/careers/
@@ -818,6 +822,7 @@
 /services/business-self-employment/get-certified-as-a-local-business-entity/	301 /services/business-self-employment/bidding-on-a-city-contract/get-certified-as-a-local-business-entity/
 /services/trash-recycling-city-upkeep/trash-recycling-pickup-schedules/ 301 /services/trash-recycling-city-upkeep/find-your-trash-and-recycling-collection-day/
 /services/permits-violations-licenses/get-a-license/business-licenses-permits-and-approvals/food-businesses/register-for-temporary-outdoor-dining/ 301 /services/permits-violations-licenses/get-a-license/business-licenses-permits-and-approvals/food-businesses/get-a-temporary-sidewalk-cafe-streetery-license/
+/services/birth-marriage-life-events/get-a-death-certificate/ 301 /services/birth-marriage-life-events/get-archival-birth-death-and-marriage-records/
 /servicedesignstudio 301 /departments/office-of-the-chief-administrative-officer/service-design-studio/ 
 /service-design-studio 301 /departments/office-of-the-chief-administrative-officer/service-design-studio/ 
 /smartchoice/?$                           301  /departments/department-of-commerce/about-us/divisions/office-of-business-development/
@@ -844,7 +849,6 @@
 /summer-programs/(.*)                     200  http://phila-resource-finder.s3-website-us-east-1.amazonaws.com/summer-program/prod/$1
 /support                                  301  /2019-06-27-support-and-resources-for-pes-and-hahnemann-employees/
 /sustainability                           301  /departments/office-of-sustainability/
-/swgrants?                                301  /water/wu/stormwater/Pages/Grants.aspx
 /tax-change                               301  /documents/tax-account-change-form
 /tax-credits/keystone-opportunity-zone-tax-credit-koz 301 /services/payments-assistance-taxes/tax-credits/keystone-opportunity-zone-tax-credit/
 /tax-credits/life-partner-transgender-care-health-benefits-tax-credit 301 /services/payments-assistance-taxes/tax-credits/life-partner-transgender-care-health-benefits-tax-credits/
@@ -853,7 +857,6 @@
 /tax-refunds                              301  /services/payments-assistance-taxes/
 /tax-refunds/request-a-refund             301  /services/payments-assistance-taxes/refunds/
 /testing                                  301  /covid-testing-sites/
-/theoval                                  301  http://www.theovalphl.org/
 /the-latest/archive$                      301  /the-latest/archives/
 /the-latest/archive/(.*)                  301  /the-latest/archives/$1
 /tilden                                   301  /programs/community-schools/tilden-middle-school/
@@ -865,6 +868,7 @@
 /trashday(.*)                             301  /services/trash-recycling-city-upkeep/residential-trash-and-recycling/find-your-trash-and-recycling-collection-day/
 /trb/petition                             301  /documents/tax-appeal-petition-form/
 /trb/pages/default.aspx                   301  /departments/tax-review-board/
+/trb                                      301  /departments/tax-review-board/
 /trb-appeal                               301  https://form.jotform.com/philagov/petition-for-tax-appeal
 /Treasurer/Pages/AuthorizedDepositories.aspx 301 /departments/city-treasurers-office/
 /Treasurer/Pages/DepositoryReInvestmentGoals.aspx 301 /departments/city-treasurers-office/
@@ -884,7 +888,6 @@
 /vacancymap                               301  http://phl.maps.arcgis.com/apps/webappviewer/index.html?id=64ac160773d04952bc17ad895cc00680
 /vendorpayments/?$                        301  https://secure.phila.gov/finance/vendorpayments/
 /veterans                                 301  http://www.phlveterans.com/
-/2020-09-29-vote-early-at-one-of-these-satellite-election-offices  301  /2020-09-29-visit-a-satellite-election-office-today/
 /violenceprevention                       301  /departments/office-of-violence-prevention/
 /violence-prevention                      301  /departments/office-of-violence-prevention/
 /visionzero                               301  http://phl.maps.arcgis.com/apps/CrowdsourceReporter/index.html?appid=0b7432f7e6734795b1e09721eba506c1
@@ -912,7 +915,6 @@
 /waterbillhelp                            301  /services/water-gas-utilities/pay-or-dispute-a-water-bill/water-bill-customer-assistance/
 /waterrev(.*)                             301  /departments/department-of-revenue/our-services/water-revenue/
 /webster                                  301  /programs/community-schools/john-h-webster-school/
-/welcomeamerica                           301  http://phl.maps.arcgis.com/apps/MapJour/index.html?appid=b0d5efe6fb7a4ed7a5fd9c3c681b8b41
 /welcomingweek2016                        301  /posts/office-of-immigrant-affairs/2016-08-31-welcoming-week-2016/
 /welcomingweek2017                        301  /posts/office-of-immigrant-affairs/2017-08-31-welcoming-week-2017/
 /welcoming-week                           301  /spotlight/welcoming-week-2020/
@@ -937,5 +939,3 @@
 /zipcheck                                 301  /documents/zipcheck-application/
 /zoning-summary-generator$                301  /zoning-summary-generator/
 /zoning-summary-generator/(.*)             200  http://dpd-zoning-summary-generator.s3-website-us-east-1.amazonaws.com/$1            
-/ReadyNPO                                 301  https://veoci.com/veoci/p/dashboard/ztvz85x3vq
-/bluezone                                 301  https://phila.city/display/bluezone
