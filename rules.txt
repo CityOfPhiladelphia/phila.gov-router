@@ -373,7 +373,7 @@
 /li-permit-tracker$                       301  /li-permit-tracker/
 /li-permit-tracker/(.*)                   200  http://li-permit-tracker.s3-website-us-east-1.amazonaws.com/$1
 /li/appointment                           301  /services/permits-violations-licenses/make-an-appointment-to-visit-the-li-permit-and-license-center/
-/li/contractor-permit-lookup(.*)          200  http://li-vue-apps.s3-website-us-east-1.amazonaws.com/li/contractor-permit-lookup$1
+/li/contractor-permit-lookup(.*)          301  https://li.phila.gov/contractor-permit-lookup$1
 /li/find-a-licensed-contractor(.*)        301  https://li.phila.gov/Contractor-Lookup$1
 /li/appeals-calendar$                     301  /li/appeals-calendar/
 /li/appeals-calendar/(.*)                 200  http://appeals-app-all.s3-website-us-east-1.amazonaws.com/$1
