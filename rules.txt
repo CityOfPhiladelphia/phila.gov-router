@@ -702,6 +702,7 @@
 /records/campaignfinance/(.*)             301  /departments/department-of-records/
 /records/documentrecording/(.*)           301  /departments/department-of-records/
 /records/financialdisclosure/(.*)         301  /departments/department-of-records/
+/records/index.html                       301  /departments/department-of-records/
 /records/pdf/(.*)                         301  /departments/department-of-records/
 /records/pdfs/(.*)                        301  /departments/department-of-records/
 /records/recordsmanagement/(.*)           301  /departments/department-of-records/
