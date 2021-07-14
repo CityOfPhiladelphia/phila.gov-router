@@ -464,7 +464,7 @@
 /nutritionstandards                       301  /documents/city-of-philadelphia-nutrition-standards/
 /obme                                     301  /departments/mayors-office-of-black-male-engagement/
 /oec                                      301  /programs/community-schools/overbrook-educational-center/
-/oem/storm                               301  https://survey123.arcgis.com/share/1c6042d85fed420f9ed2d00b09ec2f1a?portalUrl=https://www.arcgis.com
+/oem/storm                                301  https://survey123.arcgis.com/share/29280025e5eb440184f7c33717cf2623?portalUrl=https://phl.maps.arcgis.com
 /oem(.*)                                  301  /departments/emergency-management/
 /oeo/directory                            301  /services/business-self-employment/find-a-minority-woman-or-disabled-owned-business/
 /oeo                                      301  /departments/office-of-economic-opportunity/
