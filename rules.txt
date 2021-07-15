@@ -166,6 +166,7 @@
 /departments/(.*)/about/all-events        301  /the-latest/all-events/
 /departments/(.*)/all-events              301  /the-latest/all-events/
 /departments/board-of-education           301  /departments/philadelphia-board-of-education/
+/departments/city-of-philadelphia-board-of-ethics 301 /departments/board-of-ethics/
 /departments/commission-for-women/        301  /departments/office-of-engagement-for-women/philadelphia-commission-for-women/
 /departments/commission-on-parks-and-recreation 301 /departments/philadelphia-parks-recreation/about/the-commission-on-parks-recreation/
 /departments/department-of-planning-and-development/development-services(.*) 301  /departments/division-of-development-services/
