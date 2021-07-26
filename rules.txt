@@ -250,12 +250,13 @@
 /evacuations/(.*)                         301  /services/safety-emergency-preparedness/evacuations/$1
 /executive_orders/?.*                     301  /executiveorders/
 /fairchancephilly                         301  /2018-06-25-philadelphias-fair-chance-hiring-law-heres-what-you-should-know/
-/fairhousing                              301  /fairhousingcommission
+/fairhousing                              301  /departments/fair-housing-commission/
+/fairhousingcommission(.*)                301  /departments/fair-housing-commission/
 /faithbased(.*)                           301  /departments/faith-based-and-interfaith-affairs/
 /families                                 301  /departments/office-of-children-and-families/
 /farmers-markets                          301  /services/permits-violations-licenses/get-a-license/business-licenses-permits-and-approvals/food-businesses/operate-a-farmers-market/
 /fe/(.*)                                  301  /programs/financial-empowerment-centers/
-/fhc                                      301  /fairhousingcommission
+/fhc                                      301  /departments/fair-housing-commission/
 /financialempowerment                     301  /programs/financial-empowerment-centers/
 /finance/reports(.*)                      301 /departments/office-of-the-director-of-finance/
 /finance/                                 301 /departments/office-of-the-director-of-finance/
