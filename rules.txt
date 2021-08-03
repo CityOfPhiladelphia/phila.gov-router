@@ -482,6 +482,7 @@
 /oia/resource-finder(.*)                  200  http://phila-resource-finder.s3-website-us-east-1.amazonaws.com/oia/resource-finder$1
 /oig                                      301  /departments/office-of-the-inspector-general/
 /oit                                      301  /it
+/older-youth-pandemic-relief              301  /2021-06-11-pandemic-relief-payments-available-now-for-eligible-youth/
 /onephilly-claim-form                     301  https://phila.jotform.com/210747178026961
 /oopa                                     301  /services/payments-assistance-taxes/payment-plans/owner-occupied-real-estate-tax-payment-agreement/
 /OPA/Pages/PropertyInformation.aspx       301 /departments/office-of-property-assessment/
@@ -832,6 +833,7 @@
 /services/birth-marriage-life-events/get-a-death-certificate/ 301 /services/birth-marriage-life-events/get-archival-birth-death-and-marriage-records/
 /servicedesignstudio 301 /departments/office-of-the-chief-administrative-officer/service-design-studio/ 
 /service-design-studio 301 /departments/office-of-the-chief-administrative-officer/service-design-studio/ 
+/smartblockphl                            301  /programs/smartcityphl/smartblockphl/
 /smartchoice/?$                           301  /departments/department-of-commerce/about-us/divisions/office-of-business-development/
 /solarmap                                 301  https://phl.maps.arcgis.com/apps/MapSeries/index.html?appid=c1a5d30acec04aec8c4acfa4cc60a311
 /solarproject                             301  /2020-02-03-here-is-your-chance-to-name-phillys-solar-project/
@@ -866,6 +868,7 @@
 /testing                                  301  /covid-testing-sites/
 /the-latest/archive$                      301  /the-latest/archives/
 /the-latest/archive/(.*)                  301  /the-latest/archives/$1
+/tibform                                  301  https://phila.jotform.com/211894522858971
 /tilden                                   301  /programs/community-schools/tilden-middle-school/
 /tos/index.html                           301  /terms-of-use/
 /tos/(.*)                                 301  /
