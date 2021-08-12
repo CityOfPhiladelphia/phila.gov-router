@@ -205,6 +205,8 @@
 /departments/mayors-office-of-education/quality-pre-k-newsletter-signup/ 301 /programs/quality-pre-k/newsletter-sign-up/ 
 /departments/office-of-open-data-and-digital-transformation(.*)    301 /2019-10-14-the-evolution-of-design-tech-and-data-at-the-city/
 /departments/philadelphia-historical-commission/agendas-and-minutes/ 301 /departments/philadelphia-historical-commission/public-meetings/ 
+/departments/department-of-streets/resources/ 301 /departments/department-of-streets/
+/departments/department-of-streets/resources/residential-trash-and-recycling-rules/ 301 /departments/department-of-streets/about/rules-and-regulations/residential-trash-and-recycling-rules/ 
 /development-services                     301  /departments/division-of-development-services/
 /dhcd/neighborhood-resources$             301  /dhcd/neighborhood-resources/
 /dhcd/neighborhood-resources/(.*)         200  http://phila-resource-finder.s3-website-us-east-1.amazonaws.com/nacs/prod/$1
