@@ -545,9 +545,9 @@
 /payment-agreements                       301  /services/payments-assistance-taxes/payment-plans/set-up-a-payment-agreement-for-your-taxes/
 /pchr                                     301  /humanrelations
 /pensions/aboutus/Pages/Regulations.aspx  301 /documents/board-of-pensions-and-retirement-regulations/
-/pensions/aboutus/Pages/default.aspx      301 /departments/board-of-pensions/
-/pensions/Pages/default.aspx              301 /departments/board-of-pensions/
-/pensions/aboutus/Pages/StaffDirectory.aspx 301 /departments/board-of-pensions/
+/pensions/aboutus/Pages/default.aspx      301 /departments/board-of-pensions-and-retirement/
+/pensions/Pages/default.aspx              301 /departments/board-of-pensions-and-retirement/
+/pensions/aboutus/Pages/StaffDirectory.aspx 301 /departments/board-of-pensions-and-retirement/
 /personnel	                              301  /departments/office-of-human-resources/
 /personnel/ADAFAQ.html	                  301  /departments/office-of-human-resources/policies/
 /personnel/ADAFAQ2.html	                  301  /departments/office-of-human-resources/policies/
