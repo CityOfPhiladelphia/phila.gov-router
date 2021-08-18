@@ -124,6 +124,7 @@
 /commerce/realEstate/Pages/KeystoneOpportunityZones.aspx 301 /programs/keystone-opportunity-zones/
 /commerce/pages/default.aspx              301  /departments/department-of-commerce/
 /commerce(.*)                             301  /departments/department-of-commerce/
+/commercial-activity-license              301 /services/permits-violations-licenses/get-a-license/business-licenses-permits-and-approvals/get-a-commercial-activity-license/
 /complete-streets/chestnut-walnut-traffic-safety 301 /programs/complete-streets/projects/chestnut-walnut-repaving-and-complete-street-safety-project/ 
 /complete-streets/west-chestnut-walnut    301 /programs/complete-streets/projects/chestnut-walnut-repaving-and-complete-street-safety-project/
 /content-style-guide                      301  http://standards.phila.gov/guidelines/content/
@@ -535,7 +536,7 @@
 /parksandrecreation/dogs                  301  /departments/philadelphia-parks-recreation/about/dog-regulations-and-best-practices/
 /parksandrecreation/findafacility         301  /parks-rec-finder/#/locations
 /parksnrecnewsletter                      301  /departments/philadelphia-parks-recreation/#action-modal
-/paving                                   301  https://www.philadelphiastreets.com/highways/paving/
+/paving                                   301  /departments/department-of-streets/roadways/maintenance/paving/
 /pay                                      301  https://epay.phila.gov/paymentcenter/accountlookup/
 /pay-property-work                        301  /services/payments-assistance-taxes/debt-collection/pay-for-work-done-by-the-city-on-your-property/
 /payment-agreement-letters                301  /documents/sample-payment-agreement-letters/
@@ -591,6 +592,7 @@
 /phlcityid                                301  /programs/phl-city-id/
 /phlimmigrantbiz                          301  /posts/office-of-immigrant-affairs/2017-03-09-immigrant-business-week-2017-march-27-april-1/
 /phonedir$                                301  /departments/
+/planning-equity                          301  /departments/philadelphia-city-planning-commission/about/planning-and-equity-a-commitment-to-change/
 /plastic-bag-ban                          301  /programs/plastic-bag-ban/
 /play-it-safe-PHL                         301  /programs/playitsafephl/
 /playitsafePHL                            301  /programs/playitsafephl/
@@ -605,7 +607,7 @@
 /posts/office-of-immigrant-affairs/2017-02-24-immigration-sanctuary-cities-city-of-philadelphia-action-guide 301 /2018-01-08-immigration-policies/
 /posts/office-of-lgbt-affairs/2017-05-04-lgbtq-protections-city-of-philadelphia-action-guide 301 /2017-12-04-philadelphias-lgbtq-protections/
 /posts/office-of-sustainability/2017-03-28-environment-sustainability-city-of-philadelphia-action-guide 301 /2017-11-29-environmental-protection-during-the-trump-administration/
-/potholes                                 301  http://www.philadelphiastreets.com
+/potholes                                 301  /services/streets-sidewalks-alleys/report-a-pothole-or-other-street-damage/
 /ppdcommissioner(.*)                      301  /departments/mayor/philadelphia-police-commissioner-public-input-survey/ 
 /ppedonation                              301  https://veoci.com/veoci/p/form/pauqjjhrzsw8
 /ppe-donation                             301  https://veoci.com/veoci/p/form/pauqjjhrzsw8
@@ -725,7 +727,7 @@
 /recoverPHL                               301  /programs/covid-19-recovery-office/
 /recoveryPHL                              301  /programs/covid-19-recovery-office/
 /recreation                               301  /departments/philadelphia-parks-recreation/
-/recycle                                  301  http://www.philadelphiastreets.com/sanitation/residential/
+/recycle                                  301  /programs/recycling-program/
 /recycling                                301  /programs/recycling-program/
 /recycling-donation-finder$               301  /recycling-donation-finder/
 /recycling-donation-finder/(.*)           200  http://phila-resource-finder.s3-website-us-east-1.amazonaws.com/recycling/prod/$1
@@ -857,7 +859,12 @@
 /streets                                  301  /departments/department-of-streets/
 /streets/backfill                         301  https://secure.phila.gov/streets/backfill/
 /streets/crplan                           301  https://secure.phila.gov/streets/commrecycling/
+/streets/christmas-trees                  301  /services/trash-recycling-city-upkeep/residential-trash-and-recycling/dispose-of-christmas-trees/
 /streets/recycling                        301  /programs/recycling-program/
+/streets/leaf-recycling                   301  /services/trash-recycling-city-upkeep/residential-trash-and-recycling/recycle-fall-leaves/
+/streets/hazardous-waste                  301  /services/trash-recycling-city-upkeep/residential-trash-and-recycling/dispose-of-household-hazardous-waste/
+/streets/pmbc                             301  /programs/philadelphia-more-beautiful-committee/
+/streets/paving                           301  /departments/department-of-streets/roadways/maintenance/paving/
 /stressmap                                301  https://phl.maps.arcgis.com/apps/MapSeries/index.html?appid=47afd9a9dcfa4637a2f88024d1c210b4
 /streetspermit                            301  https://stsweb.phila.gov/permitphl
 /sUAS-commercial-form                     301  https://veoci.com/veoci/p/form/2ftf44vkr7b3
