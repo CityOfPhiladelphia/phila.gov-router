@@ -859,6 +859,7 @@
 /streets                                  301  /departments/department-of-streets/
 /streets/backfill                         301  https://secure.phila.gov/streets/backfill/
 /streets/crplan                           301  https://secure.phila.gov/streets/commrecycling/
+/streets/christmas-trees                  301  /services/trash-recycling-city-upkeep/residential-trash-and-recycling/dispose-of-christmas-trees/
 /streets/recycling                        301  /programs/recycling-program/
 /streets/leaf-recycling                   301  /services/trash-recycling-city-upkeep/residential-trash-and-recycling/recycle-fall-leaves/
 /streets/hazardous-waste                  301  /services/trash-recycling-city-upkeep/residential-trash-and-recycling/dispose-of-household-hazardous-waste/
