@@ -638,8 +638,8 @@
 /procurement/Documents/Seller_Guide_for_Creating_and_Editing_Quotes.pdf 301 /documents/phlcontracts-user-guides/
 /procurement/Documents/City%20of%20Philadelphia%20Local%20Business%20Entity%20Listing.pdf 301 /documents/local-business-entity-information/
 /procurement(.*)                          301 /departments/procurement-department/
-/pro-ems                                  301 /departments/philadelphia-regional-office-of-emergency-medical-service/
-/proems                                   301 /departments/philadelphia-regional-office-of-emergency-medical-service/
+/pro-ems                                  301 /departments/philadelphia-regional-office-of-emergency-medical-services/
+/proems                                   301 /departments/philadelphia-regional-office-of-emergency-medical-services/
 /programs                                 301  /programs-initiatives/
 /programs/covid-19-recovery-office/       301 /departments/covid-19-recovery-office/ 
 /programs/coronavirus-disease-2019-covid-19/translations  301  /programs/coronavirus-disease-2019-covid-19/multi-language-resources/
@@ -734,7 +734,7 @@
 /reentry                                  301  /departments/office-of-reentry-partnerships/
 /refinery                                 301  /programs/refinery-advisory-group/
 /reforming-philadelphia                   301  /programs/philadelphia-reforms/
-/regionalems(.*)                          301  /departments/philadelphia-regional-office-of-emergency-medical-service/
+/regionalems(.*)                          301  /departments/philadelphia-regional-office-of-emergency-medical-services/
 /reformingphiladelphia                    301  /programs/philadelphia-reforms/
 /regulations-rulings/(.*)                 301  /services/payments-assistance-taxes/regulations-rulings/
 /rental-assistance                        301  /services/payments-assistance-taxes/income-based-assistance-programs/get-help-if-you-are-at-risk-of-being-evicted/
