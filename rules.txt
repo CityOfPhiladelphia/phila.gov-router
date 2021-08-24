@@ -912,7 +912,7 @@
 /vacancymap                               301  http://phl.maps.arcgis.com/apps/webappviewer/index.html?id=64ac160773d04952bc17ad895cc00680
 /vendorpayments/?$                        301  https://secure.phila.gov/finance/vendorpayments/
 /verizonfeedback                          301  /departments/office-of-innovation-and-technology/verizon-franchise-agreement-feedback-form/
-/verizon- feedback                        301  /departments/office-of-innovation-and-technology/verizon-franchise-agreement-feedback-form/
+/verizon-feedback                        301  /departments/office-of-innovation-and-technology/verizon-franchise-agreement-feedback-form/
 /veterans                                 301  http://www.phlveterans.com/
 /violenceprevention                       301  /departments/office-of-violence-prevention/
 /violence-prevention                      301  /departments/office-of-violence-prevention/
