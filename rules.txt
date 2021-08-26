@@ -208,6 +208,7 @@
 /departments/philadelphia-historical-commission/agendas-and-minutes/ 301 /departments/philadelphia-historical-commission/public-meetings/ 
 /departments/department-of-streets/resources/ 301 /departments/department-of-streets/
 /departments/department-of-streets/resources/residential-trash-and-recycling-rules/ 301 /departments/department-of-streets/about/rules-and-regulations/residential-trash-and-recycling-rules/ 
+/departments/sinking-fund-commission/sinking-fund-philadelphia-gas-works-pension-plan/ 301 /departments/sinking-fund-commission/sinking-fund-philadelphia-gas-works-pension-plan-reports/
 /development-services                     301  /departments/division-of-development-services/
 /dhcd/neighborhood-resources$             301  /dhcd/neighborhood-resources/
 /dhcd/neighborhood-resources/(.*)         200  http://phila-resource-finder.s3-website-us-east-1.amazonaws.com/nacs/prod/$1
@@ -243,6 +244,7 @@
 /dot                                      301  /it
 /droneguide                               301  https://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=d93906e2068e4eaa9c0e505287b959e2
 /DronePhilly                              301  https://veoci.com/veoci/p/dashboard/8vfac7c7b7
+/earnings-tax-employees                   301  /services/payments-assistance-taxes/income-taxes/earnings-tax-employees/
 /ecvc                                     301  /2021-04-08-getting-vaccinated-at-the-esperanza-community-vaccination-center-what-to-expect
 /education(.*)                            301  /departments/mayors-office-of-education/
 /educationnews                            301  /departments/mayors-office-of-education/newsletter-sign-up/
@@ -402,6 +404,7 @@
 /li/(.*)                                  301  /departments/department-of-licenses-and-inspections/
 /licontact                                301  http://iframe.publicstuff.com/#?client_id=242&request_type_id=1013002
 /lifeguards                               301  /services/working-jobs/find-a-job-or-internship/become-a-lifeguard/
+/liquor-tax                               301  /services/payments-assistance-taxes/business-taxes/liquor-tax/
 /lobbying                                 301  http://plis.cloudapp.net
 /localcontrolsurvey                       301  /departments/mayor/share-what-you-want-in-your-schools/
 /locke                                    301  /programs/community-schools/alain-locke-school/
@@ -462,6 +465,7 @@
 /motu                                     301  http://www.phillyotis.com
 /mrc                                      301  /programs/philadelphia-medical-reserve-corps-pmrc/
 /mummers                                  301  https://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=4a5872ec814b48cfb9e2eb6b5d3992dc
+/net-profits-tax                          301  /services/payments-assistance-taxes/business-taxes/net-profits-tax
 /news                                     301  /the-latest/
 /news/mayor/affordable-housing-community-development-action-guide 301 /2017-12-11-proposed-department-of-housing-and-urban-development-hud-funding-cuts/
 /news/mayor/lgbtq-protections-city-of-philadelphia-action-guide 301 /2017-12-04-philadelphias-lgbtq-protections/
@@ -884,6 +888,7 @@
 /the-latest/archive/(.*)                  301  /the-latest/archives/$1
 /tibform                                  301  https://phila.jotform.com/211894522858971
 /tilden                                   301  /programs/community-schools/tilden-middle-school/
+/tobacco-products-tax                     301  /services/payments-assistance-taxes/business-taxes/tobacco-and-tobacco-related-products-tax
 /tos/index.html                           301  /terms-of-use/
 /tos/(.*)                                 301  /
 /towing                                   301  /programs/philadelphias-rotational-towing-program/
@@ -940,6 +945,7 @@
 /water/?(.*)                              301 https://water.phila.gov/$1 
 /waterbillhelp                            301  /services/water-gas-utilities/pay-or-dispute-a-water-bill/water-bill-customer-assistance/
 /waterrev(.*)                             301  /departments/department-of-revenue/our-services/water-revenue/
+/wage-tax-employers                       301  /services/payments-assistance-taxes/business-taxes/wage-tax-employers/
 /webster                                  301  /programs/community-schools/john-h-webster-school/
 /welcomingweek2016                        301  /posts/office-of-immigrant-affairs/2016-08-31-welcoming-week-2016/
 /welcomingweek2017                        301  /posts/office-of-immigrant-affairs/2017-08-31-welcoming-week-2017/
