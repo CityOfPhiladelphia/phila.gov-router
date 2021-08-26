@@ -208,6 +208,7 @@
 /departments/philadelphia-historical-commission/agendas-and-minutes/ 301 /departments/philadelphia-historical-commission/public-meetings/ 
 /departments/department-of-streets/resources/ 301 /departments/department-of-streets/
 /departments/department-of-streets/resources/residential-trash-and-recycling-rules/ 301 /departments/department-of-streets/about/rules-and-regulations/residential-trash-and-recycling-rules/ 
+/departments/sinking-fund-commission/sinking-fund-philadelphia-gas-works-pension-plan/ 301 /departments/sinking-fund-commission/sinking-fund-philadelphia-gas-works-pension-plan-reports/
 /development-services                     301  /departments/division-of-development-services/
 /dhcd/neighborhood-resources$             301  /dhcd/neighborhood-resources/
 /dhcd/neighborhood-resources/(.*)         200  http://phila-resource-finder.s3-website-us-east-1.amazonaws.com/nacs/prod/$1
