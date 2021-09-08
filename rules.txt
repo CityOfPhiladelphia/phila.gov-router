@@ -278,6 +278,7 @@
 /finance/about.html                       301 /departments/office-of-the-director-of-finance/
 /finance/budget_details_fy2022.html       301 /departments/office-of-the-director-of-finance/
 /finance/MonthlyExpenditureReports.html   301 /departments/office-of-the-director-of-finance/
+/finance/units-Recovery.html              301 /departments/office-of-the-director-of-finance/
 /findafacility/?.*                        301  /parks-rec-finder/#/locations
 /fire/recruit                             301  /departments/philadelphia-fire-department/recruitment/
 /fire/?.*                                 301  /departments/philadelphia-fire-department/
