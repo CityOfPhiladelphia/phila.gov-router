@@ -389,6 +389,7 @@
 /li/appeals-materials                     301  /documents/licenses-and-inspections-appeals-materials/
 /li/codesandregulations/Pages/default.aspx  301  /departments/department-of-licenses-and-inspections/resources/applicable-codes/ 
 /li/eclipse                               301  https://eclipse.phila.gov/
+/li/get-help                              301  https://form.jotform.com/202434637485055
 /li/pages/Appealscalendar.aspx            301  /li/appeals-calendar/
 /li/pages/findlicensedprofessional.aspx   301  https://li.phila.gov/Contractor-Lookup
 /li/Pages/FloodplainManagement.aspx       301  /services/permits-violations-licenses/apply-for-a-permit/building-and-repair/get-approval-for-construction-in-the-floodplain/
