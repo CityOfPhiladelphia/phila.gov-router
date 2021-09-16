@@ -111,6 +111,7 @@
 /clip(.*)                                 301  /departments/community-life-improvement-program/
 /codeBlue.html                            301  /services/mental-physical-health/environmental-health-hazards/extreme-weather/code-blue/
 /columbus-feedback                        301  https://form.jotform.com/philagov/columbus-feedback
+/combinedcampaign(.*)                     301  https://cityofphiladelphiacombinedcampaign.americascharities.stratuslive.com/
 /commissioners                            301  http://www.philadelphiavotes.com/
 /commerce/doBusiness/Pages/default.aspx   301  /services/business-self-employment/do-business-with-the-city/
 /commerce/businesssupport/mwdsbesupport/pages/default.aspx 301 /departments/office-of-economic-opportunity/
