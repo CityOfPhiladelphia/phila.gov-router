@@ -478,6 +478,8 @@
 /news/office-of-sustainability/environment-sustainability-city-of-philadelphia-action-guide 301 /2017-11-29-environmental-protection-during-the-trump-administration/
 /nutritionstandards                       301  /documents/city-of-philadelphia-nutrition-standards/
 /obme                                     301  /departments/mayors-office-of-black-male-engagement/
+/obme/resources$                          301  /obme/resources/
+/obme/resources/(.*)                      200  http://phila-resource-finder.s3-website-us-east-1.amazonaws.com/obme/prod/$1
 /oec                                      301  /programs/community-schools/overbrook-educational-center/
 /oem/storm                                301  https://survey123.arcgis.com/share/29280025e5eb440184f7c33717cf2623?portalUrl=https://phl.maps.arcgis.com
 /oem(.*)                                  301  /departments/emergency-management/
