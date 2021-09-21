@@ -557,6 +557,7 @@
 /pensions/aboutus/Pages/default.aspx      301 /departments/board-of-pensions-and-retirement/
 /pensions/Pages/default.aspx              301 /departments/board-of-pensions-and-retirement/
 /pensions/aboutus/Pages/StaffDirectory.aspx 301 /departments/board-of-pensions-and-retirement/
+/permit-license-center-appointment        301 /services/permits-violations-licenses/make-an-appointment-to-visit-the-li-permit-and-license-center/
 /personnel	                              301  /departments/office-of-human-resources/
 /personnel/ADAFAQ.html	                  301  /departments/office-of-human-resources/policies/
 /personnel/ADAFAQ2.html	                  301  /departments/office-of-human-resources/policies/
