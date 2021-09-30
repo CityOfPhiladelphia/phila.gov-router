@@ -268,7 +268,7 @@
 /fe/(.*)                                  301  /programs/financial-empowerment-centers/
 /fhc                                      301  /departments/fair-housing-commission/
 /financialempowerment                     301  /programs/financial-empowerment-centers/
-/finance/finance/units-RiskManagement.html 301 /departments/office-of-the-director-of-finance/office-of-risk-management/
+/finance/units-RiskManagement.html 301 /departments/office-of-the-director-of-finance/office-of-risk-management/
 /finance(.*)                              301 /departments/office-of-the-director-of-finance/
 /findafacility/?.*                        301  /parks-rec-finder/#/locations
 /fire/recruit                             301  /departments/philadelphia-fire-department/recruitment/
