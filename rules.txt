@@ -899,8 +899,8 @@
 /tibform                                  301  https://phila.jotform.com/211894522858971
 /tilden                                   301  /programs/community-schools/tilden-middle-school/
 /tobacco-products-tax                     301  /services/payments-assistance-taxes/business-taxes/tobacco-and-tobacco-related-products-tax
-/tos/index.html                           301  /terms-of-use/
-/tos/(.*)                                 301  /
+/topics(.*)                               301  /service-directory/
+/tos/(.*)                                 301  /terms-of-use/
 /towing                                   301  /programs/philadelphias-rotational-towing-program/
 /townwatch(.*)                            301  /departments/town-watch-integrated-services/ 
 /transitionreport                         301  /documents/transition-report/
