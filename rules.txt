@@ -256,6 +256,15 @@
 /employee-screener/(.*)                   200  http://philagov-employee-screener.s3-website-us-east-1.amazonaws.com/employee-screener/prod/$1
 /eoc-gisrequest                           301  https://veoci.com/veoci/p/dashboard/4p9brrkav6
 /eslmap                                   301  http://phl.maps.arcgis.com/apps/View/index.html?appid=3929071e10db460db6e2265423ed4e83
+/ethicsboard/Agendas%20and%20Minutes/(.*) 301  /departments/board-of-ethics/
+/ethicsboard/PDF/(.*)                     301  /departments/board-of-ethics/ 
+/ethicsboard/Documents/(.*)               301  /departments/board-of-ethics/
+/ethicsboard/aboutus/(.*)                 301  /departments/board-of-ethics/
+/ethicsboard/advisory/(.*)                301  /departments/board-of-ethics/
+/ethicsboard/campaignfinance/(.*)         301  /departments/board-of-ethics/
+/ethicsboard/disclosure/(.*)              301  /departments/board-of-ethics/ 
+/ethicsboard/lobbying/(.*)                301  /departments/board-of-ethics/ 
+/ethicsboard/pages/(.*)                   301  /departments/board-of-ethics/ 
 /ethicsboard/pages/default.aspx           301  /departments/board-of-ethics/
 /evacuations/(.*)                         301  /services/safety-emergency-preparedness/evacuations/$1
 /executive_orders/?.*                     301  /executiveorders/
@@ -346,8 +355,9 @@
 /inspectorgeneral                         301  /departments/office-of-the-inspector-general/
 /integrityworks(.*)                       301  /programs/integrity-works/
 /investorconference                       301  /programs/investor-information/
-/investor/(.*)                            301 /programs/investor-information/
-/it/pages/default.aspx                    301 /departments/office-of-innovation-and-technology/
+/investor/(.*)                            301  /programs/investor-information/
+/ips                                      301  /programs/intensive-prevention-services-ips/ 
+/it/pages/default.aspx                    301  /departments/office-of-innovation-and-technology/
 /it/Innovation/Pages/InnovationManagement.aspx 301 /departments/office-of-innovation-and-technology/innovation-management-team/
 /it/aboutus/Pages/default.aspx            301 /departments/office-of-innovation-and-technology/about/
 /it/aboutus/Pages/Leadership.aspx         301 /departments/office-of-innovation-and-technology/about/leadership/
