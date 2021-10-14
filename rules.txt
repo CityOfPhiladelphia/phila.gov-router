@@ -891,6 +891,7 @@
 /streets/paving                           301  /departments/department-of-streets/roadways/maintenance/paving/
 /stressmap                                301  https://phl.maps.arcgis.com/apps/MapSeries/index.html?appid=47afd9a9dcfa4637a2f88024d1c210b4
 /streetspermit                            301  https://stsweb.phila.gov/permitphl
+/Style%20Library?(.*)                     301  /style-library$1
 /sUAS-commercial-form                     301  https://veoci.com/veoci/p/form/2ftf44vkr7b3
 /summer-programs$                         301  /summer-programs/
 /summer-programs/(.*)                     200  http://phila-resource-finder.s3-website-us-east-1.amazonaws.com/summer-program/prod/$1
