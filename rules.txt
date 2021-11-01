@@ -212,6 +212,8 @@
 /departments/department-of-streets/resources/ 301 /departments/department-of-streets/
 /departments/department-of-streets/resources/residential-trash-and-recycling-rules/ 301 /departments/department-of-streets/about/rules-and-regulations/residential-trash-and-recycling-rules/ 
 /departments/sinking-fund-commission/sinking-fund-philadelphia-gas-works-pension-plan/ 301 /departments/sinking-fund-commission/sinking-fund-philadelphia-gas-works-pension-plan-reports/
+/departments/department-of-revenue/our-services/tax-services/non-resident-covid-ez-refund-petition/ 301 https://tax-services.phila.gov/
+/departments/department-of-revenue/our-services/tax-services/online-income-based-wage-tax-refund-petition/ 301 https://tax-services.phila.gov/
 /development-services                     301  /departments/division-of-development-services/
 /dhcd/neighborhood-resources$             301  /dhcd/neighborhood-resources/
 /dhcd/neighborhood-resources/(.*)         200  http://phila-resource-finder.s3-website-us-east-1.amazonaws.com/nacs/prod/$1
@@ -557,6 +559,7 @@
 /paymentplans                             301  /services/payments-assistance-taxes/payment-plans/set-up-a-payment-agreement-for-your-taxes/
 /paymentagreements                        301  /services/payments-assistance-taxes/payment-plans/set-up-a-payment-agreement-for-your-taxes/
 /payment-agreements                       301  /services/payments-assistance-taxes/payment-plans/set-up-a-payment-agreement-for-your-taxes/
+/pbt-registered-distributors(.*)          301  https://tax-services.phila.gov/?link=RegisteredDistributor
 /pchr                                     301  /humanrelations
 /pensions/aboutus/Pages/Regulations.aspx  301 /documents/board-of-pensions-and-retirement-regulations/
 /pensions/aboutus/Pages/default.aspx      301 /departments/board-of-pensions-and-retirement/
