@@ -521,6 +521,7 @@
 /ops                                      301  /2020-02-12-heres-what-you-need-to-know-about-overdose-prevention-sites/
 /opendata                                 301  /data
 /openbudget                               301  https://data.phila.gov/visualizations/payments-aggregate/
+/open-data-dashboard                      301  https://phl.maps.arcgis.com/apps/dashboards/69ccf9aefddc4c198ec470c05ae3685a
 /opioids?                                 301  /programs/combating-the-opioid-epidemic/
 /osh(.*)                                  301  /departments/office-of-homeless-services/
 /ost                                      301  /programs/out-of-school-time-ost/
