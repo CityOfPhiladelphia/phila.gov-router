@@ -56,6 +56,7 @@
 /bidsonline                               301  https://www.phlcontracts.phila.gov/bso/
 /bikeshare/pages/default.aspx             301  http://www.phillyotis.com/portfolio-item/indego/
 /bluezone                                 301  https://phila.city/display/bluezone
+/blockchain                               301  /programs/blockchain-for-city-government/
 /board-of-education                       301  /departments/philadelphia-board-of-education/
 /boepaperform                             301  /documents/board-of-education-job-description/
 /broadstreetrun                           301  http://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=546b42e14be942009f364d81987eaa81
