@@ -128,6 +128,7 @@
 /commercial-activity-license              301 /services/permits-violations-licenses/get-a-license/business-licenses-permits-and-approvals/get-a-commercial-activity-license/
 /complete-streets/chestnut-walnut-traffic-safety 301 /programs/complete-streets/projects/chestnut-walnut-repaving-and-complete-street-safety-project/ 
 /complete-streets/west-chestnut-walnut    301 /programs/complete-streets/projects/chestnut-walnut-repaving-and-complete-street-safety-project/
+/complete-streets/penrose-traffic-calming 301 /2021-08-12-penrose-roundabout-looks-to-improve-safety-at-busy-intersection/
 /content-style-guide                      301  http://standards.phila.gov/guidelines/content/
 /content-style-guide/(.*)                 301  http://standards.phila.gov/guidelines/content/
 /contractprepfee                          301  https://www.officialpayments.com/pc_entry_cobrand.jsp?productId=635840624434951202173815789925863516
@@ -420,7 +421,7 @@
 /locke                                    301  /programs/community-schools/alain-locke-school/
 /logan                                    301  /programs/community-schools/james-logan-elementary-school/
 /loop(.*)                                 301  /services/payments-assistance-taxes/income-based-assistance-programs/longtime-owner-occupants-program/
-/love-park                                301  /spotlight/fall-in-love-2021/
+/love-park                                301  /2021-11-08-14-fun-and-tasty-ways-to-enjoy-christmas-village-in-love-park/ 
 /mcaaa(.*)                                301  /departments/mayors-office-of-public-engagement/mayors-commission-on-asian-american-affairs/
 /map                                      301  http://gsg.phila.gov/map
 /maps/imageryviewer                       301  http://phl.maps.arcgis.com/apps/MapSeries/index.html?appid=a0378ae03f6d4b1c9a186c4cdc396894
