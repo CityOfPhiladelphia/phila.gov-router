@@ -226,8 +226,7 @@
 /disability-access                        301  /departments/mayors-office-for-people-with-disabilities/submit-your-comments-on-the-city-of-philadelphias-ada-transition-plan/
 /disputes-appeals                         301  /services/permits-violations-licenses/
 /disputes-appeals/dispute-a-water-bill    301  /services/water-gas-utilities/pay-or-dispute-a-water-bill/dispute-a-water-bill/
-/districtattorney/pages/pressreleases.aspx 301 https://phillyda.wordpress.com/
-/districtattorney/resources/pages/pressreleases.aspx 301 https://phillyda.wordpress.com/
+/districtattorney(.*)                     301  https://phillyda.org/ 
 /dnc                                      301  /events/democratic-national-convention/
 /dobbins                                  301  /programs/community-schools/murrell-dobbins-cte-high-school/
 /documents/2015-income-based-wage-tax-refund-petition 301 /documents/income-based-wage-tax-refund-petition/
