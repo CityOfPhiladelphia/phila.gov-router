@@ -114,7 +114,7 @@
 /columbus-feedback                        301  https://form.jotform.com/philagov/columbus-feedback
 /combinedcampaign(.*)                     301  https://cityofphiladelphiacombinedcampaign.americascharities.stratuslive.com/
 /commissioners                            301  http://www.philadelphiavotes.com/
-/commerce/boost                           301  www.phila.gov/2021-11-22-city-launches-boost-your-business-fund
+/commerce/boost                           301  /2021-11-22-city-launches-boost-your-business-fund
 /commerce/doBusiness/Pages/default.aspx   301  /services/business-self-employment/do-business-with-the-city/
 /commerce/businesssupport/mwdsbesupport/pages/default.aspx 301 /departments/office-of-economic-opportunity/
 /commerce/businessAttraction/Pages/default.aspx 301 /departments/department-of-commerce/about-us/divisions/office-of-business-development/
