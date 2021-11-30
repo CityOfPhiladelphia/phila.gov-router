@@ -114,6 +114,7 @@
 /columbus-feedback                        301  https://form.jotform.com/philagov/columbus-feedback
 /combinedcampaign(.*)                     301  https://cityofphiladelphiacombinedcampaign.americascharities.stratuslive.com/
 /commissioners                            301  http://www.philadelphiavotes.com/
+/commerce/boost                           301  /2021-11-22-city-launches-boost-your-business-fund
 /commerce/doBusiness/Pages/default.aspx   301  /services/business-self-employment/do-business-with-the-city/
 /commerce/businesssupport/mwdsbesupport/pages/default.aspx 301 /departments/office-of-economic-opportunity/
 /commerce/businessAttraction/Pages/default.aspx 301 /departments/department-of-commerce/about-us/divisions/office-of-business-development/
@@ -258,6 +259,8 @@
 /eeo-?complaint?                          301  /services/working-jobs/file-a-sexual-harassment-complaint/
 /employee-screener$                       301  /employee-screener/
 /employee-screener/(.*)                   200  http://philagov-employee-screener.s3-website-us-east-1.amazonaws.com/employee-screener/prod/$1
+/employeetest                             301  https://phila.formstack.com/forms/covid_19_employee_test_form
+/employee-test                            301  https://phila.formstack.com/forms/covid_19_employee_test_form
 /eoc-gisrequest                           301  https://veoci.com/veoci/p/dashboard/4p9brrkav6
 /eslmap                                   301  http://phl.maps.arcgis.com/apps/View/index.html?appid=3929071e10db460db6e2265423ed4e83
 /ethicsboard/Agendas%20and%20Minutes/(.*) 301  /departments/board-of-ethics/
