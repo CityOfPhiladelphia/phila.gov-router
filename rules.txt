@@ -199,7 +199,8 @@
 /departments/mayors-office-of-education/community-schools/tilden-middle-school 301 /programs/community-schools/tilden-middle-school/
 /departments/mayors-office-of-education/community-schools/william-cramp-elementary-school 301 /programs/community-schools/william-cramp-elementary-school/
 /departments/mayors-office-of-education/quality-pre-k 301 /programs/quality-pre-k/
-/departments/mayors-office-of-labor/(.*) 301 /departments/department-of-labor/$1
+/departments/office-of-fleet-management/ 301  /departments/department-of-fleet-services/
+/departments/mayors-office-of-labor/(.*) 301  /departments/department-of-labor/$1
 /departments/mayors-office-of-public-engagement/mayors-commission-on-asian-american-affairs/(.*) 301 /departments/office-of-immigrant-affairs/mayors-commission-on-asian-american-affairs/$1
 /departments/mayors-office-of-reintegration-services/ 301 /departments/office-of-reentry-partnerships/
 /departments/office-of-innovation-management/         301 /departments/office-of-innovation-and-technology/innovation-management-team/
@@ -473,6 +474,7 @@
 /media/20201027112112/School-Safety-Drill-Guidance.pdf  301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
 /media/20201112100019/Guidance-for-Holidays.pdf  301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
 /media/20201118125433/Guidance-for-positive-test-1.pdf  301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
+media/20211210131210/2021_CUA_Scorecard_print.pdf 301  /documents/cua-scorecards/
 /mocs                                     301  /ceo
 /mod                                      301  /departments/mayors-office-for-people-with-disabilities/
 /mois                                     301  /it
@@ -825,6 +827,10 @@
 /services/birth-marriage-life-events/coordinate-a-plan-of-safe-care/ 301 /services/birth-marriage-life-events/birth-adoption-and-parenting/coordinate-a-plan-of-safe-care/
 /services/birth-marriage-life-events/become-a-foster-parent/ask-the-commissioners-action-response-office-caro/ 301 /services/birth-marriage-life-events/birth-adoption-and-parenting/ask-the-commissioners-action-response-office-caro/
 /services/business-self-employment/for-vendors/do-business-with-the-city/  301  /services/business-self-employment/bidding-on-a-city-contract/do-business-with-the-city/
+/services/cars-parking-transportation/bike-share-program/ 301  /services/cars-parking-transportation/suggest-a-location-for-an-indego-bike-station/ 
+/services/cars-parking-transportation/apply-for-a-temporary-no-parking-permit/ 301  /services/cars-parking-transportation/apply-for-a-parking-permit/apply-for-a-temporary-no-parking-permit/
+/services/cars-parking-transportation/get-your-car-back-when-it-has-been-towed/ 301  /services/cars-parking-transportation/towing/get-your-car-back-when-it-has-been-towed/
+/services/cars-parking-transportation/report-predatory-towing/ 301  /services/cars-parking-transportation/towing/report-predatory-towing/
 /services/crime-law-justice/find-an-inmate/  301  /services/crime-law-justice/inmates/find-an-inmate/
 /services/crime-law-justice/inmates/visit-a-person-in-jail-or-prison/  301 /services/crime-law-justice/inmates/visit-an-inmate/
 /services/crime-law-justice/inmates/send-mail-to-someone-in-jail-or-prison/ 301 /services/crime-law-justice/inmates/contact-an-inmate-by-mail/
@@ -858,6 +864,7 @@
 /services/streets-sidewalks-alleys/get-a-construction-dumpster-license/  301  /services/permits-violations-licenses/get-a-license/business-licenses-permits-and-approvals/dumpsters/get-a-construction-dumpster-license/
 /services/streets-sidewalks-alleys/get-a-dumpster-license-private-or-right-of-way/  301 /services/permits-violations-licenses/get-a-license/business-licenses-permits-and-approvals/dumpsters/get-a-dumpster-license-private-or-right-of-way/
 /services/streets-sidewalks-alleys/street-closures/plan-a-block-party/  301  /services/streets-sidewalks-alleys/street-closures/apply-to-hold-a-block-party-or-street-event/
+/services/streets-sidewalks-alleys/bike-share-program/ 301  /services/cars-parking-transportation/suggest-a-location-for-an-indego-bike-station/ 
 /services/trash-recycling-city-upkeep/residential-trash-and-recycling/dispose-of-christmas-trees-leaves-or-pumpkins/  301  /services/trash-recycling-city-upkeep/residential-trash-and-recycling/dispose-of-christmas-trees/
 /services/trash-recycling-city-upkeep/residential-trash-and-recycling/find-a-trash-or-recycling-center/ 301 /services/trash-recycling-city-upkeep/residential-trash-and-recycling/find-a-sanitation-convenience-center-to-drop-off-trash-or-recycling/
 /services/water-gas-utilities/pay-a-water-bill/ 301 /services/water-gas-utilities/pay-or-dispute-a-water-bill/pay-a-water-bill/
