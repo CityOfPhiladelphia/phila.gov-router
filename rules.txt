@@ -479,6 +479,7 @@
 /media/20211214140200/1-test-pdf.pdf  301  /documents/
 /media/20211214140200/test_pdf.pdf  301  /documents/
 /media/20211214140200/test-pdf.pdf  301  /documents/
+/test                                     301  /duck
 /mocs                                     301  /ceo
 /mod                                      301  /departments/mayors-office-for-people-with-disabilities/
 /mois                                     301  /it
