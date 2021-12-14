@@ -474,7 +474,7 @@
 /media/20201027112112/School-Safety-Drill-Guidance.pdf  301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
 /media/20201112100019/Guidance-for-Holidays.pdf  301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
 /media/20201118125433/Guidance-for-positive-test-1.pdf  301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
-/media/20211210131210/2021_CUA_Scorecard_print.pdf 301  /documents/cua-scorecards/
+/media/20211210131210/2021_CUA_Scorecard_print.pdf  301  /documents/cua-scorecards/
 /mocs                                     301  /ceo
 /mod                                      301  /departments/mayors-office-for-people-with-disabilities/
 /mois                                     301  /it
