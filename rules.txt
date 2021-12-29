@@ -249,6 +249,12 @@
 /documents/community-school-profiles-fall-2016-cohort/ 301 /programs/community-schools/ 
 /documents/executive-order-for-additional-safety-measures-fall-winter-2020-21/ 301 /programs/coronavirus-disease-2019-covid-19/guidance/covid-19-emergency-orders/
 /documents/youth-residential-placement-task-force-annual-reports/ 301 /departments/health-and-human-services/youth-residential-placement-task-force/
+/documents/open-data-program-executive-order/ 301  /departments/mayor/executive-orders/#/?table=%2520Mayoral%2520executive%2520orders%2520from%25201952%2520to%2520the%2520present&q=1-12:%20Open%20Data%20and%20Government%20Transparency%20(2012)
+/documents/sexual-harassment-prevention-policy-and-executive-order/ 301  /departments/mayor/executive-orders/#/?table=%2520Mayoral%2520executive%2520orders%2520from%25201952%2520to%2520the%2520present&q=2-18:%20Sexual%20Harassment%20Prevention%20in%20City%20Government
+/documents/opioid-emergency-response-executive-order/ 301  /departments/mayor/executive-orders/#/?table=%2520Mayoral%2520executive%2520orders%2520from%25201952%2520to%2520the%2520present&q=3-18:%20Opioid%20Emergency%20Response
+/documents/executive-order-4-21-possession-distribution-of-fentanyl-test-strips/ 301  /departments/mayor/executive-orders/#/?table=%2520Mayoral%2520executive%2520orders%2520from%25201952%2520to%2520the%2520present&q=4-21:%20Implementation%20of%20Citywide%20Policy%20Regarding%20the%20Distribution%20of%20Fentanyl%20Strips%20for%20Harm%20Reduction%20Rurposes
+/documents/executive-order-5-21-african-and-caribbean-immigrant-affairs/ 301  /departments/mayor/executive-orders/#/?table=%2520Mayoral%2520executive%2520orders%2520from%25201952%2520to%2520the%2520present&q=5-21:%20Mayor's%20Commission%20on%20African%20and%20Caribbean%20Immigrant%20Affairs
+/documents/executive-order-6-21-implementation-of-driving-equality-policy/ 301  /departments/mayor/executive-orders/#/?table=%2520Mayoral%2520executive%2520orders%2520from%25201952%2520to%2520the%2520present&q=6-21:%20Implementation%20of%20Driving%20Equality%20Policy
 /documents                                301  /publications-forms/
 /documents/                               301  /publications-forms/
 /dot                                      301  /it
@@ -277,6 +283,7 @@
 /ethicsboard/pages/default.aspx           301  /departments/board-of-ethics/
 /evacuations/(.*)                         301  /services/safety-emergency-preparedness/evacuations/$1
 /executive_orders/?.*                     301  /executiveorders/
+/executiveorders(.*)                      301  /departments/mayor/executive-orders/
 /fairchancephilly                         301  /2018-06-25-philadelphias-fair-chance-hiring-law-heres-what-you-should-know/
 /fairhousing                              301  /departments/fair-housing-commission/
 /fairhousingcommission(.*)                301  /departments/fair-housing-commission/
