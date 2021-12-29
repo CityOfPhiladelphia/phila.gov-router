@@ -282,7 +282,7 @@
 /ethicsboard/pages/(.*)                   301  /departments/board-of-ethics/ 
 /ethicsboard/pages/default.aspx           301  /departments/board-of-ethics/
 /evacuations/(.*)                         301  /services/safety-emergency-preparedness/evacuations/$1
-/executive_orders/?.*                     301  /executiveorders/
+/executive_orders/?.*                     301  /departments/mayor/executive-orders/
 /executiveorders(.*)                      301  /departments/mayor/executive-orders/
 /fairchancephilly                         301  /2018-06-25-philadelphias-fair-chance-hiring-law-heres-what-you-should-know/
 /fairhousing                              301  /departments/fair-housing-commission/
