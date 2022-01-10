@@ -54,7 +54,7 @@
 /bge                                      301  /programs/broad-germantown-and-erie-bge/
 /bids                                     301  /departments/procurement-department/
 /bidsonline                               301  https://www.phlcontracts.phila.gov/bso/
-/bikeshare/pages/default.aspx             301  http://www.phillyotis.com/portfolio-item/indego/
+/bikeshare/pages/default.aspx             301  /services/cars-parking-transportation/suggest-a-location-for-an-indego-bike-station/
 /bluezone                                 301  https://phila.city/display/bluezone
 /blockchain                               301  /programs/blockchain-for-city-government/
 /board-of-education                       301  /departments/philadelphia-board-of-education/
@@ -486,7 +486,7 @@
 /mocs                                     301  /ceo
 /mod                                      301  /departments/mayors-office-for-people-with-disabilities/
 /mois                                     301  /it
-/motu                                     301  http://www.phillyotis.com
+/motu                                     301  /departments/office-of-transportation-infrastructure-sustainability/
 /mrc                                      301  /programs/philadelphia-medical-reserve-corps-pmrc/
 /mummers                                  301  https://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=4a5872ec814b48cfb9e2eb6b5d3992dc
 /net-profits-tax                          301  /services/payments-assistance-taxes/business-taxes/net-profits-tax
@@ -543,7 +543,7 @@
 /ost/program-locator$                     301  /ost/program-locator/
 /ost/program-locator/(.*)                 200  http://ost-program-locator.s3-website-us-east-1.amazonaws.com/$1
 /otf                                      301  /programs/operations-transformation-fund/
-/otis                                     301  http://www.phillyotis.com
+/otis                                     301  /departments/office-of-transportation-infrastructure-sustainability/
 /pac/meetings/Pages/default.aspx          301  /departments/police-advisory-commission/commission-meetings/
 /pac/Pages/FileAComplaint.aspx            301  /services/crime-law-justice/file-a-complaint-against-a-philadelphia-police-officer/
 /pac/aboutus/Pages/OfficerCommendation.aspx  301  /services/crime-law-justice/recommend-an-officer-for-commendation/
