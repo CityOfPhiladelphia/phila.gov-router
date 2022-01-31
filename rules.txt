@@ -814,6 +814,7 @@
 /rise/employer/pages/banthebox.aspx       301  /humanrelations/pages/default.aspx
 /rise(.*)                                 301  /departments/office-of-reentry-partnerships/
 /risk                                     301  /departments/office-of-the-director-of-finance/office-of-risk-management/
+/right-to-counsel                         301  /services/property-lots-housing/get-free-legal-help-to-avoid-eviction/
 /rows                                     301  https://phl.my.salesforce.com
 /saferathome                              301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
 /safer-at-home                            301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
