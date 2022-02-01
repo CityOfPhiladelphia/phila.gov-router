@@ -404,8 +404,7 @@
 /li/appointment                           301  /services/permits-violations-licenses/make-an-appointment-to-visit-the-li-permit-and-license-center/
 /li/contractor-permit-lookup(.*)          301  https://li.phila.gov/contractor-permit-lookup$1
 /li/find-a-licensed-contractor(.*)        301  https://li.phila.gov/Contractor-Lookup$1
-/li/appeals-calendar$                     301  /li/appeals-calendar/
-/li/appeals-calendar/(.*)                 200  http://appeals-app-all.s3-website-us-east-1.amazonaws.com/$1
+/li/appeals-calendar(.*)                  301  https://li.phila.gov/appeals-calendar
 /li/appeals-materials                     301  /documents/licenses-and-inspections-appeals-materials/
 /li/codesandregulations/Pages/default.aspx  301  /departments/department-of-licenses-and-inspections/resources/applicable-codes/ 
 /li/eclipse                               301  https://eclipse.phila.gov/
