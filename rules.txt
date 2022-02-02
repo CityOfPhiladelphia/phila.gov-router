@@ -177,6 +177,7 @@
 /departments/commission-on-parks-and-recreation 301 /departments/philadelphia-parks-recreation/about/the-commission-on-parks-recreation/
 /departments/department-of-licenses-and-inspections/permits-and-certificates/contractor-requirements/ 301 /departments/department-of-licenses-and-inspections/inspections/contractor-requirements/
 /departments/department-of-planning-and-development/development-services(.*) 301  /departments/division-of-development-services/
+/departments/department-of-public-property/green-buildings/ 301  /departments/office-of-sustainability/about/energy-office/compliance/green-buildings/
 /departments/division-of-housing-community-development/ 301 /departments/division-of-housing-and-community-development/
 /departments/education                    301  /departments/mayors-office-of-education/
 /departments/emergency-management         301  /departments/oem
@@ -256,6 +257,8 @@
 /documents/executive-order-4-21-possession-distribution-of-fentanyl-test-strips/ 301  /departments/mayor/executive-orders/#/?table=%2520Mayoral%2520executive%2520orders%2520from%25201952%2520to%2520the%2520present&q=4-21:%20Implementation%20of%20Citywide%20Policy%20Regarding%20the%20Distribution%20of%20Fentanyl%20Strips%20for%20Harm%20Reduction%20Rurposes
 /documents/executive-order-5-21-african-and-caribbean-immigrant-affairs/ 301  /departments/mayor/executive-orders/#/?table=%2520Mayoral%2520executive%2520orders%2520from%25201952%2520to%2520the%2520present&q=5-21:%20Mayor's%20Commission%20on%20African%20and%20Caribbean%20Immigrant%20Affairs
 /documents/executive-order-6-21-implementation-of-driving-equality-policy/ 301  /departments/mayor/executive-orders/#/?table=%2520Mayoral%2520executive%2520orders%2520from%25201952%2520to%2520the%2520present&q=6-21:%20Implementation%20of%20Driving%20Equality%20Policy
+/documents/agreement-with-afscme-district-council-33-workforce-vaccination-mandate/ 301  /documents/labor-union-agreements-workforce-vaccination-mandate/
+/documents/agreement-with-afscme-district-council-47-workforce-vaccination-mandate/ 301  /documents/labor-union-agreements-workforce-vaccination-mandate/
 /documents                                301  /publications-forms/
 /documents/                               301  /publications-forms/
 /dot                                      301  /it
@@ -404,8 +407,7 @@
 /li/appointment                           301  /services/permits-violations-licenses/make-an-appointment-to-visit-the-li-permit-and-license-center/
 /li/contractor-permit-lookup(.*)          301  https://li.phila.gov/contractor-permit-lookup$1
 /li/find-a-licensed-contractor(.*)        301  https://li.phila.gov/Contractor-Lookup$1
-/li/appeals-calendar$                     301  /li/appeals-calendar/
-/li/appeals-calendar/(.*)                 200  http://appeals-app-all.s3-website-us-east-1.amazonaws.com/$1
+/li/appeals-calendar(.*)                  301  https://li.phila.gov/appeals-calendar
 /li/appeals-materials                     301  /documents/licenses-and-inspections-appeals-materials/
 /li/codesandregulations/Pages/default.aspx  301  /departments/department-of-licenses-and-inspections/resources/applicable-codes/ 
 /li/eclipse                               301  https://eclipse.phila.gov/
@@ -583,6 +585,7 @@
 /pensions/aboutus/Pages/default.aspx      301 /departments/board-of-pensions-and-retirement/
 /pensions/Pages/default.aspx              301 /departments/board-of-pensions-and-retirement/
 /pensions/aboutus/Pages/StaffDirectory.aspx 301 /departments/board-of-pensions-and-retirement/
+/pensions/PDF/DirDep--Direct%20Deposit%20Application.pdf 301  /documents/pension-direct-deposit-application/ 
 /permit-license-center-appointment        301 /services/permits-violations-licenses/make-an-appointment-to-visit-the-li-permit-and-license-center/
 /personnel	                              301  /departments/office-of-human-resources/
 /personnel/ADAFAQ.html	                  301  /departments/office-of-human-resources/policies/
