@@ -257,6 +257,8 @@
 /documents/executive-order-4-21-possession-distribution-of-fentanyl-test-strips/ 301  /departments/mayor/executive-orders/#/?table=%2520Mayoral%2520executive%2520orders%2520from%25201952%2520to%2520the%2520present&q=4-21:%20Implementation%20of%20Citywide%20Policy%20Regarding%20the%20Distribution%20of%20Fentanyl%20Strips%20for%20Harm%20Reduction%20Rurposes
 /documents/executive-order-5-21-african-and-caribbean-immigrant-affairs/ 301  /departments/mayor/executive-orders/#/?table=%2520Mayoral%2520executive%2520orders%2520from%25201952%2520to%2520the%2520present&q=5-21:%20Mayor's%20Commission%20on%20African%20and%20Caribbean%20Immigrant%20Affairs
 /documents/executive-order-6-21-implementation-of-driving-equality-policy/ 301  /departments/mayor/executive-orders/#/?table=%2520Mayoral%2520executive%2520orders%2520from%25201952%2520to%2520the%2520present&q=6-21:%20Implementation%20of%20Driving%20Equality%20Policy
+/documents/agreement-with-afscme-district-council-33-workforce-vaccination-mandate/ 301  /documents/labor-union-agreements-workforce-vaccination-mandate/
+/documents/agreement-with-afscme-district-council-47-workforce-vaccination-mandate/ 301  /documents/labor-union-agreements-workforce-vaccination-mandate/
 /documents                                301  /publications-forms/
 /documents/                               301  /publications-forms/
 /dot                                      301  /it
