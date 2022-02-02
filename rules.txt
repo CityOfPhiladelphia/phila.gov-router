@@ -177,6 +177,7 @@
 /departments/commission-on-parks-and-recreation 301 /departments/philadelphia-parks-recreation/about/the-commission-on-parks-recreation/
 /departments/department-of-licenses-and-inspections/permits-and-certificates/contractor-requirements/ 301 /departments/department-of-licenses-and-inspections/inspections/contractor-requirements/
 /departments/department-of-planning-and-development/development-services(.*) 301  /departments/division-of-development-services/
+/departments/department-of-public-property/green-buildings/ 301  /departments/office-of-sustainability/about/energy-office/compliance/green-buildings/
 /departments/division-of-housing-community-development/ 301 /departments/division-of-housing-and-community-development/
 /departments/education                    301  /departments/mayors-office-of-education/
 /departments/emergency-management         301  /departments/oem
@@ -582,6 +583,7 @@
 /pensions/aboutus/Pages/default.aspx      301 /departments/board-of-pensions-and-retirement/
 /pensions/Pages/default.aspx              301 /departments/board-of-pensions-and-retirement/
 /pensions/aboutus/Pages/StaffDirectory.aspx 301 /departments/board-of-pensions-and-retirement/
+/pensions/PDF/DirDep--Direct%20Deposit%20Application.pdf 301  /documents/pension-direct-deposit-application/ 
 /permit-license-center-appointment        301 /services/permits-violations-licenses/make-an-appointment-to-visit-the-li-permit-and-license-center/
 /personnel	                              301  /departments/office-of-human-resources/
 /personnel/ADAFAQ.html	                  301  /departments/office-of-human-resources/policies/
