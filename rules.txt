@@ -974,7 +974,7 @@
 /testing                                  301  /covid-testing-sites/
 /the-latest/archive$                      301  /the-latest/archives/
 /the-latest/archive/(.*)                  301  /the-latest/archives/$1
-/tibform                                  301  https://phila.jotform.com/211894522858971
+/tibform                                  301  /departments/office-of-the-chief-administrative-officer/transparency-in-business-disclosure-for-prime-contractor/
 /tilden                                   301  /programs/community-schools/tilden-middle-school/
 /tobacco-products-tax                     301  /services/payments-assistance-taxes/business-taxes/tobacco-and-tobacco-related-products-tax
 /topics(.*)                               301  /service-directory/
