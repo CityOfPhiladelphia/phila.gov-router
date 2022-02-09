@@ -259,6 +259,9 @@
 /documents/executive-order-6-21-implementation-of-driving-equality-policy/ 301  /departments/mayor/executive-orders/#/?table=%2520Mayoral%2520executive%2520orders%2520from%25201952%2520to%2520the%2520present&q=6-21:%20Implementation%20of%20Driving%20Equality%20Policy
 /documents/agreement-with-afscme-district-council-33-workforce-vaccination-mandate/ 301  /documents/labor-union-agreements-workforce-vaccination-mandate/
 /documents/agreement-with-afscme-district-council-47-workforce-vaccination-mandate/ 301  /documents/labor-union-agreements-workforce-vaccination-mandate/
+/documents/ohscontractattachments/        301  /departments/office-of-homeless-services/documents/standards-policies-and-forms/
+/documents/grief-support-groups-for-drug-overdose-deaths/ 301  /programs/substance-use-prevention-and-harm-reduction/bereavement-support-services/
+/documents/visit-the-medical-examiners-office/ 301  /departments/medical-examiners-office/
 /documents                                301  /publications-forms/
 /documents/                               301  /publications-forms/
 /dot                                      301  /it
@@ -585,7 +588,10 @@
 /pensions/aboutus/Pages/default.aspx      301 /departments/board-of-pensions-and-retirement/
 /pensions/Pages/default.aspx              301 /departments/board-of-pensions-and-retirement/
 /pensions/aboutus/Pages/StaffDirectory.aspx 301 /departments/board-of-pensions-and-retirement/
-/pensions/PDF/DirDep--Direct%20Deposit%20Application.pdf 301  /documents/pension-direct-deposit-application/ 
+/pensions/PDF/DirDep--Direct%20Deposit%20Application.pdf 301  /documents/pension-direct-deposit-application/
+/pensions/PDF/Alternate%20Payee%20Pension%20Application.pdf 301  /documents/pension-alternate-payee-application/
+/pensions/PDF/DROP%20Application-Rev.2011.pdf 301  /documents/pension-deferred-retirement-option-plan-drop-application/
+/pensions/PDF/Survivor%20Application.pdf  301  /documents/pension-designated-survivor-application/
 /permit-license-center-appointment        301 /services/permits-violations-licenses/make-an-appointment-to-visit-the-li-permit-and-license-center/
 /personnel	                              301  /departments/office-of-human-resources/
 /personnel/ADAFAQ.html	                  301  /departments/office-of-human-resources/policies/
@@ -872,6 +878,8 @@
 /services/mental-physical-health/environmental-health-hazards/covid-19/whats-new/  301  /programs/coronavirus-disease-2019-covid-19/updates/
 /services/mental-physical-health/sexual-health-and-family-planning/get-free-condoms/ 301 /services/mental-physical-health/sexual-health-and-family-planning/hiv-prevention-testing-and-treatment/get-free-condoms/
 /services/mental-physical-health/get-vaccinated/get-the-vaccines-your-child-needs-to-start-school/ 301  /services/mental-physical-health/get-vaccinated/vaccinate-your-child/
+/services/mental-physical-health/get-vaccinated/get-vaccinated-if-you-dont-have-health-insurance/ 301  /services/mental-physical-health/get-vaccinated/get-adult-vaccines/
+/services/mental-physical-health/get-vaccinated/get-vaccinated-if-you-have-health-insurance/ 301  /services/mental-physical-health/get-vaccinated/get-adult-vaccines/
 /services/permits-violations-licenses/environmental-permits-and-approvals/?(.*)  301  /services/permits-violations-licenses/apply-for-a-permit/environmental-permits-and-approvals/$1
 /services/permits-violations-licenses/get-a-license/find-out-what-license-you-need-for-your-business/  301  /services/permits-violations-licenses/get-a-license/business-licenses-permits-and-approvals/
 /services/permits-violations-licenses/get-a-permit-to-use-a-philadelphia-parks-recreation-space/ 301 /services/permits-violations-licenses/apply-for-a-permit/get-a-permit-to-use-a-philadelphia-parks-recreation-space/reserve-a-parks-recreation-facility/
@@ -1050,8 +1058,7 @@
 /youthengagement/mac/Pages/default.aspx   301  /departments/office-of-youth-engagement/millennial-advisory-committee/
 /youthengagement(.*)                      301  /departments/office-of-youth-engagement/
 /youth-engagement                         301  /departments/office-of-youth-engagement/
-/zba/appeals-calendar$                    301  /zba/appeals-calendar/
-/zba/appeals-calendar/(.*)                200  http://appeals-app.s3-website-us-east-1.amazonaws.com/$1
+/zba/appeals-calendar(.*)                 301  https://li.phila.gov/zba-appeals-calendar 
 /zba                                      301  /departments/zoning-board-of-adjustment/
 /zero-waste                               301  /programs/zero-waste-initiatives/
 /zerowaste                                301  /programs/zero-waste-initiatives/
