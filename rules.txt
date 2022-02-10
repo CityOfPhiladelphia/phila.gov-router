@@ -810,7 +810,7 @@
 /revenue/pbt                              301  /services/payments-assistance-taxes/business-taxes/philadelphia-beverage-tax/
 /revenue/pbt-instructions                 301  /documents/philadelphia-beverage-tax-pbt-filing-instructions/
 /revenue/realestatetax$                   301  /revenue/realestatetax/
-/revenue/realestatetax/(.*)               200  http://realestatetax.s3-website-us-east-1.amazonaws.com/$1
+/revenue/realestatetax/(.*)               200  http://real-estate-tax-prod.s3-website-us-east-1.amazonaws.com/$1
 /revenue/tax-forms                        301  /services/payments-assistance-taxes/tax-forms-instructions/
 /revenue/taxpro/pages/refundpetitions.aspx 301 /documents/income-based-wage-tax-refund-petition/
 /revenue/use-occupancy                    301  /services/payments-assistance-taxes/business-taxes/use-occupancy-tax/
