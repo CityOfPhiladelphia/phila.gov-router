@@ -634,6 +634,8 @@
 /phl-tcb                                  301  /programs/phl-taking-care-of-business/
 /plan-develop                             301  /departments/department-of-planning-and-development/
 /phils(.*)                                301  /departments/department-of-records/city-archives/
+/philly-spring-cleanup                    301  /programs/philly-spring-cleanup/ 
+/phillyspringcleanup                      301  /programs/philly-spring-cleanup/ 
 /phlcityid                                301  /programs/phl-city-id/
 /phlimmigrantbiz                          301  /posts/office-of-immigrant-affairs/2017-03-09-immigrant-business-week-2017-march-27-april-1/
 /phonedir$                                301  /departments/
