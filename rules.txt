@@ -633,6 +633,7 @@
 /PHLgovTV                                 301  /departments/office-of-innovation-and-technology/phlgovtv/
 /phl-tcb                                  301  /programs/phl-taking-care-of-business/
 /plan-develop                             301  /departments/department-of-planning-and-development/
+/phils(.*)                                301  /departments/department-of-records/city-archives/
 /phlcityid                                301  /programs/phl-city-id/
 /phlimmigrantbiz                          301  /posts/office-of-immigrant-affairs/2017-03-09-immigrant-business-week-2017-march-27-april-1/
 /phonedir$                                301  /departments/
@@ -747,6 +748,7 @@
 /rebuild/careers                          301  /programs/rebuild/careers/
 /records/PoliceFire/Police.html           301  /documents/public-safety-report-request-forms/
 /records/DocumentRecording/DocumentRecording.html 301 /services/property-lots-housing/record-a-deed-or-other-document/
+/records//DocumentRecording/DocumentRecording.html 301  /services/property-lots-housing/record-a-deed-or-other-document/
 /records/DocumentRecording/Military_Discharges.html 301 /services/property-lots-housing/get-a-copy-of-a-deed-or-other-recorded-document/
 /records/DocumentRecording/Deeds.html     301  /services/property-lots-housing/record-a-deed-or-other-document/
 /records/DocumentRecording/DocumentRecordingReq.html 301 /services/property-lots-housing/record-a-deed-or-other-document/
@@ -754,7 +756,6 @@
 /records/PoliceFire/Traffic_Accident_Reports.html 301 /documents/public-safety-report-request-forms/
 /records/Archives/Archives.html           301  /departments/department-of-records/city-archives/
 /records/Archives/OnlineApplications.html 301  /departments/department-of-records/city-archives/
-/phils/carchive.htm                       301  /departments/department-of-records/city-archives/
 /records/PoliceFire/Reports.html          301  /documents/public-safety-report-request-forms/
 /records/Archives/FAQ.html                301  /departments/department-of-records/frequently-asked-questions/
 /records                                  301  /departments/department-of-records/
