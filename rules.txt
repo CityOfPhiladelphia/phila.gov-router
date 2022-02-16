@@ -317,6 +317,7 @@
 /getcovered                               301  /posts/health/2017-11-01-deadline-december-15-everything-you-need-to-know-about-aca-enrollment/
 /gethealthyphilly                         301  /programs/get-healthy-philly/
 /getmarried                               301  /services/birth-marriage-life-events/marriage-and-divorce/get-a-marriage-license/
+/get-married-in-love-park                 301  /services/birth-marriage-life-events/marriage-and-divorce/get-married-in-love-park/
 /gideon                                   301  /programs/community-schools/edward-gideon-elementary-school/
 /globalphiladelphia                       301  /departments/office-of-immigrant-affairs/
 /gompers                                  301  /programs/community-schools/samuel-gompers-school/
