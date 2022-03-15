@@ -858,7 +858,7 @@
 /services/crime-law-justice/find-an-inmate/  301  /services/crime-law-justice/prisons-incarcerated-people-and-returning-citizens/finding-and-contacting-incarcerated-people/locate-an-incarcerated-person/
 /services/crime-law-justice/inmates/visit-a-person-in-jail-or-prison/  301  /services/crime-law-justice/prisons-incarcerated-people-and-returning-citizens/finding-and-contacting-incarcerated-people/visit-an-incarcerated-person/
 /services/crime-law-justice/inmates/send-mail-to-someone-in-jail-or-prison/ 301  /services/crime-law-justice/prisons-incarcerated-people-and-returning-citizens/finding-and-contacting-incarcerated-people/contact-an-incarcerated-person-by-mail/
-/services/crime-law-justice/inmates/find-an-inmate/ 301  /  services/crime-law-justice/prisons-incarcerated-people-and-returning-citizens/finding-and-contacting-incarcerated-people/locate-an-incarcerated-person/
+/services/crime-law-justice/inmates/find-an-inmate/ 301  /services/crime-law-justice/prisons-incarcerated-people-and-returning-citizens/finding-and-contacting-incarcerated-people/locate-an-incarcerated-person/
 /services/crime-law-justice/police/get-a-police-report/ 301 /services/crime-law-justice/get-a-copy-of-a-public-safety-report/
 /services/crime-law-justice/abuse-and-harassment/	301  /services/crime-law-justice/report-a-crime-or-concern/abuse-and-harassment/
 /services/crime-law-justice/abuse-and-harassment/get-a-restraining-order/	301  /services/crime-law-justice/report-a-crime-or-concern/abuse-and-harassment/get-a-restraining-order/
