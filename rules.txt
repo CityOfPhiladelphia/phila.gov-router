@@ -21,6 +21,7 @@
 /2020-03-14-find-free-meals-for-students-while-schools-are-closed-ru/ 301 /food/
 /2020-03-14-trouver-des-repas-gratuits-pour-les-etudiants-pendant-la-fermeture-des-ecoles/ 301 /food/
 /2020-08-20-where-to-find-supervised-connected-access-centers-for-digital-learning/ 301 /2021-02-22-the-citys-access-centers-are-still-enrolling-students/
+/2021-11-08-how-to-visit-an-inmate-in-person/ 301 /services/crime-law-justice/incarcerated-people/visit-an-incarcerated-person/
 /311/(.*)                                 301  /departments/philly311/
 /311/report-an-issue                      301  https://iframe.publicstuff.com/#?client_id=242
 /aco                                      301  /departments/mayors-office-for-people-with-disabilities/
