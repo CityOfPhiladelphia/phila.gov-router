@@ -433,7 +433,7 @@
 /licenses(andinspections)?                301  /departments/department-of-licenses-and-inspections/
 /li/(.*)                                  301  /departments/department-of-licenses-and-inspections/
 /licontact                                301  http://iframe.publicstuff.com/#?client_id=242&request_type_id=1013002
-/lifeguards                               301  /services/working-jobs/find-a-job-or-internship/become-a-lifeguard/
+/lifeguard(.*)                            301  /services/working-jobs/find-a-job-or-internship/become-a-lifeguard/
 /liquor-tax                               301  /services/payments-assistance-taxes/business-taxes/liquor-tax/
 /lobbying                                 301  http://plis.cloudapp.net
 /localcontrolsurvey                       301  /departments/mayor/share-what-you-want-in-your-schools/
@@ -625,8 +625,8 @@
 /philacode/?.*                            301  http://www.amlegal.com/codes/client/philadelphia_pa/
 /philareads(.*)                           301  https://www.philareads.org/              
 /phillyid/pages/default.aspx              301  /programs/phl-city-id/
-/phillycounts                             301  /programs/philly-counts-2020/
-/philly-counts                            301  /programs/philly-counts-2020/
+/phillycounts                             301  /programs/philly-counts/
+/philly-counts                            301  /programs/philly-counts/
 /phillydelivers                           301  /departments/mayor/help-make-sure-phillydelivers-for-amazon/
 /phillyrising(.*)                         301  https://www.serve.phila.gov
 /PHLConnectED                             301  /programs/phlconnected/
