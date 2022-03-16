@@ -625,8 +625,8 @@
 /philacode/?.*                            301  http://www.amlegal.com/codes/client/philadelphia_pa/
 /philareads(.*)                           301  https://www.philareads.org/              
 /phillyid/pages/default.aspx              301  /programs/phl-city-id/
-/phillycounts                             301  /programs/philly-counts-2020/
-/philly-counts                            301  /programs/philly-counts-2020/
+/phillycounts                             301  /programs/philly-counts/
+/philly-counts                            301  /programs/philly-counts/
 /phillydelivers                           301  /departments/mayor/help-make-sure-phillydelivers-for-amazon/
 /phillyrising(.*)                         301  https://www.serve.phila.gov
 /PHLConnectED                             301  /programs/phlconnected/
