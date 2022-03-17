@@ -839,6 +839,7 @@
 /septa-for-all                            301  /spotlight/septa-for-all-augmenting-transit-with-augmented-reality/
 /sera                                     301  https://philadelphia.maps.arcgis.com/apps/webappviewer/index.html?id=8a2a28d8b6be43048c6aa266b812e003
 /services/                                301  /service-directory/
+/service/water-bills                      301  /services/water-gas-utilities/pay-or-dispute-a-water-bill/pay-a-water-bill/
 /services/birth-marriage-life-events/foster-or-adopt 301 /services/birth-marriage-life-events/adopt-a-child/
 /services/birth-marriage-life-events/get-a-marriage-license/ 301 /services/birth-marriage-life-events/marriage-and-divorce/get-a-marriage-license/
 /services/birth-marriage-life-events/get-a-copy-of-a-divorce-decree/ 301 /services/birth-marriage-life-events/marriage-and-divorce/get-a-copy-of-a-divorce-decree/
