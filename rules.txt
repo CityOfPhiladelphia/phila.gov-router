@@ -81,7 +81,7 @@
 /campcraig2019                            301  https://survey123.arcgis.com/share/d5c0af4dbea242819835571e79087d6a
 /cao                                      301  /departments/office-of-the-chief-administrative-officer/
 /ccvc                                     301  /2021-03-02-getting-vaccinated-at-the-center-city-vaccination-center-what-you-need-to-know/
-/ceo/community-champions                  301  /2022-03-21-apply-now-or-nominate-someone-as-a-community-champion/
+/ceo/community-champions                  301  /2022-03-18-apply-now-or-nominate-someone-as-a-community-champion/
 /ceo/(.*)                                 301  /departments/office-of-community-empowerment-and-opportunity/
 /census                                   301  /programs/philly-counts-2020/
 /channel64/Pages/default.aspx             301  /departments/office-of-innovation-and-technology/phlgovtv/
