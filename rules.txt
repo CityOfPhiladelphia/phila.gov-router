@@ -22,6 +22,7 @@
 /2020-03-14-trouver-des-repas-gratuits-pour-les-etudiants-pendant-la-fermeture-des-ecoles/ 301 /food/
 /2020-08-20-where-to-find-supervised-connected-access-centers-for-digital-learning/ 301 /2021-02-22-the-citys-access-centers-are-still-enrolling-students/
 /2021-11-08-how-to-visit-an-inmate-in-person/ 301  /services/crime-law-justice/incarcerated-people/visit-an-incarcerated-person/
+/2021-04-21-philadelphia-more-beautiful-committee-pmbc-2021-clean-block-schedule/ 301  /2022-03-23-2022-philadelphia-more-beautiful-committee-clean-block-events/
 /311/(.*)                                 301  /departments/philly311/
 /311/report-an-issue                      301  https://iframe.publicstuff.com/#?client_id=242
 /aco                                      301  /departments/mayors-office-for-people-with-disabilities/
@@ -629,6 +630,7 @@
 /phillyid/pages/default.aspx              301  /programs/phl-city-id/
 /phillycounts                             301  /programs/philly-counts/
 /philly-counts                            301  /programs/philly-counts/
+/programs/philly-counts-2020(.*)          301  /programs/philly-counts$1
 /phillydelivers                           301  /departments/mayor/help-make-sure-phillydelivers-for-amazon/
 /phillyrising(.*)                         301  https://www.serve.phila.gov
 /PHLConnectED                             301  /programs/phlconnected/
