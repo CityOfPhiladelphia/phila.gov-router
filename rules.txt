@@ -218,6 +218,7 @@
 /departments/mayors-office-of-education/quality-pre-k-newsletter-signup/ 301 /programs/quality-pre-k/newsletter-sign-up/ 
 /departments/office-of-open-data-and-digital-transformation(.*)    301 /2019-10-14-the-evolution-of-design-tech-and-data-at-the-city/
 /departments/philadelphia-historical-commission/agendas-and-minutes/ 301 /departments/philadelphia-historical-commission/public-meetings/ 
+/departments/philadelphia-board-of-education 301  /departments/educational-nominating-panel/
 /departments/department-of-streets/resources/ 301 /departments/department-of-streets/
 /departments/department-of-streets/resources/residential-trash-and-recycling-rules/ 301 /departments/department-of-streets/about/rules-and-regulations/residential-trash-and-recycling-rules/ 
 /departments/sinking-fund-commission/sinking-fund-philadelphia-gas-works-pension-plan/ 301 /departments/sinking-fund-commission/sinking-fund-philadelphia-gas-works-pension-plan-reports/
@@ -273,6 +274,8 @@
 /duelo                                    301  /programs/substance-use-prevention-and-harm-reduction/servicios-de-apoyo-para-el-duelo/
 /earnings-tax-employees                   301  /services/payments-assistance-taxes/income-taxes/earnings-tax-employees/
 /ecvc                                     301  /2021-04-08-getting-vaccinated-at-the-esperanza-community-vaccination-center-what-to-expect
+/educational-nominating-panel             301  /departments/educational-nominating-panel/
+/education-nominating-panel               301  /departments/educational-nominating-panel/
 /education(.*)                            301  /departments/mayors-office-of-education/
 /educationnews                            301  /departments/mayors-office-of-education/newsletter-sign-up/
 /eeo-?complaint?                          301  /services/working-jobs/worker-protections/discrimination-and-harassment/file-a-sexual-harassment-complaint/
@@ -301,6 +304,7 @@
 /faithbased(.*)                           301  /departments/faith-based-and-interfaith-affairs/
 /families                                 301  /departments/office-of-children-and-families/
 /farmers-markets                          301  /services/permits-violations-licenses/get-a-license/business-licenses-permits-and-approvals/food-businesses/operate-a-farmers-market/
+/farmphilly                               301  /programs/farmphilly/
 /fe/(.*)                                  301  /programs/financial-empowerment-centers/
 /fhc                                      301  /departments/fair-housing-commission/
 /financialempowerment                     301  /programs/financial-empowerment-centers/
@@ -506,6 +510,7 @@
 /news/oem/excessive-heat-warning-declared-for-philadelphia-july-6th-9th 301 /news/oem/excessive-heat-declared-for-philadelphia-summer-2016/
 /news/office-of-immigrant-affairs/immigration-sanctuary-cities-city-of-philadelphia-action-guide 301 /2018-01-08-immigration-policies/
 /news/office-of-sustainability/environment-sustainability-city-of-philadelphia-action-guide 301 /2017-11-29-environmental-protection-during-the-trump-administration/
+/next-?level                              301  /programs/adult-education/
 /nutritionstandards                       301  /documents/city-of-philadelphia-nutrition-standards/
 /obme                                     301  /departments/mayors-office-of-black-male-engagement/
 /obme/resources$                          301  /obme/resources/
@@ -838,6 +843,7 @@
 /safetyandjustice(.*)                     301  /programs/philadelphia-safety-and-justice-challenge/
 /safe-routes-philly                       301  /programs/safe-routes-philly/
 /school-income-tax                        301  /services/payments-assistance-taxes/income-taxes/school-income-tax/
+/school-board-nominations                 301  /departments/educational-nominating-panel/
 /senior-freeze                            301  /services/payments-assistance-taxes/senior-citizen-discounts/low-income-senior-citizen-real-estate-tax-freeze/
 /septa-for-all                            301  /spotlight/septa-for-all-augmenting-transit-with-augmented-reality/
 /sera                                     301  https://philadelphia.maps.arcgis.com/apps/webappviewer/index.html?id=8a2a28d8b6be43048c6aa266b812e003
@@ -1034,6 +1040,7 @@
 /stressmap                                301  https://phl.maps.arcgis.com/apps/MapSeries/index.html?appid=47afd9a9dcfa4637a2f88024d1c210b4
 /streetspermit                            301  https://stsweb.phila.gov/permitphl
 /Style%20Library?(.*)                     301  /style-library$1
+/substance-?use                           301  /programs/substance-use-prevention-and-harm-reduction/
 /sUAS-commercial-form                     301  https://veoci.com/veoci/p/form/2ftf44vkr7b3
 /summer-programs$                         301  /summer-programs/
 /summer-programs/(.*)                     200  http://phila-resource-finder.s3-website-us-east-1.amazonaws.com/summer-program/prod/$1
