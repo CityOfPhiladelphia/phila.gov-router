@@ -1085,6 +1085,7 @@
 /unitycup                                 301  http://unitycup.phila.gov
 /universalprek(.*)                        301  /programs/quality-pre-k/
 /vaccine                                  301  /services/mental-physical-health/get-vaccinated/sign-up-to-get-a-covid-19-vaccine/
+/vaccines                                 301  /services/mental-physical-health/get-vaccinated/sign-up-to-get-a-covid-19-vaccine/
 /vaccineinterest                          301  /services/mental-physical-health/get-vaccinated/sign-up-to-get-a-covid-19-vaccine/
 /vaccine-interest                         301  /services/mental-physical-health/get-vaccinated/sign-up-to-get-a-covid-19-vaccine/
 /vacancymap                               301  http://phl.maps.arcgis.com/apps/webappviewer/index.html?id=64ac160773d04952bc17ad895cc00680
