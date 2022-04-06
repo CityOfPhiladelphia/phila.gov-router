@@ -58,7 +58,7 @@
 /bidsonline                               301  https://www.phlcontracts.phila.gov/bso/
 /bikeshare/pages/default.aspx             301  /services/cars-parking-transportation/suggest-a-location-for-an-indego-bike-station/
 /bluezone                                 301  https://phila.city/display/bluezone
-/blockchain                               301  /programs/blockchain-for-city-government/
+/blockchain                               301  /departments/office-of-innovation-and-technology/
 /board-of-education                       301  /departments/philadelphia-board-of-education/
 /boepaperform                             301  /documents/board-of-education-job-description/
 /broadstreetrun                           301  http://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=546b42e14be942009f364d81987eaa81
@@ -298,6 +298,7 @@
 /evacuations/(.*)                         301  /services/safety-emergency-preparedness/evacuations/$1
 /executive_orders/?.*                     301  /departments/mayor/executive-orders/
 /executiveorders(.*)                      301  /departments/mayor/executive-orders/
+/experiencephila(.*)                      301  https://jobs.smartrecruiters.com/CityofPhiladelphia/743999817527812-mayor-s-internship-program-summer-2022
 /fairchancephilly                         301  /2018-06-25-philadelphias-fair-chance-hiring-law-heres-what-you-should-know/
 /fairhousing                              301  /departments/fair-housing-commission/
 /fairhousingcommission(.*)                301  /departments/fair-housing-commission/
@@ -316,6 +317,7 @@
 /fleet(.*)                                301  /departments/office-of-fleet-management/
 /flood-management                         301  /programs/flood-management-program/
 /foodstandards                            301  /documents/city-of-philadelphia-nutrition-standards/
+/food?-waste                              301  /programs/zero-waste-initiatives/food-waste-reduction/
 /food$                                    301  /food/
 /food/(.*)                                200  http://phila-resource-finder.s3-website-us-east-1.amazonaws.com/free-meals/prod/$1
 /fosteringphilly                          301  /services/birth-marriage-life-events/become-a-foster-parent/
@@ -421,6 +423,7 @@
 /li/appeals-calendar(.*)                  301  https://li.phila.gov/appeals-calendar
 /li/appeals-materials                     301  /documents/licenses-and-inspections-appeals-materials/
 /li/codesandregulations/Pages/default.aspx  301  /departments/department-of-licenses-and-inspections/resources/applicable-codes/ 
+/li/eclipse?-help                         301  /departments/department-of-licenses-and-inspections/permits-and-certificates/help-using-eclipse/
 /li/eclipse                               301  https://eclipse.phila.gov/
 /li/feedback-form                         301  https://form.jotform.com/202103727154041
 /li/get-help                              301  https://form.jotform.com/202434637485055
@@ -699,8 +702,9 @@
 /pro-ems                                  301 /departments/philadelphia-regional-office-of-emergency-medical-services/
 /proems                                   301 /departments/philadelphia-regional-office-of-emergency-medical-services/
 /programs                                 301  /programs-initiatives/
-/programs/access-centers/                 301 /2021-02-22-the-citys-access-centers-are-still-enrolling-students/
-/programs/covid-19-recovery-office/       301 /departments/covid-19-recovery-office/ 
+/programs/access-centers                  301  /2021-02-22-the-citys-access-centers-are-still-enrolling-students/
+/programs/blockchain-for-city-government  301  /departments/office-of-innovation-and-technology/
+/programs/covid-19-recovery-office        301  /departments/covid-19-recovery-office/ 
 /programs/coronavirus-disease-2019-covid-19/translations  301  /programs/coronavirus-disease-2019-covid-19/multi-language-resources/
 /programs/coronavirus-disease-2019-covid-19/the-citys-response/monitoring-and-testing  301  /programs/coronavirus-disease-2019-covid-19/testing-and-data/
 /programs/coronavirus-disease-2019-covid-19/the-workplace  301  /programs/coronavirus-disease-2019-covid-19/support-for-the-community/information-for-businesses/
@@ -1082,6 +1086,7 @@
 /unitycup                                 301  http://unitycup.phila.gov
 /universalprek(.*)                        301  /programs/quality-pre-k/
 /vaccine                                  301  /services/mental-physical-health/get-vaccinated/sign-up-to-get-a-covid-19-vaccine/
+/vaccines                                 301  /services/mental-physical-health/get-vaccinated/sign-up-to-get-a-covid-19-vaccine/
 /vaccineinterest                          301  /services/mental-physical-health/get-vaccinated/sign-up-to-get-a-covid-19-vaccine/
 /vaccine-interest                         301  /services/mental-physical-health/get-vaccinated/sign-up-to-get-a-covid-19-vaccine/
 /vacancymap                               301  http://phl.maps.arcgis.com/apps/webappviewer/index.html?id=64ac160773d04952bc17ad895cc00680
