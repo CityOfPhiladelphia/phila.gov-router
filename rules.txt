@@ -317,7 +317,7 @@
 /fleet(.*)                                301  /departments/office-of-fleet-management/
 /flood-management                         301  /programs/flood-management-program/
 /foodstandards                            301  /documents/city-of-philadelphia-nutrition-standards/
-/food?-waste                              301  /programs/zero-waste-initiatives/food-waste-reduction/
+/food-?waste                              301  /programs/zero-waste-initiatives/food-waste-reduction/
 /food$                                    301  /food/
 /food/(.*)                                200  http://phila-resource-finder.s3-website-us-east-1.amazonaws.com/free-meals/prod/$1
 /fosteringphilly                          301  /services/birth-marriage-life-events/become-a-foster-parent/
