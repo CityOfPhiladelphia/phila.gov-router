@@ -205,6 +205,11 @@
 /departments/mayors-office-of-education/community-schools/william-cramp-elementary-school 301 /programs/community-schools/william-cramp-elementary-school/
 /departments/mayors-office-of-education/quality-pre-k 301 /programs/quality-pre-k/
 /departments/office-of-fleet-management/ 301  /departments/department-of-fleet-services/
+/departments/office-of-human-resources/jobs/ 301  /departments/office-of-human-resources/careers/
+/departments/office-of-human-resources/jobs/civil-service-faqs/ 301  /departments/office-of-human-resources/careers/civil-service-faqs/
+/departments/office-of-human-resources/jobs/job-class-specifications 301  /departments/office-of-human-resources/careers/job-class-specifications/
+/departments/office-of-human-resources/jobs/residency-waivers 301  /departments/office-of-human-resources/careers/residency-waivers/
+/departments/office-of-human-resources/jobs/pay-ranges 301  /departments/office-of-human-resources/careers/pay-ranges/
 /departments/mayors-office-of-labor/(.*) 301  /departments/department-of-labor/$1
 /departments/mayors-office-of-public-engagement/mayors-commission-on-asian-american-affairs/(.*) 301 /departments/office-of-immigrant-affairs/mayors-commission-on-asian-american-affairs/$1
 /departments/mayors-office-of-reintegration-services/ 301 /departments/office-of-reentry-partnerships/
