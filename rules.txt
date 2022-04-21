@@ -185,6 +185,7 @@
 /departments/education                    301  /departments/mayors-office-of-education/
 /departments/emergency-management         301  /departments/oem
 /departments/emergency-management/(.*)    301  /departments/oem/$1
+/departments/health-and-human-services/data-management-office 301  /departments/office-of-integrated-data-for-evidence-and-action/
 /departments/mayor/get-involved           301  /departments/mayor/#action-modal
 /departments/mayor/quality-pre-k          301  /departments/mayors-office-of-education/quality-pre-k-newsletter-signup/
 /departments/office-of-immigrant-affairs/mayors-commission-on-asian-american-affairs/(.*) 301 /departments/office-of-immigrant-affairs/mayors-commission-on-asian-pacific-american-affairs/$1
@@ -271,6 +272,7 @@
 /documents/ohscontractattachments/        301  /departments/office-of-homeless-services/documents/standards-policies-and-forms/
 /documents/grief-support-groups-for-drug-overdose-deaths/ 301  /programs/substance-use-prevention-and-harm-reduction/bereavement-support-services/
 /documents/visit-the-medical-examiners-office/ 301  /departments/medical-examiners-office/
+/documents/food-matters-project-documents/ 301  /programs/zero-waste-initiatives/food-waste-reduction/
 /documents                                301  /publications-forms/
 /documents/                               301  /publications-forms/
 /dot                                      301  /it
@@ -739,6 +741,7 @@
 /programs/stemcityphl                     301  http://www.stemcityphl.org/
 /programs/workready-at-parks-rec          301  /programs/parks-rec-summer-youth-employment-program/
 /programs/workforce-development/          301  /departments/department-of-commerce/about-us/divisions/office-of-workforce-development/
+/programs/zero-waste-initiatives/food-matters-project/ 301  /programs/zero-waste-initiatives/food-waste-reduction/
 /property                                 301  https://property.phila.gov
 /property/aboutus(.*)                     301  /departments/department-of-public-property/
 /property/capital(.*)                     301  /departments/department-of-public-property/	
