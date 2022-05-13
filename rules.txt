@@ -1113,6 +1113,7 @@
 /voting$                                  301  /voting/
 /voting/(.*)                              200  http://phila-resource-finder.s3-website-us-east-1.amazonaws.com/voting/prod/$1
 /warningletter                            301  /documents/warning-of-risk-of-tax-foreclosure/
+/water-?grant                             301  /2022-05-06-how-to-get-help-with-past-due-water-bills/
 /waterbill                                301  https://secure8.i-doxs.net/CityOfPhiladelphiaWRB/SignIn.aspx
 /water-bill                               301  https://secure8.i-doxs.net/CityOfPhiladelphiaWRB/SignIn.aspx
 /water-bill-help                          301  /services/water-gas-utilities/pay-or-dispute-a-water-bill/water-bill-customer-assistance/
