@@ -156,6 +156,7 @@
 /covid-19-tax-relief                      301  /departments/department-of-revenue/our-services/tax-services/tax-guidance-in-response-to-covid-19/
 /covid-testing-sites$                     301  /covid-testing-sites/
 /covid-testing-sites/(.*)                 200  http://phila-resource-finder.s3-website-us-east-1.amazonaws.com/covid-testing/prod/$1
+/cpoc                                     301  /departments/citizens-police-oversight-commission/
 /cramp                                    301  /programs/community-schools/william-cramp-elementary-school/
 /crossingguard                            301 /programs/school-crossing-guard-program/ 
 /crossingguards                           301 /programs/school-crossing-guard-program/ 
@@ -219,6 +220,7 @@
 /departments/office-of-transportation-infrastructure-systems/ 301 /departments/office-of-transportation-infrastructure-sustainability/
 /departments/office-of-the-chief-diversity-and-inclusion-officer 301 /departments/office-of-diversity-equity-and-inclusion/
 /departments/parks-recreation             301  /departments/philadelphia-parks-recreation/
+/departments/police-advisory-commission/(.*) 301  /departments/citizens-police-oversight-commission/$1 
 /departments/revenue                      301  /departments/department-of-revenue/
 /departments/risk-management/             301  /departments/office-of-the-director-of-finance/office-of-risk-management/
 /departments/water-sewer-stormwater-rate-board 301 /departments/water-sewer-storm-water-rate-board/
@@ -373,6 +375,7 @@
 /health/tobaccopermits                    301  /services/permits-violations-licenses/business-licenses-permits-and-approvals/tobacco-retailers/get-a-tobacco-retailer-permit/
 /health/jobs                              301  /departments/department-of-public-health/about-us/jobs/
 /health(.*)                               301  /departments/department-of-public-health/
+/heat                                     301  /guides/extreme-heat-guide/
 /helpme                                   301  /departments/philly311/
 /hhs(.*)                                  301  /departments/health-and-human-services/
 /hhe                                      301  /2019-06-11-what-happens-when-the-city-declares-a-heat-health-emergency/
@@ -573,7 +576,7 @@
 /pac/meetings/Pages/default.aspx          301  /departments/police-advisory-commission/commission-meetings/
 /pac/Pages/FileAComplaint.aspx            301  /services/crime-law-justice/police/file-a-complaint-against-a-philadelphia-police-officer/
 /pac/aboutus/Pages/OfficerCommendation.aspx  301  /services/crime-law-justice/police/recommend-a-police-officer-for-commendation/
-/pac(.*)                                  301  /departments/police-advisory-commission/
+/pac(.*)                                  301  /departments/citizens-police-oversight-commission/
 /pages/default.aspx                       301  /
 /pages/privacy.aspx                       301  /privacypolicy/
 /parcelexplorer                           301  http://web02.phila.gov/Records/ParcelExplorer
