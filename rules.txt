@@ -738,6 +738,7 @@
 /programs/coronavirus-disease-2019-covid-19/guidance/faq?(.*) 301  /programs/coronavirus-disease-2019-covid-19/faq$1
 /programs/coronavirus-disease-2019-covid-19/vaccines/covid-19-vaccine-documents  301  /programs/coronavirus-disease-2019-covid-19/vaccines/vaccine-distribution/
 /programs/coronavirus-disease-2019-covid-19/guidance/covid-19-response-levels 301  /programs/coronavirus-disease-2019-covid-19/updates/the-latest-news/
+/programs/coronavirus-disease-2019-covid-19/updates/city-service-updates/ 301  /
 /programs/e3-power-centers/               301  /programs/e3-services/
 /programs/education-and-childcare-services/(.*) 301 /programs/education-support-center/$1
 /programs/energy-benchmarking/            301  http://www.phillybuildingbenchmarking.com/
@@ -835,6 +836,7 @@
 /revenue/income-refund                    301  /departments/department-of-revenue/our-services/tax-services/online-income-based-wage-tax-refund-petition/
 /revenue/installment-plan                 301  /services/payments-assistance-taxes/payment-plans/real-estate-tax-installment-plan/
 /revenue/job-creation-tax-credit          301  /services/payments-assistance-taxes/tax-credits/job-creation-tax-credit/ 
+/revenue/jumpstart                        301  /services/payments-assistance-taxes/tax-credits/jump-start-philly/
 /revenue/mef                              301  /services/payments-assistance-taxes/paying-city-taxes/e-filing-city-taxes/
 /revenue/payoff-request-form              301  /documents/bill-certification-and-payoff-request-form/
 /revenue/pbt                              301  /services/payments-assistance-taxes/business-taxes/philadelphia-beverage-tax/
@@ -1079,18 +1081,7 @@
 /services/permits-violations-licenses/get-a-license/business-licenses-permits-and-approvals/vending-and-street-sales/get-a-sidewalk-sales-license/ 301  /services/permits-violations-licenses/get-a-license/business-licenses/vending-and-street-sales/get-a-sidewalk-sales-license/
 /services/permits-violations-licenses/get-a-license/business-licenses-permits-and-approvals/vending-and-street-sales/get-a-vendor-motor-vehicle-license/ 301  /services/permits-violations-licenses/get-a-license/business-licenses/vending-and-street-sales/get-a-vendor-motor-vehicle-license/
 /services/permits-violations-licenses/get-a-license/business-licenses-permits-and-approvals/vending-and-street-sales/get-a-vendor-on-foot-license/ 301  /services/permits-violations-licenses/get-a-license/business-licenses/vending-and-street-sales/get-a-vendor-on-foot-license/
-/services/permits-violations-licenses/get-a-license/trade-licenses/ 301  /services/permits-violations-licenses/get-a-license/trade-licenses/
-/services/permits-violations-licenses/get-a-license/trade-licenses/get-a-demolition-contractors-license/ 301  /services/permits-violations-licenses/get-a-license/trade-licenses/get-a-demolition-contractors-license/
-/services/permits-violations-licenses/get-a-license/trade-licenses/get-a-fire-alarm-inspectors-license/ 301  /services/permits-violations-licenses/get-a-license/trade-licenses/get-a-fire-alarm-inspectors-license/
-/services/permits-violations-licenses/get-a-license/trade-licenses/get-a-fire-suppression-worker-kitchen-fire-extinguishing-system-license/ 301  /services/permits-violations-licenses/get-a-license/trade-licenses/get-a-fire-suppression-worker-kitchen-fire-extinguishing-system-license/
-/services/permits-violations-licenses/get-a-license/trade-licenses/get-a-fire-suppression-worker-specialty-license/ 301  /services/permits-violations-licenses/get-a-license/trade-licenses/get-a-fire-suppression-worker-specialty-license/
-/services/permits-violations-licenses/get-a-license/trade-licenses/get-a-home-inspectors-license/ 301  /services/permits-violations-licenses/get-a-license/trade-licenses/get-a-home-inspectors-license/
 /services/permits-violations-licenses/get-a-license/business-licenses-permits-and-approvals/other-businesses/get-a-hot-work-license/ 301  /services/permits-violations-licenses/get-a-license/trade-licenses/get-a-hot-work-license/
-/services/permits-violations-licenses/get-a-license/trade-licenses/get-an-journeyman-plumber-license/ 301  /services/permits-violations-licenses/get-a-license/trade-licenses/get-a-journeyman-plumber-license/
-/services/permits-violations-licenses/get-a-license/trade-licenses/get-a-master-plumbers-license/ 301  /services/permits-violations-licenses/get-a-license/trade-licenses/get-a-master-plumbers-license/
-/services/permits-violations-licenses/get-a-license/trade-licenses/get-an-electrical-inspectors-license/ 301  /services/permits-violations-licenses/get-a-license/trade-licenses/get-an-electrical-inspectors-license/
-/services/permits-violations-licenses/get-a-license/trade-licenses/get-an-expediters-license/ 301  /services/permits-violations-licenses/get-a-license/trade-licenses/get-an-expediters-license/
-/services/permits-violations-licenses/get-a-license/trade-licenses/get-a-sheet-metal-technicians-license/ 301  /services/permits-violations-licenses/get-a-license/trade-licenses/get-a-sheet-metal-technician-license/
 /services/permits-violations-licenses/apply-for-a-permit/building-and-repair/get-approval-for-construction-in-the-floodplain/ 301  /services/permits-violations-licenses/get-construction-approval-and-review/get-approval-for-construction-in-the-floodplain/
 /services/permits-violations-licenses/apply-for-a-permit/building-and-repair/get-a-project-scoping-meeting-for-a-multi-phased-project/ 301  /services/permits-violations-licenses/get-construction-approval-and-review/get-a-project-scoping-meeting-for-a-multi-phased-project/
 /services/permits-violations-licenses/apply-for-a-permit/building-and-repair/request-a-preliminary-review-of-construction-projects/ 301  /services/permits-violations-licenses/get-construction-approval-and-review/request-a-preliminary-review-of-construction-projects/
