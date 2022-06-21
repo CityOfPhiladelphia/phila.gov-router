@@ -1014,7 +1014,6 @@
 /services/permits-violations-licenses/rent-or-sell-property/get-a-property-sales-certification/ 301  /services/permits-violations-licenses/get-a-certificate/get-a-property-sales-certification/
 /services/permits-violations-licenses/get-a-certificate/get-a-temporary-occupancy-permit-for-a-special-event/ 301  /services/permits-violations-licenses/get-a-certificate/get-a-temporary-certificate-of-occupancy/
 /services/permits-violations-licenses/get-a-certificate/get-a-temporary-occupancy-certificate/ 301  /services/permits-violations-licenses/get-a-certificate/get-a-temporary-certificate-of-occupancy/
-/services/permits-violations-licenses/get-a-copy-of-a-license-permit-or-violation/ 301  /services/permits-violations-licenses/get-a-copy-of-a-license,-permit,-or-violation/
 /services/permits-violations-licenses/get-a-certificate/get-a-lawful-occupancy-sign/ 301  /services/permits-violations-licenses/get-a-lawful-occupancy-sign/
 /services/permits-violations-licenses/get-a-license/business-licenses-permits-and-approvals/ 301  /services/permits-violations-licenses/get-a-license/business-licenses/
 /services/permits-violations-licenses/get-a-license/business-licenses-permits-and-approvals/get-a-commercial-activity-license/ 301  /services/permits-violations-licenses/get-a-license/business-licenses/activity/get-a-commercial-activity-license/
@@ -1303,4 +1302,4 @@
 /zika                                     301  /services/mental-physical-health/environmental-health-hazards/zika-virus/
 /zipcheck                                 301  /documents/zipcheck-application/
 /zoning-summary-generator$                301  /zoning-summary-generator/
-/zoning-summary-generator/(.*)             200  http://dpd-zoning-summary-generator.s3-website-us-east-1.amazonaws.com/$1            
+/zoning-summary-generator/(.*)             200  http://dpd-zoning-summary-generator.s3-website-us-east-1.amazonaws.com/$1
