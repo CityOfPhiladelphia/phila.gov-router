@@ -277,6 +277,7 @@
 /documents/food-matters-project-documents/ 301  /programs/zero-waste-initiatives/food-waste-reduction/
 /documents/philadelphia-police-department-ada-registration-form/ 301  /services/safety-emergency-preparedness/notify-911-dispatchers-of-disability-needs-in-your-household/
 /documents/od-stat-annual-report/         301  /documents/od-stat-fatality-review-team-documents/
+/documents/od-stat-annual-report-2021/    301  /documents/od-stat-fatality-review-team-documents/
 /documents                                301  /publications-forms/
 /documents/                               301  /publications-forms/
 /dot                                      301  /it
@@ -982,7 +983,6 @@
 /services/permits-violations-licenses/apply-for-a-permit/building-and-repair/get-a-tower-crane-permit/ 301  /services/permits-violations-licenses/apply-for-a-permit/building-and-repair-permits/get-a-tower-crane-permit/
 /services/permits-violations-licenses/apply-for-a-permit/get-a-use-of-explosives-permit/ 301  /services/permits-violations-licenses/apply-for-a-permit/building-and-repair-permits/get-a-use-of-explosives-permit/
 /services/permits-violations-licenses/apply-for-a-permit/building-and-repair/get-permits-without-plans-ez-permits/ 301  /services/permits-violations-licenses/apply-for-a-permit/building-and-repair-permits/get-permits-without-plans-ez-permits/
-/services/permits-violations-licenses/apply-for-a-permit/environmental-permits-and-approvals/infectious-waste/apply-for-a-storage-holding-tank-permit/ 301  /services/permits-violations-licenses/apply-for-a-permit/environmental-permits-and-approvals/infectious-waste/apply-for-a-storage-holding-tank-permit/
 /services/permits-violations-licenses/apply-for-a-permit/use-a-philadelphia-parks-recreation-space/ 301  /services/permits-violations-licenses/apply-for-a-permit/event-permits/events-in-a-city-park-field-or-rec-center/
 /services/permits-violations-licenses/apply-for-a-permit/use-a-philadelphia-parks-recreation-space/apply-for-a-media-permit/ 301  /services/permits-violations-licenses/apply-for-a-permit/event-permits/events-in-a-city-park-field-or-rec-center/apply-for-a-media-permit/
 /services/permits-violations-licenses/apply-for-a-permit/use-a-philadelphia-parks-recreation-space/get-a-friends-community-groups-event-permit/ 301  /services/permits-violations-licenses/apply-for-a-permit/event-permits/events-in-a-city-park-field-or-rec-center/get-a-friends-and-community-group-event-permit/
@@ -1209,6 +1209,7 @@
 /summer-programs/(.*)                     200  http://phila-resource-finder.s3-website-us-east-1.amazonaws.com/summer-program/prod/$1
 /support                                  301  /2019-06-27-support-and-resources-for-pes-and-hahnemann-employees/
 /sustainability                           301  /departments/office-of-sustainability/
+/tax-center-guide                         301  /guides/philadelphia-tax-center/
 /tax-change                               301  /documents/tax-account-change-form
 /tax-credits/keystone-opportunity-zone-tax-credit-koz 301 /services/payments-assistance-taxes/tax-credits/keystone-opportunity-zone-tax-credit/
 /tax-credits/life-partner-transgender-care-health-benefits-tax-credit 301 /services/payments-assistance-taxes/tax-credits/life-partner-transgender-care-health-benefits-tax-credits/
