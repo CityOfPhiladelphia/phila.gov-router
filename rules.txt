@@ -218,6 +218,7 @@
 /departments/mayors-office-of-reintegration-services/ 301 /departments/office-of-reentry-partnerships/
 /departments/office-of-innovation-management/         301 /departments/office-of-innovation-and-technology/innovation-management-team/
 /departments/office-of-transportation-infrastructure-systems/ 301 /departments/office-of-transportation-infrastructure-sustainability/
+/departments/office-of-the-chief-administrative-officer/contracts-legislation-unit(.*)  301  /departments/office-of-the-chief-administrative-officer/contract-opportunities-with-special-application-processes/$1
 /departments/office-of-the-chief-diversity-and-inclusion-officer 301 /departments/office-of-diversity-equity-and-inclusion/
 /departments/parks-recreation             301  /departments/philadelphia-parks-recreation/
 /departments/police-advisory-commission/(.*) 301  /departments/citizens-police-oversight-commission/$1 
