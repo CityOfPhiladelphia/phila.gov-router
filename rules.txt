@@ -698,6 +698,9 @@
 /pra/?.*                                  301  http://www.philadelphiaredevelopmentauthority.org
 /prepare-for-an-emergency                 301  /services/safety-emergency-preparedness/prepare-for-an-emergency/
 /press-releases                           301  /the-latest/archives/?template=press_release
+/primarycare                              301  /primary-care/
+/primary-care$                            301  /primary-care/
+/primary-care/(.*)                        200  http://phila-resource-finder.s3-website-us-east-1.amazonaws.com/primary-care/prod/$1
 /prisons/inmatelocator/?(.*)              301  https://inmate-locator.phila.gov/ 
 /prisons/Facilities/Pages/default.aspx    301  /departments/philadelphia-department-of-prisons/about/facilities/
 /prisons/inmatesupport/Pages/default.aspx 301  /services/crime-law-justice/prisons-incarcerated-people-and-returning-citizens/finding-and-contacting-incarcerated-people/visit-an-incarcerated-person/
