@@ -1242,11 +1242,9 @@
 /vaccine-?interest                        301  /services/mental-physical-health/get-vaccinated/sign-up-to-get-a-covid-19-vaccine/
 /vacancymap                               301  http://phl.maps.arcgis.com/apps/webappviewer/index.html?id=64ac160773d04952bc17ad895cc00680
 /vendorpayments/?$                        301  https://secure.phila.gov/finance/vendorpayments/
-/verizonfeedback                          301  /departments/office-of-innovation-and-technology/verizon-franchise-agreement-feedback-form/
-/verizon-feedback                         301  /departments/office-of-innovation-and-technology/verizon-franchise-agreement-feedback-form/
+/verizon-?feedback                        301  /departments/office-of-innovation-and-technology/verizon-franchise-agreement-feedback-form/
 /veterans                                 301  http://www.phlveterans.com/
-/violenceprevention                       301  /departments/office-of-violence-prevention/
-/violence-prevention                      301  /departments/office-of-violence-prevention/
+/violence-?prevention                      301  /departments/office-of-violence-prevention/
 /visionzero                               301  http://phl.maps.arcgis.com/apps/CrowdsourceReporter/index.html?appid=0b7432f7e6734795b1e09721eba506c1
 /visitors                                 301  http://www.visitphilly.com
 /volunteer                                301  https://www.serve.phila.gov
@@ -1255,8 +1253,7 @@
 /voting/(.*)                              200  http://phila-resource-finder.s3-website-us-east-1.amazonaws.com/voting/prod/$1
 /warningletter                            301  /documents/warning-of-risk-of-tax-foreclosure/
 /water-?grant                             301  /2022-05-06-how-to-get-help-with-past-due-water-bills/
-/waterbill                                301  https://secure8.i-doxs.net/CityOfPhiladelphiaWRB/SignIn.aspx
-/water-bill                               301  https://secure8.i-doxs.net/CityOfPhiladelphiaWRB/SignIn.aspx
+/water-?bill                               301  https://secure8.i-doxs.net/CityOfPhiladelphiaWRB/SignIn.aspx
 /water-bill-help                          301  /services/water-gas-utilities/pay-or-dispute-a-water-bill/water-bill-customer-assistance/
 /water-pipe-meter-maintenance/customer-responsibilities 301 /services/water-gas-utilities/water-pipe-meter-maintenance/customer-responsibilities/
 /water-pipe-meter-maintenance/water-meters 301 /services/water-gas-utilities/water-pipe-meter-maintenance/water-meters/
