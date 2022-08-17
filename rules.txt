@@ -28,7 +28,7 @@
 /311/report-an-issue                      301  https://iframe.publicstuff.com/#?client_id=242
 /aco                                      301  /departments/mayors-office-for-people-with-disabilities/
 /access-center-finder(.*)                 200   /2021-02-22-the-citys-access-centers-are-still-enrolling-students/
-/access-?centers                           301  /2021-02-22-the-citys-access-centers-are-still-enrolling-students/
+/access-?centers                          301  /2021-02-22-the-citys-access-centers-are-still-enrolling-students/
 /actionguides                             301  /the-latest/#action-guides
 /active-duty-credit                       301  /services/payments-assistance-taxes/tax-credits/active-duty-tax-credit/
 /ada-grievance                            301  /services/diversity-inclusion-accessibility-immigration/submit-an-ada-grievance-against-the-city/
@@ -77,7 +77,7 @@
 /business-taxes/use-occupancy-tax         301  /services/business-self-employment/business-taxes/use-occupancy-tax/
 /business-taxes/vehicle-rental-tax        301  /services/business-self-employment/business-taxes/vehicle-rental-tax/
 /businesstaxprograms                      301  /services/payments-assistance-taxes/tax-credits/
-/business-?vaccine                         301  /services/mental-physical-health/get-vaccinated/sign-up-to-get-a-covid-19-vaccine/
+/business-?vaccine                        301  /services/mental-physical-health/get-vaccinated/sign-up-to-get-a-covid-19-vaccine/
 /campcraig2019                            301  https://survey123.arcgis.com/share/d5c0af4dbea242819835571e79087d6a
 /cao                                      301  /departments/office-of-the-chief-administrative-officer/
 /ccvc                                     301  /2021-03-02-getting-vaccinated-at-the-center-city-vaccination-center-what-you-need-to-know/
@@ -650,7 +650,7 @@
 /phl-tcb                                  301  /programs/phl-taking-care-of-business/
 /plan-develop                             301  /departments/department-of-planning-and-development/
 /phils(.*)                                301  /departments/department-of-records/city-archives/
-/philly-?spring-?cleanup                    301  /programs/philly-spring-cleanup/ 
+/philly-?spring-?cleanup                  301  /programs/philly-spring-cleanup/ 
 /phlcityid                                301  /programs/phl-city-id/
 /phlimmigrantbiz                          301  /posts/office-of-immigrant-affairs/2017-03-09-immigrant-business-week-2017-march-27-april-1/
 /phonedir$                                301  /departments/
@@ -1239,11 +1239,11 @@
 /universalprek(.*)                        301  /programs/quality-pre-k/
 /vaccine                                  301  /services/mental-physical-health/get-vaccinated/sign-up-to-get-a-covid-19-vaccine/
 /vaccines                                 301  /services/mental-physical-health/get-vaccinated/sign-up-to-get-a-covid-19-vaccine/
-/vaccine-?interest                         301  /services/mental-physical-health/get-vaccinated/sign-up-to-get-a-covid-19-vaccine/
+/vaccine-?interest                        301  /services/mental-physical-health/get-vaccinated/sign-up-to-get-a-covid-19-vaccine/
 /vacancymap                               301  http://phl.maps.arcgis.com/apps/webappviewer/index.html?id=64ac160773d04952bc17ad895cc00680
 /vendorpayments/?$                        301  https://secure.phila.gov/finance/vendorpayments/
 /verizonfeedback                          301  /departments/office-of-innovation-and-technology/verizon-franchise-agreement-feedback-form/
-/verizon-feedback                        301  /departments/office-of-innovation-and-technology/verizon-franchise-agreement-feedback-form/
+/verizon-feedback                         301  /departments/office-of-innovation-and-technology/verizon-franchise-agreement-feedback-form/
 /veterans                                 301  http://www.phlveterans.com/
 /violenceprevention                       301  /departments/office-of-violence-prevention/
 /violence-prevention                      301  /departments/office-of-violence-prevention/
@@ -1264,7 +1264,7 @@
 /water-shutoffs/reasons-for-water-shutoffs 301 /services/water-gas-utilities/water-shutoffs/reasons-for-water-shutoff/
 /water/wu/Documents/cccp-dws-TechList.pdf 301 https://water.phila.gov/pool/files/cccp-dws-TechList.pdf
 /water/wu/Documents/cccp-fss-TechList.pdf 301 https://water.phila.gov/pool/files/cccp-fss-TechList.pdf
-/water/wu/drinkingwater/lead/Pages/(.*) 301 https://water.phila.gov/lead/
+/water/wu/drinkingwater/lead/Pages/(.*)   301 https://water.phila.gov/lead/
 /water/sustainability/protectingwaterways/Pages/?(.*).aspx 301 https://water.phila.gov/watershed-protection/$1
 /water/helploan                           301  /programs/homeowners-emergency-loan-program-help/
 /water/rateboard/Pages(.*)                301 https://www.phila.gov/departments/water-sewer-storm-water-rate-board/
@@ -1290,8 +1290,8 @@
 /youth-?engagement(.*)                    301  /departments/office-of-youth-engagement/
 /zba/appeals-calendar(.*)                 301  https://li.phila.gov/zba-appeals-calendar 
 /zba                                      301  /departments/zoning-board-of-adjustment/
-/zero-?waste                               301  /programs/zero-waste-initiatives/
+/zero-?waste                              301  /programs/zero-waste-initiatives/
 /zika                                     301  /services/mental-physical-health/environmental-health-hazards/zika-virus/
 /zipcheck                                 301  /documents/zipcheck-application/
 /zoning-summary-generator$                301  /zoning-summary-generator/
-/zoning-summary-generator/(.*)             200  http://dpd-zoning-summary-generator.s3-website-us-east-1.amazonaws.com/$1
+/zoning-summary-generator/(.*)            200  http://dpd-zoning-summary-generator.s3-website-us-east-1.amazonaws.com/$1
