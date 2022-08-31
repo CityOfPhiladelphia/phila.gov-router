@@ -227,6 +227,7 @@
 /departments/department-of-revenue/our-services/tax-services/non-resident-covid-ez-refund-petition/ 301 https://tax-services.phila.gov/
 /departments/department-of-revenue/our-services/tax-services/online-income-based-wage-tax-refund-petition/ 301 https://tax-services.phila.gov/
 /departments/office-of-sustainability/about/food-policy-advisory-council/ 301  /departments/office-of-sustainability/about/commissions-and-councils/
+/departments/office-of-the-chief-administrative-officer/contract-opportunities-with-special-application-processes//contract-opportunities-with-special-application-processes/ 301  /departments/office-of-the-chief-administrative-officer/contract-opportunities-with-special-application-processes/
 /development-services                     301  /departments/division-of-development-services/
 /dhcd/neighborhood-resources(.*)          301  /departments/division-of-housing-and-community-development/neighborhood-resources/ 
 /dhcd/?(.*)                               301  /departments/division-of-housing-and-community-development/
