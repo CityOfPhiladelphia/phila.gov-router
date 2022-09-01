@@ -210,7 +210,7 @@
 /departments/mayors-office-of-reintegration-services/ 301 /departments/office-of-reentry-partnerships/
 /departments/office-of-innovation-management/         301 /departments/office-of-innovation-and-technology/innovation-management-team/
 /departments/office-of-transportation-infrastructure-systems/ 301 /departments/office-of-transportation-infrastructure-sustainability/
-/departments/office-of-the-chief-administrative-officer/contracts-legislation-unit(.*)  301  /departments/office-of-the-chief-administrative-officer/contract-opportunities-with-special-application-processes/$1
+/departments/office-of-the-chief-administrative-officer/contracts-legislation-unit(.*)  301  /departments/office-of-the-chief-administrative-officer/contract-opportunities-with-special-application-processes$1
 /departments/office-of-the-chief-diversity-and-inclusion-officer 301 /departments/office-of-diversity-equity-and-inclusion/
 /departments/parks-recreation             301  /departments/philadelphia-parks-recreation/
 /departments/police-advisory-commission/(.*) 301  /departments/citizens-police-oversight-commission/$1 
@@ -286,7 +286,7 @@
 /eeo-?complaint?                          301  /services/working-jobs/worker-protections/discrimination-and-harassment/file-a-sexual-harassment-complaint/
 /employee-screener$                       301  /employee-screener/
 /employee-screener/(.*)                   200  http://philagov-employee-screener.s3-website-us-east-1.amazonaws.com/employee-screener/prod/$1
-/employee-?test                           301  https://phila.formstack.com/forms/covid_19_employee_test_form
+/employee-?test                           301  https://phl-cao.quickbase.com/db/bskn8t35g?a=dbpage&pageID=2
 /eoc-gisrequest                           301  https://veoci.com/veoci/p/dashboard/4p9brrkav6
 /eslmap                                   301  http://phl.maps.arcgis.com/apps/View/index.html?appid=3929071e10db460db6e2265423ed4e83
 /es/tax-center-guide                      301  /guides/philadelphia-tax-center/philadelphia-tax-center-en-espanol/
