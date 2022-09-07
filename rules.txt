@@ -560,7 +560,9 @@
 /opendata                                 301  /data
 /openbudget                               301  https://data.phila.gov/visualizations/payments-aggregate/
 /open-data-dashboard                      301  https://phl.maps.arcgis.com/apps/dashboards/69ccf9aefddc4c198ec470c05ae3685a
-/opioids?                                 301  /programs/combating-the-opioid-epidemic/
+/opioids                                  301  /programs/opioid-response-unit/ 
+/oru                                      301  /programs/opioid-response-unit/ 
+/ose                                      301  /departments/office-of-special-events/
 /osh(.*)                                  301  /departments/office-of-homeless-services/
 /ost                                      301  /programs/out-of-school-time-ost/
 /ost/program-locator$                     301  /ost/program-locator/
@@ -1180,7 +1182,7 @@
 /solarproject                             301  /2020-02-03-here-is-your-chance-to-name-phillys-solar-project/
 /solar-rebate                             301  /programs/solar-rebate-program/
 /southwark                                301  /programs/community-schools/southwark-school/
-/special-events                           301  /departments/office-of-special-events/
+/ose                                      301  /departments/office-of-special-events/
 /specialeventpayment                      301  https://www.officialpayments.com/pc_entry_cobrand.jsp?productId=149845250351954021456528662661337179 
 /specialeventapplication                  301  https://www.officialpayments.com/pc_entry_cobrand.jsp?productId=149845250351954021456528724669927515
 /sphs                                     301  /programs/community-schools/south-philadelphia-high-school/
