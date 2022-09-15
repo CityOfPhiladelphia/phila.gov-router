@@ -509,7 +509,7 @@
 /mocs                                     301  /ceo
 /mod                                      301  /departments/mayors-office-for-people-with-disabilities/
 /mois                                     301  /it
-/monkeypox/                               301  /programs/monkeypox/
+/monkeypox                              301  /programs/monkeypox/
 /motu                                     301  /departments/office-of-transportation-infrastructure-sustainability/
 /mrc                                      301  /programs/philadelphia-medical-reserve-corps-pmrc/
 /mummers                                  301  https://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=4a5872ec814b48cfb9e2eb6b5d3992dc
