@@ -24,6 +24,7 @@
 /2021-11-08-how-to-visit-an-inmate-in-person/ 301  /services/crime-law-justice/incarcerated-people/visit-an-incarcerated-person/
 /2021-04-21-philadelphia-more-beautiful-committee-pmbc-2021-clean-block-schedule/ 301  /2022-03-23-2022-philadelphia-more-beautiful-committee-clean-block-events/
 /2020-09-08-general-election-mail-in-ballot-guide-for-philadelphia-voters 301  /2022-05-09-election-day-guide-may-17-2022/
+/2022-07-19-the-latest-on-monkeypox-in-philadelphia/  301 /programs/monkeypox/updates
 /311/(.*)                                 301  /departments/philly311/
 /311/report-an-issue                      301  https://iframe.publicstuff.com/#?client_id=242
 /aco                                      301  /departments/mayors-office-for-people-with-disabilities/
@@ -77,7 +78,7 @@
 /business-taxes/use-occupancy-tax         301  /services/business-self-employment/business-taxes/use-occupancy-tax/
 /business-taxes/vehicle-rental-tax        301  /services/business-self-employment/business-taxes/vehicle-rental-tax/
 /businesstaxprograms                      301  /services/payments-assistance-taxes/tax-credits/
-/business-?vaccine                        301  /services/mental-physical-health/get-vaccinated/sign-up-to-get-a-covid-19-vaccine/
+/business-?vaccine                        301  /services/mental-physical-health/get-vaccinated/get-your-covid-19-vaccine-or-booster/ 
 /campcraig2019                            301  https://survey123.arcgis.com/share/d5c0af4dbea242819835571e79087d6a
 /cao                                      301  /departments/office-of-the-chief-administrative-officer/
 /ccvc                                     301  /2021-03-02-getting-vaccinated-at-the-center-city-vaccination-center-what-you-need-to-know/
@@ -322,6 +323,7 @@
 /fire/?.*                                 301  /departments/philadelphia-fire-department/
 /fleet(.*)                                301  /departments/office-of-fleet-management/
 /flood-management                         301  /programs/flood-management-program/
+/flu-?shot                                301  /services/mental-physical-health/get-vaccinated/get-your-annual-flu-shot/
 /foodstandards                            301  /documents/city-of-philadelphia-nutrition-standards/
 /food-?waste                              301  /programs/zero-waste-initiatives/food-waste-reduction/
 /food$                                    301  /food/
@@ -508,6 +510,7 @@
 /mocs                                     301  /ceo
 /mod                                      301  /departments/mayors-office-for-people-with-disabilities/
 /mois                                     301  /it
+/monkeypox                              301  /programs/monkeypox/
 /motu                                     301  /departments/office-of-transportation-infrastructure-sustainability/
 /mrc                                      301  /programs/philadelphia-medical-reserve-corps-pmrc/
 /mummers                                  301  https://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=4a5872ec814b48cfb9e2eb6b5d3992dc
@@ -708,6 +711,7 @@
 /pro-?ems                                 301 /departments/philadelphia-regional-office-of-emergency-medical-services/
 /programs                                 301  /programs-initiatives/
 /programs/access-centers                  301  /2021-02-22-the-citys-access-centers-are-still-enrolling-students/
+/programs/acute-communicable-disease-program/monkeypox/   301 /programs/monkeypox/
 /programs/blockchain-for-city-government  301  /departments/office-of-innovation-and-technology/
 /programs/covid-19-recovery-office        301  /departments/covid-19-recovery-office/
 /programs/coronavirus-disease-2019-covid-19/translations  301  /programs/coronavirus-disease-2019-covid-19/multi-language-resources/
@@ -956,6 +960,8 @@
 /services/mental-physical-health/get-vaccinated/get-the-vaccines-your-child-needs-to-start-school/ 301  /services/mental-physical-health/get-vaccinated/vaccinate-your-child/
 /services/mental-physical-health/get-vaccinated/get-vaccinated-if-you-dont-have-health-insurance/ 301  /services/mental-physical-health/get-vaccinated/get-adult-vaccines/
 /services/mental-physical-health/get-vaccinated/get-vaccinated-if-you-have-health-insurance/ 301  /services/mental-physical-health/get-vaccinated/get-adult-vaccines/
+/services/mental-physical-health/get-vaccinated/sign-up-to-get-a-covid-19-vaccine/  301  /services/mental-physical-health/get-vaccinated/get-your-covid-19-vaccine-or-booster/
+/services/mental-physical-health/find-a-covid-19-testing-site/ 301  /services/mental-physical-health/find-a-covid-19-test/
 /services/permits-violations-licenses/environmental-permits-and-approvals/?(.*)  301  /services/permits-violations-licenses/apply-for-a-permit/environmental-permits-and-approvals/$1
 /services/permits-violations-licenses/get-a-license/find-out-what-license-you-need-for-your-business/  301  /services/permits-violations-licenses/get-a-license/business-licenses-permits-and-approvals/
 /services/permits-violations-licenses/get-a-permit-to-use-a-philadelphia-parks-recreation-space/ 301 /services/permits-violations-licenses/apply-for-a-permit/get-a-permit-to-use-a-philadelphia-parks-recreation-space/reserve-a-parks-recreation-facility/
@@ -1245,9 +1251,9 @@
 /uas                                      301  https://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=d93906e2068e4eaa9c0e505287b959e2
 /unitycup                                 301  http://unitycup.phila.gov
 /universalprek(.*)                        301  /programs/quality-pre-k/
-/vaccine                                  301  /services/mental-physical-health/get-vaccinated/sign-up-to-get-a-covid-19-vaccine/
-/vaccines                                 301  /services/mental-physical-health/get-vaccinated/sign-up-to-get-a-covid-19-vaccine/
-/vaccine-?interest                        301  /services/mental-physical-health/get-vaccinated/sign-up-to-get-a-covid-19-vaccine/
+/vaccine                                  301  /services/mental-physical-health/get-vaccinated/get-your-covid-19-vaccine-or-booster/ 
+/vaccines                                 301  /services/mental-physical-health/get-vaccinated/get-your-covid-19-vaccine-or-booster/ 
+/vaccine-?interest                        301  /services/mental-physical-health/get-vaccinated/get-your-covid-19-vaccine-or-booster/ 
 /vacancymap                               301  http://phl.maps.arcgis.com/apps/webappviewer/index.html?id=64ac160773d04952bc17ad895cc00680
 /vendorpayments/?$                        301  https://secure.phila.gov/finance/vendorpayments/
 /verizon-?feedback                        301  /departments/office-of-innovation-and-technology/verizon-franchise-agreement-feedback-form/
@@ -1257,8 +1263,7 @@
 /visitors                                 301  http://www.visitphilly.com
 /volunteer                                301  https://www.serve.phila.gov
 /vote-by-mail                             301  /2020-09-08-general-election-mail-in-ballot-guide-for-philadelphia-voters/
-/voting$                                  301  /voting/
-/voting/(.*)                              200  http://phila-resource-finder.s3-website-us-east-1.amazonaws.com/voting/prod/$1
+/voting(.*)                               301  https://vote.phila.gov/ballot-drop-off/
 /warningletter                            301  /documents/warning-of-risk-of-tax-foreclosure/
 /water-?grant                             301  /2022-05-06-how-to-get-help-with-past-due-water-bills/
 /water-?bill                               301  https://secure8.i-doxs.net/CityOfPhiladelphiaWRB/SignIn.aspx
