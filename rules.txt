@@ -475,7 +475,7 @@
 /mdo                                      301  /departments/managing-directors-office/
 /mdo/(.*)                                 301  /departments/managing-directors-office/
 /mechanical-street-cleaning               301  /programs/mechanical-street-cleaning/
-/med-week                                 301  /spotlight/philadelphia-minority-enterprise-development-med-week-2021/
+/med-week                                 301  /spotlight/philadelphia-minority-enterprise-development-med-week-2022/
 /media/20200406144703/Guidance-for-transport-of-patients-with-confirmed-or-suspected-COVID-19_4_6.pdf  301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
 /media/20200529130239/Guidelines-for-Ride-Share-Taxis.pdf  301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
 /media/20200529130248/Guidelines-for-Manufacturing-Warehouse-Operations.pdf  301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
