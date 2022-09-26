@@ -25,10 +25,11 @@
 /2021-04-21-philadelphia-more-beautiful-committee-pmbc-2021-clean-block-schedule/ 301  /2022-03-23-2022-philadelphia-more-beautiful-committee-clean-block-events/
 /2020-09-08-general-election-mail-in-ballot-guide-for-philadelphia-voters 301  /2022-05-09-election-day-guide-may-17-2022/
 /2022-07-19-the-latest-on-monkeypox-in-philadelphia/  301 /programs/monkeypox/updates
+/2022-07-19-lo-ultimo-sobre-monkeypox-en-filadelfia/ 301 /programs/monkeypox/
 /311/(.*)                                 301  /departments/philly311/
 /311/report-an-issue                      301  https://iframe.publicstuff.com/#?client_id=242
 /aco                                      301  /departments/mayors-office-for-people-with-disabilities/
-/access-center-finder(.*)                 200   /2021-02-22-the-citys-access-centers-are-still-enrolling-students/
+/access-center-finder(.*)                 301  /2021-02-22-the-citys-access-centers-are-still-enrolling-students/
 /access-?centers                          301  /2021-02-22-the-citys-access-centers-are-still-enrolling-students/
 /actionguides                             301  /the-latest/#action-guides
 /active-duty-credit                       301  /services/payments-assistance-taxes/tax-credits/active-duty-tax-credit/
@@ -710,7 +711,7 @@
 /procurement(.*)                          301 /departments/procurement-department/
 /pro-?ems                                 301 /departments/philadelphia-regional-office-of-emergency-medical-services/
 /programs                                 301  /programs-initiatives/
-/programs/access-centers                  301  /2021-02-22-the-citys-access-centers-are-still-enrolling-students/
+/programs/access-centers(.*)              301  /2021-02-22-the-citys-access-centers-are-still-enrolling-students/
 /programs/acute-communicable-disease-program/monkeypox/   301 /programs/monkeypox/
 /programs/blockchain-for-city-government  301  /departments/office-of-innovation-and-technology/
 /programs/covid-19-recovery-office        301  /departments/covid-19-recovery-office/
