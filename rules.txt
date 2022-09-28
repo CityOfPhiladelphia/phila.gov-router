@@ -79,7 +79,7 @@
 /business-taxes/use-occupancy-tax         301  /services/business-self-employment/business-taxes/use-occupancy-tax/
 /business-taxes/vehicle-rental-tax        301  /services/business-self-employment/business-taxes/vehicle-rental-tax/
 /businesstaxprograms                      301  /services/payments-assistance-taxes/tax-credits/
-/business-?vaccine                        301  /services/mental-physical-health/get-vaccinated/get-your-covid-19-vaccine-or-booster/ 
+/business-?vaccine                        301  /services/mental-physical-health/get-vaccinated/get-your-covid-19-vaccine-or-booster/
 /campcraig2019                            301  https://survey123.arcgis.com/share/d5c0af4dbea242819835571e79087d6a
 /cao                                      301  /departments/office-of-the-chief-administrative-officer/
 /ccvc                                     301  /2021-03-02-getting-vaccinated-at-the-center-city-vaccination-center-what-you-need-to-know/
@@ -384,6 +384,8 @@
 /homestead                                301  /services/property-lots-housing/get-real-estate-tax-relief/get-the-homestead-exemption/
 /homebuynow(.*)                           301  https://cedphilly.org/philadelphia-home-buy-now
 /humanrelations(.*)                       301  /departments/philadelphia-commission-on-human-relations/
+/ida-recovery                             301  /departments/office-of-the-director-of-finance/hurricane-ida-recovery-funding/
+/idarecovery                              301  /departments/office-of-the-director-of-finance/hurricane-ida-recovery-funding/
 /ig(.*)                                   301  /departments/office-of-the-inspector-general/
 /ima/                                     301  /departments/office-of-immigrant-affairs/
 /immigrant-business-week                  301  /spotlight/immigrant-business-week-2020/
@@ -511,7 +513,7 @@
 /mocs                                     301  /ceo
 /mod                                      301  /departments/mayors-office-for-people-with-disabilities/
 /mois                                     301  /it
-/monkeypox                              301  /programs/monkeypox/
+/monkeypox                                301  /programs/monkeypox/
 /motu                                     301  /departments/office-of-transportation-infrastructure-sustainability/
 /mrc                                      301  /programs/philadelphia-medical-reserve-corps-pmrc/
 /mummers                                  301  https://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=4a5872ec814b48cfb9e2eb6b5d3992dc
@@ -1098,8 +1100,8 @@
 /services/permits-violations-licenses/pay-a-fine-or-ticket/pay-an-li-violation-fee-or-fine/ 301  /services/permits-violations-licenses/pay-a-penalty-fine-or-ticket/pay-an-li-violation-fee-or-fine/
 /services/permits-violations-licenses/pay-a-fine-or-ticket/pay-a-parking-ticket/ 301  /services/permits-violations-licenses/pay-a-penalty-fine-or-ticket/pay-a-parking-ticket/
 /services/permits-violations-licenses/pay-a-fine-or-ticket/pay-a-red-light-ticket/ 301  /services/permits-violations-licenses/pay-a-penalty-fine-or-ticket/pay-a-red-light-ticket/
-/services/permits-violations-licenses/get-a-license/search-for-property-history-and-business-license-information/ 301  /services/permits-violations-licenses/rent-or-sell-property/search-for-property-history-and-business-license-information/ 
-/services/permits-violations-licenses/search-for-property-history-and-business-license-information/ 301 /services/permits-violations-licenses/rent-or-sell-property/search-for-property-history-and-business-license-information/ 
+/services/permits-violations-licenses/get-a-license/search-for-property-history-and-business-license-information/ 301  /services/permits-violations-licenses/rent-or-sell-property/search-for-property-history-and-business-license-information/
+/services/permits-violations-licenses/search-for-property-history-and-business-license-information/ 301 /services/permits-violations-licenses/rent-or-sell-property/search-for-property-history-and-business-license-information/
 /services/permits-violations-licenses/record-a-notary-commission/ 301  /services/business-self-employment/record-a-notary-commission/
 /services/permits-violations-licenses/find-a-city-owned-property/ 301 /services/property-lots-housing/buy-sell-or-rent-a-property/find-a-city-owned-property/
 /services/permits-violations-licenses/rent-or-sell-property/city-building-codes/ 301 /services/zoning-planning-development/city-building-codes/
@@ -1252,9 +1254,9 @@
 /uas                                      301  https://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=d93906e2068e4eaa9c0e505287b959e2
 /unitycup                                 301  http://unitycup.phila.gov
 /universalprek(.*)                        301  /programs/quality-pre-k/
-/vaccine                                  301  /services/mental-physical-health/get-vaccinated/get-your-covid-19-vaccine-or-booster/ 
-/vaccines                                 301  /services/mental-physical-health/get-vaccinated/get-your-covid-19-vaccine-or-booster/ 
-/vaccine-?interest                        301  /services/mental-physical-health/get-vaccinated/get-your-covid-19-vaccine-or-booster/ 
+/vaccine                                  301  /services/mental-physical-health/get-vaccinated/get-your-covid-19-vaccine-or-booster/
+/vaccines                                 301  /services/mental-physical-health/get-vaccinated/get-your-covid-19-vaccine-or-booster/
+/vaccine-?interest                        301  /services/mental-physical-health/get-vaccinated/get-your-covid-19-vaccine-or-booster/
 /vacancymap                               301  http://phl.maps.arcgis.com/apps/webappviewer/index.html?id=64ac160773d04952bc17ad895cc00680
 /vendorpayments/?$                        301  https://secure.phila.gov/finance/vendorpayments/
 /verizon-?feedback                        301  /departments/office-of-innovation-and-technology/verizon-franchise-agreement-feedback-form/
