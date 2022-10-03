@@ -848,8 +848,7 @@
 /revenue/payoff-request-form              301  /documents/bill-certification-and-payoff-request-form/
 /revenue/pbt                              301  /services/payments-assistance-taxes/business-taxes/philadelphia-beverage-tax/
 /revenue/pbt-instructions                 301  /documents/philadelphia-beverage-tax-pbt-filing-instructions/
-/revenue/realestatetax$                   301  /revenue/realestatetax/
-/revenue/realestatetax/(.*)               200  http://real-estate-tax-prod.s3-website-us-east-1.amazonaws.com/$1
+/revenue/realestatetax(.*)                301  https://tax-services.phila.gov/_/?Link=PropertySearch
 /revenue/sustainable-tax-credit           301  /services/payments-assistance-taxes/tax-credits/sustainable-business-tax-credit/
 /revenue/sustainable-jump-start           301  /services/payments-assistance-taxes/tax-credits/sustainable-jump-start-tax-credit/
 /revenue/tax-forms                        301  /services/payments-assistance-taxes/tax-forms-instructions/
