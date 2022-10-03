@@ -1186,6 +1186,7 @@
 /service-design-studio 301 /departments/office-of-the-chief-administrative-officer/service-design-studio/
 /smartblockphl                            301  /programs/smartcityphl/smartblockphl/
 /smartchoice/?$                           301  /departments/department-of-commerce/about-us/divisions/office-of-business-development/
+/smart-loading-zones                      301  /programs/smartcityphl/smart-loading-zones/
 /solarmap                                 301  https://phl.maps.arcgis.com/apps/MapSeries/index.html?appid=c1a5d30acec04aec8c4acfa4cc60a311
 /solarproject                             301  /2020-02-03-here-is-your-chance-to-name-phillys-solar-project/
 /solar-rebate                             301  /programs/solar-rebate-program/
