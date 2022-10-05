@@ -606,6 +606,7 @@
 /payment-?agreements                      301  /services/payments-assistance-taxes/payment-plans/set-up-a-payment-agreement-for-your-taxes/
 /pbt-registered-distributors(.*)          301  https://tax-services.phila.gov/?link=RegisteredDistributor
 /pchr                                     301  /humanrelations
+/pdfs/returningtolearning.pdf             301 /documents/returning-to-learning-program-materials/
 /pensions/aboutus/Pages/Regulations.aspx  301 /documents/board-of-pensions-and-retirement-regulations/
 /pensions/aboutus/Pages/default.aspx      301 /departments/board-of-pensions-and-retirement/
 /pensions/Pages/default.aspx              301 /departments/board-of-pensions-and-retirement/
