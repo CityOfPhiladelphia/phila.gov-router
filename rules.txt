@@ -606,6 +606,7 @@
 /payment-?agreements                      301  /services/payments-assistance-taxes/payment-plans/set-up-a-payment-agreement-for-your-taxes/
 /pbt-registered-distributors(.*)          301  https://tax-services.phila.gov/?link=RegisteredDistributor
 /pchr                                     301  /humanrelations
+/pdfs/returningtolearning.pdf             301 /documents/returning-to-learning-program-materials/
 /pensions/aboutus/Pages/Regulations.aspx  301 /documents/board-of-pensions-and-retirement-regulations/
 /pensions/aboutus/Pages/default.aspx      301 /departments/board-of-pensions-and-retirement/
 /pensions/Pages/default.aspx              301 /departments/board-of-pensions-and-retirement/
@@ -732,6 +733,8 @@
 /programs/coronavirus-disease-2019-covid-19/guidance/signs-and-symptoms/ 301 /programs/coronavirus-disease-2019-covid-19/guidance/faq/#about-covid-19/
 /programs/coronavirus-disease-2019-covid-19/guidance/getting-tested-for-covid-19/ 301 /programs/coronavirus-disease-2019-covid-19/guidance/faq/#getting-tested
 /programs/coronavirus-disease-2019-covid-19/guidance/children-and-pregnancy/ 301 /programs/coronavirus-disease-2019-covid-19/guidance/faq/#children-and-families
+/programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/businesses-and-other-organizations-not-serving-food-and-or-drink/ 301 /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/businesses-organizations-and-restaurants/
+/programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/restaurant-other-indoor-establishments-selling-food-guidance/ 301 /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/businesses-organizations-and-restaurants/
 /programs/coronavirus-disease-2019-covid-19/support-for-the-community/services-and-support-for-residents/covid-19-food-distribution-sites  301   /programs/coronavirus-disease-2019-covid-19/updates/
 /programs/coronavirus-disease-2019-covid-19/testing-and-data  301  /programs/coronavirus-disease-2019-covid-19/testing/testing-data
 /programs/coronavirus-disease-2019-covid-19/vaccines/data  301  /programs/coronavirus-disease-2019-covid-19/data/vaccine/
