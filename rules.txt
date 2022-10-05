@@ -732,6 +732,8 @@
 /programs/coronavirus-disease-2019-covid-19/guidance/signs-and-symptoms/ 301 /programs/coronavirus-disease-2019-covid-19/guidance/faq/#about-covid-19/
 /programs/coronavirus-disease-2019-covid-19/guidance/getting-tested-for-covid-19/ 301 /programs/coronavirus-disease-2019-covid-19/guidance/faq/#getting-tested
 /programs/coronavirus-disease-2019-covid-19/guidance/children-and-pregnancy/ 301 /programs/coronavirus-disease-2019-covid-19/guidance/faq/#children-and-families
+/programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/businesses-and-other-organizations-not-serving-food-and-or-drink/ 301 /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/businesses-organizations-and-restaurants/
+/programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/restaurant-other-indoor-establishments-selling-food-guidance/ 301 /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/businesses-organizations-and-restaurants/
 /programs/coronavirus-disease-2019-covid-19/support-for-the-community/services-and-support-for-residents/covid-19-food-distribution-sites  301   /programs/coronavirus-disease-2019-covid-19/updates/
 /programs/coronavirus-disease-2019-covid-19/testing-and-data  301  /programs/coronavirus-disease-2019-covid-19/testing/testing-data
 /programs/coronavirus-disease-2019-covid-19/vaccines/data  301  /programs/coronavirus-disease-2019-covid-19/data/vaccine/
