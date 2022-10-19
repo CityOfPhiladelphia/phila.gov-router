@@ -574,7 +574,7 @@
 /ost/program-locator/(.*)                 200  http://ost-program-locator.s3-website-us-east-1.amazonaws.com/$1
 /otf                                      301  /programs/operations-transformation-fund/
 /otis                                     301  /departments/office-of-transportation-infrastructure-sustainability/
-/outdoor-?dining                          301  /2022-10-19-city-announces-regulations-and-application-process-for-permanent-outdoor-dining-program/
+/outdoor-?dining                          301  /2022-10-18-city-announces-regulations-and-application-process-for-permanent-outdoor-dining-program/
 /pac/meetings/Pages/default.aspx          301  /departments/police-advisory-commission/commission-meetings/
 /pac/Pages/FileAComplaint.aspx            301  /services/crime-law-justice/police/file-a-complaint-against-a-philadelphia-police-officer/
 /pac/aboutus/Pages/OfficerCommendation.aspx  301  /services/crime-law-justice/police/recommend-a-police-officer-for-commendation/
