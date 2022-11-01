@@ -221,6 +221,7 @@
 /departments/water-sewer-stormwater-rate-board 301 /departments/water-sewer-storm-water-rate-board/
 /departments/mayors-office-of-education/quality-pre-k-newsletter-signup/ 301 /programs/quality-pre-k/newsletter-sign-up/
 /departments/office-of-open-data-and-digital-transformation(.*)    301 /2019-10-14-the-evolution-of-design-tech-and-data-at-the-city/
+/departments/office-of-sustainability/about/energy-office/compliance/green-buildings/  301 /departments/office-of-sustainability/about/energy-office/compliance/high-performance-buildings/
 /departments/philadelphia-historical-commission/agendas-and-minutes/ 301 /departments/philadelphia-historical-commission/public-meetings/
 /departments/philadelphia-board-of-education 301  /departments/educational-nominating-panel/
 /departments/department-of-streets/resources/ 301 /departments/department-of-streets/
