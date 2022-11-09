@@ -418,7 +418,7 @@
 /labor                                    301  /departments/mayors-office-of-labor/
 /landbank                                 301  http://www.philadelphialandbank.org
 /language-?access                         301  /programs/language-access-philly/
-/language-?gusage-?dashboard                301  https://phl.maps.arcgis.com/apps/dashboards/9aa59051c3d34259b04c460a7bb52ba2
+/language-?usage-?dashboard                301  https://phl.maps.arcgis.com/apps/dashboards/9aa59051c3d34259b04c460a7bb52ba2
 /law/(.*)                                 301  /departments/law-department/
 /lbe-certification                        301  /services/business-self-employment/bidding-on-a-city-contract/get-certified-as-a-local-business-entity/
 /lcorc                                    301  https://forms.office.com/Pages/ResponsePage.aspx?id=T4ZGIOpofUmvNKZimmzXAHtUgHT1kUNJm83x--pZVsJURFoxN0UwRVhDR0E0MjNNTllKUTJINU5ONC4u
