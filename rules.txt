@@ -418,6 +418,7 @@
 /labor                                    301  /departments/mayors-office-of-labor/
 /landbank                                 301  http://www.philadelphialandbank.org
 /language-?access                         301  /programs/language-access-philly/
+/language-?usage-?dashboard                301  https://phl.maps.arcgis.com/apps/dashboards/9aa59051c3d34259b04c460a7bb52ba2
 /law/(.*)                                 301  /departments/law-department/
 /lbe-certification                        301  /services/business-self-employment/bidding-on-a-city-contract/get-certified-as-a-local-business-entity/
 /lcorc                                    301  https://forms.office.com/Pages/ResponsePage.aspx?id=T4ZGIOpofUmvNKZimmzXAHtUgHT1kUNJm83x--pZVsJURFoxN0UwRVhDR0E0MjNNTllKUTJINU5ONC4u
@@ -757,6 +758,12 @@
 /programs/rebuild/programs                301  /programs/rebuild/for-businesses/
 /programs/startup-phl                     301  http://startupphl.com/
 /programs/stemcityphl                     301  http://www.stemcityphl.org/
+/programs/substance-use-prevention-and-harm-reduction/the-citys-response/  301 /programs/opioid-response-unit/the-citys-response/
+/programs/substance-use-prevention-and-harm-reduction/about-opioids/  301 /programs/opioid-response-unit/about-opioids/
+/programs/substance-use-prevention-and-harm-reduction/resources-2/ 301 /programs/substance-use-prevention-and-harm-reduction/resources/
+/programs/substance-use-prevention-and-harm-reduction/bereavement-support-services/ 301 /programs/substance-use-prevention-and-harm-reduction/our-work/bereavement-support-services/
+/programs/substance-use-prevention-and-harm-reduction/treatment/ 301 /services/mental-physical-health/get-health-care-and-support/get-treatment-for-substance-use-disorder/
+/programs/substance-use-prevention-and-harm-reduction/servicios-de-apoyo-para-el-duelo/ 301 /programs/substance-use-prevention-and-harm-reduction/our-work/bereavement-support-services/servicios-de-apoyo-para-el-duelo/
 /programs/workready-at-parks-rec          301  /programs/parks-rec-summer-youth-employment-program/
 /programs/workforce-development/          301  /departments/department-of-commerce/about-us/divisions/office-of-workforce-development/
 /programs/zero-waste-initiatives/food-matters-project/ 301  /programs/zero-waste-initiatives/food-waste-reduction/
