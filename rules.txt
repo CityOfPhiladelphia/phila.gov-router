@@ -275,6 +275,8 @@
 /documents/philadelphia-police-department-ada-registration-form/ 301  /services/safety-emergency-preparedness/notify-911-dispatchers-of-disability-needs-in-your-household/
 /documents/od-stat-annual-report/         301  /documents/od-stat-fatality-review-team-documents/
 /documents/od-stat-annual-report-2021/    301  /documents/od-stat-fatality-review-team-documents/
+/documents/philadelphia-resilience-project-recovering-together/ 301 /documents/philadelphia-resilience-project-archives/
+/documents/philadelphia-resilience-project-accomplishments-and-short-term-goals/ 301 /documents/philadelphia-resilience-project-archives/
 /documents                                301  /publications-forms/
 /documents/                               301  /publications-forms/
 /dot                                      301  /it
@@ -381,7 +383,7 @@
 /hhe                                      301  /2019-06-11-what-happens-when-the-city-declares-a-heat-health-emergency/
 /historical/taskforce                     301  https://www.phlpreservation.org/
 /historical(.*)                           301  /departments/philadelphia-historical-commission/
-/holiday-celebrations                     301  /spotlight/city-of-philadelphia-holiday-celebrations-2021/
+/holiday-celebrations                     301  /spotlight/city-of-philadelphia-holiday-celebrations-2022/
 /homeless-?services                       301  /departments/office-of-homeless-services/
 /homestead                                301  /services/property-lots-housing/get-real-estate-tax-relief/get-the-homestead-exemption/
 /homebuynow(.*)                           301  https://cedphilly.org/philadelphia-home-buy-now
@@ -755,6 +757,7 @@
 /programs/e3-power-centers/               301  /programs/e3-services/
 /programs/education-and-childcare-services/(.*) 301 /programs/education-support-center/$1
 /programs/energy-benchmarking/            301  http://www.phillybuildingbenchmarking.com/
+/programs/philadelphia-resilience-project/ 301 /programs/opioid-response-unit/
 /programs/rebuild/programs                301  /programs/rebuild/for-businesses/
 /programs/startup-phl                     301  http://startupphl.com/
 /programs/stemcityphl                     301  http://www.stemcityphl.org/
@@ -842,7 +845,7 @@
 /reports/index.html                       301  /programs/open-data-program/
 /reports/(.*)                             301  /department-of-revenue/reports/
 /residents(.*)                            301  /services/
-/resilientPHL                             301  /programs/philadelphia-resilience-project/
+/resilientPHL                             301  /programs/opioid-response-unit/
 /revenue/active-duty-tax-credit           301  /services/payments-assistance-taxes/tax-credits/active-duty-tax-credit/
 /revenue/birt-regs                        301  /documents/business-income-receipts-tax-birt-regulations/
 /revenue/birt                             301  /services/payments-assistance-taxes/business-taxes/business-income-receipts-tax-birt/
@@ -1306,6 +1309,7 @@
 /wills                                    301  /departments/register-of-wills/
 /winter-meals                             301  /2019-12-10-winter-meals-and-food-pantries-for-students-and-families/
 /workforce                                301  /departments/department-of-commerce/about-us/divisions/office-of-workforce-development/
+/workforce-?diversity                     301  https://phl.maps.arcgis.com/apps/dashboards/215d453426264fac97de137c979f0cbe
 /wp-admin                                 301  https://admin.phila.gov/wp-admin/
 /wp-login.php                             301  https://admin.phila.gov/wp-login.php
 /wright                                   301  /programs/community-schools/richard-r-wright-school/
