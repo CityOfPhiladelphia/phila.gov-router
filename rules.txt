@@ -163,8 +163,8 @@
 /dei/workforce-review                     301  https://phila.formstack.com/forms/annual_workforce_dei_review
 /democraticnationalconvention             301  /events/democratic-national-convention/
 /departmentofpublicproperty/pages/default.aspx 301 /departments/department-of-public-property/
-/departments                              301  /city-government-directory/
-/departments/                             301  /city-government-directory/
+/departments                              200  /city-government-directory/
+/departments/                             200  /city-government-directory/
 /departments/(.*)/about/all-events        301  /the-latest/all-events/
 /departments/(.*)/all-events              301  /the-latest/all-events/
 /departments/board-of-education           301  /departments/philadelphia-board-of-education/
