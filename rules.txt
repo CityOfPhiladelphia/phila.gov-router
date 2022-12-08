@@ -99,6 +99,7 @@
 /cityplanning(.*)                         301  /departments/philadelphia-city-planning-commission/
 /cityrep                                  301  /departments/office-of-the-city-representative/
 /cityscholarship                          301  /programs/philadelphia-city-scholarship-program/
+/city-government-directory(.*)            301  /departments/
 /city-health-centers                      301  /services/mental-physical-health/city-health-centers/
 /civilservice                             301  /personnel/civilservice.html
 /cjps                                     301 /departments/office-of-policy-and-strategic-initiatives-for-criminal-justice-and-public-safety/
@@ -163,8 +164,6 @@
 /dei/workforce-review                     301  https://phila.formstack.com/forms/annual_workforce_dei_review
 /democraticnationalconvention             301  /events/democratic-national-convention/
 /departmentofpublicproperty/pages/default.aspx 301 /departments/department-of-public-property/
-/departments                              301  /city-government-directory/
-/departments/                             301  /city-government-directory/
 /departments/(.*)/about/all-events        301  /the-latest/all-events/
 /departments/(.*)/all-events              301  /the-latest/all-events/
 /departments/board-of-education           301  /departments/philadelphia-board-of-education/
