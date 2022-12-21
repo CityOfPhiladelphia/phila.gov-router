@@ -514,6 +514,7 @@
 /media/20201112100019/Guidance-for-Holidays.pdf  301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
 /media/20201118125433/Guidance-for-positive-test-1.pdf  301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
 /media/20211210131210/2021_CUA_Scorecard_print.pdf  301  /documents/cua-scorecards/
+/mpox                                     301  /programs/monkeypox
 /mocs                                     301  /ceo
 /mod                                      301  /departments/mayors-office-for-people-with-disabilities/
 /mois                                     301  /it
@@ -756,7 +757,6 @@
 /programs/e3-power-centers/               301  /programs/e3-services/
 /programs/education-and-childcare-services/(.*) 301 /programs/education-support-center/$1
 /programs/energy-benchmarking/            301  http://www.phillybuildingbenchmarking.com/
-/programs/monkeypox                       301  phila.gov/mpox
 /programs/philadelphia-resilience-project/ 301 /programs/opioid-response-unit/
 /consumer-protection                      301  /programs/philadelphia-consumer-financial-protection-task-force/
 /programs/rebuild/programs                301  /programs/rebuild/for-businesses/
