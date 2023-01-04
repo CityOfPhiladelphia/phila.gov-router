@@ -155,6 +155,7 @@
 /cpoc                                     301  /departments/citizens-police-oversight-commission/
 /cramp                                    301  /programs/community-schools/william-cramp-elementary-school/
 /crossing-?guard(.*)                      301  /programs/school-crossing-guard-program/
+/damage-?reporter                         301  https://survey123.arcgis.com/share/29280025e5eb440184f7c33717cf2623?portalUrl=https://phl.maps.arcgis.com
 /data                                     301  /programs/open-data-program/
 /data/discuss                             301  https://groups.google.com/forum/#!forum/opendataphilly
 /data/exeutive-order                      301  /documents/open-data-program-executive-order/
