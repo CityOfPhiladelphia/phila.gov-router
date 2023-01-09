@@ -1314,7 +1314,7 @@
 /wills                                    301  /departments/register-of-wills/
 /winter-meals                             301  /2019-12-10-winter-meals-and-food-pantries-for-students-and-families/
 /workforce                                301  /departments/department-of-commerce/about-us/divisions/office-of-neighborhood-economic-development/
-/workforce-?diversity                     301  https://phl.maps.arcgis.com/apps/dashboards/215d453426264fac97de137c979f0cbe
+/workforce-?diversity                     301  https://experience.arcgis.com/experience/ea21e8695d994a7181d9617c673a2344/
 /wp-admin                                 301  https://admin.phila.gov/wp-admin/
 /wp-login.php                             301  https://admin.phila.gov/wp-login.php
 /wright                                   301  /programs/community-schools/richard-r-wright-school/
