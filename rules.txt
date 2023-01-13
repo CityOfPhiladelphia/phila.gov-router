@@ -163,6 +163,7 @@
 /dbhmrs                                   301  http://www.dbhmrs.org/
 /deed-fraud                               301  /services/property-lots-housing/get-help-with-deed-or-mortgage-fraud/
 /defender                                 301  http://www.philadefender.org/
+/dei                                      301  /departments/office-of-diversity-equity-and-inclusion/
 /dei/workforce-review                     301  https://phila.formstack.com/forms/annual_workforce_dei_review
 /democraticnationalconvention             301  /events/democratic-national-convention/
 /departmentofpublicproperty/pages/default.aspx 301 /departments/department-of-public-property/
