@@ -179,7 +179,6 @@
 /departments/department-of-planning-and-development/development-services(.*) 301  /departments/division-of-development-services/
 /departments/department-of-public-property/green-buildings/ 301  /departments/office-of-sustainability/about/energy-office/compliance/green-buildings/
 /departments/department-of-public-health/contact-us/ 301	 /departments/department-of-public-health/about-us/contact-us/
-/departments/water-department/            301	 /departments/philadelphia-water-department/
 /departments/division-of-housing-community-development/ 301 /departments/division-of-housing-and-community-development/
 /departments/education                    301  /departments/mayors-office-of-education/
 /departments/emergency-management         301  /departments/oem
@@ -234,6 +233,7 @@
 /departments/department-of-revenue/our-services/tax-services/non-resident-covid-ez-refund-petition/ 301 https://tax-services.phila.gov/
 /departments/department-of-revenue/our-services/tax-services/online-income-based-wage-tax-refund-petition/ 301 https://tax-services.phila.gov/
 /departments/office-of-sustainability/about/food-policy-advisory-council/ 301  /departments/office-of-sustainability/about/commissions-and-councils/
+/departments/water-department/            301	 /departments/philadelphia-water-department/
 /development-services                     301  /departments/division-of-development-services/
 /dhcd/neighborhood-resources(.*)          301  /departments/division-of-housing-and-community-development/neighborhood-resources/
 /dhcd/?(.*)                               301  /departments/division-of-housing-and-community-development/
