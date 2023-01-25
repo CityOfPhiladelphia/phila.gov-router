@@ -77,7 +77,7 @@
 /business-taxes/vehicle-rental-tax        301  /services/business-self-employment/business-taxes/vehicle-rental-tax/
 /businesstaxprograms                      301  /services/payments-assistance-taxes/taxes/tax-credits/
 /business-?vaccine                        301  /services/mental-physical-health/get-vaccinated/get-your-covid-19-vaccine-or-booster/
-/cf-dashboard                            301  https://experience.arcgis.com/experience/7444617509954375adc64e7355b98581/
+/cf-?dashboard                            301  https://experience.arcgis.com/experience/7444617509954375adc64e7355b98581/
 /campcraig2019                            301  https://survey123.arcgis.com/share/d5c0af4dbea242819835571e79087d6a
 /candidate-?resources                     301  /departments/mayor/resources-for-2023-mayoral-candidates/
 /cao                                      301  /departments/office-of-the-chief-administrative-officer/
