@@ -694,7 +694,7 @@
 /posts/office-of-lgbt-affairs/2017-05-04-lgbtq-protections-city-of-philadelphia-action-guide 301 /2017-12-04-philadelphias-lgbtq-protections/
 /posts/office-of-sustainability/2017-03-28-environment-sustainability-city-of-philadelphia-action-guide 301 /2017-11-29-environmental-protection-during-the-trump-administration/
 /posts/mayor/2017-08-09-resources-for-those-impacted-by-domestic-violence/ 301 /departments/office-of-domestic-violence-strategies/resources/
-/posts/health/2017-10-18-where-to-get-pre-exposure-prophylaxis-prep-in-philadelphia/ 301  /2022-10-17-where-to-get-pre-exposure-prophylaxis-prep-in-philadelphia/	
+/posts/health/2017-10-18-where-to-get-pre-exposure-prophylaxis-prep-in-philadelphia/ 301  /2022-10-17-where-to-get-pre-exposure-prophylaxis-prep-in-philadelphia/
 /potholes                                 301  /services/streets-sidewalks-alleys/report-a-pothole-or-other-street-damage/
 /ppdcommissioner(.*)                      301  /departments/mayor/philadelphia-police-commissioner-public-input-survey/
 /ppedonation                              301  https://veoci.com/veoci/p/form/pauqjjhrzsw8
@@ -1418,6 +1418,7 @@
 /Style%20Library?(.*)                     301  /style-library$1
 /substance-?use                           301  /programs/substance-use-prevention-and-harm-reduction/
 /sUAS-commercial-form                     301  https://veoci.com/veoci/p/form/2ftf44vkr7b3
+/summer-?camp                             301  /services/culture-recreation/activities-and-events/register-for-summer-camp/
 /summer-programs$                         301  /summer-programs/
 /summer-programs/(.*)                     200  http://phila-resource-finder.s3-website-us-east-1.amazonaws.com/summer-program/prod/$1
 /support                                  301  /2019-06-27-support-and-resources-for-pes-and-hahnemann-employees/
