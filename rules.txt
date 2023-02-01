@@ -771,6 +771,7 @@
 /programs/energy-benchmarking/            301  http://www.phillybuildingbenchmarking.com/
 /programs/philadelphia-resilience-project/ 301 /programs/opioid-response-unit/
 /consumer-protection                      301  /programs/philadelphia-consumer-financial-protection-task-force/
+/programs/rebuild/careers/                301  /programs/rebuild/training-programs/
 /programs/rebuild/programs                301  /programs/rebuild/for-businesses/
 /programs/startup-phl                     301  http://startupphl.com/
 /programs/stemcityphl                     301  http://www.stemcityphl.org/
@@ -811,7 +812,7 @@
 /ReadyNPO                                 301  https://veoci.com/veoci/p/dashboard/ztvz85x3vq
 /real-estate-relief                       301  /services/payments-assistance-taxes/taxes/property-and-real-estate-taxes/get-real-estate-tax-relief/
 /reasonable-modification                  301  /services/diversity-inclusion-accessibility-immigration/submit-a-reasonable-modification-request/
-/rebuild/careers                          301  /programs/rebuild/careers/
+/rebuild/careers                          301  /programs/rebuild/training-programs/
 /records/PoliceFire/Police.html           301  /documents/public-safety-report-request-forms/
 /records/DocumentRecording/DocumentRecording.html 301 /services/property-lots-housing/record-a-deed-or-other-document/
 /records//DocumentRecording/DocumentRecording.html 301  /services/property-lots-housing/record-a-deed-or-other-document/
