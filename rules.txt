@@ -85,6 +85,7 @@
 /ceo/community-champions                  301  /2022-03-21-apply-now-or-nominate-someone-as-a-community-champion/
 /ceo/(.*)                                 301  /departments/office-of-community-empowerment-and-opportunity/
 /census                                   301  /programs/philly-counts-2020/
+/cerc                                     301  https://www.phila.gov/2022-08-15-free-fun-come-engage-with-community-evening-resource-centers/
 /channel64/Pages/default.aspx             301  /departments/office-of-innovation-and-technology/phlgovtv/
 /channel64/Documents/weeklySchedule.pdf   301  /documents/phlgovtv-broadcast-schedule/
 /channel64/Pages/CableComplaintForm.aspx  301  /services/water-gas-utilities/submit-a-cable-tv-service-complaint/
