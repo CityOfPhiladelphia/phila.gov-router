@@ -41,14 +41,14 @@ function parseRules (fileContents) {
 function addTranslations ( trimmedLine ) {
   const [ pattern, statusCode, replacement ] = trimmedLine.split(WHITESPACE)
   let translatedLines = [];
-  translatedLines.append({
+  translatedLines.push({
     'pattern':pattern, 
     'statusCode':statusCode, 
     'statusCode':replacement
   })
   if (statusCode == '301' && replacement.charAt(0) == '/') {
     for (const lang of LANGUAGES) {
-      translatedLines.append({
+      translatedLines.push({
         'pattern':lang+pattern, 
         'statusCode':statusCode, 
         'statusCode':lang+replacement
