@@ -1,5 +1,6 @@
 const LINE_BREAK = /\n/
 const WHITESPACE = /\s+/
+const LANGUAGES = [ '/zh', '/es','/ar', '/fr', '/ru', '/ms', '/hi', '/pt', '/bn', '/id', '/sw', '/ja', '/de', '/ko', '/it', '/fa', '/tr', '/nl', '/te', '/vi', '/ht' ]
 
 module.exports = {
   parseRules, // main export
@@ -13,23 +14,45 @@ function parseRules (fileContents) {
     const trimmedLine = line.trim()
     if (isEmptyOrComment(trimmedLine)) continue
 
-    const [ pattern, statusCode, replacement ] = trimmedLine.split(WHITESPACE)
-    const enhancedPattern = enhancePattern(pattern)
-    let regex
-    try {
-      regex = new RegExp(enhancedPattern, 'i') // case insensitive
-    } catch (err) {
-      console.error(err.message)
-    }
+    const translatedLines = addTranslations ( trimmedLine )
+    for (const translatedLine of translatedLines) {
+      const enhancedPattern = enhancePattern(translatedLine.pattern)
+      let regex
+      try {
+        regex = new RegExp(enhancedPattern, 'i') // case insensitive
+      } catch (err) {
+        console.error(err.message)
+      }
 
-    rules.push({
-      pattern,
-      regex,
-      statusCode,
-      replacement
-    })
+      rules.push({
+        translatedLine.pattern,
+        regex,
+        translatedLine.statusCode,
+        translatedLine.replacement
+      })
+    }
   }
   return rules
+}
+
+function addTranslations ( trimmedLine ) {
+  const [ pattern, statusCode, replacement ] = trimmedLine.split(WHITESPACE)
+  let translatedLines = [];
+  translatedLines.append({
+    'pattern':pattern, 
+    'statusCode':statusCode, 
+    'statusCode':replacement
+  })
+  if (statusCode == '301' && replacement.charAt(0) == '/') {
+    for (const lang of LANGUAGES) {
+      translatedLines.append({
+        'pattern':lang+pattern, 
+        'statusCode':statusCode, 
+        'statusCode':lang+replacement
+      })
+    }
+  }
+  return translatedLines;
 }
 
 function isEmptyOrComment (line) {
