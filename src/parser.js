@@ -17,6 +17,9 @@ function parseRules (fileContents) {
     const translatedLines = addTranslations ( trimmedLine )
     for (const translatedLine of translatedLines) {
       const enhancedPattern = enhancePattern(translatedLine.pattern)
+      const pattern = translatedLine.pattern;
+      const statusCode = translatedLine.statusCode;
+      const replacement = translatedLine.replacement;
       let regex
       try {
         regex = new RegExp(enhancedPattern, 'i') // case insensitive
@@ -25,10 +28,10 @@ function parseRules (fileContents) {
       }
 
       rules.push({
-        translatedLine.pattern,
+        pattern,
         regex,
-        translatedLine.statusCode,
-        translatedLine.replacement
+        statusCode,
+        replacement
       })
     }
   }
