@@ -13,9 +13,12 @@ function parseRules (fileContents) {
   for (const line of lines) {
     const trimmedLine = line.trim()
     if (isEmptyOrComment(trimmedLine)) continue
-
+    // console.log('first')
+    // console.log(trimmedLine)
     const translatedLines = addTranslations ( trimmedLine )
     for (const translatedLine of translatedLines) {
+      // console.log('HELLO')
+      // console.log(translatedLine)
       const enhancedPattern = enhancePattern(translatedLine.pattern)
       const pattern = translatedLine.pattern;
       const statusCode = translatedLine.statusCode;
@@ -35,6 +38,7 @@ function parseRules (fileContents) {
       })
     }
   }
+  console.log(rules)
   return rules
 }
 
@@ -44,14 +48,14 @@ function addTranslations ( trimmedLine ) {
   translatedLines.push({
     'pattern':pattern, 
     'statusCode':statusCode, 
-    'statusCode':replacement
+    'replacement':replacement
   })
   if (statusCode == '301' && replacement.charAt(0) == '/') {
     for (const lang of LANGUAGES) {
       translatedLines.push({
         'pattern':lang+pattern, 
         'statusCode':statusCode, 
-        'statusCode':lang+replacement
+        'replacement':lang+replacement
       })
     }
   }
