@@ -13,12 +13,8 @@ function parseRules (fileContents) {
   for (const line of lines) {
     const trimmedLine = line.trim()
     if (isEmptyOrComment(trimmedLine)) continue
-    // console.log('first')
-    // console.log(trimmedLine)
     const translatedLines = addTranslations ( trimmedLine )
     for (const translatedLine of translatedLines) {
-      // console.log('HELLO')
-      // console.log(translatedLine)
       const enhancedPattern = enhancePattern(translatedLine.pattern)
       const pattern = translatedLine.pattern;
       const statusCode = translatedLine.statusCode;
