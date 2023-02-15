@@ -1,6 +1,5 @@
 const LINE_BREAK = /\n/
 const WHITESPACE = /\s+/
-const LANGUAGES = [ '/zh', '/es','/ar', '/fr', '/ru', '/ms', '/hi', '/pt', '/bn', '/id', '/sw', '/ja', '/de', '/ko', '/it', '/fa', '/tr', '/nl', '/te', '/vi', '/ht' ]
 
 module.exports = {
   parseRules, // main export
@@ -55,7 +54,7 @@ function addTranslations ( trimmedLine ) {
       })
     }
   }
-  return translatedLines;
+  return rules
 }
 
 function isEmptyOrComment (line) {
