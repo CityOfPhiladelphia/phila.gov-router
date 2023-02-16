@@ -42,14 +42,16 @@ function parseRules (fileContents) {
           console.error(err.message)
         }
         rules.push({
-          pattern,
+          langPattern,
           regex,
           statusCode,
-          replacement
+          langReplacement
         })
       }
     }
   }
+  console.log('rules');
+  console.log(rules);
   return rules
 }
 
