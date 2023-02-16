@@ -1,6 +1,6 @@
 const LINE_BREAK = /\n/
 const WHITESPACE = /\s+/
-const LANGUAGES = [ '/zh', '/es','/ar', '/fr', '/ru', '/ms', '/hi', '/pt', '/bn', '/id', '/sw', '/ja', '/de', '/ko', '/it', '/fa', '/tr', '/nl', '/te', '/vi', '/ht' ]
+const LANGUAGES = [ '/zh', '/es' ]
 
 module.exports = {
   parseRules, // main export
