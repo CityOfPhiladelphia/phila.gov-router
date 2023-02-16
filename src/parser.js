@@ -21,6 +21,7 @@ function parseRules (fileContents) {
       'statusCode':statusCode, 
       'replacement':replacement
     })
+    console.log('translatedLines');
     console.log(translatedLines);
     const enhancedPattern = enhancePattern(pattern)
     let regex
