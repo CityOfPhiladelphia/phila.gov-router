@@ -29,11 +29,9 @@ function parseRules (fileContents) {
       replacement
     })
     if (statusCode == '301' && replacement.charAt(0) == '/') {
-      let tempPattern = pattern;
-      let tempReplacement = replacement;
       for (const lang of LANGUAGES) {
-        pattern = lang+tempPattern;
-        replacement = lang+tempReplacement
+        let langPattern = lang+pattern;
+        let langReplacement = lang+replacement
         let enhancedPattern = enhancePattern(lang+pattern)
         let regex
         try {
@@ -42,10 +40,10 @@ function parseRules (fileContents) {
           console.error(err.message)
         }
         rules.push({
-          langPattern,
+          pattern:langPattern,
           regex,
           statusCode,
-          langReplacement
+          replacement:langReplacement
         })
       }
     }
