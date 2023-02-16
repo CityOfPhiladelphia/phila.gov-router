@@ -32,6 +32,7 @@ function parseRules (fileContents) {
     }
     console.log('translated lines');
     console.log(translatedLines);
+    
     // const translatedLines = addTranslations ( trimmedLine )
     for (const translatedLine of translatedLines) {
       const enhancedPattern = enhancePattern(translatedLine.pattern)
