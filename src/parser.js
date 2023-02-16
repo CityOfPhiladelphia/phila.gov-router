@@ -10,19 +10,26 @@ module.exports = {
 function parseRules (fileContents) {
   const lines = fileContents.trim().split(LINE_BREAK)
   const rules = []
+  let translatedLines = []
   for (const line of lines) {
     const trimmedLine = line.trim()
     if (isEmptyOrComment(trimmedLine)) continue
 
     const [ pattern, statusCode, replacement ] = trimmedLine.split(WHITESPACE)
-    let translatedLines = [];
     translatedLines.push({
       'pattern':pattern, 
       'statusCode':statusCode, 
       'replacement':replacement
     })
-    console.log('translatedLines');
-    console.log(translatedLines);
+    if (statusCode == '301' && replacement.charAt(0) == '/') {
+      for (const lang of LANGUAGES) {
+        translatedLines.push({
+          'pattern':lang+pattern, 
+          'statusCode':statusCode, 
+          'replacement':lang+replacement
+        })
+      }
+    }
     const enhancedPattern = enhancePattern(pattern)
     let regex
     try {
@@ -38,6 +45,8 @@ function parseRules (fileContents) {
       replacement
     })
   }
+  console.log('translatedLines');
+  console.log(translatedLines);
   return rules
 }
 
