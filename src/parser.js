@@ -15,13 +15,6 @@ function parseRules (fileContents) {
     if (isEmptyOrComment(trimmedLine)) continue
 
     const [ pattern, statusCode, replacement ] = trimmedLine.split(WHITESPACE)
-    let translatedLines = [];
-    // translatedLines.push({
-    //   'pattern':pattern, 
-    //   'statusCode':statusCode, 
-    //   'replacement':replacement
-    // })
-    console.log(translatedLines);
     const enhancedPattern = enhancePattern(pattern)
     let regex
     try {
