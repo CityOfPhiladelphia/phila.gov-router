@@ -745,6 +745,13 @@
 /programs/coronavirus-disease-2019-covid-19/multi-language-resources/covid-19-coronavirus-resources-in-english/ 301 /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
 /programs/coronavirus-disease-2019-covid-19/support-for-the-community/information-for-workers/  301  /programs/coronavirus-disease-2019-covid-19/support-for-the-community/support-for-residents/
 /programs/coronavirus-disease-2019-covid-19/support-for-the-community/services-and-support-for-residents/  301  /programs/coronavirus-disease-2019-covid-19/support-for-the-community/support-for-residents/
+/programs/combating-the-opioid-epidemic/  301  /programs/opioid-response-unit/
+/programs/combating-the-opioid-epidemic/about-opioids/   301 /programs/opioid-response-unit/about-opioids/
+/programs/combating-the-opioid-epidemic/harm-reduction/  301 /programs/substance-use-prevention-and-harm-reduction/harm-reduction/
+/programs/combating-the-opioid-epidemic/the-citys-response/   301 /programs/opioid-response-unit/the-citys-response/
+/programs/combating-the-opioid-epidemic/reports-and-data/    301 /departments/department-of-public-health/data/
+/programs/combating-the-opioid-epidemic/resources/   301 /programs/opioid-response-unit/resources/
+/programs/combating-the-opioid-epidemic/treatment/   301 /services/mental-physical-health/get-health-care-and-support/get-treatment-for-substance-use-disorder/
 /programs/combating-the-opioid-epidemic/the-citys-response/the-philadelphia-resilience-project 301 /programs/philadelphia-resilience-project
 /programs/combating-the-opioid-epidemic/the-citys-response/the-philadelphia-resilience-project/support-the-philadelphia-resilience-project 301 /programs/philadelphia-resilience-project/support-the-philadelphia-resilience-project
 /programs/coronavirus-disease-2019-covid-19/guidance/about-covid-19/ 301 /programs/coronavirus-disease-2019-covid-19/guidance/faq/
