@@ -30,8 +30,6 @@ function parseRules (fileContents) {
     })
     if (statusCode == '301' && replacement.charAt(0) == '/') {
       for (const lang of LANGUAGES) {
-        let langPattern = lang+pattern;
-        let langReplacement = lang+replacement
         let enhancedPattern = enhancePattern(lang+pattern)
         let regex
         try {
@@ -40,16 +38,14 @@ function parseRules (fileContents) {
           console.error(err.message)
         }
         rules.push({
-          pattern:langPattern,
+          pattern:lang+pattern,
           regex,
           statusCode,
-          replacement:langReplacement
+          replacement:lang+replacement
         })
       }
     }
   }
-  console.log('rules');
-  console.log(rules);
   return rules
 }
 
