@@ -48,8 +48,6 @@ function parseRules (fileContents) {
       }
     }
   }
-  console.log('rules');
-  console.log(rules);
   return rules
 }
 
