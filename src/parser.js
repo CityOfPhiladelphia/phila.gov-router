@@ -16,11 +16,11 @@ function parseRules (fileContents) {
 
     const [ pattern, statusCode, replacement ] = trimmedLine.split(WHITESPACE)
     let translatedLines = [];
-    translatedLines.push({
-      'pattern':pattern, 
-      'statusCode':statusCode, 
-      'replacement':replacement
-    })
+    // translatedLines.push({
+    //   'pattern':pattern, 
+    //   'statusCode':statusCode, 
+    //   'replacement':replacement
+    // })
     console.log(translatedLines);
     const enhancedPattern = enhancePattern(pattern)
     let regex
