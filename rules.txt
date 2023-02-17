@@ -847,6 +847,7 @@
 /records/survey/(.*)                      301  /departments/department-of-records/
 /recovery                                 301  /programs/covid-19-recovery-office/
 /recoverPHL                               301  /programs/covid-19-recovery-office/
+/recovery/index.html                      301  /departments/covid-19-recovery-office/
 /recoveryPHL                              301  /programs/covid-19-recovery-office/
 /recreation                               301  /departments/philadelphia-parks-recreation/
 /recycle                                  301  /programs/recycling-program/
