@@ -1,6 +1,5 @@
 const LINE_BREAK = /\n/
 const WHITESPACE = /\s+/
-const LANGUAGES = [ '/zh', '/es' ]
 
 module.exports = {
   parseRules, // main export
@@ -15,36 +14,20 @@ function parseRules (fileContents) {
     if (isEmptyOrComment(trimmedLine)) continue
 
     const [ pattern, statusCode, replacement ] = trimmedLine.split(WHITESPACE)
-    let enhancedPattern = enhancePattern(pattern)
+    const enhancedPattern = enhancePattern(pattern)
     let regex
     try {
       regex = new RegExp(enhancedPattern, 'i') // case insensitive
     } catch (err) {
       console.error(err.message)
     }
+
     rules.push({
       pattern,
       regex,
       statusCode,
       replacement
     })
-    if (statusCode == '301' && replacement.charAt(0) == '/') {
-      for (const lang of LANGUAGES) {
-        let enhancedPattern = enhancePattern(lang+pattern)
-        let regex
-        try {
-          regex = new RegExp(enhancedPattern, 'i') // case insensitive
-        } catch (err) {
-          console.error(err.message)
-        }
-        rules.push({
-          pattern:lang+pattern,
-          regex,
-          statusCode,
-          replacement:lang+replacement
-        })
-      }
-    }
   }
   return rules
 }
