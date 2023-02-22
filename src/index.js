@@ -98,7 +98,9 @@ function rewriteRequest (request, newLocation) {
   function rewriteRequest (request, newLocation) {
     for (const lang of LANGUAGES) {
       if(request.uri.includes(lang) && newLocation.substring(0,3) != '/20') {
+        console.log('wow');
         request.uri = lang.slice(0,-1)+newLocation;
+        console.log(newLocation);
         break;
       }
     }
