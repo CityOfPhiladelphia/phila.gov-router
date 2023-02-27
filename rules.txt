@@ -1138,7 +1138,11 @@
 /services/payments-assistance-taxes/tax-forms-instructions/2019-tax-forms/ 301  /departments/department-of-revenue/forms-documents/tax-forms-and-instructions/
 /services/payments-assistance-taxes/tax-forms-instructions/2020-tax-forms/ 301  /departments/department-of-revenue/forms-documents/tax-forms-and-instructions/
 /services/payments-assistance-taxes/tax-forms-instructions/2021-tax-forms/ 301  /departments/department-of-revenue/forms-documents/tax-forms-and-instructions/
+/services/payments-assistance-taxes/taxes/filing-and-paying-your-taxes/e-filing-city-taxes/ 301 /services/payments-assistance-taxes/taxes/filing-and-paying-your-taxes/use-modernized-e-filing-mef-for-city-taxes/
+/services/payments-assistance-taxes/taxes/filing-and-paying-your-taxes/interest-penalties-and-fees-2/  301 /services/payments-assistance-taxes/taxes/filing-and-paying-your-taxes/interest-penalties-and-fees/
 /services/payments-assistance-taxes/vendor-payment-status/ 301  /services/payments-assistance-taxes/payments-from-the-city/track-vendor-payment/
+/services/payments-assistance-taxes/water-bills/water-bill-affordability-assistance-programs-payment-plans/income-based-water-bill-assistance/  301 /services/payments-assistance-taxes/water-bills/water-bill-affordability-assistance-programs-payment-plans/apply-for-water-bill-customer-assistance/
+/services/payments-assistance-taxes/water-bills/water-bill-affordability-assistance-programs-payment-plans/senior-citizen-water-bill-discount/  301 /services/payments-assistance-taxes/water-bills/water-bill-affordability-assistance-programs-payment-plans/apply-for-the-senior-citizen-water-bill-discount/
 /services/permits-violations-licenses/environmental-permits-and-approvals/?(.*)  301  /services/permits-violations-licenses/apply-for-a-permit/environmental-permits-and-approvals/$1
 /services/permits-violations-licenses/get-a-license/find-out-what-license-you-need-for-your-business/  301  /services/permits-violations-licenses/get-a-license/business-licenses-permits-and-approvals/
 /services/permits-violations-licenses/get-a-permit-to-use-a-philadelphia-parks-recreation-space/ 301 /services/permits-violations-licenses/apply-for-a-permit/get-a-permit-to-use-a-philadelphia-parks-recreation-space/reserve-a-parks-recreation-facility/
