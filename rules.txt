@@ -723,6 +723,7 @@
 /prisons(.*)                              301  /departments/philadelphia-department-of-prisons/
 /privacy/                                 301  /privacypolicy/
 /privacy/index.html                       301  /privacypolicy/
+/privacy/pdfs/FinalCityOpenRecords.pdf    301  /open-records-policy/
 /procurement/LBP/Pages/default.aspx       301  /departments/procurement-department/local-preference/
 /procurement/aboutus/Pages/PHLContractsFAQ.aspx 301 /departments/procurement-department/resources/
 /procurement/Documents/Consent_Authorization.pdf 301 /documents/procurement-contract-forms/
