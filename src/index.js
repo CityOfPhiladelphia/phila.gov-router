@@ -45,7 +45,8 @@ function handler (rules, event) {
       log('full rewrite', request)
       return request
     } else {
-      translateRequest(request, newLocation) // mutate request object
+      request.uri = newLocation
+      // translateRequest(request, newLocation) // mutate request object
       log('uri rewrite', newLocation)
       return request
     }
@@ -95,15 +96,15 @@ function rewriteRequest (request, newLocation) {
     { key: 'host', value: url.hostname }
   ]
 }
-  function translateRequest (request, newLocation) {
-    for (const lang of LANGUAGES) {
-      if(request.uri.includes(lang) && newLocation.substring(0,3) != '/20') {
-        request.uri = lang.slice(0,-1)+newLocation;
-        break;
-      }
-    }
-    request.uri = newLocation
-  }
+  // function rewriteRequest (request, newLocation) {
+  //   for (const lang of LANGUAGES) {
+  //     if(request.uri.includes(lang) && newLocation.substring(0,3) != '/20') {
+  //       request.uri = lang.slice(0,-1)+newLocation;
+  //       break;
+  //     }
+  //   }
+  //   request.uri = newLocation
+  // }
 
 function log (label, data) {
   if (process.env.NODE_ENV === 'test') return
