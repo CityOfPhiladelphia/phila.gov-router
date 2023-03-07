@@ -134,6 +134,7 @@
 /commerce(.*)                             301  /departments/department-of-commerce/
 /commercial-activity-license              301  /services/permits-violations-licenses/get-a-license/business-licenses-permits-and-approvals/get-a-commercial-activity-license/
 /complete-streets/chestnut-walnut-traffic-safety 301  /programs/complete-streets/projects/chestnut-walnut-repaving-and-complete-street-safety-project/
+/complete-streets/chinatown-stitch        301  /programs/complete-streets/projects/the-chinatown-stitch-reconnecting-philadelphia-to-vine-street/
 /complete-streets/west-chestnut-walnut    301  /programs/complete-streets/projects/chestnut-walnut-repaving-and-complete-street-safety-project/
 /complete-streets/penrose-traffic-calming 301  /2021-08-12-penrose-roundabout-looks-to-improve-safety-at-busy-intersection/
 /content-style-guide                      301  http://standards.phila.gov/guidelines/content/
