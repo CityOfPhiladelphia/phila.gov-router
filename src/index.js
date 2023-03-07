@@ -95,7 +95,7 @@ function rewriteRequest (request, newLocation) {
     { key: 'host', value: url.hostname }
   ]
 }
-  function rewriteRequest (request, newLocation) {
+  function translateRequest (request, newLocation) {
     for (const lang of LANGUAGES) {
       if(request.uri.includes(lang) && newLocation.substring(0,3) != '/20') {
         request.uri = lang.slice(0,-1)+newLocation;
