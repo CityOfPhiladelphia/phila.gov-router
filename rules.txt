@@ -26,6 +26,7 @@
 /2020-09-08-general-election-mail-in-ballot-guide-for-philadelphia-voters 301  /2022-05-09-election-day-guide-may-17-2022/
 /2022-07-19-the-latest-on-monkeypox-in-philadelphia/  301 /programs/monkeypox/updates
 /2022-07-19-lo-ultimo-sobre-monkeypox-en-filadelfia/ 301 /programs/monkeypox/
+/2020-04-15-free-pregnancy-baby-and-toddler-supports-during-covid-19/   301 /departments/department-of-public-health/health-centers/family-health/
 /311/(.*)                                 301  /departments/philly311/
 /311/report-an-issue                      301  https://iframe.publicstuff.com/#?client_id=242
 /aco                                      301  /departments/mayors-office-for-people-with-disabilities/
@@ -134,6 +135,7 @@
 /commerce(.*)                             301  /departments/department-of-commerce/
 /commercial-activity-license              301  /services/permits-violations-licenses/get-a-license/business-licenses-permits-and-approvals/get-a-commercial-activity-license/
 /complete-streets/chestnut-walnut-traffic-safety 301  /programs/complete-streets/projects/chestnut-walnut-repaving-and-complete-street-safety-project/
+/complete-streets/chinatown-stitch        301  /programs/complete-streets/projects/the-chinatown-stitch-reconnecting-philadelphia-to-vine-street/
 /complete-streets/west-chestnut-walnut    301  /programs/complete-streets/projects/chestnut-walnut-repaving-and-complete-street-safety-project/
 /complete-streets/penrose-traffic-calming 301  /2021-08-12-penrose-roundabout-looks-to-improve-safety-at-busy-intersection/
 /content-style-guide                      301  http://standards.phila.gov/guidelines/content/
@@ -292,6 +294,7 @@
 /documents/greenworks-on-the-ground-what-individuals-can-do/ 301  /documents/greenworks-on-the-ground/
 /documents/greenworks-on-the-ground-what-institutions-can-do/ 301  /documents/greenworks-on-the-ground/
 /documents/pregnancy-and-prenatal-care-guides/ 301  /services/mental-physical-health/get-health-care-and-support/family-and-childrens-health-care/get-prenatal-care/ 
+/documents/philadelphia-activities-fund-grant-application/   301  /services/culture-recreation/apply-for-a-philadelphia-activities-fund-grant/
 /documents                                301  /publications-forms/
 /documents/                               301  /publications-forms/
 /dot                                      301  /it
@@ -850,6 +853,7 @@
 /records/survey/(.*)                      301  /departments/department-of-records/
 /recovery                                 301  /programs/covid-19-recovery-office/
 /recoverPHL                               301  /programs/covid-19-recovery-office/
+/recovery/(.*)                            301  /departments/covid-19-recovery-office/
 /recoveryPHL                              301  /programs/covid-19-recovery-office/
 /recreation                               301  /departments/philadelphia-parks-recreation/
 /recycle                                  301  /programs/recycling-program/
@@ -1483,6 +1487,7 @@
 /vendorpayments/?$                        301  https://secure.phila.gov/finance/vendorpayments/
 /verizon-?feedback                        301  /departments/office-of-innovation-and-technology/verizon-franchise-agreement-feedback-form/
 /veterans                                 301  http://www.phlveterans.com/
+/victim-advocate                          301  /departments/office-of-the-victim-advocate/
 /violence-?prevention                      301  /departments/office-of-violence-prevention/
 /visionzero                               301  http://phl.maps.arcgis.com/apps/CrowdsourceReporter/index.html?appid=0b7432f7e6734795b1e09721eba506c1
 /visitors                                 301  http://www.visitphilly.com
