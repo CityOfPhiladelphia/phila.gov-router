@@ -72,6 +72,7 @@
 /business                                 301  https://business.phila.gov
 /businesssupport                          301  /departments/department-of-commerce/supporting-business/
 /businessattraction                       301  /departments/department-of-commerce/about-us/divisions/office-of-business-development-and-workforce-solutions/
+/business/crime-prevention-tips           301  /2023-03-06-crime-prevention-tips-for-your-business-and-employees/
 /business-taxes/sales-use-tax             301  /services/business-self-employment/business-taxes/sales-use-hotel-occupancy-tax/
 /business-taxes/sweetened-beverage-tax    301  /services/business-self-employment/business-taxes/philadelphia-beverage-tax/
 /business-taxes/use-occupancy-tax         301  /services/business-self-employment/business-taxes/use-occupancy-tax/
