@@ -184,6 +184,7 @@
 /departments/department-of-planning-and-development/development-services(.*) 301  /departments/division-of-development-services/
 /departments/department-of-public-property/green-buildings/ 301  /departments/office-of-sustainability/about/energy-office/compliance/green-buildings/
 /departments/department-of-public-health/contact-us/ 301	 /departments/department-of-public-health/about-us/contact-us/
+/departments/department-of-public-health/breastfeeding-guides-policies-and-fact-sheets/ 301  /services/mental-physical-health/get-health-care-and-support/family-and-childrens-health-care/get-breastfeeding-support/
 /departments/division-of-housing-community-development/ 301 /departments/division-of-housing-and-community-development/
 /departments/education                    301  /departments/mayors-office-of-education/
 /departments/emergency-management         301  /departments/oem
@@ -292,6 +293,7 @@
 /documents/greenworks-on-the-ground-what-communities-can-do/ 301  /documents/greenworks-on-the-ground/
 /documents/greenworks-on-the-ground-what-individuals-can-do/ 301  /documents/greenworks-on-the-ground/
 /documents/greenworks-on-the-ground-what-institutions-can-do/ 301  /documents/greenworks-on-the-ground/
+/documents/pregnancy-and-prenatal-care-guides/ 301  /services/mental-physical-health/get-health-care-and-support/family-and-childrens-health-care/get-prenatal-care/ 
 /documents/philadelphia-activities-fund-grant-application/   301  /services/culture-recreation/apply-for-a-philadelphia-activities-fund-grant/
 /documents                                301  /publications-forms/
 /documents/                               301  /publications-forms/
