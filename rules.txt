@@ -184,6 +184,7 @@
 /departments/department-of-planning-and-development/development-services(.*) 301  /departments/division-of-development-services/
 /departments/department-of-public-property/green-buildings/ 301  /departments/office-of-sustainability/about/energy-office/compliance/green-buildings/
 /departments/department-of-public-health/contact-us/ 301	 /departments/department-of-public-health/about-us/contact-us/
+/departments/department-of-public-health/breastfeeding-guides-policies-and-fact-sheets/ 301  /services/mental-physical-health/get-health-care-and-support/family-and-childrens-health-care/get-breastfeeding-support/
 /departments/division-of-housing-community-development/ 301 /departments/division-of-housing-and-community-development/
 /departments/education                    301  /departments/mayors-office-of-education/
 /departments/emergency-management         301  /departments/oem
@@ -292,6 +293,7 @@
 /documents/greenworks-on-the-ground-what-communities-can-do/ 301  /documents/greenworks-on-the-ground/
 /documents/greenworks-on-the-ground-what-individuals-can-do/ 301  /documents/greenworks-on-the-ground/
 /documents/greenworks-on-the-ground-what-institutions-can-do/ 301  /documents/greenworks-on-the-ground/
+/documents/pregnancy-and-prenatal-care-guides/ 301  /services/mental-physical-health/get-health-care-and-support/family-and-childrens-health-care/get-prenatal-care/ 
 /documents/philadelphia-activities-fund-grant-application/   301  /services/culture-recreation/apply-for-a-philadelphia-activities-fund-grant/
 /documents                                301  /publications-forms/
 /documents/                               301  /publications-forms/
@@ -1370,7 +1372,16 @@
 /services/business-self-employment/register-as-a-minority-woman-or-disabled-owned-business/ 301  /services/diversity-inclusion-accessibility-immigration/m-w-dsbe-owned-businesses/register-as-a-minority-woman-disabled-owned-business/
 /services/business-self-employment/report-wage-theft/ 301  /services/business-self-employment/report-wage-theft-violation/
 /services/crime-law-justice/report-a-crime-or-concern/report-a-noise-violation/ 301  /services/mental-physical-health/report-a-health-or-safety-concern/report-air-and-noise-pollution/
-/services/mental-physical-health/environmental-health-hazards/zika-virus/mosquito-control/ 301  /services/mental-physical-health/environmental-health-hazards/zika-virus/
+/services/mental-physical-health/environmental-health-hazards/zika-virus/mosquito-control/ 301  /services/mental-physical-health/environmental-health-hazards/zika-virus/mosquito-control/ 
+/services/mental-physical-health/environmental-health-hazards/zika-virus/ 301 /documents/zika-prevention-resources/
+/services/mental-physical-health/environmental-health-hazards/zika-virus/overview/   301 /documents/zika-prevention-resources/
+/services/mental-physical-health/environmental-health-hazards/zika-virus/prevention/ 301 /documents/zika-prevention-resources/
+/services/mental-physical-health/environmental-health-hazards/zika-virus/pregnancy-risks/  301 /documents/zika-prevention-resources/
+/services/mental-physical-health/environmental-health-hazards/zika-virus/travel-precautions/  301 /documents/zika-prevention-resources/
+/services/mental-physical-health/environmental-health-hazards/zika-virus/diagnosis-treatment/ 301 /documents/zika-prevention-resources/
+/services/mental-physical-health/environmental-health-hazards/zika-virus/what-you-can-do/  301 /documents/zika-prevention-resources/
+/services/mental-physical-health/environmental-health-hazards/zika-virus/what-the-city-is-doing/ 301 /documents/zika-prevention-resources/
+/services/mental-physical-health/environmental-health-hazards/zika-virus/common-concerns/  301 /documents/zika-prevention-resources/
 /services/payments-assistance-taxes/get-real-estate-tax-relief/active-duty-tax-credit/ 301  /services/property-lots-housing/property-taxes/get-real-estate-tax-relief/active-duty-tax-credit/
 /services/payments-assistance-taxes/get-real-estate-tax-relief/get-the-homestead-exemption/ 301  /services/property-lots-housing/property-taxes/get-real-estate-tax-relief/get-the-homestead-exemption/
 /services/payments-assistance-taxes/get-real-estate-tax-relief/longtime-owner-occupants-program-loop/ 301  /services/payments-assistance-taxes/payment-plans-and-assistance-programs/income-based-programs-for-residents/apply-for-the-longtime-owner-occupants-program-loop/
@@ -1530,7 +1541,7 @@
 /zba/appeals-calendar(.*)                 301  https://li.phila.gov/zba-appeals-calendar
 /zba                                      301  /departments/zoning-board-of-adjustment/
 /zero-?waste                              301  /programs/zero-waste-initiatives/
-/zika                                     301  /services/mental-physical-health/environmental-health-hazards/zika-virus/
+/zika                                     301  /documents/zika-prevention-resources/
 /zipcheck                                 301  /documents/zipcheck-application/
 /zoning-summary-generator$                301  /zoning-summary-generator/
 /zoning-summary-generator/(.*)            200  http://dpd-zoning-summary-generator.s3-website-us-east-1.amazonaws.com/$1
