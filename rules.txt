@@ -240,6 +240,12 @@
 /departments/department-of-revenue/our-services/tax-services/non-resident-covid-ez-refund-petition/ 301 https://tax-services.phila.gov/
 /departments/department-of-revenue/our-services/tax-services/online-income-based-wage-tax-refund-petition/ 301 https://tax-services.phila.gov/
 /departments/office-of-sustainability/about/food-policy-advisory-council/ 301  /departments/office-of-sustainability/about/commissions-and-councils/
+/departments/office-of-sustainability/about/energy-office/   301 /departments/office-of-sustainability/about/municipal-energy-office/
+/departments/office-of-sustainability/about/energy-office/procurement-analytics/   301 /departments/office-of-sustainability/about/municipal-energy-office/procurement-analytics/ 
+/departments/office-of-sustainability/about/energy-office/capital-improvements/    301 /departments/office-of-sustainability/about/municipal-energy-office/capital-improvements/ 
+/departments/office-of-sustainability/about/energy-office/energy-conservation-programs/   301 /departments/office-of-sustainability/about/municipal-energy-office/energy-conservation-programs/
+/departments/office-of-sustainability/about/energy-office/building-compliance/     301 /departments/office-of-sustainability/about/municipal-energy-office/building-compliance/ 
+/departments/office-of-sustainability/about/energy-office/building-compliance/high-performance-buildings/   301 /departments/office-of-sustainability/about/municipal-energy-office/building-compliance/high-performance-buildings/ 
 /departments/water-department/            301	 /departments/philadelphia-water-department/
 /development-services                     301  /departments/division-of-development-services/
 /dhcd/neighborhood-resources(.*)          301  /departments/division-of-housing-and-community-development/neighborhood-resources/
