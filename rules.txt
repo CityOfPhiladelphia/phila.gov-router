@@ -80,6 +80,7 @@
 /businesstaxprograms                      301  /services/payments-assistance-taxes/taxes/tax-credits/
 /business-?vaccine                        301  /services/mental-physical-health/get-vaccinated/get-your-covid-19-vaccine-or-booster/
 /cf-?dashboard                            301  https://experience.arcgis.com/experience/7444617509954375adc64e7355b98581/
+/camps                                    301  /services/culture-recreation/activities-and-events/register-for-summer-camp/
 /campcraig2019                            301  https://survey123.arcgis.com/share/d5c0af4dbea242819835571e79087d6a
 /candidate-?resources                     301  /departments/mayor/resources-for-2023-mayoral-candidates/
 /cao                                      301  /departments/office-of-the-chief-administrative-officer/
@@ -240,6 +241,12 @@
 /departments/department-of-revenue/our-services/tax-services/non-resident-covid-ez-refund-petition/ 301 https://tax-services.phila.gov/
 /departments/department-of-revenue/our-services/tax-services/online-income-based-wage-tax-refund-petition/ 301 https://tax-services.phila.gov/
 /departments/office-of-sustainability/about/food-policy-advisory-council/ 301  /departments/office-of-sustainability/about/commissions-and-councils/
+/departments/office-of-sustainability/about/energy-office/   301 /departments/office-of-sustainability/about/municipal-energy-office/
+/departments/office-of-sustainability/about/energy-office/procurement-analytics/   301 /departments/office-of-sustainability/about/municipal-energy-office/procurement-analytics/ 
+/departments/office-of-sustainability/about/energy-office/capital-improvements/    301 /departments/office-of-sustainability/about/municipal-energy-office/capital-improvements/ 
+/departments/office-of-sustainability/about/energy-office/energy-conservation-programs/   301 /departments/office-of-sustainability/about/municipal-energy-office/energy-conservation-programs/
+/departments/office-of-sustainability/about/energy-office/building-compliance/     301 /departments/office-of-sustainability/about/municipal-energy-office/building-compliance/ 
+/departments/office-of-sustainability/about/energy-office/building-compliance/high-performance-buildings/   301 /departments/office-of-sustainability/about/municipal-energy-office/building-compliance/high-performance-buildings/ 
 /departments/water-department/            301	 /departments/philadelphia-water-department/
 /development-services                     301  /departments/division-of-development-services/
 /dhcd/neighborhood-resources(.*)          301  /departments/division-of-housing-and-community-development/neighborhood-resources/
@@ -784,6 +791,7 @@
 /programs/e3-power-centers/               301  /programs/e3-services/
 /programs/education-and-childcare-services/(.*) 301 /programs/education-support-center/$1
 /programs/energy-benchmarking/            301  http://www.phillybuildingbenchmarking.com/
+/programs/mechanical-street-cleaning/phase-2-pilot/      301  /programs/mechanical-street-cleaning/cleaning-schedule/
 /programs/philadelphia-resilience-project/ 301 /programs/opioid-response-unit/
 /consumer-protection                      301  /programs/philadelphia-consumer-financial-protection-task-force/
 /programs/rebuild/careers/                301  /programs/rebuild/training-programs/
@@ -814,6 +822,7 @@
 /property/data/(.*)                       200  https://cityofphiladelphia.github.io/property-download/$1
 /publicart                                301  http://creativephl.org/tagged/Public-Art/
 /public-?restroom(.*)                     301  /2022-08-16-updates-on-the-philadelphia-public-restroom-pilot/
+/quality-?jobs-?program                   301  /2023-03-09-businesses-can-now-apply-for-the-quality-jobs-program/ 
 /quality-pre-k                            301  /programs/quality-pre-k/
 /qualityoflife                            301  /clip
 /qualityprek                              301  /departments/mayors-office-of-education/quality-pre-k-newsletter-signup/
@@ -1490,6 +1499,7 @@
 /uas                                      301  https://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=d93906e2068e4eaa9c0e505287b959e2
 /unitycup                                 301  http://unitycup.phila.gov
 /universalprek(.*)                        301  /programs/quality-pre-k/
+/up-?and-?away                            301  /2022-03-25-keep-medicines-and-drugs-up-and-out-of-reach-of-children/ 
 /vaccine                                  301  /services/mental-physical-health/get-vaccinated/get-your-covid-19-vaccine-or-booster/
 /vaccines                                 301  /services/mental-physical-health/get-vaccinated/get-your-covid-19-vaccine-or-booster/
 /vaccine-?interest                        301  /services/mental-physical-health/get-vaccinated/get-your-covid-19-vaccine-or-booster/
