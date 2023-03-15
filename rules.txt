@@ -820,6 +820,7 @@
 /property/data/(.*)                       200  https://cityofphiladelphia.github.io/property-download/$1
 /publicart                                301  http://creativephl.org/tagged/Public-Art/
 /public-?restroom(.*)                     301  /2022-08-16-updates-on-the-philadelphia-public-restroom-pilot/
+/quality-?jobs-?program                   301  /2023-03-09-businesses-can-now-apply-for-the-quality-jobs-program/ 
 /quality-pre-k                            301  /programs/quality-pre-k/
 /qualityoflife                            301  /clip
 /qualityprek                              301  /departments/mayors-office-of-education/quality-pre-k-newsletter-signup/
