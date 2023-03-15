@@ -1490,6 +1490,7 @@
 /uas                                      301  https://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=d93906e2068e4eaa9c0e505287b959e2
 /unitycup                                 301  http://unitycup.phila.gov
 /universalprek(.*)                        301  /programs/quality-pre-k/
+/up-?and-?away                            301  /2022-03-25-keep-medicines-and-drugs-up-and-out-of-reach-of-children/ 
 /vaccine                                  301  /services/mental-physical-health/get-vaccinated/get-your-covid-19-vaccine-or-booster/
 /vaccines                                 301  /services/mental-physical-health/get-vaccinated/get-your-covid-19-vaccine-or-booster/
 /vaccine-?interest                        301  /services/mental-physical-health/get-vaccinated/get-your-covid-19-vaccine-or-booster/
