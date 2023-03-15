@@ -791,6 +791,7 @@
 /programs/e3-power-centers/               301  /programs/e3-services/
 /programs/education-and-childcare-services/(.*) 301 /programs/education-support-center/$1
 /programs/energy-benchmarking/            301  http://www.phillybuildingbenchmarking.com/
+/programs/mechanical-street-cleaning/phase-2-pilot/      301  /programs/mechanical-street-cleaning/cleaning-schedule/
 /programs/philadelphia-resilience-project/ 301 /programs/opioid-response-unit/
 /consumer-protection                      301  /programs/philadelphia-consumer-financial-protection-task-force/
 /programs/rebuild/careers/                301  /programs/rebuild/training-programs/
