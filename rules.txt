@@ -304,6 +304,7 @@
 /documents/greenworks-on-the-ground-what-institutions-can-do/ 301  /documents/greenworks-on-the-ground/
 /documents/pregnancy-and-prenatal-care-guides/ 301  /services/mental-physical-health/get-health-care-and-support/family-and-childrens-health-care/get-prenatal-care/ 
 /documents/philadelphia-activities-fund-grant-application/   301  /services/culture-recreation/apply-for-a-philadelphia-activities-fund-grant/
+/documents/mayors-volunteer-corps-zine/   301  /documents/mayors-volunteer-zine/
 /documents                                301  /publications-forms/
 /documents/                               301  /publications-forms/
 /dot                                      301  /it
@@ -792,6 +793,7 @@
 /programs/e3-power-centers/               301  /programs/e3-services/
 /programs/education-and-childcare-services/(.*) 301 /programs/education-support-center/$1
 /programs/energy-benchmarking/            301  http://www.phillybuildingbenchmarking.com/
+/programs/mayors-volunteer-corps/         301  /programs/mayors-volunteers/
 /programs/mechanical-street-cleaning/phase-2-pilot/      301  /programs/mechanical-street-cleaning/cleaning-schedule/
 /programs/philadelphia-resilience-project/ 301 /programs/opioid-response-unit/
 /consumer-protection                      301  /programs/philadelphia-consumer-financial-protection-task-force/
