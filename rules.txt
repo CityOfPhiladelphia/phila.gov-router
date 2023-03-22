@@ -185,6 +185,7 @@
 /departments/department-of-commerce/about-us/divisions/office-of-workforce-development/ 301  /departments/department-of-commerce/about-us/divisions/office-of-neighborhood-economic-development/
 /departments/department-of-licenses-and-inspections/permits-and-certificates/contractor-requirements/ 301 /departments/department-of-licenses-and-inspections/inspections/contractor-requirements/
 /departments/department-of-planning-and-development/development-services(.*) 301  /departments/division-of-development-services/
+/departments/department-of-public-health/about-us/staff/    301  /departments/department-of-public-health/about-us/leadership/
 /departments/department-of-public-property/green-buildings/ 301  /departments/office-of-sustainability/about/energy-office/compliance/green-buildings/
 /departments/department-of-public-health/contact-us/ 301	 /departments/department-of-public-health/about-us/contact-us/
 /departments/department-of-public-health/breastfeeding-guides-policies-and-fact-sheets/ 301  /services/mental-physical-health/get-health-care-and-support/family-and-childrens-health-care/get-breastfeeding-support/
