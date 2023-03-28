@@ -82,7 +82,7 @@ function handler (rules, event) {
 
 function createRedirect (newLocation, statusCode, translatedLang) {
   if (translatedLang != undefined && newLocation.substring(0,3) != '/20') {
-    newLocation += translatedLang;
+    newLocation = translatedLang+newLocation;
   }
   return {
     status: statusCode,
