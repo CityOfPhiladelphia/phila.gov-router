@@ -28,21 +28,29 @@ async function lambda (event) {
 function handler (rules, event) {
   const request = event.Records[0].cf.request
   let translatedLang;
+  let translatedUri;
   log('request', request)
 
   for (const lang of LANGUAGES) {
     if(request.uri.includes(lang)) {
       translatedLang = lang.slice(0,-1);
+      translatedUri = request.uri.slice(4);
       break;
     }
   }
 
   // Apply this function to every rule until a match is found
   const matchedRule = rules.find((rule) => rule.regex.test(request.uri))
+  if (translatedUri != undefined) {
+    matchedRule = rules.find((rule) => rule.regex.test(translatedUri))
+  }
 
   if (matchedRule) {
     const { regex, replacement, statusCode } = matchedRule
     const newLocation = request.uri.replace(regex, replacement)
+    if (translatedUri) {
+      newLocation = translatedUri.replace(regex, replacement)
+    }
 
     if (statusCode >= 300 && statusCode < 400) {
       const response = createRedirect(newLocation, statusCode, translatedLang)
