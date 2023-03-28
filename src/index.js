@@ -30,12 +30,12 @@ function handler (rules, event) {
   let translatedLang;
   let translatedUri;
   log('request', request)
-  console.log(request.uri.slice(4));
+  console.log(request.uri.slice(3));
   for (const lang of LANGUAGES) {
     if(request.uri.includes(lang)) {
       translatedLang = lang.slice(0,-1);
       console.log(translatedLang);
-      translatedUri = request.uri.slice(4);
+      translatedUri = request.uri.slice(3);
       break;
     }
   }
