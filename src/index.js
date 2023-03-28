@@ -40,14 +40,14 @@ function handler (rules, event) {
   }
 
   // Apply this function to every rule until a match is found
-  const matchedRule = rules.find((rule) => rule.regex.test(request.uri))
+  let matchedRule = rules.find((rule) => rule.regex.test(request.uri))
   if (translatedUri != undefined) {
     matchedRule = rules.find((rule) => rule.regex.test(translatedUri))
   }
 
   if (matchedRule) {
     const { regex, replacement, statusCode } = matchedRule
-    const newLocation = request.uri.replace(regex, replacement)
+    let newLocation = request.uri.replace(regex, replacement)
     if (translatedUri) {
       newLocation = translatedUri.replace(regex, replacement)
     }
