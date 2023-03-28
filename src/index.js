@@ -30,11 +30,9 @@ function handler (rules, event) {
   let translatedLang;
   let translatedUri;
   log('request', request)
-  console.log(request.uri.slice(3));
   for (const lang of LANGUAGES) {
     if(request.uri.includes(lang)) {
       translatedLang = lang.slice(0,-1);
-      console.log(translatedLang);
       translatedUri = request.uri.slice(3);
       break;
     }
@@ -45,8 +43,6 @@ function handler (rules, event) {
   if (translatedUri != undefined) {
     matchedRule = rules.find((rule) => rule.regex.test(translatedUri))
   }
-  console.log(translatedUri);
-  console.log(matchedRule);
 
   if (matchedRule) {
     const { regex, replacement, statusCode } = matchedRule
