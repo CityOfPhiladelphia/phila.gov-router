@@ -44,6 +44,8 @@ function handler (rules, event) {
   if (translatedUri != undefined) {
     matchedRule = rules.find((rule) => rule.regex.test(translatedUri))
   }
+  console.log(translatedUri);
+  console.log(matchedRule);
 
   if (matchedRule) {
     const { regex, replacement, statusCode } = matchedRule
