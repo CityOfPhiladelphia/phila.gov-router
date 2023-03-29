@@ -27,17 +27,32 @@ async function lambda (event) {
 
 function handler (rules, event) {
   const request = event.Records[0].cf.request
+  let translatedLang;
+  let translatedUri;
   log('request', request)
+  for (const lang of LANGUAGES) {
+    if(request.uri.includes(lang)) {
+      translatedLang = lang.slice(0,-1);
+      translatedUri = request.uri.slice(3);
+      break;
+    }
+  }
 
   // Apply this function to every rule until a match is found
-  const matchedRule = rules.find((rule) => rule.regex.test(request.uri))
+  let matchedRule = rules.find((rule) => rule.regex.test(request.uri))
+  if (translatedUri != undefined) {
+    matchedRule = rules.find((rule) => rule.regex.test(translatedUri))
+  }
 
   if (matchedRule) {
     const { regex, replacement, statusCode } = matchedRule
-    const newLocation = request.uri.replace(regex, replacement)
+    let newLocation = request.uri.replace(regex, replacement)
+    if (translatedUri) {
+      newLocation = translatedUri.replace(regex, replacement)
+    }
 
     if (statusCode >= 300 && statusCode < 400) {
-      const response = createRedirect(newLocation, statusCode)
+      const response = createRedirect(newLocation, statusCode, translatedLang)
       log('redirect', response)
       return response
     } else if(IS_URL.test(newLocation)) {
@@ -45,7 +60,7 @@ function handler (rules, event) {
       log('full rewrite', request)
       return request
     } else {
-      translateRequest(request, newLocation) // mutate request object
+      request.uri = newLocation
       log('uri rewrite', newLocation)
       return request
     }
@@ -61,7 +76,10 @@ function handler (rules, event) {
   }
 }
 
-function createRedirect (newLocation, statusCode) {
+function createRedirect (newLocation, statusCode, translatedLang) {
+  if (translatedLang != undefined && newLocation.substring(0,3) != '/20') {
+    newLocation = translatedLang+newLocation;
+  }
   return {
     status: statusCode,
     statusDescription: 'Moved Permanently',
@@ -95,15 +113,6 @@ function rewriteRequest (request, newLocation) {
     { key: 'host', value: url.hostname }
   ]
 }
-  function translateRequest (request, newLocation) {
-    for (const lang of LANGUAGES) {
-      if(request.uri.includes(lang) && newLocation.substring(0,3) != '/20') {
-        request.uri = lang.slice(0,-1)+newLocation;
-        break;
-      }
-    }
-    request.uri = newLocation
-  }
 
 function log (label, data) {
   if (process.env.NODE_ENV === 'test') return
