@@ -444,6 +444,7 @@
 /it/aboutus/units/Pages/GISServicesGroup.aspx 301 /departments/office-of-innovation-and-technology/innovation-management-team/
 /it/aboutus/pages/employment.aspx         301  https://www.smartrecruiters.com/OfficeOfInnovationTechnology
 /itjobs                                   301  https://www.smartrecruiters.com/OfficeOfInnovationTechnology
+/itsasummerthing                          301  https://www.phila.gov/2023-04-03-welcome-to-the-home-of-itsasummerthing/ 
 /iwa                                      301  https://goo.gl/forms/bgDbXCvrvpJoRpul2
 /kenney-?1000-?days                       301  /documents/first-1000-days-of-the-kenney-administration/
 /khsa                                     301  /programs/community-schools/kensington-health-sciences-academy/
