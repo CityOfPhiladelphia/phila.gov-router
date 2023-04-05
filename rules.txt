@@ -54,6 +54,7 @@
 /bank-on                                  301  /services/payments-assistance-taxes/financial-services-for-residents/open-a-safe-and-affordable-bank-account/
 /become-a-water-customer                  301  /services/water-gas-utilities/become-a-water-customer/
 /benchmarking                             301  http://www.phillybuildingbenchmarking.com/
+/benephilly                               301  /programs/benephilly
 /bge                                      301  /programs/broad-germantown-and-erie-bge/
 /bids                                     301  /departments/procurement-department/
 /bidsonline                               301  https://www.phlcontracts.phila.gov/bso/
