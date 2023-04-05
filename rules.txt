@@ -803,6 +803,7 @@
 /consumer-protection                      301  /programs/philadelphia-consumer-financial-protection-task-force/
 /programs/rebuild/careers/                301  /programs/rebuild/training-programs/
 /programs/rebuild/programs                301  /programs/rebuild/for-businesses/
+/programs/rebuild/project-sites/panati-recreation-center/  301  /programs/rebuild/project-sites/panati-playground/
 /programs/startup-phl                     301  http://startupphl.com/
 /programs/stemcityphl                     301  http://www.stemcityphl.org/
 /programs/substance-use-prevention-and-harm-reduction/the-citys-response/  301 /programs/opioid-response-unit/the-citys-response/
