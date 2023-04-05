@@ -310,6 +310,11 @@
 /documents                                301  /publications-forms/
 /documents/                               301  /publications-forms/
 /dot                                      301  /it
+/dpd                                      301  /departments/department-of-planning-and-development/
+/dpd/dashboards                           301  /departments/department-of-planning-and-development/about/our-results
+/dpd/npi-dashboard                        301  /departments/department-of-planning-and-development/about/our-results/neighborhood-preservation-initative-npi-dashboard/
+/dpd/hap-dashboard                        301  /departments/department-of-planning-and-development/about/our-results/housing-action-plan-dashboard/
+/dpd/land-dashboard                       301  /departments/department-of-planning-and-development/about/our-results/land-management-dashboard/
 /droneguide                               301  https://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=d93906e2068e4eaa9c0e505287b959e2
 /DronePhilly                              301  https://veoci.com/veoci/p/dashboard/8vfac7c7b7
 /duelo                                    301  /programs/substance-use-prevention-and-harm-reduction/servicios-de-apoyo-para-el-duelo/
