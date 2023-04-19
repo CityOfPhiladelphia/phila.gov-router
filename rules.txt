@@ -456,6 +456,7 @@
 /khsa                                     301  /programs/community-schools/kensington-health-sciences-academy/
 /labor                                    301  /departments/mayors-office-of-labor/
 /landbank                                 301  http://www.philadelphialandbank.org
+/landlord-gateway                         301  /programs/landlord-gateway/ 
 /language-?access                         301  /programs/language-access-philly/
 /language-?usage-?dashboard               301  https://experience.arcgis.com/experience/51923768a6b14d5bb773bfcc1cf74cd1/
 /law/(.*)                                 301  /departments/law-department/
