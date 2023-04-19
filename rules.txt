@@ -196,7 +196,7 @@
 /departments/emergency-management/(.*)    301  /departments/oem/$1
 /departments/health-and-human-services/data-management-office 301  /departments/office-of-integrated-data-for-evidence-and-action/
 /departments/mayor/get-involved           301  /departments/mayor/#action-modal
-/departments/mayor/quality-pre-k          301  /departments/mayors-office-of-education/quality-pre-k-newsletter-signup/
+/departments/mayor/quality-pre-k          301  /programs/quality-pre-k/
 /departments/office-of-immigrant-affairs/mayors-commission-on-asian-american-affairs/(.*) 301 /departments/office-of-immigrant-affairs/mayors-commission-on-asian-pacific-american-affairs/$1
 /departments/mayors-office-of-community-empowerment-and-opportunity 301 /departments/office-of-community-empowerment-and-opportunity/
 /departments/mayors-office-of-education/career-technical-education 301 /programs/career-technical-education/
@@ -233,7 +233,7 @@
 /departments/revenue                      301  /departments/department-of-revenue/
 /departments/risk-management/             301  /departments/office-of-the-director-of-finance/office-of-risk-management/
 /departments/water-sewer-stormwater-rate-board 301 /departments/water-sewer-storm-water-rate-board/
-/departments/mayors-office-of-education/quality-pre-k-newsletter-signup/ 301 /programs/quality-pre-k/newsletter-sign-up/
+/departments/mayors-office-of-education/quality-pre-k-newsletter-signup/ 301 /programs/quality-pre-k/
 /departments/office-of-open-data-and-digital-transformation(.*)    301 /2019-10-14-the-evolution-of-design-tech-and-data-at-the-city/
 /departments/office-of-sustainability/about/energy-office/compliance/green-buildings/  301 /departments/office-of-sustainability/about/energy-office/compliance/high-performance-buildings/
 /departments/philadelphia-historical-commission/agendas-and-minutes/ 301 /departments/philadelphia-historical-commission/public-meetings/
@@ -838,7 +838,7 @@
 /quality-?jobs-?program                   301  /2023-03-09-businesses-can-now-apply-for-the-quality-jobs-program/ 
 /quality-pre-k                            301  /programs/quality-pre-k/
 /qualityoflife                            301  /clip
-/qualityprek                              301  /departments/mayors-office-of-education/quality-pre-k-newsletter-signup/
+/qualityprek                              301  /programs/quality-pre-k/
 /rain-garden                              301  http://stormwaterpa.org/raingarden.html?key=0
 /rconotification$                         301  /rconotification/
 /rconotification/(.*)                     200  https://du77h83q9ewhi.cloudfront.net/$1
