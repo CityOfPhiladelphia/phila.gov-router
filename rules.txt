@@ -307,8 +307,6 @@
 /documents/pregnancy-and-prenatal-care-guides/ 301  /services/mental-physical-health/get-health-care-and-support/family-and-childrens-health-care/get-prenatal-care/ 
 /documents/philadelphia-activities-fund-grant-application/   301  /services/culture-recreation/apply-for-a-philadelphia-activities-fund-grant/
 /documents/mayors-volunteer-corps-zine/   301  /documents/mayors-volunteer-zine/
-/documents                                301  /publications-forms/
-/documents/                               301  /publications-forms/
 /dot                                      301  /it
 /dpd                                      301  /departments/department-of-planning-and-development/
 /dpd/dashboards                           301  /departments/department-of-planning-and-development/about/our-results
@@ -757,7 +755,7 @@
 /procurement/Documents/City%20of%20Philadelphia%20Local%20Business%20Entity%20Listing.pdf 301 /documents/local-business-entity-information/
 /procurement(.*)                          301 /departments/procurement-department/
 /pro-?ems                                 301 /departments/philadelphia-regional-office-of-emergency-medical-services/
-/programs                                 301  /programs-initiatives/
+/programs-initiatives(.*)                 301  /programs/
 /programs/access-centers(.*)              301  /2021-02-22-the-citys-access-centers-are-still-enrolling-students/
 /programs/acute-communicable-disease-program/monkeypox/   301 /programs/monkeypox/
 /programs/blockchain-for-city-government  301  /departments/office-of-innovation-and-technology/
@@ -835,6 +833,7 @@
 /property/data$                           301  /property/data/
 /property/data/(.*)                       200  https://cityofphiladelphia.github.io/property-download/$1
 /publicart                                301  http://creativephl.org/tagged/Public-Art/
+/publications-forms(.*)                   301  /documents/
 /public-?restroom(.*)                     301  /2022-08-16-updates-on-the-philadelphia-public-restroom-pilot/
 /quality-?jobs-?program                   301  /2023-03-09-businesses-can-now-apply-for-the-quality-jobs-program/ 
 /quality-pre-k                            301  /programs/quality-pre-k/
@@ -944,7 +943,7 @@
 /senior-freeze                            301  /services/payments-assistance-taxes/payment-plans-and-assistance-programs/senior-citizen-programs/apply-for-the-low-income-senior-citizen-real-estate-tax-freeze/
 /septa-for-all                            301  /spotlight/septa-for-all-augmenting-transit-with-augmented-reality/
 /sera                                     301  https://philadelphia.maps.arcgis.com/apps/webappviewer/index.html?id=8a2a28d8b6be43048c6aa266b812e003
-/services/                                301  /service-directory/
+/service-directory(.*)                    301  /services/
 /service/water-bills                      301  /services/water-gas-utilities/pay-or-dispute-a-water-bill/pay-a-water-bill/
 /services/birth-marriage-life-events/foster-or-adopt 301 /services/birth-marriage-life-events/adopt-a-child/
 /services/birth-marriage-life-events/get-a-marriage-license/ 301 /services/birth-marriage-life-events/marriage-and-divorce/get-a-marriage-license/
