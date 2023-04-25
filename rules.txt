@@ -133,7 +133,7 @@
 /commerce/businessAttraction/Pages/default.aspx 301 /departments/department-of-commerce/about-us/divisions/office-of-business-development-and-workforce-solutions/
 /commerce/neighborhoods/Pages/default.aspx 301 /departments/department-of-commerce/investing-in-neighborhoods/
 /commerce/businessSupport/Pages/default.aspx 301 /departments/department-of-commerce/supporting-business/
-/commerce/business-resource-finder(.*)    200   http://phila-resource-finder-v2.s3-website-us-east-1.amazonaws.com/commerce/business-resource-finder$1
+/commerce/business-resource-finder(.*)    200  http://phila-resource-finder-v2.s3-website-us-east-1.amazonaws.com/commerce/business-resource-finder$1
 /commerce/realEstate/developerServices/Pages/default.aspx 301 /departments/division-of-development-services/
 /commerce/realEstate/developerServices/Pages/DevelopmentServicesCommittee.aspx 301 /departments/division-of-development-services/
 /commerce/realEstate/Pages/KeystoneOpportunityZones.aspx 301 /programs/keystone-opportunity-zones/
@@ -368,7 +368,7 @@
 /foodstandards                            301  /documents/city-of-philadelphia-nutrition-standards/
 /food-?waste                              301  /programs/zero-waste-initiatives/food-waste-reduction/
 /food$                                    301  /food/
-/food/(.*)                                200   http://phila-resource-finder-v2.s3-website-us-east-1.amazonaws.com/food/$1
+/food/(.*)                                200  http://phila-resource-finder-v2.s3-website-us-east-1.amazonaws.com/food/$1
 /fosteringphilly                          301  /services/birth-marriage-life-events/become-a-foster-parent/
 /fsedmonds                                301  /programs/community-schools/f-s-edmonds-elementary-school/
 /FY20-budget                              301  /2019-03-07-mayor-kenneys-fy20-budget-prioritizes-education-inclusion-and-justice/
@@ -583,7 +583,7 @@
 /oho                                      301  /hhs
 /ohs(.*)                                  301  /departments/office-of-homeless-services/
 /oia                                      301  /departments/office-of-immigrant-affairs/
-/oia/resource-finder(.*)                  200   http://phila-resource-finder-v2.s3-website-us-east-1.amazonaws.com/oia/resource-finder$1
+/oia/resource-finder(.*)                  200  http://phila-resource-finder-v2.s3-website-us-east-1.amazonaws.com/oia/resource-finder$1
 /oig                                      301  /departments/office-of-the-inspector-general/
 /oit                                      301  /it
 /older-youth-pandemic-relief              301  /2021-06-11-pandemic-relief-payments-available-now-for-eligible-youth/
