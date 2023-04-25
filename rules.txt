@@ -131,7 +131,7 @@
 /commerce/businessAttraction/Pages/default.aspx 301 /departments/department-of-commerce/about-us/divisions/office-of-business-development-and-workforce-solutions/
 /commerce/neighborhoods/Pages/default.aspx 301 /departments/department-of-commerce/investing-in-neighborhoods/
 /commerce/businessSupport/Pages/default.aspx 301 /departments/department-of-commerce/supporting-business/
-/commerce/business-resource-finder(.*)    200  http://phila-resource-finder.s3-website-us-east-1.amazonaws.com/commerce/business-resource-finder$1
+/commerce/business-resource-finder(.*)    200   http://phila-resource-finder-v2.s3-website-us-east-1.amazonaws.com/commerce/business-resource-finder$1
 /commerce/realEstate/developerServices/Pages/default.aspx 301 /departments/division-of-development-services/
 /commerce/realEstate/developerServices/Pages/DevelopmentServicesCommittee.aspx 301 /departments/division-of-development-services/
 /commerce/realEstate/Pages/KeystoneOpportunityZones.aspx 301 /programs/keystone-opportunity-zones/
@@ -159,7 +159,7 @@
 /covid19taxrelief                         301  /departments/department-of-revenue/our-services/tax-services/tax-guidance-in-response-to-covid-19/
 /covid-19-tax-relief                      301  /departments/department-of-revenue/our-services/tax-services/tax-guidance-in-response-to-covid-19/
 /covid-testing-sites$                     301  /covid-testing-sites/
-/covid-testing-sites/(.*)                 200  http://phila-resource-finder.s3-website-us-east-1.amazonaws.com/covid-testing/prod/$1
+/covid-testing-sites/(.*)                 200  http://phila-resource-finder-v2.s3-website-us-east-1.amazonaws.com/covid-testing-sites$1
 /cpoc                                     301  /departments/citizens-police-oversight-commission/
 /cramp                                    301  /programs/community-schools/william-cramp-elementary-school/
 /crossing-?guard(.*)                      301  /programs/school-crossing-guard-program/
@@ -366,7 +366,7 @@
 /foodstandards                            301  /documents/city-of-philadelphia-nutrition-standards/
 /food-?waste                              301  /programs/zero-waste-initiatives/food-waste-reduction/
 /food$                                    301  /food/
-/food/(.*)                                200  http://phila-resource-finder.s3-website-us-east-1.amazonaws.com/free-meals/prod/$1
+/food/(.*)                                200   http://phila-resource-finder-v2.s3-website-us-east-1.amazonaws.com/food/$1
 /fosteringphilly                          301  /services/birth-marriage-life-events/become-a-foster-parent/
 /fsedmonds                                301  /programs/community-schools/f-s-edmonds-elementary-school/
 /FY20-budget                              301  /2019-03-07-mayor-kenneys-fy20-budget-prioritizes-education-inclusion-and-justice/
@@ -567,7 +567,7 @@
 /nutritionstandards                       301  /documents/city-of-philadelphia-nutrition-standards/
 /obme                                     301  /departments/mayors-office-of-black-male-engagement/
 /obme/resources$                          301  /obme/resources/
-/obme/resources/(.*)                      200  http://phila-resource-finder.s3-website-us-east-1.amazonaws.com/obme/prod/$1
+/obme/resources/(.*)                      200  http://phila-resource-finder-v2.s3-website-us-east-1.amazonaws.com/oia/resource-finder/$1
 /oec                                      301  /programs/community-schools/overbrook-educational-center/
 /oem/storm                                301  https://survey123.arcgis.com/share/29280025e5eb440184f7c33717cf2623?portalUrl=https://phl.maps.arcgis.com
 /oem(.*)                                  301  /departments/emergency-management/
@@ -581,7 +581,7 @@
 /oho                                      301  /hhs
 /ohs(.*)                                  301  /departments/office-of-homeless-services/
 /oia                                      301  /departments/office-of-immigrant-affairs/
-/oia/resource-finder(.*)                  200  http://phila-resource-finder.s3-website-us-east-1.amazonaws.com/oia/resource-finder$1
+/oia/resource-finder(.*)                  200   http://phila-resource-finder-v2.s3-website-us-east-1.amazonaws.com/oia/resource-finder$1
 /oig                                      301  /departments/office-of-the-inspector-general/
 /oit                                      301  /it
 /older-youth-pandemic-relief              301  /2021-06-11-pandemic-relief-payments-available-now-for-eligible-youth/
@@ -734,7 +734,7 @@
 /press-releases                           301  /the-latest/archives/?template=press_release
 /primarycare                              301  /primary-care/
 /primary-care$                            301  /primary-care/
-/primary-care/(.*)                        200  http://phila-resource-finder.s3-website-us-east-1.amazonaws.com/primary-care/prod/$1
+/primary-care/(.*)                        200  http://phila-resource-finder-v2.s3-website-us-east-1.amazonaws.com/primary-care/$1
 /prisons/inmatelocator/?(.*)              301  https://inmate-locator.phila.gov/
 /prisons/Facilities/Pages/default.aspx    301  /departments/philadelphia-department-of-prisons/about/facilities/
 /prisons/inmatesupport/Pages/default.aspx 301  /services/crime-law-justice/prisons-incarcerated-people-and-returning-citizens/finding-and-contacting-incarcerated-people/visit-an-incarcerated-person/
@@ -883,7 +883,7 @@
 /recycling                                301  /programs/recycling-program/
 /recycling-?quiz                          301  /programs/recycling-program/recycling-quiz/
 /recycling-donation-finder$               301  /recycling-donation-finder/
-/recycling-donation-finder/(.*)           200  http://phila-resource-finder.s3-website-us-east-1.amazonaws.com/recycling/prod/$1
+/recycling-donation-finder/(.*)           200  http://phila-resource-finder-v2.s3-website-us-east-1.amazonaws.com/recycling-donation-finder/$1
 /reentry                                  301  /departments/office-of-reentry-partnerships/
 /refinery                                 301  /programs/refinery-advisory-group/
 /reforming-philadelphia                   301  /programs/philadelphia-reforms/
