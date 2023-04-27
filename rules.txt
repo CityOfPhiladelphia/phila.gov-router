@@ -50,8 +50,6 @@
 /avicalculator                            301  http://avicalculator.phila.gov
 /bag-ban                                  301  /programs/plastic-bag-ban/
 /bagban                                   301  /programs/plastic-bag-ban/
-/ballot-drop-off$                         301  /ballot-drop-off/
-/ballot-drop-off/(.*)                     200   http://phila-resource-finder-v2.s3-website-us-east-1.amazonaws.com/ballot-drop-off/$1
 /bankon                                   301  /services/payments-assistance-taxes/financial-services-for-residents/open-a-safe-and-affordable-bank-account/
 /bank-on                                  301  /services/payments-assistance-taxes/financial-services-for-residents/open-a-safe-and-affordable-bank-account/
 /become-a-water-customer                  301  /services/water-gas-utilities/become-a-water-customer/
