@@ -137,6 +137,8 @@
 /commerce/realEstate/Pages/KeystoneOpportunityZones.aspx 301 /programs/keystone-opportunity-zones/
 /commerce/pages/default.aspx              301  /departments/department-of-commerce/
 /commerce(.*)                             301  /departments/department-of-commerce/
+/complete-streets/11th-master-diamond     301  /documents/11th-master-diamond/
+/complete-streets/springfield-51st-57th   301  /documents/springfield-51st-57th/
 /commercial-activity-license              301  /services/permits-violations-licenses/get-a-license/business-licenses-permits-and-approvals/get-a-commercial-activity-license/
 /complete-streets/chestnut-walnut-traffic-safety 301  /programs/complete-streets/projects/chestnut-walnut-repaving-and-complete-street-safety-project/
 /complete-streets/chinatown-stitch        301  /programs/complete-streets/projects/the-chinatown-stitch-reconnecting-philadelphia-to-vine-street/
