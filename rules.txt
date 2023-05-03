@@ -137,6 +137,8 @@
 /commerce/realEstate/Pages/KeystoneOpportunityZones.aspx 301 /programs/keystone-opportunity-zones/
 /commerce/pages/default.aspx              301  /departments/department-of-commerce/
 /commerce(.*)                             301  /departments/department-of-commerce/
+/complete-streets/11th-master-diamond     301  /documents/11th-master-diamond/
+/complete-streets/springfield-51st-57th   301  /documents/springfield-51st-57th/
 /commercial-activity-license              301  /services/permits-violations-licenses/get-a-license/business-licenses-permits-and-approvals/get-a-commercial-activity-license/
 /complete-streets/chestnut-walnut-traffic-safety 301  /programs/complete-streets/projects/chestnut-walnut-repaving-and-complete-street-safety-project/
 /complete-streets/chinatown-stitch        301  /programs/complete-streets/projects/the-chinatown-stitch-reconnecting-philadelphia-to-vine-street/
@@ -694,7 +696,7 @@
 /phillydelivers                           301  /departments/mayor/help-make-sure-phillydelivers-for-amazon/
 /phillyrising(.*)                         301  https://www.serve.phila.gov
 /PHLConnectED                             301  /programs/phlconnected/
-/phldonatetech                            301  /2020-12-07-phldonatetech-providing-computers-to-families-and-residents-in-need/
+/phldonatetech                            301  /2023-05-02-phldonatetech/
 /PHLgovTV                                 301  /departments/office-of-innovation-and-technology/phlgovtv/
 /phl-tcb                                  301  /programs/phl-taking-care-of-business/
 /plan-develop                             301  /departments/department-of-planning-and-development/
