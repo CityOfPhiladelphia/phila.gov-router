@@ -138,7 +138,11 @@
 /commerce/pages/default.aspx              301  /departments/department-of-commerce/
 /commerce(.*)                             301  /departments/department-of-commerce/
 /complete-streets/11th-master-diamond     301  /documents/11th-master-diamond/
+/complete-streets/57th-upland-wynnefield  301  /documents/57th-upland-wynnefield
+/complete-streets/longshore-roosevelt-frontenac 301 /documents/longshore-roosevelt-frontenac
 /complete-streets/springfield-51st-57th   301  /documents/springfield-51st-57th/
+/complete-streets/tioga-5th-15th          301  /documents/tioga-5th-15th
+/complete-streets/westminster-40th-52nd   301  /documents/westminster-40th-52nd
 /commercial-activity-license              301  /services/permits-violations-licenses/get-a-license/business-licenses-permits-and-approvals/get-a-commercial-activity-license/
 /complete-streets/chestnut-walnut-traffic-safety 301  /programs/complete-streets/projects/chestnut-walnut-repaving-and-complete-street-safety-project/
 /complete-streets/chinatown-stitch        301  /programs/complete-streets/projects/the-chinatown-stitch-reconnecting-philadelphia-to-vine-street/
@@ -806,6 +810,7 @@
 /programs/mayors-volunteer-corps/         301  /programs/mayors-volunteers/
 /programs/mechanical-street-cleaning/phase-2-pilot/      301  /programs/mechanical-street-cleaning/cleaning-schedule/
 /programs/philadelphia-resilience-project/ 301 /programs/opioid-response-unit/
+/programs/philly-powered/                 301  /departments/department-of-public-health/wellness/exercise-and-nutrition/
 /consumer-protection                      301  /programs/philadelphia-consumer-financial-protection-task-force/
 /programs/rebuild/careers/                301  /programs/rebuild/training-programs/
 /programs/rebuild/programs                301  /programs/rebuild/for-businesses/
