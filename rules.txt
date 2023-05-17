@@ -185,12 +185,14 @@
 /departments/(.*)/all-events              301  /the-latest/all-events/
 /departments/board-of-education           301  /departments/philadelphia-board-of-education/
 /departments/city-of-philadelphia-board-of-ethics 301 /departments/board-of-ethics/
+/departments/civil-service/               301  /departments/civil-service-commission/
 /departments/commission-for-women/        301  /departments/office-of-engagement-for-women/philadelphia-commission-for-women/
 /departments/commission-on-parks-and-recreation 301 /departments/philadelphia-parks-recreation/about/the-commission-on-parks-recreation/
 /departments/department-of-commerce/about-us/divisions/office-of-business-development/ 301  /departments/department-of-commerce/about-us/divisions/office-of-business-development-and-workforce-solutions/
 /departments/department-of-commerce/about-us/divisions/office-of-neighborhood-business-services/ 301  /departments/department-of-commerce/about-us/divisions/office-of-corridor-improvements-and-business-services/
 /departments/department-of-commerce/about-us/divisions/office-of-workforce-development/ 301  /departments/department-of-commerce/about-us/divisions/office-of-neighborhood-economic-development/
 /departments/department-of-licenses-and-inspections/permits-and-certificates/contractor-requirements/ 301 /departments/department-of-licenses-and-inspections/inspections/contractor-requirements/
+/departments/department-of-licenses-and-inspections/inspections/violation-types/   301 /department-of-licenses-and-inspections/inspections/violation-and-order-types/ 
 /departments/department-of-planning-and-development/development-services(.*) 301  /departments/division-of-development-services/
 /departments/department-of-public-health/about-us/staff/    301  /departments/department-of-public-health/about-us/leadership/
 /departments/department-of-public-property/green-buildings/ 301  /departments/office-of-sustainability/about/energy-office/compliance/green-buildings/
@@ -1177,6 +1179,7 @@
 /services/payments-assistance-taxes/tax-forms-instructions/2021-tax-forms/ 301  /departments/department-of-revenue/forms-documents/tax-forms-and-instructions/
 /services/payments-assistance-taxes/taxes/filing-and-paying-your-taxes/e-filing-city-taxes/ 301 /services/payments-assistance-taxes/taxes/filing-and-paying-your-taxes/use-modernized-e-filing-mef-for-city-taxes/
 /services/payments-assistance-taxes/taxes/filing-and-paying-your-taxes/interest-penalties-and-fees-2/  301 /services/payments-assistance-taxes/taxes/filing-and-paying-your-taxes/interest-penalties-and-fees/
+/services/payments-assistance-taxes/taxes/income-taxes/earnings-tax-employees-2/  301 /services/payments-assistance-taxes/taxes/income-taxes/earnings-tax-employees/ 
 /services/payments-assistance-taxes/vendor-payment-status/ 301  /services/payments-assistance-taxes/payments-from-the-city/track-vendor-payment/
 /services/payments-assistance-taxes/water-bills/water-bill-affordability-assistance-programs-payment-plans/income-based-water-bill-assistance/  301 /services/payments-assistance-taxes/water-bills/water-bill-affordability-assistance-programs-payment-plans/apply-for-water-bill-customer-assistance/
 /services/payments-assistance-taxes/water-bills/water-bill-affordability-assistance-programs-payment-plans/senior-citizen-water-bill-discount/  301 /services/payments-assistance-taxes/water-bills/water-bill-affordability-assistance-programs-payment-plans/apply-for-the-senior-citizen-water-bill-discount/
