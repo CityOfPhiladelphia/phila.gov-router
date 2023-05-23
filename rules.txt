@@ -289,6 +289,8 @@
 /documents/civic-design-review-cdr-meeting-materials/ 301 /departments/philadelphia-city-planning-commission/public-meetings/
 /documents/philadelphia-city-planning-commission-meeting-agendas-and-minutes/ 301 /departments/philadelphia-city-planning-commission/public-meetings/
 /documents/community-school-profiles-fall-2016-cohort/ 301 /programs/community-schools/
+/documents/development-services-flyers/   301 /departments/division-of-development-services/
+/documents/development-services-fact-sheets/  301 /departments/division-of-development-services/
 /documents/executive-order-for-additional-safety-measures-fall-winter-2020-21/ 301 /programs/coronavirus-disease-2019-covid-19/guidance/covid-19-emergency-orders/
 /documents/youth-residential-placement-task-force-annual-reports/ 301 /departments/health-and-human-services/youth-residential-placement-task-force/
 /documents/open-data-program-executive-order/ 301  /departments/mayor/executive-orders/#/?table=%2520Mayoral%2520executive%2520orders%2520from%25201952%2520to%2520the%2520present&q=1-12:%20Open%20Data%20and%20Government%20Transparency%20(2012)
