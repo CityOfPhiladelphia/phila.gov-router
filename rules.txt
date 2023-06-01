@@ -289,6 +289,8 @@
 /documents/civic-design-review-cdr-meeting-materials/ 301 /departments/philadelphia-city-planning-commission/public-meetings/
 /documents/philadelphia-city-planning-commission-meeting-agendas-and-minutes/ 301 /departments/philadelphia-city-planning-commission/public-meetings/
 /documents/community-school-profiles-fall-2016-cohort/ 301 /programs/community-schools/
+/documents/development-services-flyers/   301 /departments/division-of-development-services/
+/documents/development-services-fact-sheets/  301 /departments/division-of-development-services/
 /documents/executive-order-for-additional-safety-measures-fall-winter-2020-21/ 301 /programs/coronavirus-disease-2019-covid-19/guidance/covid-19-emergency-orders/
 /documents/youth-residential-placement-task-force-annual-reports/ 301 /departments/health-and-human-services/youth-residential-placement-task-force/
 /documents/open-data-program-executive-order/ 301  /departments/mayor/executive-orders/#/?table=%2520Mayoral%2520executive%2520orders%2520from%25201952%2520to%2520the%2520present&q=1-12:%20Open%20Data%20and%20Government%20Transparency%20(2012)
@@ -434,7 +436,7 @@
 /ig(.*)                                   301  /departments/office-of-the-inspector-general/
 /ima/                                     301  /departments/office-of-immigrant-affairs/
 /immigrant-business-week                  301  /spotlight/immigrant-business-week-2020/
-/immigrant-heritage-month                 301  /spotlight/immigrant-heritage-month-2022/
+/immigrant-heritage-month                 301  /spotlight/immigrant-heritage-month-2023/
 /inclusive-growth                         301  /2019-05-02-city-focuses-on-inclusion-and-equity-in-its-economic-growth-plan/
 /income-based-assistance-programs         301  /services/payments-assistance-taxes/payment-plans-and-assistance-programs/income-based-programs-for-residents/
 /income-based-assistance-programs/longtime-owner-occupants-program-loop 301 /services/payments-assistance-taxes/payment-plans-and-assistance-programs/income-based-programs-for-residents/apply-for-the-longtime-owner-occupants-program-loop/
@@ -717,6 +719,7 @@
 /playitsafePHL                            301  /programs/playitsafephl/
 /police                                   301  http://www.phillypolice.com/
 /policeovertime                           301  https://phl.secure.force.com/ROWS/
+/police-?reports?                         301  /services/crime-law-justice/get-a-copy-of-a-public-safety-report/ 
 /pools                                    301  /parks-rec-finder/#/locations/swimming-pools
 /porous-pave                              301  http://www.stormwaterpa.org/percy-street-goes-green.html?key=0
 /porous-play                              301  http://stormwaterpa.org/greener,-healthier-play-herron-playground.html?key=0
