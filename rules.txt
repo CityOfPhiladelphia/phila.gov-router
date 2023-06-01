@@ -719,6 +719,7 @@
 /playitsafePHL                            301  /programs/playitsafephl/
 /police                                   301  http://www.phillypolice.com/
 /policeovertime                           301  https://phl.secure.force.com/ROWS/
+/police-?reports?                         301  /services/crime-law-justice/get-a-copy-of-a-public-safety-report/ 
 /pools                                    301  /parks-rec-finder/#/locations/swimming-pools
 /porous-pave                              301  http://www.stormwaterpa.org/percy-street-goes-green.html?key=0
 /porous-play                              301  http://stormwaterpa.org/greener,-healthier-play-herron-playground.html?key=0
