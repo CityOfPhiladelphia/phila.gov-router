@@ -1534,6 +1534,7 @@
 /verizon-?feedback                        301  /departments/office-of-innovation-and-technology/verizon-franchise-agreement-feedback-form/
 /veterans                                 301  http://www.phlveterans.com/
 /victim-advocate                          301  /departments/office-of-the-victim-advocate/
+/virtualch(.*)                            301  https://www.phlvisitorcenter.com/CityHall
 /violence-?prevention                      301  /departments/office-of-violence-prevention/
 /visionzero                               301  http://phl.maps.arcgis.com/apps/CrowdsourceReporter/index.html?appid=0b7432f7e6734795b1e09721eba506c1
 /visitors                                 301  http://www.visitphilly.com
