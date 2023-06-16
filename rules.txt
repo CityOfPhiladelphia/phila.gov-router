@@ -371,8 +371,8 @@
 /fairhousingcommission(.*)                301  /departments/fair-housing-commission/
 /faithbased(.*)                           301  /departments/faith-based-and-interfaith-affairs/
 /families                                 301  /departments/office-of-children-and-families/
-/farmers-markets$                         200  /farmers-markets/
-/farmers-markets/(.*)                     301  http://phila-resource-finder-v2.s3-website-us-east-1.amazonaws.com/farmers-markets/$1
+/farmers-markets$                         301  /farmers-markets/
+/farmers-markets/(.*)                     200  http://phila-resource-finder-v2.s3-website-us-east-1.amazonaws.com/farmers-markets/$1
 /farmphilly                               301  /programs/farmphilly/
 /fe/(.*)                                  301  /programs/financial-empowerment-centers/
 /fhc                                      301  /departments/fair-housing-commission/
