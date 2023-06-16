@@ -317,6 +317,9 @@
 /documents/philadelphia-resilience-project-recovering-together/ 301 /documents/philadelphia-resilience-project-archives/
 /documents/philadelphia-resilience-project-accomplishments-and-short-term-goals/ 301 /documents/philadelphia-resilience-project-archives/
 /documents/basement-protection-program-application/ 301  /documents/basement-backup-protection-program-application/
+/documents/tax-appeal-petition-form/      301  /departments/tax-review-board/tax-review-board-forms-and-instructions/
+/documents/water-revenue-bureau-petition-for-appeal/  301  /departments/tax-review-board/tax-review-board-forms-and-instructions/
+/documents/tax-review-board-refund-petition/   301  /documents/refund-petition-form/
 /documents/greenworks-on-the-ground-what-communities-can-do/ 301  /documents/greenworks-on-the-ground/
 /documents/greenworks-on-the-ground-what-individuals-can-do/ 301  /documents/greenworks-on-the-ground/
 /documents/greenworks-on-the-ground-what-institutions-can-do/ 301  /documents/greenworks-on-the-ground/
