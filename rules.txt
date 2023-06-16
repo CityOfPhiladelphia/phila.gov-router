@@ -317,12 +317,16 @@
 /documents/philadelphia-resilience-project-recovering-together/ 301 /documents/philadelphia-resilience-project-archives/
 /documents/philadelphia-resilience-project-accomplishments-and-short-term-goals/ 301 /documents/philadelphia-resilience-project-archives/
 /documents/basement-protection-program-application/ 301  /documents/basement-backup-protection-program-application/
+/documents/tax-appeal-petition-form/      301  /departments/tax-review-board/tax-review-board-forms-and-instructions/
+/documents/water-revenue-bureau-petition-for-appeal/  301  /departments/tax-review-board/tax-review-board-forms-and-instructions/
+/documents/tax-review-board-refund-petition/   301  /documents/refund-petition-form/
 /documents/greenworks-on-the-ground-what-communities-can-do/ 301  /documents/greenworks-on-the-ground/
 /documents/greenworks-on-the-ground-what-individuals-can-do/ 301  /documents/greenworks-on-the-ground/
 /documents/greenworks-on-the-ground-what-institutions-can-do/ 301  /documents/greenworks-on-the-ground/
 /documents/pregnancy-and-prenatal-care-guides/ 301  /services/mental-physical-health/get-health-care-and-support/family-and-childrens-health-care/get-prenatal-care/ 
 /documents/philadelphia-activities-fund-grant-application/   301  /services/culture-recreation/apply-for-a-philadelphia-activities-fund-grant/
 /documents/mayors-volunteer-corps-zine/   301  /documents/mayors-volunteer-zine/
+/documents/special-hauling-permit-documents/  301 /services/permits-violations-licenses/apply-for-a-permit/get-a-special-hauling-permit/
 /dot                                      301  /it
 /dpd                                      301  /departments/department-of-planning-and-development/
 /dpd/dashboards                           301  /departments/department-of-planning-and-development/about/our-results
@@ -1335,6 +1339,7 @@
 /services/permits-violations-licenses/report-a-problem-with-a-building-lot-or-street/ 301 /services/property-lots-housing/report-a-problem-with-a-building-lot-or-street/
 /services/permits-violations-licenses/get-a-license/business-licenses/food-businesses/self-certify-a-food-business-for-covid-19-safety/ 301  /services/permits-violations-licenses/get-a-license/business-licenses/food-businesses/
 /services/permits-violations-licenses/get-a-license/trade-licenses/get-a-hot-work-license/ 301  /services/permits-violations-licenses/get-a-license/business-licenses/other-businesses/get-a-hot-work-license/
+/services/permits-violations-licenses/apply-for-a-permit/get-a-hauling-permit/   301 /services/permits-violations-licenses/apply-for-a-permit/get-a-special-hauling-permit/
 /services/property-lots-housing/get-the-homestead-exemption/ 301 /services/property-lots-housing/property-taxes/get-real-estate-tax-relief/get-the-homestead-exemption/
 /services/property-lots-housing/get-real-estate-tax-relief/get-the-homestead-exemption/ 301 /services/property-lots-housing/property-taxes/get-real-estate-tax-relief/get-the-homestead-exemption/
 /services/safety-emergency-preparedness/find-a-fire-station/ 301 /services/safety-emergency-preparedness/fire-safety/find-a-fire-station/
@@ -1435,6 +1440,7 @@
 /services/payments-assistance-taxes/income-based-assistance-programs/get-help-if-you-are-at-risk-of-being-evicted/ 301  /services/property-lots-housing/buy-sell-or-rent-a-property/information-about-renting/get-help-with-paying-rent/
 /services/payments-assistance-taxes/property-tax-abatements/ 301  /services/property-lots-housing/property-taxes/get-real-estate-tax-relief/get-a-property-tax-abatement/
 /services/payments-assistance-taxes/property-tax-exemptions/ 301  /departments/office-of-property-assessment/tax-exemptions-and-abatements/
+/services/payments-assistance-taxes/taxes/technical-private-letter-rulings/   301  /services/payments-assistance-taxes/taxes/request-a-technical-private-letter-ruling-for-unusual-tax-circumstances/ 
 /services/permits-violations-licenses/apply-for-a-permit/apply-to-provide-food-or-drinks-at-a-special-event/ 301  /services/permits-violations-licenses/apply-for-a-permit/event-permits/large-scale-special-events/apply-to-provide-food-or-drinks-at-a-special-event/
 /services/permits-violations-licenses/get-a-permit-to-use-a-philadelphia-parks-recreation-space/apply-for-a-media-permit/ 301  /services/permits-violations-licenses/apply-for-a-permit/event-permits/events-in-a-city-park-field-or-rec-center/apply-for-a-media-permit/
 /services/permits-violations-licenses/get-a-permit-to-use-a-philadelphia-parks-recreation-space/get-a-friends-community-groups-event-permit/ 301  /services/permits-violations-licenses/apply-for-a-permit/event-permits/events-in-a-city-park-field-or-rec-center/get-a-friends-and-community-group-event-permit/
