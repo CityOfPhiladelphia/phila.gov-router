@@ -327,6 +327,7 @@
 /documents/philadelphia-activities-fund-grant-application/   301  /services/culture-recreation/apply-for-a-philadelphia-activities-fund-grant/
 /documents/mayors-volunteer-corps-zine/   301  /documents/mayors-volunteer-zine/
 /documents/special-hauling-permit-documents/  301 /services/permits-violations-licenses/apply-for-a-permit/get-a-special-hauling-permit/
+/documents/pool-rules-attire/             301  /documents/pool-rules-attire-information/
 /dot                                      301  /it
 /dpd                                      301  /departments/department-of-planning-and-development/
 /dpd/dashboards                           301  /departments/department-of-planning-and-development/about/our-results
@@ -370,7 +371,8 @@
 /fairhousingcommission(.*)                301  /departments/fair-housing-commission/
 /faithbased(.*)                           301  /departments/faith-based-and-interfaith-affairs/
 /families                                 301  /departments/office-of-children-and-families/
-/farmers-markets                          301  /services/permits-violations-licenses/get-a-license/business-licenses/food-businesses/operate-a-farmers-market/
+/farmers-markets$                         301  /farmers-markets/
+/farmers-markets/(.*)                     200  http://phila-resource-finder-v2.s3-website-us-east-1.amazonaws.com/farmers-markets/$1
 /farmphilly                               301  /programs/farmphilly/
 /fe/(.*)                                  301  /programs/financial-empowerment-centers/
 /fhc                                      301  /departments/fair-housing-commission/
@@ -621,6 +623,7 @@
 /opa/abatementsexemptions/pages/homestead.aspx 301 /services/property-lots-housing/get-the-homestead-exemption/
 /opa/search                               301  https://property.phila.gov
 /opa(.*)                                  301  /departments/office-of-property-assessment/
+/operate-a-farmers-market                 301  /services/permits-violations-licenses/get-a-license/business-licenses/food-businesses/operate-a-farmers-market/
 /ops                                      301  /2020-02-12-heres-what-you-need-to-know-about-overdose-prevention-sites/
 /opendata                                 301  /data
 /openbudget                               301  https://data.phila.gov/visualizations/payments-aggregate/
