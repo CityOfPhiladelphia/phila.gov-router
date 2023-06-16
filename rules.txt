@@ -323,6 +323,7 @@
 /documents/pregnancy-and-prenatal-care-guides/ 301  /services/mental-physical-health/get-health-care-and-support/family-and-childrens-health-care/get-prenatal-care/ 
 /documents/philadelphia-activities-fund-grant-application/   301  /services/culture-recreation/apply-for-a-philadelphia-activities-fund-grant/
 /documents/mayors-volunteer-corps-zine/   301  /documents/mayors-volunteer-zine/
+/documents/special-hauling-permit-documents/  301 /services/permits-violations-licenses/apply-for-a-permit/get-a-special-hauling-permit/
 /dot                                      301  /it
 /dpd                                      301  /departments/department-of-planning-and-development/
 /dpd/dashboards                           301  /departments/department-of-planning-and-development/about/our-results
@@ -1335,6 +1336,7 @@
 /services/permits-violations-licenses/report-a-problem-with-a-building-lot-or-street/ 301 /services/property-lots-housing/report-a-problem-with-a-building-lot-or-street/
 /services/permits-violations-licenses/get-a-license/business-licenses/food-businesses/self-certify-a-food-business-for-covid-19-safety/ 301  /services/permits-violations-licenses/get-a-license/business-licenses/food-businesses/
 /services/permits-violations-licenses/get-a-license/trade-licenses/get-a-hot-work-license/ 301  /services/permits-violations-licenses/get-a-license/business-licenses/other-businesses/get-a-hot-work-license/
+/services/permits-violations-licenses/apply-for-a-permit/get-a-hauling-permit/   301 /services/permits-violations-licenses/apply-for-a-permit/get-a-special-hauling-permit/
 /services/property-lots-housing/get-the-homestead-exemption/ 301 /services/property-lots-housing/property-taxes/get-real-estate-tax-relief/get-the-homestead-exemption/
 /services/property-lots-housing/get-real-estate-tax-relief/get-the-homestead-exemption/ 301 /services/property-lots-housing/property-taxes/get-real-estate-tax-relief/get-the-homestead-exemption/
 /services/safety-emergency-preparedness/find-a-fire-station/ 301 /services/safety-emergency-preparedness/fire-safety/find-a-fire-station/
