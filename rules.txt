@@ -297,7 +297,6 @@
 /documents/community-school-profiles-fall-2016-cohort/ 301 /programs/community-schools/
 /documents/development-services-flyers/   301 /departments/division-of-development-services/
 /documents/development-services-fact-sheets/  301 /departments/division-of-development-services/
-/documents/department-of-streets-hauling-permit-guide/  301 /documents/department-of-streets-hauling-permit-guide/
 /documents/executive-order-for-additional-safety-measures-fall-winter-2020-21/ 301 /programs/coronavirus-disease-2019-covid-19/guidance/covid-19-emergency-orders/
 /documents/youth-residential-placement-task-force-annual-reports/ 301 /departments/health-and-human-services/youth-residential-placement-task-force/
 /documents/open-data-program-executive-order/ 301  /departments/mayor/executive-orders/#/?table=%2520Mayoral%2520executive%2520orders%2520from%25201952%2520to%2520the%2520present&q=1-12:%20Open%20Data%20and%20Government%20Transparency%20(2012)
@@ -327,7 +326,7 @@
 /documents/pregnancy-and-prenatal-care-guides/ 301  /services/mental-physical-health/get-health-care-and-support/family-and-childrens-health-care/get-prenatal-care/ 
 /documents/philadelphia-activities-fund-grant-application/   301  /services/culture-recreation/apply-for-a-philadelphia-activities-fund-grant/
 /documents/mayors-volunteer-corps-zine/   301  /documents/mayors-volunteer-zine/
-/documents/special-hauling-permit-documents/  301 /services/permits-violations-licenses/apply-for-a-permit/get-a-special-hauling-permit/
+/documents/department-of-streets-hauling-permit-guide/   301 /services/permits-violations-licenses/apply-for-a-permit/get-a-special-hauling-permit/
 /documents/pool-rules-attire/             301  /documents/pool-rules-attire-information/
 /dot                                      301  /it
 /dpd                                      301  /departments/department-of-planning-and-development/
