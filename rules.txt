@@ -1057,6 +1057,7 @@
 /services/mental-physical-health/get-vaccinated/get-vaccinated-if-you-have-health-insurance/ 301  /services/mental-physical-health/get-vaccinated/get-adult-vaccines/
 /services/mental-physical-health/get-vaccinated/sign-up-to-get-a-covid-19-vaccine/  301  /services/mental-physical-health/get-vaccinated/get-your-covid-19-vaccine-or-booster/
 /services/mental-physical-health/find-a-covid-19-testing-site/ 301  /services/mental-physical-health/find-a-covid-19-test/
+/services/mental-physical-health/environmental-health-hazards/extreme-weather/cooling-centers/  301 /services/safety-emergency-preparedness/natural-hazards/excessive-heat/code-red/ 
 /services/payments-assistance-taxes/appeal-a-property-assessment/ 301  /services/payments-assistance-taxes/taxes/property-and-real-estate-taxes/appeal-a-property-assessment/
 /services/payments-assistance-taxes/appeal-a-water-department-decision/ 301  /services/payments-assistance-taxes/water-bills/pay-a-water-bill/appeal-a-water-bill-or-water-service-decision/
 /services/payments-assistance-taxes/business-taxes/ 301  /services/payments-assistance-taxes/taxes/business-taxes/
