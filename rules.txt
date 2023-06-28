@@ -213,6 +213,8 @@
 /departments/mayor/get-involved           301  /departments/mayor/#action-modal
 /departments/mayor/quality-pre-k          301  /programs/quality-pre-k/
 /departments/office-of-immigrant-affairs/mayors-commission-on-asian-american-affairs/(.*) 301 /departments/office-of-immigrant-affairs/mayors-commission-on-asian-pacific-american-affairs/$1
+/departments/office-of-the-chief-administrative-officer/transparency-in-business-disclosure-for-prime-contractor/  301 /services/business-self-employment/bidding-on-a-city-contract/file-transparency-in-business-act-disclosure-forms/
+/departments/office-of-the-chief-administrative-officer/transparency-in-business-disclosure-subcontractor-and-labor-source-information/  301 /services/business-self-employment/bidding-on-a-city-contract/file-transparency-in-business-act-disclosure-forms/
 /departments/mayors-office-of-community-empowerment-and-opportunity 301 /departments/office-of-community-empowerment-and-opportunity/
 /departments/mayors-office-of-education/career-technical-education 301 /programs/career-technical-education/
 /departments/mayors-office-of-education/community-schools 301 /programs/community-schools/
