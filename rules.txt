@@ -213,6 +213,8 @@
 /departments/mayor/get-involved           301  /departments/mayor/#action-modal
 /departments/mayor/quality-pre-k          301  /programs/quality-pre-k/
 /departments/office-of-immigrant-affairs/mayors-commission-on-asian-american-affairs/(.*) 301 /departments/office-of-immigrant-affairs/mayors-commission-on-asian-pacific-american-affairs/$1
+/departments/office-of-the-chief-administrative-officer/transparency-in-business-disclosure-for-prime-contractor/  301 /services/business-self-employment/bidding-on-a-city-contract/file-transparency-in-business-act-disclosure-forms/
+/departments/office-of-the-chief-administrative-officer/transparency-in-business-disclosure-subcontractor-and-labor-source-information/  301 /services/business-self-employment/bidding-on-a-city-contract/file-transparency-in-business-act-disclosure-forms/
 /departments/mayors-office-of-community-empowerment-and-opportunity 301 /departments/office-of-community-empowerment-and-opportunity/
 /departments/mayors-office-of-education/career-technical-education 301 /programs/career-technical-education/
 /departments/mayors-office-of-education/community-schools 301 /programs/community-schools/
@@ -572,6 +574,7 @@
 /media/20201112100019/Guidance-for-Holidays.pdf  301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
 /media/20201118125433/Guidance-for-positive-test-1.pdf  301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
 /media/20211210131210/2021_CUA_Scorecard_print.pdf  301  /documents/cua-scorecards/
+/media/20230517102700/HCW-guidance-updated-_5.9.23-.pdf  301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/vaccine-and-masking-requirements-for-healthcare-workers/ 
 /mpox                                     301  /programs/monkeypox
 /mocs                                     301  /ceo
 /mod                                      301  /departments/mayors-office-for-people-with-disabilities/
