@@ -6,7 +6,7 @@ const { parseRules } = require('./parser')
 const IS_URL = /^https?:\/\//
 const RULES_FILE = '../rules.txt'
 let rules
-const LANGUAGES = [ '/zh/', '/es/' ]
+const LANGUAGES = [ '/zh/', '/es/', '/ar/' ]
 
 module.exports = {
   lambda, // used by lambda function
