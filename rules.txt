@@ -43,6 +43,7 @@
 /america                                  301   https://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=b0d5efe6fb7a4ed7a5fd9c3c681b8b41
 /aqi-redirect                             301  /services/mental-physical-health/environmental-health-hazards/air-quality/
 /aqi(.*)                                  301  /services/mental-physical-health/environmental-health-hazards/air-quality/
+/ar$                                      301  /ar/
 /artcommission(.*)                        301  /departments/philadelphia-art-commission/
 /art-commission                           301  /departments/philadelphia-art-commission/
 /artincityhall                            301  http://creativephl.org/tagged/Exhibitions-and-Performances/
