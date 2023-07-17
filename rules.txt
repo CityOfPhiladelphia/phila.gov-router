@@ -576,7 +576,7 @@
 /media/20201112100019/Guidance-for-Holidays.pdf  301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
 /media/20201118125433/Guidance-for-positive-test-1.pdf  301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
 /media/20211210131210/2021_CUA_Scorecard_print.pdf  301  /documents/cua-scorecards/
-/media/20230517102700/HCW-guidance-updated-_5.9.23-.pdf  301  /https://www.phila.gov/programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/vaccine-and-masking-requirements-for-healthcare-workers/ 
+/media/20230517102700/HCW-guidance-updated-_5.9.23-.pdf  301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/vaccine-and-masking-requirements-for-healthcare-workers/ 
 /mpox                                     301  /programs/monkeypox
 /mocs                                     301  /ceo
 /mod                                      301  /departments/mayors-office-for-people-with-disabilities/
