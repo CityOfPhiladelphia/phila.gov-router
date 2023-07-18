@@ -333,6 +333,7 @@
 /documents/mayors-volunteer-corps-zine/   301  /documents/mayors-volunteer-zine/
 /documents/department-of-streets-hauling-permit-guide/   301 /services/permits-violations-licenses/apply-for-a-permit/get-a-special-hauling-permit/
 /documents/pool-rules-attire/             301  /documents/pool-rules-attire-information/
+/domestic-?work                           301  /services/working-jobs/worker-protections/report-a-domestic-workers-bill-of-rights-violation/
 /dot                                      301  /it
 /dpd                                      301  /departments/department-of-planning-and-development/
 /dpd/dashboards                           301  /departments/department-of-planning-and-development/about/our-results
@@ -374,6 +375,7 @@
 /fairchancephilly                         301  /2018-06-25-philadelphias-fair-chance-hiring-law-heres-what-you-should-know/
 /fairhousing                              301  /departments/fair-housing-commission/
 /fairhousingcommission(.*)                301  /departments/fair-housing-commission/
+/fair-?workweek                           301  /services/working-jobs/worker-protections/wage-protections/report-a-fair-workweek-violation/ 
 /faithbased(.*)                           301  /departments/faith-based-and-interfaith-affairs/
 /families                                 301  /departments/office-of-children-and-families/
 /farmers-markets$                         301  /farmers-markets/
@@ -1476,6 +1478,7 @@
 /services/zoning-planning-development/get-approval-for-work-to-a-historic-property/ 301  /services/zoning-planning-development/get-a-plan-review/get-approval-for-work-to-a-historic-property/
 /servicedesignstudio 301 /departments/office-of-the-chief-administrative-officer/service-design-studio/
 /service-design-studio 301 /departments/office-of-the-chief-administrative-officer/service-design-studio/
+/sick-?leave                              301  /services/working-jobs/worker-protections/paid-or-unpaid-leave/paid-sick-leave/ 
 /smartblockphl                            301  /programs/smartcityphl/smartblockphl/
 /smartchoice/?$                           301  /departments/department-of-commerce/about-us/divisions/office-of-business-development-and-workforce-solutions/
 /smart-loading-zones                      301  /programs/smartcityphl/smart-loading-zones/
@@ -1563,6 +1566,7 @@
 /volunteer                                301  https://www.serve.phila.gov
 /vote-by-mail                             301  /2020-09-08-general-election-mail-in-ballot-guide-for-philadelphia-voters/
 /voting(.*)                               301  https://vote.phila.gov/ballot-drop-off/
+/wage-?theft                              301  /services/working-jobs/worker-protections/wage-protections/report-wage-theft/
 /warningletter                            301  /documents/warning-of-risk-of-tax-foreclosure/
 /water-?grant                             301  /2022-05-06-how-to-get-help-with-past-due-water-bills/
 /water-?bill                               301  https://secure8.i-doxs.net/CityOfPhiladelphiaWRB/SignIn.aspx
