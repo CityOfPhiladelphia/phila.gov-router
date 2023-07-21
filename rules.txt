@@ -146,7 +146,7 @@
 /complete-streets/aramingo-allegheny-wheatsheaf 301  /documents/aramingo-allegheny-wheatsheaf
 /complete-streets/chestnut-walnut-traffic-safety 301  /programs/complete-streets/projects/chestnut-walnut-repaving-and-complete-street-safety-project/
 /complete-streets/chinatown-stitch        301  /programs/complete-streets/projects/the-chinatown-stitch-reconnecting-philadelphia-to-vine-street/
-/complete-streets/fishtown-kensington-bikeways 301  /documents/fishtown-kensington-bikeways
+/complete-streets/fishtown-bikeways       301  /documents/fishtown-bikeways
 /complete-streets/germantown-bikeways     301  /documents/germantown-bikeways
 /complete-streets/lehigh-kensington-american 301  /documents/lehigh-kensington-american
 /complete-streets/limekiln-medary-haines  301  /documents/limekiln-medary-haines
