@@ -152,6 +152,7 @@
 /complete-streets/lehigh-kensington-american 301  /documents/lehigh-kensington-american
 /complete-streets/limekiln-medary-haines  301  /documents/limekiln-medary-haines
 /complete-streets/longshore-roosevelt-frontenac 301 /documents/longshore-roosevelt-frontenac
+/complete-streets/market-old-city         301  /documents/market-old-city
 /complete-streets/penrose-traffic-calming 301  /2021-08-12-penrose-roundabout-looks-to-improve-safety-at-busy-intersection/
 /complete-streets/springfield-51st-57th   301  /documents/springfield-51st-57th/
 /complete-streets/strawberry-mansion-bikeways 301  /documents/strawberry-mansion-bikeways
