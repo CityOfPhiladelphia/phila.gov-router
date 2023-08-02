@@ -993,6 +993,7 @@
 /services/birth-marriage-life-events/adopt-a-child/ 301 /services/birth-marriage-life-events/birth-adoption-and-parenting/adopt-a-child/
 /services/birth-marriage-life-events/coordinate-a-plan-of-safe-care/ 301 /services/birth-marriage-life-events/birth-adoption-and-parenting/coordinate-a-plan-of-safe-care/
 /services/birth-marriage-life-events/become-a-foster-parent/ask-the-commissioners-action-response-office-caro/ 301 /services/birth-marriage-life-events/birth-adoption-and-parenting/ask-the-commissioners-action-response-office-caro/
+/services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-type/business-income-receipts-tax-birt-2/  301 /services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-type/business-income-receipts-tax-birt/
 /services/business-self-employment/for-vendors/do-business-with-the-city/  301  /services/business-self-employment/bidding-on-a-city-contract/do-business-with-the-city/
 /services/business-self-employment/for-vendors/	301 /services/business-self-employment/bidding-on-a-city-contract/
 /services/business-self-employment/bid-on-a-supplies-equipment-and-non-professional-services-contract/	301 /services/business-self-employment/bidding-on-a-city-contract/bid-on-a-supplies-equipment-and-non-professional-services-contract/
