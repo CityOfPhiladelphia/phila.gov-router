@@ -839,6 +839,7 @@
 /programs/e3-services/                    301  /departments/office-of-children-and-families/
 /programs/education-and-childcare-services/(.*) 301 /programs/education-support-center/$1
 /programs/energy-benchmarking/            301  http://www.phillybuildingbenchmarking.com/
+/programs/family-empowerment-services-fes/ 301 /programs/family-empowerment-programs/
 /programs/mayors-volunteer-corps/         301  /programs/mayors-volunteers/
 /programs/mechanical-street-cleaning/phase-2-pilot/      301  /programs/mechanical-street-cleaning/cleaning-schedule/
 /programs/philadelphia-resilience-project/ 301 /programs/opioid-response-unit/
