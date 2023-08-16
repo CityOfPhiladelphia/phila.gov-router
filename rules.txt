@@ -1613,6 +1613,7 @@
 /youth-?engagement(.*)                    301  /departments/office-of-youth-engagement/
 /zba/appeals-calendar(.*)                 301  https://li.phila.gov/zba-appeals-calendar
 /zba                                      301  /departments/zoning-board-of-adjustment/
+/zero-fare                                301  /programs/zero-fare/
 /zero-?waste                              301  /programs/zero-waste-initiatives/
 /zika                                     301  /documents/zika-prevention-resources/
 /zipcheck                                 301  /documents/zipcheck-application/
