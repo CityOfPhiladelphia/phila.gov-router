@@ -2,6 +2,7 @@
 /2016-water-quality-data                  301  /water/PDF/2016-water-quality-results.pdf
 /2016waterquality                         301  /water/wu/water%20quality%20reports/2016waterquality.pdf
 /2018                                     301  /2018-12-21-10-big-moments-from-2018-in-philadelphia/
+/2019-06-11-what-happens-when-the-city-declares-a-heat-health-emergency/  301 /2023-07-26-what-happens-when-the-city-declares-a-heat-health-emergency/ 
 /2020-03-28-where-to-find-free-nutritious-food-during-covid-19/ 301 /food/
 /2020-03-29-donde-conseguir-comidas-gratis-y-nutritivas-para-familias-y-estudiantes/ 301 /food/
 /2020-03-28-where-to-find-free-nutritious-food-during-covid-19-zh/ 301 /food/
@@ -147,11 +148,12 @@
 /complete-streets/aramingo-allegheny-wheatsheaf 301  /documents/aramingo-allegheny-wheatsheaf
 /complete-streets/chestnut-walnut-traffic-safety 301  /programs/complete-streets/projects/chestnut-walnut-repaving-and-complete-street-safety-project/
 /complete-streets/chinatown-stitch        301  /programs/complete-streets/projects/the-chinatown-stitch-reconnecting-philadelphia-to-vine-street/
-/complete-streets/fishtown-kensington-bikeways 301  /documents/fishtown-kensington-bikeways
+/complete-streets/fishtown-bikeways       301  /documents/fishtown-bikeways
 /complete-streets/germantown-bikeways     301  /documents/germantown-bikeways
 /complete-streets/lehigh-kensington-american 301  /documents/lehigh-kensington-american
 /complete-streets/limekiln-medary-haines  301  /documents/limekiln-medary-haines
 /complete-streets/longshore-roosevelt-frontenac 301 /documents/longshore-roosevelt-frontenac
+/complete-streets/market-old-city         301  /documents/market-old-city
 /complete-streets/penrose-traffic-calming 301  /2021-08-12-penrose-roundabout-looks-to-improve-safety-at-busy-intersection/
 /complete-streets/springfield-51st-57th   301  /documents/springfield-51st-57th/
 /complete-streets/strawberry-mansion-bikeways 301  /documents/strawberry-mansion-bikeways
@@ -334,6 +336,7 @@
 /documents/mayors-volunteer-corps-zine/   301  /documents/mayors-volunteer-zine/
 /documents/department-of-streets-hauling-permit-guide/   301 /services/permits-violations-licenses/apply-for-a-permit/get-a-special-hauling-permit/
 /documents/pool-rules-attire/             301  /documents/pool-rules-attire-information/
+/domestic-?work                           301  /services/working-jobs/worker-protections/report-a-domestic-workers-bill-of-rights-violation/
 /dot                                      301  /it
 /dpd                                      301  /departments/department-of-planning-and-development/
 /dpd/dashboards                           301  /departments/department-of-planning-and-development/about/our-results
@@ -375,6 +378,7 @@
 /fairchancephilly                         301  /2018-06-25-philadelphias-fair-chance-hiring-law-heres-what-you-should-know/
 /fairhousing                              301  /departments/fair-housing-commission/
 /fairhousingcommission(.*)                301  /departments/fair-housing-commission/
+/fair-?workweek                           301  /services/working-jobs/worker-protections/wage-protections/report-a-fair-workweek-violation/ 
 /faithbased(.*)                           301  /departments/faith-based-and-interfaith-affairs/
 /families                                 301  /departments/office-of-children-and-families/
 /farmers-markets$                         301  /farmers-markets/
@@ -645,6 +649,7 @@
 /otf                                      301  /programs/operations-transformation-fund/
 /otis                                     301  /departments/office-of-transportation-infrastructure-sustainability/
 /outdoor-?dining                          301  /2022-10-18-city-announces-regulations-and-application-process-for-permanent-outdoor-dining-program/
+/oyo                                      301  /departments/office-of-the-youth-ombudsperson/ 
 /pac/meetings/Pages/default.aspx          301  /departments/police-advisory-commission/commission-meetings/
 /pac/Pages/FileAComplaint.aspx            301  /services/crime-law-justice/police/file-a-complaint-against-a-philadelphia-police-officer/
 /pac/aboutus/Pages/OfficerCommendation.aspx  301  /services/crime-law-justice/police/recommend-a-police-officer-for-commendation/
@@ -830,6 +835,7 @@
 /programs/coronavirus-disease-2019-covid-19/updates/how-you-can-help/ 301  /programs/coronavirus-disease-2019-covid-19/updates/
 /programs/coronavirus-disease-2019-covid-19/contact-tracing/ 301  /programs/coronavirus-disease-2019-covid-19/faq#contact-tracing
 /programs/e3-power-centers/               301  /programs/e3-services/
+/programs/e3-services/                    301  /departments/office-of-children-and-families/
 /programs/education-and-childcare-services/(.*) 301 /programs/education-support-center/$1
 /programs/energy-benchmarking/            301  http://www.phillybuildingbenchmarking.com/
 /programs/mayors-volunteer-corps/         301  /programs/mayors-volunteers/
@@ -988,6 +994,7 @@
 /services/birth-marriage-life-events/adopt-a-child/ 301 /services/birth-marriage-life-events/birth-adoption-and-parenting/adopt-a-child/
 /services/birth-marriage-life-events/coordinate-a-plan-of-safe-care/ 301 /services/birth-marriage-life-events/birth-adoption-and-parenting/coordinate-a-plan-of-safe-care/
 /services/birth-marriage-life-events/become-a-foster-parent/ask-the-commissioners-action-response-office-caro/ 301 /services/birth-marriage-life-events/birth-adoption-and-parenting/ask-the-commissioners-action-response-office-caro/
+/services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-type/business-income-receipts-tax-birt-2/  301 /services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-type/business-income-receipts-tax-birt/
 /services/business-self-employment/for-vendors/do-business-with-the-city/  301  /services/business-self-employment/bidding-on-a-city-contract/do-business-with-the-city/
 /services/business-self-employment/for-vendors/	301 /services/business-self-employment/bidding-on-a-city-contract/
 /services/business-self-employment/bid-on-a-supplies-equipment-and-non-professional-services-contract/	301 /services/business-self-employment/bidding-on-a-city-contract/bid-on-a-supplies-equipment-and-non-professional-services-contract/
@@ -1477,6 +1484,7 @@
 /services/zoning-planning-development/get-approval-for-work-to-a-historic-property/ 301  /services/zoning-planning-development/get-a-plan-review/get-approval-for-work-to-a-historic-property/
 /servicedesignstudio 301 /departments/office-of-the-chief-administrative-officer/service-design-studio/
 /service-design-studio 301 /departments/office-of-the-chief-administrative-officer/service-design-studio/
+/sick-?leave                              301  /services/working-jobs/worker-protections/paid-or-unpaid-leave/paid-sick-leave/ 
 /smartblockphl                            301  /programs/smartcityphl/smartblockphl/
 /smartchoice/?$                           301  /departments/department-of-commerce/about-us/divisions/office-of-business-development-and-workforce-solutions/
 /smart-loading-zones                      301  /programs/smartcityphl/smart-loading-zones/
@@ -1564,6 +1572,7 @@
 /volunteer                                301  https://www.serve.phila.gov
 /vote-by-mail                             301  /2020-09-08-general-election-mail-in-ballot-guide-for-philadelphia-voters/
 /voting(.*)                               301  https://vote.phila.gov/ballot-drop-off/
+/wage-?theft                              301  /services/working-jobs/worker-protections/wage-protections/report-wage-theft/
 /warningletter                            301  /documents/warning-of-risk-of-tax-foreclosure/
 /water-?grant                             301  /2022-05-06-how-to-get-help-with-past-due-water-bills/
 /water-?bill                               301  https://secure8.i-doxs.net/CityOfPhiladelphiaWRB/SignIn.aspx
