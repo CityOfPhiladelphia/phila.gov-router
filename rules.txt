@@ -835,6 +835,7 @@
 /programs/coronavirus-disease-2019-covid-19/updates/how-you-can-help/ 301  /programs/coronavirus-disease-2019-covid-19/updates/
 /programs/coronavirus-disease-2019-covid-19/contact-tracing/ 301  /programs/coronavirus-disease-2019-covid-19/faq#contact-tracing
 /programs/e3-power-centers/               301  /programs/e3-services/
+/programs/e3-services/                    301  /departments/office-of-children-and-families/
 /programs/education-and-childcare-services/(.*) 301 /programs/education-support-center/$1
 /programs/energy-benchmarking/            301  http://www.phillybuildingbenchmarking.com/
 /programs/mayors-volunteer-corps/         301  /programs/mayors-volunteers/
