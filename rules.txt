@@ -211,6 +211,7 @@
 /departments/department-of-public-health/contact-us/ 301	 /departments/department-of-public-health/about-us/contact-us/
 /departments/department-of-public-health/breastfeeding-guides-policies-and-fact-sheets/ 301  /services/mental-physical-health/get-health-care-and-support/family-and-childrens-health-care/get-breastfeeding-support/
 /departments/division-of-housing-community-development/ 301 /departments/division-of-housing-and-community-development/
+/departments/division-of-housing-and-community-development/neighborhood-resources-archive/   301 /departments/division-of-housing-and-community-development/neighborhood-resources/ 
 /departments/education                    301  /departments/mayors-office-of-education/
 /departments/emergency-management         301  /departments/oem
 /departments/emergency-management/(.*)    301  /departments/oem/$1
@@ -288,6 +289,7 @@
 /dnc                                      301  /events/democratic-national-convention/
 /dobbins                                  301  /programs/community-schools/murrell-dobbins-cte-high-school/
 /documents/2015-income-based-wage-tax-refund-petition 301 /documents/income-based-wage-tax-refund-petition/
+/documents/affordable-housing-rfp-2019/   301  /documents/previous-dhcd-requests-for-proposals/ 
 /documents/air-management-regulations     301  /documents/air-management-guidelines-and-regulations/
 /documents/probate-and-estate-services-fee-schedule/  301 /documents/register-of-wills-fee-schedule/
 /documents/coronavirus-covid-19-resources  301  /programs/coronavirus-disease-2019-covid-19/multi-language-resources/covid-19-coronavirus-resources-in-english/
@@ -834,9 +836,12 @@
 /programs/coronavirus-disease-2019-covid-19/updates/support-for-residents/ 301  /programs/coronavirus-disease-2019-covid-19/updates/
 /programs/coronavirus-disease-2019-covid-19/updates/how-you-can-help/ 301  /programs/coronavirus-disease-2019-covid-19/updates/
 /programs/coronavirus-disease-2019-covid-19/contact-tracing/ 301  /programs/coronavirus-disease-2019-covid-19/faq#contact-tracing
+/programs/coronavirus-disease-2019-covid-19/vaccines/vaccine-distribution/   301 /programs/coronavirus-disease-2019-covid-19/vaccines/vaccine-data/  
 /programs/e3-power-centers/               301  /programs/e3-services/
+/programs/e3-services/                    301  /departments/office-of-children-and-families/
 /programs/education-and-childcare-services/(.*) 301 /programs/education-support-center/$1
 /programs/energy-benchmarking/            301  http://www.phillybuildingbenchmarking.com/
+/programs/family-empowerment-services-fes/ 301 /programs/family-empowerment-programs/
 /programs/mayors-volunteer-corps/         301  /programs/mayors-volunteers/
 /programs/mechanical-street-cleaning/phase-2-pilot/      301  /programs/mechanical-street-cleaning/cleaning-schedule/
 /programs/philadelphia-resilience-project/ 301 /programs/opioid-response-unit/
@@ -1609,6 +1614,7 @@
 /youth-?engagement(.*)                    301  /departments/office-of-youth-engagement/
 /zba/appeals-calendar(.*)                 301  https://li.phila.gov/zba-appeals-calendar
 /zba                                      301  /departments/zoning-board-of-adjustment/
+/zero-fare                                301  /programs/zero-fare/
 /zero-?waste                              301  /programs/zero-waste-initiatives/
 /zika                                     301  /documents/zika-prevention-resources/
 /zipcheck                                 301  /documents/zipcheck-application/
