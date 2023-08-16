@@ -288,6 +288,7 @@
 /dnc                                      301  /events/democratic-national-convention/
 /dobbins                                  301  /programs/community-schools/murrell-dobbins-cte-high-school/
 /documents/2015-income-based-wage-tax-refund-petition 301 /documents/income-based-wage-tax-refund-petition/
+/documents/affordable-housing-rfp-2019/   301  /documents/previous-dhcd-requests-for-proposals/ 
 /documents/air-management-regulations     301  /documents/air-management-guidelines-and-regulations/
 /documents/probate-and-estate-services-fee-schedule/  301 /documents/register-of-wills-fee-schedule/
 /documents/coronavirus-covid-19-resources  301  /programs/coronavirus-disease-2019-covid-19/multi-language-resources/covid-19-coronavirus-resources-in-english/
