@@ -291,6 +291,7 @@
 /documents/2015-income-based-wage-tax-refund-petition 301 /documents/income-based-wage-tax-refund-petition/
 /documents/affordable-housing-rfp-2019/   301  /documents/previous-dhcd-requests-for-proposals/ 
 /documents/air-management-regulations     301  /documents/air-management-guidelines-and-regulations/
+/documents/business-financial-support-applications/   301 /departments/department-of-commerce/supporting-business/financial-support/ 
 /documents/probate-and-estate-services-fee-schedule/  301 /documents/register-of-wills-fee-schedule/
 /documents/coronavirus-covid-19-resources  301  /programs/coronavirus-disease-2019-covid-19/multi-language-resources/covid-19-coronavirus-resources-in-english/
 /documents/coronavirus-tax-guidance/       301  /departments/department-of-revenue/our-services/tax-services/tax-guidance-in-response-to-covid-19/
