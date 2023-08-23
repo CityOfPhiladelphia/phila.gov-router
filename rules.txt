@@ -1581,6 +1581,7 @@
 /water-?grant                             301  /2022-05-06-how-to-get-help-with-past-due-water-bills/
 /water-?bill                               301  https://secure8.i-doxs.net/CityOfPhiladelphiaWRB/SignIn.aspx
 /water-bill-help                          301  /services/water-gas-utilities/pay-or-dispute-a-water-bill/water-bill-customer-assistance/
+/water-payment-agreements                 301  /services/water-gas-utilities/pay-or-dispute-a-water-bill/income-based-water-bill-payment-agreements
 /water-pipe-meter-maintenance/customer-responsibilities 301 /services/water-gas-utilities/water-pipe-meter-maintenance/customer-responsibilities/
 /water-pipe-meter-maintenance/water-meters 301 /services/water-gas-utilities/water-pipe-meter-maintenance/water-meters/
 /water-shutoffs                           301  /services/water-gas-utilities/water-shutoffs/
