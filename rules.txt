@@ -28,6 +28,7 @@
 /2022-07-19-the-latest-on-monkeypox-in-philadelphia/  301 /programs/monkeypox/updates
 /2022-07-19-lo-ultimo-sobre-monkeypox-en-filadelfia/ 301 /programs/monkeypox/
 /2020-04-15-free-pregnancy-baby-and-toddler-supports-during-covid-19/   301 /departments/department-of-public-health/health-centers/family-health/
+/2023-04-19-resource-hubs-offer-drop-in-assistance-and-free-services-in-five-philadelphia-neighborhoods/  301 /2023-04-24-resource-hubs-offer-drop-in-assistance-and-free-services-in-five-philadelphia-neighborhoods/
 /311/(.*)                                 301  /departments/philly311/
 /311/report-an-issue                      301  https://iframe.publicstuff.com/#?client_id=242
 /aco                                      301  /departments/mayors-office-for-people-with-disabilities/
@@ -291,6 +292,7 @@
 /documents/2015-income-based-wage-tax-refund-petition 301 /documents/income-based-wage-tax-refund-petition/
 /documents/affordable-housing-rfp-2019/   301  /documents/previous-dhcd-requests-for-proposals/ 
 /documents/air-management-regulations     301  /documents/air-management-guidelines-and-regulations/
+/documents/business-financial-support-applications/   301 /departments/department-of-commerce/supporting-business/financial-support/ 
 /documents/probate-and-estate-services-fee-schedule/  301 /documents/register-of-wills-fee-schedule/
 /documents/coronavirus-covid-19-resources  301  /programs/coronavirus-disease-2019-covid-19/multi-language-resources/covid-19-coronavirus-resources-in-english/
 /documents/coronavirus-tax-guidance/       301  /departments/department-of-revenue/our-services/tax-services/tax-guidance-in-response-to-covid-19/
@@ -444,6 +446,7 @@
 /health/permitsForms.html                 301  /departments/department-of-public-health/for-business-owners/
 /health/tobaccopermits                    301  /services/permits-violations-licenses/business-licenses-permits-and-approvals/tobacco-retailers/get-a-tobacco-retailer-permit/
 /health/jobs                              301  /departments/department-of-public-health/about-us/jobs/
+/health/resource-hubs                     301  /2023-04-24-resource-hubs-offer-drop-in-assistance-and-free-services-in-five-philadelphia-neighborhoods/
 /health(.*)                               301  /departments/department-of-public-health/
 /heat                                     301  /guides/extreme-heat-guide/
 /helpme                                   301  /departments/philly311/
@@ -1581,6 +1584,7 @@
 /water-?grant                             301  /2022-05-06-how-to-get-help-with-past-due-water-bills/
 /water-?bill                               301  https://secure8.i-doxs.net/CityOfPhiladelphiaWRB/SignIn.aspx
 /water-bill-help                          301  /services/water-gas-utilities/pay-or-dispute-a-water-bill/water-bill-customer-assistance/
+/water-payment-agreements                 301  /services/water-gas-utilities/pay-or-dispute-a-water-bill/income-based-water-bill-payment-agreements
 /water-pipe-meter-maintenance/customer-responsibilities 301 /services/water-gas-utilities/water-pipe-meter-maintenance/customer-responsibilities/
 /water-pipe-meter-maintenance/water-meters 301 /services/water-gas-utilities/water-pipe-meter-maintenance/water-meters/
 /water-shutoffs                           301  /services/water-gas-utilities/water-shutoffs/
