@@ -29,6 +29,7 @@
 /2022-07-19-lo-ultimo-sobre-monkeypox-en-filadelfia/ 301 /programs/monkeypox/
 /2020-04-15-free-pregnancy-baby-and-toddler-supports-during-covid-19/   301 /departments/department-of-public-health/health-centers/family-health/
 /2023-04-19-resource-hubs-offer-drop-in-assistance-and-free-services-in-five-philadelphia-neighborhoods/  301 /2023-04-24-resource-hubs-offer-drop-in-assistance-and-free-services-in-five-philadelphia-neighborhoods/
+/2023-04-03-dfdith/                       301  https://idaay.org/program/don-t-fall-down-in-the-hood-prevention  
 /311/(.*)                                 301  /departments/philly311/
 /311/report-an-issue                      301  https://iframe.publicstuff.com/#?client_id=242
 /aco                                      301  /departments/mayors-office-for-people-with-disabilities/
