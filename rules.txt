@@ -341,6 +341,7 @@
 /documents/mayors-volunteer-corps-zine/   301  /documents/mayors-volunteer-zine/
 /documents/department-of-streets-hauling-permit-guide/   301 /services/permits-violations-licenses/apply-for-a-permit/get-a-special-hauling-permit/
 /documents/pool-rules-attire/             301  /documents/pool-rules-attire-information/
+/documents/bonus-information-for-zoning-permits/  301  /departments/department-of-licenses-and-inspections/permits-and-certificates/zoning-permits-and-approvals/zoning-permit-materials/#/ 
 /domestic-?work                           301  /services/working-jobs/worker-protections/report-a-domestic-workers-bill-of-rights-violation/
 /dot                                      301  /it
 /dpd                                      301  /departments/department-of-planning-and-development/
