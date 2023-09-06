@@ -246,7 +246,9 @@
 /departments/office-of-human-resources/jobs/job-class-specifications(.*) 301  /departments/office-of-human-resources/careers/job-class-specifications/
 /departments/office-of-human-resources/jobs/residency-waivers(.*) 301  /departments/office-of-human-resources/careers/residency-waivers/
 /departments/office-of-human-resources/jobs/pay-ranges(.*) 301  /departments/office-of-human-resources/careers/pay-ranges/
-/departments/office-of-human-resources/job-specs(.*) 301  /departments/office-of-human-resources/careers/job-class-specifications/
+/departments/office-of-human-resources/job-specs/ 301  /departments/office-of-human-resources/careers/job-class-specifications/
+/departments/office-of-human-resources/job-specs/index.html 301  /departments/office-of-human-resources/careers/job-class-specifications/
+/departments/office-of-human-resources/job-specs/pay.htm 301  /departments/office-of-human-resources/careers/job-class-specifications/
 /departments/mayors-office-of-labor/(.*) 301  /departments/department-of-labor/$1
 /departments/mayors-office-of-public-engagement/mayors-commission-on-asian-american-affairs/(.*) 301 /departments/office-of-immigrant-affairs/mayors-commission-on-asian-american-affairs/$1
 /departments/mayors-office-of-reintegration-services/ 301 /departments/office-of-reentry-partnerships/
