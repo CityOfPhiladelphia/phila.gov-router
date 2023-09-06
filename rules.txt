@@ -246,6 +246,7 @@
 /departments/office-of-human-resources/jobs/job-class-specifications(.*) 301  /departments/office-of-human-resources/careers/job-class-specifications/
 /departments/office-of-human-resources/jobs/residency-waivers(.*) 301  /departments/office-of-human-resources/careers/residency-waivers/
 /departments/office-of-human-resources/jobs/pay-ranges(.*) 301  /departments/office-of-human-resources/careers/pay-ranges/
+/departments/office-of-human-resources/job-specs(.*) 301  /departments/office-of-human-resources/careers/job-class-specifications/
 /departments/mayors-office-of-labor/(.*) 301  /departments/department-of-labor/$1
 /departments/mayors-office-of-public-engagement/mayors-commission-on-asian-american-affairs/(.*) 301 /departments/office-of-immigrant-affairs/mayors-commission-on-asian-american-affairs/$1
 /departments/mayors-office-of-reintegration-services/ 301 /departments/office-of-reentry-partnerships/
@@ -342,6 +343,10 @@
 /documents/department-of-streets-hauling-permit-guide/   301 /services/permits-violations-licenses/apply-for-a-permit/get-a-special-hauling-permit/
 /documents/pool-rules-attire/             301  /documents/pool-rules-attire-information/
 /documents/bonus-information-for-zoning-permits/  301  /departments/department-of-licenses-and-inspections/permits-and-certificates/zoning-permits-and-approvals/zoning-permit-materials/#/ 
+/documents/draft-ada-transition-plan/     301  /documents/city-of-philadelphia-ada-transition-plan/
+/documents/oic-form/                      301  /documents/offer-in-compromise/
+/documents/community-based-organization-cbo-rapid-test-kit-distribution-program/ 301  /documents/covid-19-test-kit-distribution-program/
+/documents/special-event-rapid-test-kit-distribution-requests/ 301  /documents/covid-19-test-kit-distribution-program/
 /domestic-?work                           301  /services/working-jobs/worker-protections/report-a-domestic-workers-bill-of-rights-violation/
 /dot                                      301  /it
 /dpd                                      301  /departments/department-of-planning-and-development/
@@ -707,7 +712,7 @@
 /personnel/AppealForms.html	              301  /documents/civil-service-appeal-forms/
 /personnel/CivilService.html	            301  /departments/civil-service-commission/
 /personnel/CivilServiceResidencyWaivers.html	301  /departments/office-of-human-resources/jobs/residency-waivers/
-/personnel/Codes.html	                    301  /departments/office-of-human-resources/jobs/job-class-specifications/
+/personnel/Codes.html	                    301  /departments/office-of-human-resources/careers/job-class-specifications/
 /personnel/EEO_AA.html	                  301  /departments/office-of-human-resources/policies/
 /personnel/ExamsFAQ.html	                301  /departments/office-of-human-resources/jobs/civil-service-faqs/
 /personnel/fmlaFAQ.html	                  301  /departments/office-of-human-resources/
@@ -718,11 +723,11 @@
 /personnel/Pension.html	                  301  /departments/board-of-pensions-and-retirement/
 /personnel/politicalActivityRestrictions.html	301  /departments/office-of-human-resources/policies/
 /personnel/Reg32.html	                    301  /departments/office-of-human-resources/
-/personnel/specs/	                        301  /departments/office-of-human-resources/jobs/job-class-specifications/
+/personnel/specs/	                        301  /departments/office-of-human-resources/careers/job-class-specifications/
 /personnel/specs/agenitem/(.*)	          301  /departments/civil-service-commission/civil-service-commission-meeting-agendas/
 /personnel/specs/careerladders/(.*)	      301  /documents/career-ladders/
-/personnel/specs/JobInterestForm.html	    301  /departments/office-of-human-resources/jobs/job-class-specifications/
-/personnel/specs/?(.*)	                  301  /departments/office-of-human-resources/job-specs/$1
+/personnel/specs/JobInterestForm.html	    301  /departments/office-of-human-resources/careers/job-class-specifications/
+/personnel/specs/?(.*)	                  301  /departments/office-of-human-resources/careers/job-class-specifications/$1
 /personnel/webregs    	                  301  /publications/civil-service-regulations/#/
 /personnel/webregs/summary.htm	          301  /publications/civil-service-regulations/#/page/34.
 /personnel/webregs/(.*)	                  301  /publications/civil-service-regulations/#/
@@ -842,6 +847,9 @@
 /programs/coronavirus-disease-2019-covid-19/updates/how-you-can-help/ 301  /programs/coronavirus-disease-2019-covid-19/updates/
 /programs/coronavirus-disease-2019-covid-19/contact-tracing/ 301  /programs/coronavirus-disease-2019-covid-19/faq#contact-tracing
 /programs/coronavirus-disease-2019-covid-19/vaccines/vaccine-distribution/   301 /programs/coronavirus-disease-2019-covid-19/vaccines/vaccine-data/  
+/programs/coronavirus-disease-2019-covid-19/data/vaccine/ 301  /programs/coronavirus-disease-2019-covid-19/vaccines/vaccine-data/
+/programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/schools-guidance/ 301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/resources-management-of-covid-19-in-schools-early-childhood-settings/
+/programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/early-childhood-education-ece-guidance/ 301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/resources-management-of-covid-19-in-schools-early-childhood-settings/
 /programs/e3-power-centers/               301  /programs/e3-services/
 /programs/e3-services/                    301  /departments/office-of-children-and-families/
 /programs/education-and-childcare-services/(.*) 301 /programs/education-support-center/$1
@@ -953,6 +961,7 @@
 /revenue/businesses/taxes/pages/birt.aspx 301  /services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-type/business-income-receipts-tax-birt/
 /revenue/businesses/taxes/Pages/hoteltax.aspx 301 /services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-type/hotel-tax/
 /revenue/businesses/(.*)                  301  /services/payments-assistance-taxes/taxes/business-taxes/
+/revenue/child-tax-credit                 301  /services/payments-assistance-taxes/taxes/tax-credits/resident-tax-credits/child-tax-credit-ctc-resources/
 /revenue/delinquency-reports              301  /documents/tax-delinquency-trend-action-reports/
 /revenue/eft-ach                          301  /services/payments-assistance-taxes/taxes/filing-and-paying-your-taxes/
 /revenue/eitc                             301  /documents/earned-income-tax-credit-eitc-employer-notice/
@@ -1081,6 +1090,7 @@
 /services/mental-physical-health/get-vaccinated/sign-up-to-get-a-covid-19-vaccine/  301  /services/mental-physical-health/get-vaccinated/get-your-covid-19-vaccine-or-booster/
 /services/mental-physical-health/find-a-covid-19-testing-site/ 301  /services/mental-physical-health/find-a-covid-19-test/
 /services/mental-physical-health/environmental-health-hazards/extreme-weather/cooling-centers/  301 /services/safety-emergency-preparedness/natural-hazards/excessive-heat/code-red/ 
+/services/mental-physical-health/get-vaccinated/get-your-covid-19-vaccine-or-booster/ 301  /services/mental-physical-health/get-vaccinated/get-your-covid-19-vaccine/
 /services/payments-assistance-taxes/appeal-a-property-assessment/ 301  /services/payments-assistance-taxes/taxes/property-and-real-estate-taxes/appeal-a-property-assessment/
 /services/payments-assistance-taxes/appeal-a-water-department-decision/ 301  /services/payments-assistance-taxes/water-bills/pay-a-water-bill/appeal-a-water-bill-or-water-service-decision/
 /services/payments-assistance-taxes/business-taxes/ 301  /services/payments-assistance-taxes/taxes/business-taxes/
@@ -1223,6 +1233,7 @@
 /services/payments-assistance-taxes/vendor-payment-status/ 301  /services/payments-assistance-taxes/payments-from-the-city/track-vendor-payment/
 /services/payments-assistance-taxes/water-bills/water-bill-affordability-assistance-programs-payment-plans/income-based-water-bill-assistance/  301 /services/payments-assistance-taxes/water-bills/water-bill-affordability-assistance-programs-payment-plans/apply-for-water-bill-customer-assistance/
 /services/payments-assistance-taxes/water-bills/water-bill-affordability-assistance-programs-payment-plans/senior-citizen-water-bill-discount/  301 /services/payments-assistance-taxes/water-bills/water-bill-affordability-assistance-programs-payment-plans/apply-for-the-senior-citizen-water-bill-discount/
+/services/payments-assistance-taxes/payment-plans-and-assistance-programs/income-based-programs-for-residents/low-income-senior-citizen-real-estate-tax-freeze/ 301  /services/payments-assistance-taxes/payment-plans-and-assistance-programs/income-based-programs-for-residents/apply-for-the-low-income-senior-citizen-real-estate-tax-freeze/
 /services/permits-violations-licenses/environmental-permits-and-approvals/?(.*)  301  /services/permits-violations-licenses/apply-for-a-permit/environmental-permits-and-approvals/$1
 /services/permits-violations-licenses/get-a-license/find-out-what-license-you-need-for-your-business/  301  /services/permits-violations-licenses/get-a-license/business-licenses-permits-and-approvals/
 /services/permits-violations-licenses/get-a-permit-to-use-a-philadelphia-parks-recreation-space/ 301 /services/permits-violations-licenses/apply-for-a-permit/get-a-permit-to-use-a-philadelphia-parks-recreation-space/reserve-a-parks-recreation-facility/
