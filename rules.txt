@@ -344,7 +344,7 @@
 /documents/pool-rules-attire/             301  /documents/pool-rules-attire-information/
 /documents/bonus-information-for-zoning-permits/  301  /departments/department-of-licenses-and-inspections/permits-and-certificates/zoning-permits-and-approvals/zoning-permit-materials/#/ 
 /documents/draft-ada-transition-plan/     301  /documents/city-of-philadelphia-ada-transition-plan/
-/documents/oic-form/                      301  /documents/offer-in-compromise/
+/documents/oic-form                       301  /documents/offer-in-compromise/
 /documents/community-based-organization-cbo-rapid-test-kit-distribution-program/ 301  /documents/covid-19-test-kit-distribution-program/
 /documents/special-event-rapid-test-kit-distribution-requests/ 301  /documents/covid-19-test-kit-distribution-program/
 /domestic-?work                           301  /services/working-jobs/worker-protections/report-a-domestic-workers-bill-of-rights-violation/
