@@ -1,4 +1,4 @@
-# phila.gov router [![Build Status](https://travis-ci.org/CityOfPhiladelphia/phila.gov-router.svg?branch=master)](https://travis-ci.org/CityOfPhiladelphia/phila.gov-router)
+# phila.gov router 
 Lambda@Edge function for handling redirects and rewrites
 
 ## usage
@@ -53,12 +53,12 @@ Rewrite `/contracts/data` to mask a site on github pages (note the redirect for 
 - You can use [tsv-pretty](https://ebay.github.io/tsv-utils-dlang/#tsv-pretty) to format the file to be more readable.
 
 ## deployment
-Deployment will happen automatically via [Travis CI](https://travis-ci.org/CityOfPhiladelphia/phila.gov-router) based on the configuration in [.travis.yml](.travis.yml) (assuming tests pass):
+Deployment will happen automatically via github actions
 
 - Pushes to the `staging` branch will deploy to the **staging** environment.
-- Pushes to the `master` branch will deploy to the **production** environment.
+- Pushes to the `main` branch will deploy to the **production** environment.
 
-You can skip deployment on a push by specifying `[no ci]` in the commit message.
+You can skip deployment on a push by specifying `[skip ci]` in the commit message.
 
 ## local development
 
