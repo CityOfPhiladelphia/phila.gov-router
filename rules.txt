@@ -276,6 +276,8 @@
 /departments/office-of-sustainability/about/energy-office/energy-conservation-programs/   301 /departments/office-of-sustainability/about/municipal-energy-office/energy-conservation-programs/
 /departments/office-of-sustainability/about/energy-office/building-compliance/     301 /departments/office-of-sustainability/about/municipal-energy-office/building-compliance/ 
 /departments/office-of-sustainability/about/energy-office/building-compliance/high-performance-buildings/   301 /departments/office-of-sustainability/about/municipal-energy-office/building-compliance/high-performance-buildings/ 
+/departments/department-of-licenses-and-inspections/licenses/rental-licenses/ 301  /departments/department-of-licenses-and-inspections/licenses/rental-and-property-licenses/
+/departments/department-of-licenses-and-inspections/licenses/rental-licenses/rental-license-faq/ 301  /departments/department-of-licenses-and-inspections/licenses/rental-and-property-licenses/rental-license-faq/
 /departments/water-department/            301	 /departments/philadelphia-water-department/
 /development-services                     301  /departments/division-of-development-services/
 /dhcd/neighborhood-resources(.*)          301  /departments/division-of-housing-and-community-development/neighborhood-resources/
@@ -347,6 +349,7 @@
 /documents/oic-form                       301  /documents/offer-in-compromise/
 /documents/community-based-organization-cbo-rapid-test-kit-distribution-program/ 301  /documents/covid-19-test-kit-distribution-program/
 /documents/special-event-rapid-test-kit-distribution-requests/ 301  /documents/covid-19-test-kit-distribution-program/
+/documents/real-estate-and-property-business-license-materials/ 301  /departments/department-of-licenses-and-inspections/licenses/rental-and-property-licenses/rental-and-property-licenses-materials/
 /domestic-?work                           301  /services/working-jobs/worker-protections/report-a-domestic-workers-bill-of-rights-violation/
 /dot                                      301  /it
 /dpd                                      301  /departments/department-of-planning-and-development/
@@ -411,6 +414,7 @@
 /food$                                    301  /food/
 /food/(.*)                                200  http://phila-resource-finder-v2.s3-website-us-east-1.amazonaws.com/food/$1
 /fosteringphilly                          301  /services/birth-marriage-life-events/become-a-foster-parent/
+/foster-?grandparents                     301  /programs/foster-grandparents/
 /fsedmonds                                301  /programs/community-schools/f-s-edmonds-elementary-school/
 /FY20-budget                              301  /2019-03-07-mayor-kenneys-fy20-budget-prioritizes-education-inclusion-and-justice/
 /getcovered                               301  /posts/health/2017-11-01-deadline-december-15-everything-you-need-to-know-about-aca-enrollment/
