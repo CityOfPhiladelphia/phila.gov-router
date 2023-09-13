@@ -1511,7 +1511,6 @@
 /services/zoning-planning-development/get-approval-for-work-to-a-historic-property/ 301  /services/zoning-planning-development/get-a-plan-review/get-approval-for-work-to-a-historic-property/
 /servicedesignstudio 301 /departments/office-of-the-chief-administrative-officer/service-design-studio/
 /service-design-studio 301 /departments/office-of-the-chief-administrative-officer/service-design-studio/
-
 /sick-?leave                              301  /services/working-jobs/worker-protections/paid-or-unpaid-leave/paid-sick-leave/ 
 /smartblockphl                            301  /programs/smartcityphl/smartblockphl/
 /smartchoice/?$                           301  /departments/department-of-commerce/about-us/divisions/office-of-business-development-and-workforce-solutions/
