@@ -609,7 +609,7 @@
 /mrc                                      301  /programs/philadelphia-medical-reserve-corps-pmrc/
 /net-profits-tax                          301  /services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-type/net-profits-tax/
 /news                                     301  /the-latest/
-/news-and-events/#/                       200  /news-and-events/   
+/news-and-events/(.*)                     200  /news-and-events/#/$1  
 /news/mayor/affordable-housing-community-development-action-guide 301 /2017-12-11-proposed-department-of-housing-and-urban-development-hud-funding-cuts/
 /news/mayor/lgbtq-protections-city-of-philadelphia-action-guide 301 /2017-12-04-philadelphias-lgbtq-protections/
 /news/oem/excessive-heat-warning-declared-for-philadelphia-july-6th-9th 301 /news/oem/excessive-heat-declared-for-philadelphia-summer-2016/
