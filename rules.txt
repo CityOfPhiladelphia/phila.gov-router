@@ -418,6 +418,7 @@
 /food/(.*)                                200  http://phila-resource-finder-v2.s3-website-us-east-1.amazonaws.com/food/$1
 /fosteringphilly                          301  /services/birth-marriage-life-events/become-a-foster-parent/
 /foster-?grandparents                     301  /programs/foster-grandparents/
+/fr$                                      301  /fr/ 
 /fsedmonds                                301  /programs/community-schools/f-s-edmonds-elementary-school/
 /FY20-budget                              301  /2019-03-07-mayor-kenneys-fy20-budget-prioritizes-education-inclusion-and-justice/
 /getcovered                               301  /posts/health/2017-11-01-deadline-december-15-everything-you-need-to-know-about-aca-enrollment/
@@ -472,6 +473,7 @@
 /homeless-?services                       301  /departments/office-of-homeless-services/
 /homestead                                301  /services/property-lots-housing/get-real-estate-tax-relief/get-the-homestead-exemption/
 /homebuynow(.*)                           301  https://cedphilly.org/philadelphia-home-buy-now
+/ht$                                      301  /ht/ 
 /humanrelations(.*)                       301  /departments/philadelphia-commission-on-human-relations/
 /ida-?recovery                            301  /departments/office-of-the-director-of-finance/hurricane-ida-recovery-funding/
 /ig(.*)                                   301  /departments/office-of-the-inspector-general/
@@ -894,6 +896,7 @@
 /property-taxes/realty-transfer-tax       301  /services/property-lots-housing/property-taxes/realty-transfer-tax/
 /property/data$                           301  /property/data/
 /property/data/(.*)                       200  https://cityofphiladelphia.github.io/property-download/$1
+/pt$                                      301  /pt/
 /publicart                                301  http://creativephl.org/tagged/Public-Art/
 /publications-forms(.*)                   301  /documents/
 /public-?restroom(.*)                     301  /2022-08-16-updates-on-the-philadelphia-public-restroom-pilot/
@@ -997,6 +1000,7 @@
 /risk                                     301  /departments/office-of-the-director-of-finance/office-of-risk-management/
 /right-to-counsel                         301  /services/property-lots-housing/get-free-legal-help-to-avoid-eviction/
 /rows                                     301  https://phl.my.salesforce.com
+/ru$                                      301  /ru/ 
 /saferathome                              301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
 /safer-at-home                            301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
 /safetyandjustice(.*)                     301  /programs/philadelphia-safety-and-justice-challenge/
@@ -1548,6 +1552,7 @@
 /summer-programs/(.*)                     200  http://phila-resource-finder.s3-website-us-east-1.amazonaws.com/summer-program/prod/$1
 /support                                  301  /2019-06-27-support-and-resources-for-pes-and-hahnemann-employees/
 /sustainability                           301  /departments/office-of-sustainability/
+/sw$                                      301  /sw/ 
 /tax-center-guide                         301  /guides/philadelphia-tax-center/
 /tax-change                               301  /documents/tax-account-change-form
 /tax-credits/keystone-opportunity-zone-tax-credit-koz 301  /services/payments-assistance-taxes/taxes/tax-credits/business-tax-credits/keystone-opportunity-zone-tax-credit/
@@ -1600,6 +1605,7 @@
 /volunteer                                301  https://www.serve.phila.gov
 /vote-by-mail                             301  /2020-09-08-general-election-mail-in-ballot-guide-for-philadelphia-voters/
 /voting(.*)                               301  https://vote.phila.gov/ballot-drop-off/
+/vi$                                      301  /vi/
 /wage-?theft                              301  /services/working-jobs/worker-protections/wage-protections/report-wage-theft/
 /warningletter                            301  /documents/warning-of-risk-of-tax-foreclosure/
 /water-?grant                             301  /2022-05-06-how-to-get-help-with-past-due-water-bills/
