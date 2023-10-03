@@ -1634,6 +1634,7 @@
 /wholesale-wastewater                     301  https://secure8.i-doxs.net/CityOfPhiladelphiaWRB/WastewaterValidate.aspx
 /wills                                    301  /departments/register-of-wills/
 /winter-meals                             301  /2019-12-10-winter-meals-and-food-pantries-for-students-and-families/
+/worker-protections                       301  /services/working-jobs/worker-protections/
 /workforce                                301  /departments/department-of-commerce/about-us/divisions/office-of-neighborhood-economic-development/
 /workforce-?diversity                     301  https://experience.arcgis.com/experience/ea21e8695d994a7181d9617c673a2344/
 /wp-admin                                 301  https://admin.phila.gov/wp-admin/
