@@ -212,7 +212,6 @@
 /departments/department-of-public-property/green-buildings/ 301  /departments/office-of-sustainability/about/energy-office/compliance/green-buildings/
 /departments/department-of-public-health/contact-us/ 301	 /departments/department-of-public-health/about-us/contact-us/
 /departments/department-of-public-health/breastfeeding-guides-policies-and-fact-sheets/ 301  /services/mental-physical-health/get-health-care-and-support/family-and-childrens-health-care/get-breastfeeding-support/
-/revenue/contact-us                       301 /departments/department-of-revenue/about/contact-us/
 /departments/division-of-housing-community-development/ 301 /departments/division-of-housing-and-community-development/
 /departments/division-of-housing-and-community-development/neighborhood-resources-archive/   301 /departments/division-of-housing-and-community-development/neighborhood-resources/ 
 /departments/education                    301  /departments/mayors-office-of-education/
@@ -972,6 +971,7 @@
 /revenue/businesses/taxes/Pages/hoteltax.aspx 301 /services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-type/hotel-tax/
 /revenue/businesses/(.*)                  301  /services/payments-assistance-taxes/taxes/business-taxes/
 /revenue/child-tax-credit                 301  /services/payments-assistance-taxes/taxes/tax-credits/resident-tax-credits/child-tax-credit-ctc-resources/
+/revenue/contact-us                       301 /departments/department-of-revenue/about/contact-us/
 /revenue/delinquency-reports              301  /documents/tax-delinquency-trend-action-reports/
 /revenue/eft-ach                          301  /services/payments-assistance-taxes/taxes/filing-and-paying-your-taxes/
 /revenue/eitc                             301  /documents/earned-income-tax-credit-eitc-employer-notice/
