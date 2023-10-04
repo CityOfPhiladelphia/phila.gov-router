@@ -212,7 +212,7 @@
 /departments/department-of-public-property/green-buildings/ 301  /departments/office-of-sustainability/about/energy-office/compliance/green-buildings/
 /departments/department-of-public-health/contact-us/ 301	 /departments/department-of-public-health/about-us/contact-us/
 /departments/department-of-public-health/breastfeeding-guides-policies-and-fact-sheets/ 301  /services/mental-physical-health/get-health-care-and-support/family-and-childrens-health-care/get-breastfeeding-support/
-/revenue/contact-us/                      301 /departments/department-of-revenue/about/contact-us/
+/revenue/contact-us                       301 /departments/department-of-revenue/about/contact-us/
 /departments/division-of-housing-community-development/ 301 /departments/division-of-housing-and-community-development/
 /departments/division-of-housing-and-community-development/neighborhood-resources-archive/   301 /departments/division-of-housing-and-community-development/neighborhood-resources/ 
 /departments/education                    301  /departments/mayors-office-of-education/
@@ -1102,6 +1102,7 @@
 /services/mental-physical-health/find-a-covid-19-testing-site/ 301  /services/mental-physical-health/find-a-covid-19-test/
 /services/mental-physical-health/environmental-health-hazards/extreme-weather/cooling-centers/  301 /services/safety-emergency-preparedness/natural-hazards/excessive-heat/code-red/ 
 /services/mental-physical-health/get-vaccinated/get-your-covid-19-vaccine-or-booster/ 301  /services/mental-physical-health/get-vaccinated/get-your-covid-19-vaccine/
+/services/payments-assistance-taxes/taxes/tax-credits/resident-tax-credits/active-duty-tax-credit-2/   301 /services/payments-assistance-taxes/taxes/tax-credits/resident-tax-credits/active-duty-tax-credit/ 
 /services/payments-assistance-taxes/appeal-a-property-assessment/ 301  /services/payments-assistance-taxes/taxes/property-and-real-estate-taxes/appeal-a-property-assessment/
 /services/payments-assistance-taxes/appeal-a-water-department-decision/ 301  /services/payments-assistance-taxes/water-bills/pay-a-water-bill/appeal-a-water-bill-or-water-service-decision/
 /services/payments-assistance-taxes/business-taxes/ 301  /services/payments-assistance-taxes/taxes/business-taxes/
