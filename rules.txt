@@ -66,6 +66,7 @@
 /bids                                     301  /departments/procurement-department/
 /bidsonline                               301  https://www.phlcontracts.phila.gov/bso/
 /bikeshare/pages/default.aspx             301  /services/cars-parking-transportation/suggest-a-location-for-an-indego-bike-station/
+/bil                                      301  /programs/bipartisan-infrastructure-law/
 /bluezone                                 301  https://phila.city/display/bluezone
 /blockchain                               301  /departments/office-of-innovation-and-technology/
 /board-of-education                       301  /departments/philadelphia-board-of-education/
