@@ -468,7 +468,7 @@
 /health/tobaccopermits                    301  /services/permits-violations-licenses/business-licenses-permits-and-approvals/tobacco-retailers/get-a-tobacco-retailer-permit/
 /health/jobs                              301  /departments/department-of-public-health/about-us/jobs/
 /health/resource-hubs                     301  /2023-04-24-resource-hubs-offer-drop-in-assistance-and-free-services-in-five-philadelphia-neighborhoods/
-/health/resource-hubs-calendar            301  https://www.phila.gov/the-latest/all-events/?category=Health%20resource%20hubs
+/health/resource-hubs-calendar            301  /the-latest/all-events/?category=Health%20resource%20hubs
 /health(.*)                               301  /departments/department-of-public-health/
 /heat                                     301  /guides/extreme-heat-guide/
 /helpme                                   301  /departments/philly311/
