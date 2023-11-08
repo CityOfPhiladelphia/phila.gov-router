@@ -208,9 +208,9 @@
 /departments/department-of-commerce/about-us/divisions/office-of-business-development/ 301  /departments/department-of-commerce/about-us/divisions/office-of-business-development-and-workforce-solutions/
 /departments/department-of-commerce/about-us/divisions/office-of-neighborhood-business-services/ 301  /departments/department-of-commerce/about-us/divisions/office-of-corridor-improvements-and-business-services/
 /departments/department-of-commerce/about-us/divisions/office-of-workforce-development/ 301  /departments/department-of-commerce/about-us/divisions/office-of-neighborhood-economic-development/
-/departments/department-of-commerce/investing-in-neighborhoods/ 301  /departments/department-of-commerce/for-community-organizations/ 
 /departments/department-of-commerce/investing-in-neighborhoods/small-business-improvement-programs/ 301  /departments/department-of-commerce/for-businesses/
-/departments/department-of-commerce/supporting-business/ 301  /departments/department-of-commerce/for-businesses/
+/departments/department-of-commerce/investing-in-neighborhoods/?(.*) 301  /departments/department-of-commerce/for-community-organizations/$1 
+/departments/department-of-commerce/supporting-business/?(.*) 301  /departments/department-of-commerce/for-businesses/$1
 /departments/department-of-licenses-and-inspections/permits-and-certificates/contractor-requirements/ 301 /departments/department-of-licenses-and-inspections/inspections/contractor-requirements/
 /departments/department-of-licenses-and-inspections/inspections/violation-types/   301 /departments/department-of-licenses-and-inspections/inspections/violation-and-order-types/ 
 /departments/department-of-licenses-and-inspections/licenses/business-licenses/rental-licenses/  301 /departments/department-of-licenses-and-inspections/licenses/rental-and-property-licenses/ 
@@ -468,6 +468,7 @@
 /health/tobaccopermits                    301  /services/permits-violations-licenses/business-licenses-permits-and-approvals/tobacco-retailers/get-a-tobacco-retailer-permit/
 /health/jobs                              301  /departments/department-of-public-health/about-us/jobs/
 /health/resource-hubs                     301  /2023-04-24-resource-hubs-offer-drop-in-assistance-and-free-services-in-five-philadelphia-neighborhoods/
+/health/resource-hubs-calendar            301  /the-latest/all-events/?category=Health%20resource%20hubs
 /health(.*)                               301  /departments/department-of-public-health/
 /heat                                     301  /guides/extreme-heat-guide/
 /helpme                                   301  /departments/philly311/
