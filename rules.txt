@@ -172,6 +172,7 @@
 /contracts/data/(.*)                      200  https://cityofphiladelphia.github.io/contracts/$1
 /contracts/additional-opportunities       301  /departments/office-of-the-chief-administrative-officer/contracts-legislation-unit/contract-opportunities-with-special-application-processes/
 /contracts(.*)                            301  https://contracts.phila.gov
+/council-?tax-?credit                     301  /documents/philadelphia-city-council-real-estate-tax-credit-program/ 
 /covid/faithPHL                           301  https://veoci.com/veoci/p/form/s4n33gugsg7c
 /covid/service-needs                      301  https://form.jotform.com/philagov/covid-service-needs
 /covid/testing-bids                       301  https://veoci.com/veoci/p/form/gfxhjgwvcxeh#tab=entryForm
