@@ -385,8 +385,7 @@
 /eoc-gisrequest                           301  https://veoci.com/veoci/p/dashboard/4p9brrkav6
 /eslmap                                   301  http://phl.maps.arcgis.com/apps/View/index.html?appid=3929071e10db460db6e2265423ed4e83
 /es$                                      301  /es/
-/es/tax-center-guide                      301  /guides/philadelphia-tax-center/philadelphia-tax-center-en-espanol/
-/es/tax-center-guia                       301  /guides/philadelphia-tax-center/philadelphia-tax-center-en-espanol/
+/tax-center-guia                          301  /guides/philadelphia-tax-center/philadelphia-tax-center-en-espanol/
 /ethicsboard/Agendas%20and%20Minutes/(.*) 301  /departments/board-of-ethics/
 /ethicsboard/PDF/(.*)                     301  /departments/board-of-ethics/
 /ethicsboard/Documents/(.*)               301  /departments/board-of-ethics/
