@@ -263,6 +263,7 @@
 /departments/mayors-office-of-public-engagement/mayors-commission-on-asian-american-affairs/(.*) 301 /departments/office-of-immigrant-affairs/mayors-commission-on-asian-american-affairs/$1
 /departments/mayors-office-of-reintegration-services/ 301 /departments/office-of-reentry-partnerships/
 /departments/office-of-innovation-management/         301 /departments/office-of-innovation-and-technology/innovation-management-team/
+/departments/office-of-innovation-and-technology/innovation-management-team/  301 /departments/office-of-innovation-and-technology/public-technology-and-innovation-team/
 /departments/office-of-transportation-infrastructure-systems/ 301 /departments/office-of-transportation-infrastructure-sustainability/
 /departments/office-of-the-chief-administrative-officer/contracts-legislation-unit(.*)  301  /departments/office-of-the-chief-administrative-officer/contract-opportunities-with-special-application-processes$1
 /departments/office-of-the-chief-diversity-and-inclusion-officer 301 /departments/office-of-diversity-equity-and-inclusion/
@@ -496,6 +497,7 @@
 /income-based-assistance-programs/real-estate-tax-deferral-program 301  /services/payments-assistance-taxes/payment-plans-and-assistance-programs/income-based-programs-for-residents/enroll-in-the-real-estate-tax-deferral-program/
 /income-taxes/net-profits-tax             301  /services/business-self-employment/business-taxes/net-profits-tax/
 /income-taxes/overview                    301  /services/payments-assistance-taxes/income-taxes/
+/innovation-team                          301  /departments/office-of-innovation-and-technology/public-technology-and-innovation-team/
 /inspector                                301  /departments/office-of-the-inspector-general/
 /inspectorgeneral                         301  /departments/office-of-the-inspector-general/
 /integrityworks(.*)                       301  /programs/integrity-works/
