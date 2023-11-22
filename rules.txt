@@ -289,6 +289,7 @@
 /departments/office-of-sustainability/about/energy-office/energy-conservation-programs/   301 /departments/office-of-sustainability/about/municipal-energy-office/energy-conservation-programs/
 /departments/office-of-sustainability/about/energy-office/building-compliance/     301 /departments/office-of-sustainability/about/municipal-energy-office/building-compliance/ 
 /departments/office-of-sustainability/about/energy-office/building-compliance/high-performance-buildings/   301 /departments/office-of-sustainability/about/municipal-energy-office/building-compliance/high-performance-buildings/ 
+/departments/office-of-the-chief-integrity-officer/archives/ 301  /departments/office-of-the-chief-integrity-officer/resources/
 /departments/department-of-licenses-and-inspections/licenses/rental-licenses/ 301  /departments/department-of-licenses-and-inspections/licenses/rental-and-property-licenses/
 /departments/department-of-licenses-and-inspections/licenses/rental-licenses/rental-license-faq/ 301  /departments/department-of-licenses-and-inspections/licenses/rental-and-property-licenses/rental-license-faq/
 /departments/water-department/            301	 /departments/philadelphia-water-department/
@@ -363,6 +364,12 @@
 /documents/community-based-organization-cbo-rapid-test-kit-distribution-program/ 301  /documents/covid-19-test-kit-distribution-program/
 /documents/special-event-rapid-test-kit-distribution-requests/ 301  /documents/covid-19-test-kit-distribution-program/
 /documents/real-estate-and-property-business-license-materials/ 301  /departments/department-of-licenses-and-inspections/licenses/rental-and-property-licenses/rental-and-property-licenses-materials/
+/documents/executive-order-10-16-acceptance-of-gifts/ 301  /departments/mayor/executive-orders/#/?table=%2520Mayoral%2520executive%2520orders%2520from%25201952%2520to%2520the%2520present&q=10-16:%20Acceptance%20of%20Gifts%20by%20City%20Officers%20and%20Employees
+/documents/executive-order-11-14-financial-disclosure-in-the-executive-branch/ 301  /departments/mayor/executive-orders/#/?table=%2520Mayoral%2520executive%2520orders%2520from%25201952%2520to%2520the%2520present&q=11-14:%20Financial%20Disclosure%20Filing%20in%20the%20Executive%20Branch
+/documents/executive-order-1-11-nepotism/	301  /departments/mayor/executive-orders/#/?table=%2520Mayoral%2520executive%2520orders%2520from%25201952%2520to%2520the%2520present&q=1-11:%20Prohibition%20Against%20Nepotism%20(2011)
+/documents/executive-order-12-16-outside-employment-and-self-employment/ 301  /departments/mayor/executive-orders/#/?table=%2520Mayoral%2520executive%2520orders%2520from%25201952%2520to%2520the%2520present&q=12-16:%20Regulation%20of%20Outside%20Employment%20and%20Self-Employment%20of%20City%20Officers%20and%20Employees
+/documents/executive-order-9-17-whistleblower-protections/ 301  /documents/executive-order-9-17-whistleblower-protections-handout/
+/documents/integrity-works-newsletters/ 301  /departments/office-of-the-chief-integrity-officer/
 /domestic-?work                           301  /services/working-jobs/worker-protections/report-a-domestic-workers-bill-of-rights-violation/
 /dot                                      301  /it
 /dpd                                      301  /departments/department-of-planning-and-development/
@@ -479,7 +486,7 @@
 /hhe                                      301  /2019-06-11-what-happens-when-the-city-declares-a-heat-health-emergency/
 /historical/taskforce                     301  https://www.phlpreservation.org/
 /historical(.*)                           301  /departments/philadelphia-historical-commission/
-/holiday-celebrations                     301  /spotlight/city-of-philadelphia-holiday-celebrations-2022/
+/holiday-celebrations                     301  /spotlight/city-of-philadelphia-holiday-celebrations-2023/
 /homeless-?services                       301  /departments/office-of-homeless-services/
 /homestead                                301  /services/property-lots-housing/get-real-estate-tax-relief/get-the-homestead-exemption/
 /homebuynow(.*)                           301  https://cedphilly.org/philadelphia-home-buy-now
@@ -500,7 +507,7 @@
 /innovation-team                          301  /departments/office-of-innovation-and-technology/public-technology-and-innovation-team/
 /inspector                                301  /departments/office-of-the-inspector-general/
 /inspectorgeneral                         301  /departments/office-of-the-inspector-general/
-/integrityworks(.*)                       301  /programs/integrity-works/
+/integrity(.*)                            301  /departments/office-of-the-chief-integrity-officer/
 /investorconference                       301  /programs/investor-information/
 /investor/(.*)                            301  /programs/investor-information/
 /ips                                      301  /programs/intensive-prevention-services-ips/
@@ -644,6 +651,7 @@
 /departments/office-of-civic-engagement-and-volunteer-service(.*) 301 /departments/mayors-office-of-civic-engagement-and-volunteer-service$1
 /ohcd(.*)                                 301  /departments/division-of-housing-and-community-development/
 /oho                                      301  /hhs
+/ohr                                      301  /departments/office-of-human-resources/
 /ohs(.*)                                  301  /departments/office-of-homeless-services/
 /oia                                      301  /departments/office-of-immigrant-affairs/
 /oia/resource-finder(.*)                  200  http://phila-resource-finder-v2.s3-website-us-east-1.amazonaws.com/oia/resource-finder$1
@@ -765,6 +773,7 @@
 /PHLgovTV                                 301  /departments/office-of-innovation-and-technology/phlgovtv/
 /phl-tcb                                  301  /programs/phl-taking-care-of-business/
 /plan-develop                             301  /departments/department-of-planning-and-development/
+/plan-of-safe-care                        301  /services/birth-marriage-life-events/birth-adoption-and-parenting/coordinate-a-plan-of-safe-care/
 /phils(.*)                                301  /departments/department-of-records/city-archives/
 /philly-?spring-?cleanup                  301  /programs/philly-spring-cleanup/
 /phlcityid                                301  /programs/phl-city-id/
@@ -875,6 +884,8 @@
 /programs/education-and-childcare-services/(.*) 301 /programs/education-support-center/$1
 /programs/energy-benchmarking/            301  http://www.phillybuildingbenchmarking.com/
 /programs/family-empowerment-services-fes/ 301 /programs/family-empowerment-programs/
+/programs/integrity-works/faq/            301  /departments/office-of-the-chief-integrity-officer/frequently-asked-questions/
+/programs/integrity-works/(.*)            301  /departments/office-of-the-chief-integrity-officer/$1
 /programs/mayors-volunteer-corps/         301  /programs/mayors-volunteers/
 /programs/mechanical-street-cleaning/phase-2-pilot/      301  /programs/mechanical-street-cleaning/cleaning-schedule/
 /programs/philadelphia-resilience-project/ 301 /programs/opioid-response-unit/
@@ -1544,6 +1555,10 @@
 /sphs                                     301  /programs/community-schools/south-philadelphia-high-school/
 /spotlight                                301  /the-latest
 /spotlight/love-park                      301  /spotlight/christmas-village-in-love-park-2019/
+/spotlight/city-of-philadelphia-holiday-celebrations/ 301  /holiday-celebrations
+/spotlight/city-of-philadelphia-holiday-celebrations-2019/ 301  /holiday-celebrations
+/spotlight/city-of-philadelphia-holiday-celebrations-2021/ 301  /holiday-celebrations
+/spotlight/city-of-philadelphia-holiday-celebrations-2022/ 301  /holiday-celebrations
 /stormwater-planter                       301  http://www.stormwaterpa.org/creating-community-columbus-square-park.html?key=1
 /stormwater-tools                         301  http://stormwaterpa.org/green-city,-clean-waters.html?key=0
 /stormwater-tree                          301  http://www.stormwaterpa.org/soak-it-up-stormwater-trees.html?key=0
