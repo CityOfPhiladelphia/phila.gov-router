@@ -167,6 +167,7 @@
 /complete-streets/tioga-5th-15th          301  /documents/tioga-5th-15th
 /complete-streets/westminster-40th-52nd   301  /documents/westminster-40th-52nd
 /complete-streets/west-chestnut-walnut    301  /programs/complete-streets/projects/chestnut-walnut-repaving-and-complete-street-safety-project/
+/consumer-protection                      301  /programs/philadelphia-consumer-financial-protection-task-force/
 /content-style-guide                      301  http://standards.phila.gov/guidelines/content/
 /content-style-guide/(.*)                 301  http://standards.phila.gov/guidelines/content/
 /contractprepfee                          301  https://www.officialpayments.com/pc_entry_cobrand.jsp?productId=635840624434951202173815789925863516
@@ -264,6 +265,8 @@
 /departments/mayors-office-of-reintegration-services/ 301 /departments/office-of-reentry-partnerships/
 /departments/office-of-innovation-management/         301 /departments/office-of-innovation-and-technology/innovation-management-team/
 /departments/office-of-innovation-and-technology/innovation-management-team/  301 /departments/office-of-innovation-and-technology/public-technology-and-innovation-team/
+/departments/office-of-innovation-and-technology/resources/news-articles/ 301  /departments/office-of-innovation-and-technology/
+/departments/office-of-innovation-and-technology/verizon-franchise-agreement-feedback-form/  301  /departments/office-of-innovation-and-technology/
 /departments/office-of-transportation-infrastructure-systems/ 301 /departments/office-of-transportation-infrastructure-sustainability/
 /departments/office-of-the-chief-administrative-officer/contracts-legislation-unit(.*)  301  /departments/office-of-the-chief-administrative-officer/contract-opportunities-with-special-application-processes$1
 /departments/office-of-the-chief-diversity-and-inclusion-officer 301 /departments/office-of-diversity-equity-and-inclusion/
@@ -890,7 +893,7 @@
 /programs/mechanical-street-cleaning/phase-2-pilot/      301  /programs/mechanical-street-cleaning/cleaning-schedule/
 /programs/philadelphia-resilience-project/ 301 /programs/opioid-response-unit/
 /programs/philly-powered/                 301  /departments/department-of-public-health/wellness/exercise-and-nutrition/
-/consumer-protection                      301  /programs/philadelphia-consumer-financial-protection-task-force/
+/programs/phlconnected/partners/          301  /programs/phlconnected/
 /programs/rebuild/careers/                301  /programs/rebuild/training-programs/
 /programs/rebuild/programs                301  /programs/rebuild/for-businesses/
 /programs/rebuild/project-sites/panati-recreation-center/  301  /programs/rebuild/project-sites/panati-playground/
@@ -1265,6 +1268,7 @@
 /services/payments-assistance-taxes/taxes/filing-and-paying-your-taxes/e-filing-city-taxes/ 301 /services/payments-assistance-taxes/taxes/filing-and-paying-your-taxes/use-modernized-e-filing-mef-for-city-taxes/
 /services/payments-assistance-taxes/taxes/filing-and-paying-your-taxes/interest-penalties-and-fees-2/  301 /services/payments-assistance-taxes/taxes/filing-and-paying-your-taxes/interest-penalties-and-fees/
 /services/payments-assistance-taxes/taxes/income-taxes/earnings-tax-employees-2/  301 /services/payments-assistance-taxes/taxes/income-taxes/earnings-tax-employees/ 
+/services/payments-assistance-taxes/taxes/business-taxes/voluntary-disclosure-of-non-payment-2/ 301  /services/payments-assistance-taxes/payment-plans-and-assistance-programs/other-payment-plans-and-programs/apply-for-the-voluntary-disclosure-program-for-overdue-taxes/
 /services/payments-assistance-taxes/vendor-payment-status/ 301  /services/payments-assistance-taxes/payments-from-the-city/track-vendor-payment/
 /services/payments-assistance-taxes/water-bills/water-bill-affordability-assistance-programs-payment-plans/income-based-water-bill-assistance/  301 /services/payments-assistance-taxes/water-bills/water-bill-affordability-assistance-programs-payment-plans/apply-for-water-bill-customer-assistance/
 /services/payments-assistance-taxes/water-bills/water-bill-affordability-assistance-programs-payment-plans/senior-citizen-water-bill-discount/  301 /services/payments-assistance-taxes/water-bills/water-bill-affordability-assistance-programs-payment-plans/apply-for-the-senior-citizen-water-bill-discount/
@@ -1274,6 +1278,8 @@
 /services/permits-violations-licenses/get-a-permit-to-use-a-philadelphia-parks-recreation-space/ 301 /services/permits-violations-licenses/apply-for-a-permit/get-a-permit-to-use-a-philadelphia-parks-recreation-space/reserve-a-parks-recreation-facility/
 /services/permits-violations-licenses/business-licenses-permits-and-approvals/?(.*)  301  /services/permits-violations-licenses/get-a-license/business-licenses-permits-and-approvals/$1
 /services/permits-violations-licenses/build-rent-or-sell-a-property/?(.*)  301  /services/permits-violations-licenses/rent-or-sell-property/$1
+/services/permits-violations-licenses/get-a-license/business-licenses/real-estate/get-a-limited-lodging-and-hotels-booking-agent-license/ 301  /services/permits-violations-licenses/get-a-license/business-licenses/rental-and-property/get-a-limited-lodging-booking-agent-license/ 
+/services/permits-violations-licenses/get-a-license/business-licenses/real-estate/?(.*) 301  /services/permits-violations-licenses/get-a-license/business-licenses/rental-and-property/$1
 /services/permits-violations-licenses/apply-for-a-permit/building-and-repair/ 301  /services/permits-violations-licenses/apply-for-a-permit/building-and-repair-permits/
 /services/permits-violations-licenses/apply-for-a-permit/building-and-repair/get-a-building-permit/ 301  /services/permits-violations-licenses/apply-for-a-permit/building-and-repair-permits/get-a-building-permit/
 /services/permits-violations-licenses/apply-for-a-permit/building-and-repair/get-a-building-permit-for-a-tank-to-store-hazardous-materials/ 301  /services/permits-violations-licenses/apply-for-a-permit/building-and-repair-permits/get-a-building-permit-for-a-tank-to-store-hazardous-materials/
@@ -1559,6 +1565,7 @@
 /spotlight/city-of-philadelphia-holiday-celebrations-2019/ 301  /holiday-celebrations
 /spotlight/city-of-philadelphia-holiday-celebrations-2021/ 301  /holiday-celebrations
 /spotlight/city-of-philadelphia-holiday-celebrations-2022/ 301  /holiday-celebrations
+/spotlight/septa-for-all-augmenting-transit-with-augmented-reality/ 301  /departments/office-of-innovation-and-technology/
 /stormwater-planter                       301  http://www.stormwaterpa.org/creating-community-columbus-square-park.html?key=1
 /stormwater-tools                         301  http://stormwaterpa.org/green-city,-clean-waters.html?key=0
 /stormwater-tree                          301  http://www.stormwaterpa.org/soak-it-up-stormwater-trees.html?key=0
