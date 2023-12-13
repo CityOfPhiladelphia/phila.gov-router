@@ -317,6 +317,7 @@
 /documents/air-management-regulations     301  /documents/air-management-guidelines-and-regulations/
 /documents/business-financial-support-applications/   301 /departments/department-of-commerce/supporting-business/financial-support/ 
 /documents/probate-and-estate-services-fee-schedule/  301 /documents/register-of-wills-fee-schedule/
+/documents/cao-by-the-numbers/             301  /documents/cao-reports/
 /documents/coronavirus-covid-19-resources  301  /programs/coronavirus-disease-2019-covid-19/multi-language-resources/covid-19-coronavirus-resources-in-english/
 /documents/coronavirus-tax-guidance/       301  /departments/department-of-revenue/our-services/tax-services/tax-guidance-in-response-to-covid-19/
 /documents/covid-19-resource-translations  301  /programs/coronavirus-disease-2019-covid-19/multi-language-resources/
