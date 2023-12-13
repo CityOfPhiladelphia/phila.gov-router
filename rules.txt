@@ -35,6 +35,8 @@
 /2023-03-09-businesses-can-now-apply-for-the-quality-jobs-program/ 301  /programs/quality-jobs-program/ 
 /311/(.*)                                 301  /departments/philly311/
 /311/report-an-issue                      301  https://iframe.publicstuff.com/#?client_id=242
+/abandoned-car                            301  /services/streets-sidewalks-alleys/report-a-problem-on-a-city-street-sidewalk-or-alley/report-an-abandoned-vehicle/ 
+/abandoned-vehicle                        301  /services/streets-sidewalks-alleys/report-a-problem-on-a-city-street-sidewalk-or-alley/report-an-abandoned-vehicle/
 /aco                                      301  /departments/mayors-office-for-people-with-disabilities/
 /access-center-finder(.*)                 301  /2021-02-22-the-citys-access-centers-are-still-enrolling-students/
 /access-?centers                          301  /2021-02-22-the-citys-access-centers-are-still-enrolling-students/
