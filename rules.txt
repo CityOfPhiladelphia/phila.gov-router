@@ -2,6 +2,7 @@
 /2016-water-quality-data                  301  /water/PDF/2016-water-quality-results.pdf
 /2016waterquality                         301  /water/wu/water%20quality%20reports/2016waterquality.pdf
 /2018                                     301  /2018-12-21-10-big-moments-from-2018-in-philadelphia/
+/2018-11-28-hate-crimes-and-bias-incidents/  301  /services/crime-law-justice/report-a-crime-or-concern/discrimination-and-unfair-practices/report-a-hate-incident/ 
 /2019-06-11-what-happens-when-the-city-declares-a-heat-health-emergency/  301 /2023-07-26-what-happens-when-the-city-declares-a-heat-health-emergency/ 
 /2020-03-28-where-to-find-free-nutritious-food-during-covid-19/ 301 /food/
 /2020-03-29-donde-conseguir-comidas-gratis-y-nutritivas-para-familias-y-estudiantes/ 301 /food/
