@@ -1425,6 +1425,7 @@
 /services/permits-violations-licenses/get-a-license/trade-licenses/get-a-hot-work-license/ 301  /services/permits-violations-licenses/get-a-license/business-licenses/other-businesses/get-a-hot-work-license/
 /services/permits-violations-licenses/apply-for-a-permit/get-a-hauling-permit/   301 /services/permits-violations-licenses/apply-for-a-permit/get-a-special-hauling-permit/
 /services/permits-violations-licenses/get-a-license/business-licenses/automotive-business/get-an-auto-repair-shop-license  301 /services/permits-violations-licenses/get-a-license/business-licenses/automotive-business/get-a-motor-vehicle-repair-fuel-dispensing-license
+/services/permits-violations-licenses/get-a-license/business-licenses/child-care-facilities/sanitation-safety-inspection-for-a-child-care-facility/  301 /services/permits-violations-licenses/get-a-license/business-licenses/child-care-facilities/schedule-a-sanitation-safety-inspection-for-in-home-group-child-care/ 
 /services/property-lots-housing/get-the-homestead-exemption/ 301 /services/property-lots-housing/property-taxes/get-real-estate-tax-relief/get-the-homestead-exemption/
 /services/property-lots-housing/get-real-estate-tax-relief/get-the-homestead-exemption/ 301 /services/property-lots-housing/property-taxes/get-real-estate-tax-relief/get-the-homestead-exemption/
 /services/safety-emergency-preparedness/find-a-fire-station/ 301 /services/safety-emergency-preparedness/fire-safety/find-a-fire-station/
