@@ -2,6 +2,7 @@
 /2016-water-quality-data                  301  /water/PDF/2016-water-quality-results.pdf
 /2016waterquality                         301  /water/wu/water%20quality%20reports/2016waterquality.pdf
 /2018                                     301  /2018-12-21-10-big-moments-from-2018-in-philadelphia/
+/2018-11-28-hate-crimes-and-bias-incidents/  301  /services/crime-law-justice/report-a-crime-or-concern/discrimination-and-unfair-practices/report-a-hate-incident/ 
 /2019-06-11-what-happens-when-the-city-declares-a-heat-health-emergency/  301 /2023-07-26-what-happens-when-the-city-declares-a-heat-health-emergency/ 
 /2020-03-28-where-to-find-free-nutritious-food-during-covid-19/ 301 /food/
 /2020-03-29-donde-conseguir-comidas-gratis-y-nutritivas-para-familias-y-estudiantes/ 301 /food/
@@ -282,6 +283,7 @@
 /departments/office-of-sustainability/about/energy-office/compliance/green-buildings/  301 /departments/office-of-sustainability/about/energy-office/compliance/high-performance-buildings/
 /departments/philadelphia-historical-commission/agendas-and-minutes/ 301 /departments/philadelphia-historical-commission/public-meetings/
 /departments/philadelphia-board-of-education 301  /departments/educational-nominating-panel/
+/departments/philadelphia-parks-recreation/get-involved/park-friends-groups/park-friends-group-list/   301 /departments/philadelphia-parks-recreation/get-involved/park-friends-groups/ 
 /departments/department-of-streets/resources/ 301 /departments/department-of-streets/
 /departments/department-of-streets/resources/residential-trash-and-recycling-rules/ 301 /departments/department-of-streets/about/rules-and-regulations/residential-trash-and-recycling-rules/
 /departments/sinking-fund-commission/sinking-fund-philadelphia-gas-works-pension-plan/ 301 /departments/sinking-fund-commission/sinking-fund-philadelphia-gas-works-pension-plan-reports/
@@ -1276,6 +1278,7 @@
 /services/payments-assistance-taxes/water-bills/water-bill-affordability-assistance-programs-payment-plans/income-based-water-bill-assistance/  301 /services/payments-assistance-taxes/water-bills/water-bill-affordability-assistance-programs-payment-plans/apply-for-water-bill-customer-assistance/
 /services/payments-assistance-taxes/water-bills/water-bill-affordability-assistance-programs-payment-plans/senior-citizen-water-bill-discount/  301 /services/payments-assistance-taxes/water-bills/water-bill-affordability-assistance-programs-payment-plans/apply-for-the-senior-citizen-water-bill-discount/
 /services/payments-assistance-taxes/payment-plans-and-assistance-programs/income-based-programs-for-residents/low-income-senior-citizen-real-estate-tax-freeze/ 301  /services/payments-assistance-taxes/payment-plans-and-assistance-programs/income-based-programs-for-residents/apply-for-the-low-income-senior-citizen-real-estate-tax-freeze/
+/services/payments-assistance-taxes/taxes/refunds/wage-tax-refunds/  301  /services/payments-assistance-taxes/taxes/refunds/request-a-wage-tax-refund/ 
 /services/permits-violations-licenses/environmental-permits-and-approvals/?(.*)  301  /services/permits-violations-licenses/apply-for-a-permit/environmental-permits-and-approvals/$1
 /services/permits-violations-licenses/get-a-license/find-out-what-license-you-need-for-your-business/  301  /services/permits-violations-licenses/get-a-license/business-licenses-permits-and-approvals/
 /services/permits-violations-licenses/get-a-permit-to-use-a-philadelphia-parks-recreation-space/ 301 /services/permits-violations-licenses/apply-for-a-permit/get-a-permit-to-use-a-philadelphia-parks-recreation-space/reserve-a-parks-recreation-facility/
@@ -1423,6 +1426,7 @@
 /services/permits-violations-licenses/get-a-license/trade-licenses/get-a-hot-work-license/ 301  /services/permits-violations-licenses/get-a-license/business-licenses/other-businesses/get-a-hot-work-license/
 /services/permits-violations-licenses/apply-for-a-permit/get-a-hauling-permit/   301 /services/permits-violations-licenses/apply-for-a-permit/get-a-special-hauling-permit/
 /services/permits-violations-licenses/get-a-license/business-licenses/automotive-business/get-an-auto-repair-shop-license  301 /services/permits-violations-licenses/get-a-license/business-licenses/automotive-business/get-a-motor-vehicle-repair-fuel-dispensing-license
+/services/permits-violations-licenses/get-a-license/business-licenses/child-care-facilities/sanitation-safety-inspection-for-a-child-care-facility/  301 /services/permits-violations-licenses/get-a-license/business-licenses/child-care-facilities/schedule-a-sanitation-safety-inspection-for-in-home-group-child-care/ 
 /services/property-lots-housing/get-the-homestead-exemption/ 301 /services/property-lots-housing/property-taxes/get-real-estate-tax-relief/get-the-homestead-exemption/
 /services/property-lots-housing/get-real-estate-tax-relief/get-the-homestead-exemption/ 301 /services/property-lots-housing/property-taxes/get-real-estate-tax-relief/get-the-homestead-exemption/
 /services/safety-emergency-preparedness/find-a-fire-station/ 301 /services/safety-emergency-preparedness/fire-safety/find-a-fire-station/
