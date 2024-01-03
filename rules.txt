@@ -363,6 +363,7 @@
 /documents/greenworks-on-the-ground-what-communities-can-do/ 301  /documents/greenworks-on-the-ground/
 /documents/greenworks-on-the-ground-what-individuals-can-do/ 301  /documents/greenworks-on-the-ground/
 /documents/greenworks-on-the-ground-what-institutions-can-do/ 301  /documents/greenworks-on-the-ground/
+/documents/phlcontracts-information/      301  /documents/phlcontracts-user-guides/ 
 /documents/pregnancy-and-prenatal-care-guides/ 301  /services/mental-physical-health/get-health-care-and-support/family-and-childrens-health-care/get-prenatal-care/ 
 /documents/philadelphia-activities-fund-grant-application/   301  /services/culture-recreation/apply-for-a-philadelphia-activities-fund-grant/
 /documents/mayors-volunteer-corps-zine/   301  /documents/mayors-volunteer-zine/
@@ -1530,6 +1531,8 @@
 /services/payments-assistance-taxes/property-tax-abatements/ 301  /services/property-lots-housing/property-taxes/get-real-estate-tax-relief/get-a-property-tax-abatement/
 /services/payments-assistance-taxes/property-tax-exemptions/ 301  /departments/office-of-property-assessment/tax-exemptions-and-abatements/
 /services/payments-assistance-taxes/taxes/technical-private-letter-rulings/   301  /services/payments-assistance-taxes/taxes/request-a-technical-private-letter-ruling-for-unusual-tax-circumstances/ 
+/services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-type/use-occupancy-tax-2/   301  /services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-type/use-occupancy-tax/
+/services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-type/liquor-tax-2/   301  /services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-type/liquor-tax/
 /services/permits-violations-licenses/apply-for-a-permit/apply-to-provide-food-or-drinks-at-a-special-event/ 301  /services/permits-violations-licenses/apply-for-a-permit/event-permits/large-scale-special-events/apply-to-provide-food-or-drinks-at-a-special-event/
 /services/permits-violations-licenses/get-a-permit-to-use-a-philadelphia-parks-recreation-space/apply-for-a-media-permit/ 301  /services/permits-violations-licenses/apply-for-a-permit/event-permits/events-in-a-city-park-field-or-rec-center/apply-for-a-media-permit/
 /services/permits-violations-licenses/get-a-permit-to-use-a-philadelphia-parks-recreation-space/get-a-friends-community-groups-event-permit/ 301  /services/permits-violations-licenses/apply-for-a-permit/event-permits/events-in-a-city-park-field-or-rec-center/get-a-friends-and-community-group-event-permit/
@@ -1652,6 +1655,7 @@
 /voting(.*)                               301  https://vote.phila.gov/ballot-drop-off/
 /vi$                                      301  /vi/
 /wage-?theft                              301  /services/working-jobs/worker-protections/wage-protections/report-wage-theft/
+/wage-tax-refund                          301  /services/payments-assistance-taxes/taxes/refunds/request-a-wage-tax-refund/
 /warningletter                            301  /documents/warning-of-risk-of-tax-foreclosure/
 /water-?grant                             301  /2022-05-06-how-to-get-help-with-past-due-water-bills/
 /water-?bill                               301  https://secure8.i-doxs.net/CityOfPhiladelphiaWRB/SignIn.aspx
