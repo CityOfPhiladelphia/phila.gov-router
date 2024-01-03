@@ -208,6 +208,7 @@
 /departments/(.*)/about/all-events        301  /the-latest/all-events/
 /departments/(.*)/all-events              301  /the-latest/all-events/
 /departments/board-of-education           301  /departments/philadelphia-board-of-education/
+/departments/board-of-pensions-and-retirement/2023-pension-payment-dates/   301  /departments/board-of-pensions-and-retirement/pension-payment-dates/ 
 /departments/city-of-philadelphia-board-of-ethics 301 /departments/board-of-ethics/
 /departments/civil-service/               301  /departments/civil-service-commission/
 /departments/commission-for-women/        301  /departments/office-of-engagement-for-women/philadelphia-commission-for-women/
