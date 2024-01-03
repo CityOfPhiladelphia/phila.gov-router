@@ -208,6 +208,7 @@
 /departments/(.*)/about/all-events        301  /the-latest/all-events/
 /departments/(.*)/all-events              301  /the-latest/all-events/
 /departments/board-of-education           301  /departments/philadelphia-board-of-education/
+/departments/board-of-pensions-and-retirement/2023-pension-payment-dates/   301  /departments/board-of-pensions-and-retirement/pension-payment-dates/ 
 /departments/city-of-philadelphia-board-of-ethics 301 /departments/board-of-ethics/
 /departments/civil-service/               301  /departments/civil-service-commission/
 /departments/commission-for-women/        301  /departments/office-of-engagement-for-women/philadelphia-commission-for-women/
@@ -263,6 +264,7 @@
 /departments/office-of-human-resources/job-specs/ 301  /departments/office-of-human-resources/careers/job-class-specifications/
 /departments/office-of-human-resources/job-specs/index.html 301  /departments/office-of-human-resources/careers/job-class-specifications/
 /departments/office-of-human-resources/job-specs/pay.htm 301  /departments/office-of-human-resources/careers/job-class-specifications/
+/departments/office-of-the-chief-administrative-officer/human-resources-and-talent/   301 /departments/office-of-the-chief-administrative-officer/office-of-talent-and-employee-success/ 
 /departments/mayors-office-of-labor/(.*) 301  /departments/department-of-labor/$1
 /departments/mayors-office-of-public-engagement/mayors-commission-on-asian-american-affairs/(.*) 301 /departments/office-of-immigrant-affairs/mayors-commission-on-asian-american-affairs/$1
 /departments/mayors-office-of-reintegration-services/ 301 /departments/office-of-reentry-partnerships/
