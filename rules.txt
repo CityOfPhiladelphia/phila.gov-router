@@ -1530,6 +1530,8 @@
 /services/payments-assistance-taxes/property-tax-abatements/ 301  /services/property-lots-housing/property-taxes/get-real-estate-tax-relief/get-a-property-tax-abatement/
 /services/payments-assistance-taxes/property-tax-exemptions/ 301  /departments/office-of-property-assessment/tax-exemptions-and-abatements/
 /services/payments-assistance-taxes/taxes/technical-private-letter-rulings/   301  /services/payments-assistance-taxes/taxes/request-a-technical-private-letter-ruling-for-unusual-tax-circumstances/ 
+/services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-type/use-occupancy-tax-2/   301  /services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-type/use-occupancy-tax/
+/services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-type/liquor-tax-2/   301  /services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-type/liquor-tax/
 /services/permits-violations-licenses/apply-for-a-permit/apply-to-provide-food-or-drinks-at-a-special-event/ 301  /services/permits-violations-licenses/apply-for-a-permit/event-permits/large-scale-special-events/apply-to-provide-food-or-drinks-at-a-special-event/
 /services/permits-violations-licenses/get-a-permit-to-use-a-philadelphia-parks-recreation-space/apply-for-a-media-permit/ 301  /services/permits-violations-licenses/apply-for-a-permit/event-permits/events-in-a-city-park-field-or-rec-center/apply-for-a-media-permit/
 /services/permits-violations-licenses/get-a-permit-to-use-a-philadelphia-parks-recreation-space/get-a-friends-community-groups-event-permit/ 301  /services/permits-violations-licenses/apply-for-a-permit/event-permits/events-in-a-city-park-field-or-rec-center/get-a-friends-and-community-group-event-permit/
