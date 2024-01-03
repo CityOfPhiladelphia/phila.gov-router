@@ -1653,6 +1653,7 @@
 /voting(.*)                               301  https://vote.phila.gov/ballot-drop-off/
 /vi$                                      301  /vi/
 /wage-?theft                              301  /services/working-jobs/worker-protections/wage-protections/report-wage-theft/
+/wage-tax-refund                          301  /services/payments-assistance-taxes/taxes/refunds/request-a-wage-tax-refund/
 /warningletter                            301  /documents/warning-of-risk-of-tax-foreclosure/
 /water-?grant                             301  /2022-05-06-how-to-get-help-with-past-due-water-bills/
 /water-?bill                               301  https://secure8.i-doxs.net/CityOfPhiladelphiaWRB/SignIn.aspx
