@@ -381,6 +381,7 @@
 /documents/executive-order-12-16-outside-employment-and-self-employment/ 301  /departments/mayor/executive-orders/#/?table=%2520Mayoral%2520executive%2520orders%2520from%25201952%2520to%2520the%2520present&q=12-16:%20Regulation%20of%20Outside%20Employment%20and%20Self-Employment%20of%20City%20Officers%20and%20Employees
 /documents/executive-order-9-17-whistleblower-protections/ 301  /documents/executive-order-9-17-whistleblower-protections-handout/
 /documents/integrity-works-newsletters/ 301  /departments/office-of-the-chief-integrity-officer/
+/documents/mixed-income-housing-program-report-2020/ 301  /documents/mixed-income-housing-program-report/ 
 /domestic-?work                           301  /services/working-jobs/worker-protections/report-a-domestic-workers-bill-of-rights-violation/
 /dot                                      301  /it
 /dpd                                      301  /departments/department-of-planning-and-development/
@@ -742,6 +743,8 @@
 /pensions/PDF/Alternate%20Payee%20Pension%20Application.pdf 301  /documents/pension-alternate-payee-application/
 /pensions/PDF/DROP%20Application-Rev.2011.pdf 301  /documents/pension-deferred-retirement-option-plan-drop-application/
 /pensions/PDF/Survivor%20Application.pdf  301  /documents/pension-designated-survivor-application/
+/pensions/PDF/ips.pdf                     301  /media/20240104103841/Pensions-investment-policy-20231026.pdf 
+/pensions/PDF/IPS_42414.pdf               301  /media/20240104103841/Pensions-investment-policy-20231026.pdf 
 /permit-license-center-appointment        301 /services/permits-violations-licenses/make-an-appointment-to-visit-the-li-permit-and-license-center/
 /personnel	                              301  /departments/office-of-human-resources/
 /personnel/ADAFAQ.html	                  301  /departments/office-of-human-resources/policies/
