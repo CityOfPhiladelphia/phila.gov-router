@@ -1623,7 +1623,7 @@
 /tos/(.*)                                 301  /terms-of-use/
 /towing                                   301  /programs/philadelphias-rotational-towing-program/
 /townwatch(.*)                            301  /departments/town-watch-integrated-services/
-/traffic-calming                          301  /services/streets-sidewalks-alleys/request-traffic-calming-for-a-residential-street/ 
+/traffic-?calming                          301  /services/streets-sidewalks-alleys/request-traffic-calming-for-a-residential-street/ 
 /transitionreport                         301  /documents/transition-report/
 /trashday(.*)                             301  /services/trash-recycling-city-upkeep/find-your-trash-and-recycling-collection-day/
 /trb/petition                             301  /documents/tax-appeal-petition-form/
