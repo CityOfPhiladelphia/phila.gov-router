@@ -275,6 +275,7 @@
 /departments/office-of-transportation-infrastructure-systems/ 301 /departments/office-of-transportation-infrastructure-sustainability/
 /departments/office-of-the-chief-administrative-officer/contracts-legislation-unit(.*)  301  /departments/office-of-the-chief-administrative-officer/contract-opportunities-with-special-application-processes$1
 /departments/office-of-the-chief-diversity-and-inclusion-officer 301 /departments/office-of-diversity-equity-and-inclusion/
+/departments/office-of-children-and-families/about/our-mission/  301 /departments/office-of-children-and-families/about/our-vision/ 
 /departments/parks-recreation             301  /departments/philadelphia-parks-recreation/
 /departments/police-advisory-commission/(.*) 301  /departments/citizens-police-oversight-commission/$1
 /departments/revenue                      301  /departments/department-of-revenue/
