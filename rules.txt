@@ -1558,6 +1558,7 @@
 /services/property-lots-housing/report-a-problem-with-property/report-a-building-code-violation/ 301  /services/property-lots-housing/report-a-problem-with-a-building-lot-or-street/
 /services/property-lots-housing/report-a-problem-with-property/report-a-vacant-building/ 301  /services/property-lots-housing/report-a-problem-with-a-building-lot-or-street/
 /services/property-lots-housing/report-a-problem-with-property/report-graffiti/ 301  /services/streets-sidewalks-alleys/report-a-problem-on-a-city-street-sidewalk-or-alley/report-graffiti/
+/services/property-lots-housing/get-a-real-estate-tax-adjustment-after-a-catastrophic-loss/  301  /services/property-lots-housing/property-taxes/get-real-estate-tax-relief/get-a-real-estate-tax-adjustment-after-a-catastrophic-loss/ 
 /services/payments-assistance-taxes/payment-plans-and-assistance-programs/other-payment-plans-and-programs/pay-delinquent-tax-balances-2/  301 /services/payments-assistance-taxes/payment-plans-and-assistance-programs/other-payment-plans-and-programs/pay-delinquent-tax-balances/
 /services/streets-sidewalks-alleys/request-a-traffic-calming-and-safety-study/  301  /services/streets-sidewalks-alleys/request-traffic-calming-for-a-residential-street/  
 /services/zoning-planning-development/get-approval-for-work-to-a-historic-property/ 301  /services/zoning-planning-development/get-a-plan-review/get-approval-for-work-to-a-historic-property/
