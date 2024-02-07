@@ -383,6 +383,10 @@
 /documents/executive-order-9-17-whistleblower-protections/ 301  /documents/executive-order-9-17-whistleblower-protections-handout/
 /documents/integrity-works-newsletters/ 301  /departments/office-of-the-chief-integrity-officer/
 /documents/mixed-income-housing-program-report-2020/ 301  /documents/mixed-income-housing-program-report/ 
+/documents/city-treasurers-office-response-to-hbhs-final-report/  301  /documents/reconciliation-task-force-archives/ 
+/documents/response-to-horsey-buckner-hefflers-reconciliation-recommendations/    301  /documents/reconciliation-task-force-archives/ 
+/documents/treasurers-office-final-report/  301  /documents/reconciliation-task-force-archives/ 
+/documents/summary-of-the-consolidated-cash-reconciliation/  301  /documents/reconciliation-task-force-archives/ 
 /domestic-?work                           301  /services/working-jobs/worker-protections/report-a-domestic-workers-bill-of-rights-violation/
 /dot                                      301  /it
 /dpd                                      301  /departments/department-of-planning-and-development/
@@ -909,6 +913,7 @@
 /programs/rebuild/careers/                301  /programs/rebuild/training-programs/
 /programs/rebuild/programs                301  /programs/rebuild/for-businesses/
 /programs/rebuild/project-sites/panati-recreation-center/  301  /programs/rebuild/project-sites/panati-playground/
+/programs/reconciliation-task-force/      301  /documents/reconciliation-task-force-archives/ 
 /programs/startup-phl                     301  http://startupphl.com/
 /programs/stemcityphl                     301  http://www.stemcityphl.org/
 /programs/substance-use-prevention-and-harm-reduction/the-citys-response/  301 /programs/opioid-response-unit/the-citys-response/
