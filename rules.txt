@@ -139,6 +139,7 @@
 /columbus-feedback                        301  https://form.jotform.com/philagov/columbus-feedback
 /combinedcampaign(.*)                     301  https://cityofphiladelphiacombinedcampaign.americascharities.stratuslive.com/
 /commissioners                            301  http://www.philadelphiavotes.com/
+/commissions/index.html                   301  /departments/ 
 /commerce/boost                           301  /2021-11-22-city-launches-boost-your-business-fund
 /commerce/doBusiness/Pages/default.aspx   301  /services/business-self-employment/do-business-with-the-city/
 /commerce/businesssupport/mwdsbesupport/pages/default.aspx 301 /departments/office-of-economic-opportunity/
@@ -522,6 +523,7 @@
 /income-based-assistance-programs/real-estate-tax-deferral-program 301  /services/payments-assistance-taxes/payment-plans-and-assistance-programs/income-based-programs-for-residents/enroll-in-the-real-estate-tax-deferral-program/
 /income-taxes/net-profits-tax             301  /services/business-self-employment/business-taxes/net-profits-tax/
 /income-taxes/overview                    301  /services/payments-assistance-taxes/income-taxes/
+/InformationCenters/boards/Pages/default.aspx  301 /departments/ 
 /innovation-team                          301  /departments/office-of-innovation-and-technology/public-technology-and-innovation-team/
 /inspector                                301  /departments/office-of-the-inspector-general/
 /inspectorgeneral                         301  /departments/office-of-the-inspector-general/
