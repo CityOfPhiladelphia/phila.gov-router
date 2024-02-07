@@ -139,6 +139,7 @@
 /columbus-feedback                        301  https://form.jotform.com/philagov/columbus-feedback
 /combinedcampaign(.*)                     301  https://cityofphiladelphiacombinedcampaign.americascharities.stratuslive.com/
 /commissioners                            301  http://www.philadelphiavotes.com/
+/commissions/index.html                   301  /departments/ 
 /commerce/boost                           301  /2021-11-22-city-launches-boost-your-business-fund
 /commerce/doBusiness/Pages/default.aspx   301  /services/business-self-employment/do-business-with-the-city/
 /commerce/businesssupport/mwdsbesupport/pages/default.aspx 301 /departments/office-of-economic-opportunity/
@@ -276,6 +277,7 @@
 /departments/office-of-transportation-infrastructure-systems/ 301 /departments/office-of-transportation-infrastructure-sustainability/
 /departments/office-of-the-chief-administrative-officer/contracts-legislation-unit(.*)  301  /departments/office-of-the-chief-administrative-officer/contract-opportunities-with-special-application-processes$1
 /departments/office-of-the-chief-diversity-and-inclusion-officer 301 /departments/office-of-diversity-equity-and-inclusion/
+/departments/office-of-children-and-families/about/our-mission/  301 /departments/office-of-children-and-families/about/our-vision/ 
 /departments/parks-recreation             301  /departments/philadelphia-parks-recreation/
 /departments/police-advisory-commission/(.*) 301  /departments/citizens-police-oversight-commission/$1
 /departments/revenue                      301  /departments/department-of-revenue/
@@ -323,6 +325,7 @@
 /documents/business-financial-support-applications/   301 /departments/department-of-commerce/supporting-business/financial-support/ 
 /documents/probate-and-estate-services-fee-schedule/  301 /documents/register-of-wills-fee-schedule/
 /documents/cao-by-the-numbers/             301  /documents/cao-reports/
+/documents/cleanup-calendar/               301  /programs/vacant-lot-program/
 /documents/coronavirus-covid-19-resources  301  /programs/coronavirus-disease-2019-covid-19/multi-language-resources/covid-19-coronavirus-resources-in-english/
 /documents/coronavirus-tax-guidance/       301  /departments/department-of-revenue/our-services/tax-services/tax-guidance-in-response-to-covid-19/
 /documents/covid-19-resource-translations  301  /programs/coronavirus-disease-2019-covid-19/multi-language-resources/
@@ -383,6 +386,10 @@
 /documents/executive-order-9-17-whistleblower-protections/ 301  /documents/executive-order-9-17-whistleblower-protections-handout/
 /documents/integrity-works-newsletters/ 301  /departments/office-of-the-chief-integrity-officer/
 /documents/mixed-income-housing-program-report-2020/ 301  /documents/mixed-income-housing-program-report/ 
+/documents/city-treasurers-office-response-to-hbhs-final-report/  301  /documents/reconciliation-task-force-archives/ 
+/documents/response-to-horsey-buckner-hefflers-reconciliation-recommendations/    301  /documents/reconciliation-task-force-archives/ 
+/documents/treasurers-office-final-report/  301  /documents/reconciliation-task-force-archives/ 
+/documents/summary-of-the-consolidated-cash-reconciliation/  301  /documents/reconciliation-task-force-archives/ 
 /domestic-?work                           301  /services/working-jobs/worker-protections/report-a-domestic-workers-bill-of-rights-violation/
 /dot                                      301  /it
 /dpd                                      301  /departments/department-of-planning-and-development/
@@ -517,6 +524,7 @@
 /income-based-assistance-programs/real-estate-tax-deferral-program 301  /services/payments-assistance-taxes/payment-plans-and-assistance-programs/income-based-programs-for-residents/enroll-in-the-real-estate-tax-deferral-program/
 /income-taxes/net-profits-tax             301  /services/business-self-employment/business-taxes/net-profits-tax/
 /income-taxes/overview                    301  /services/payments-assistance-taxes/income-taxes/
+/InformationCenters/boards/Pages/default.aspx  301 /departments/ 
 /innovation-team                          301  /departments/office-of-innovation-and-technology/public-technology-and-innovation-team/
 /inspector                                301  /departments/office-of-the-inspector-general/
 /inspectorgeneral                         301  /departments/office-of-the-inspector-general/
@@ -602,6 +610,13 @@
 /mdo/(.*)                                 301  /departments/managing-directors-office/
 /mechanical-street-cleaning               301  /programs/mechanical-street-cleaning/
 /med-week                                 301  /spotlight/philadelphia-minority-enterprise-development-med-week-2023/
+/media/20181204100431/Executive-Order-No.-4-94.pdf  301 /departments/mayor/executive-orders/#/?table=%2520Mayoral%2520executive%2520orders%2520from%25201952%2520to%2520the%2520present&q=04-94:%20Office%20of%20the%20Inspector%20General
+/media/20181204100427/Executive-Order-No.-2-94.pdf  301 /departments/mayor/executive-orders/#/?table=%2520Mayoral%2520executive%2520orders%2520from%25201952%2520to%2520the%2520present&q=02-94:%20Role%20and%20Responsibilities%20of%20the%20Integrity%20Office
+/media/20181204100423/Executive-Order-No.-2-89.pdf  301 /departments/mayor/executive-orders/#/?table=%2520Mayoral%2520executive%2520orders%2520from%25201952%2520to%2520the%2520present&q=2-89:%20Establishing%20Office%20of%20Inspector%20General/Amendment%20to%20Executive%20Order%20No.%2010-84%20(1989)
+/media/20181204100422/Executive-Order-No.-10-84-Amendment-1.pdf  301  /departments/mayor/executive-orders/#/?table=%2520Mayoral%2520executive%2520orders%2520from%25201952%2520to%2520the%2520present&q=10-84:%20Establishing%20the%20Office%20of%20Performance%20Assessment%20(Insp.%20Gen.)%20(1984)
+/media/20181204100420/Home-Rule-Charter-4-106.pdf   301 https://codelibrary.amlegal.com/codes/philadelphia/latest/philadelphia_pa/0-0-0-264480
+/media/20181204100420/Executive-Order-No.-10-84.pdf 301 /departments/mayor/executive-orders/#/?table=%2520Mayoral%2520executive%2520orders%2520from%25201952%2520to%2520the%2520present&q=10-84:%20Establishing%20the%20Office%20of%20Performance%20Assessment%20(Insp.%20Gen.)%20(1984)
+/media/20181204100419/Executive-Order-No.-7-14.pdf  301 /departments/mayor/executive-orders/#/?table=%2520Mayoral%2520executive%2520orders%2520from%25201952%2520to%2520the%2520present&q=7-14:%20Office%20of%20the%20Inspector%20General%20and%20Related%20Duties%20of%20Departments,%20Agencies,%20City%20Officers%20and%20Employees,%20and%20Those%20Involved%20in%20Transactions%20with%20the%20City
 /media/20200406144703/Guidance-for-transport-of-patients-with-confirmed-or-suspected-COVID-19_4_6.pdf  301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
 /media/20200529130239/Guidelines-for-Ride-Share-Taxis.pdf  301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
 /media/20200529130248/Guidelines-for-Manufacturing-Warehouse-Operations.pdf  301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
@@ -851,6 +866,8 @@
 /programs/access-centers(.*)              301  /2021-02-22-the-citys-access-centers-are-still-enrolling-students/
 /programs/acute-communicable-disease-program/monkeypox/   301 /programs/monkeypox/
 /programs/blockchain-for-city-government  301  /departments/office-of-innovation-and-technology/
+/programs/civic-engagement-academy/for-groups/  301 /programs/civic-engagement-academy/ 
+/programs/civic-engagement-academy/for-individuals/  301 /programs/civic-engagement-academy/ 
 /programs/covid-19-recovery-office        301  /departments/covid-19-recovery-office/
 /programs/coronavirus-disease-2019-covid-19/translations  301  /programs/coronavirus-disease-2019-covid-19/multi-language-resources/
 /programs/coronavirus-disease-2019-covid-19/the-citys-response/monitoring-and-testing  301  /programs/coronavirus-disease-2019-covid-19/testing-and-data/
@@ -906,9 +923,11 @@
 /programs/philadelphia-resilience-project/ 301 /programs/opioid-response-unit/
 /programs/philly-powered/                 301  /departments/department-of-public-health/wellness/exercise-and-nutrition/
 /programs/phlconnected/partners/          301  /programs/phlconnected/
+/programs/probate-deferment-initiative-pdi/  301  /departments/register-of-wills/ 
 /programs/rebuild/careers/                301  /programs/rebuild/training-programs/
 /programs/rebuild/programs                301  /programs/rebuild/for-businesses/
 /programs/rebuild/project-sites/panati-recreation-center/  301  /programs/rebuild/project-sites/panati-playground/
+/programs/reconciliation-task-force/      301  /documents/reconciliation-task-force-archives/ 
 /programs/startup-phl                     301  http://startupphl.com/
 /programs/stemcityphl                     301  http://www.stemcityphl.org/
 /programs/substance-use-prevention-and-harm-reduction/the-citys-response/  301 /programs/opioid-response-unit/the-citys-response/
@@ -1559,6 +1578,7 @@
 /services/property-lots-housing/report-a-problem-with-property/report-a-building-code-violation/ 301  /services/property-lots-housing/report-a-problem-with-a-building-lot-or-street/
 /services/property-lots-housing/report-a-problem-with-property/report-a-vacant-building/ 301  /services/property-lots-housing/report-a-problem-with-a-building-lot-or-street/
 /services/property-lots-housing/report-a-problem-with-property/report-graffiti/ 301  /services/streets-sidewalks-alleys/report-a-problem-on-a-city-street-sidewalk-or-alley/report-graffiti/
+/services/property-lots-housing/get-a-real-estate-tax-adjustment-after-a-catastrophic-loss/  301  /services/property-lots-housing/property-taxes/get-real-estate-tax-relief/get-a-real-estate-tax-adjustment-after-a-catastrophic-loss/ 
 /services/payments-assistance-taxes/payment-plans-and-assistance-programs/other-payment-plans-and-programs/pay-delinquent-tax-balances-2/  301 /services/payments-assistance-taxes/payment-plans-and-assistance-programs/other-payment-plans-and-programs/pay-delinquent-tax-balances/
 /services/streets-sidewalks-alleys/request-a-traffic-calming-and-safety-study/  301  /services/streets-sidewalks-alleys/request-traffic-calming-for-a-residential-street/  
 /services/zoning-planning-development/get-approval-for-work-to-a-historic-property/ 301  /services/zoning-planning-development/get-a-plan-review/get-approval-for-work-to-a-historic-property/
