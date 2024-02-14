@@ -284,6 +284,8 @@
 /departments/risk-management/             301  /departments/office-of-the-director-of-finance/office-of-risk-management/
 /departments/water-sewer-stormwater-rate-board 301 /departments/water-sewer-storm-water-rate-board/
 /departments/mayors-office-of-education/quality-pre-k-newsletter-signup/ 301 /programs/quality-pre-k/
+/departments/mayors-office-of-civic-engagement-and-volunteer-service/ 301  /departments/office-of-community-empowerment-and-opportunity/
+/departments/mayors-office-of-civic-engagement-and-volunteer-service/mayors-day-of-service-recognition-award-nomination-form/ 301  /departments/office-of-community-empowerment-and-opportunity/
 /departments/office-of-open-data-and-digital-transformation(.*)    301 /2019-10-14-the-evolution-of-design-tech-and-data-at-the-city/
 /departments/office-of-sustainability/about/energy-office/compliance/green-buildings/  301 /departments/office-of-sustainability/about/energy-office/compliance/high-performance-buildings/
 /departments/philadelphia-historical-commission/agendas-and-minutes/ 301 /departments/philadelphia-historical-commission/public-meetings/
@@ -370,7 +372,7 @@
 /documents/phlcontracts-information/      301  /documents/phlcontracts-user-guides/ 
 /documents/pregnancy-and-prenatal-care-guides/ 301  /services/mental-physical-health/get-health-care-and-support/family-and-childrens-health-care/get-prenatal-care/ 
 /documents/philadelphia-activities-fund-grant-application/   301  /services/culture-recreation/apply-for-a-philadelphia-activities-fund-grant/
-/documents/mayors-volunteer-corps-zine/   301  /documents/mayors-volunteer-zine/
+/documents/mayors-volunteer-corps-zine/   301  /departments/office-of-community-empowerment-and-opportunity/
 /documents/department-of-streets-hauling-permit-guide/   301 /services/permits-violations-licenses/apply-for-a-permit/get-a-special-hauling-permit/
 /documents/pool-rules-attire/             301  /documents/pool-rules-attire-information/
 /documents/bonus-information-for-zoning-permits/  301  /departments/department-of-licenses-and-inspections/permits-and-certificates/zoning-permits-and-approvals/zoning-permit-materials/#/ 
@@ -390,6 +392,8 @@
 /documents/response-to-horsey-buckner-hefflers-reconciliation-recommendations/    301  /documents/reconciliation-task-force-archives/ 
 /documents/treasurers-office-final-report/  301  /documents/reconciliation-task-force-archives/ 
 /documents/summary-of-the-consolidated-cash-reconciliation/  301  /documents/reconciliation-task-force-archives/ 
+/documents/philadelphia-city-council-real-estate-tax-credit-program/  301  /services/property-lots-housing/property-taxes/get-real-estate-tax-relief/
+/documents/mayors-volunteer-zine/         301  /departments/office-of-community-empowerment-and-opportunity/
 /domestic-?work                           301  /services/working-jobs/worker-protections/report-a-domestic-workers-bill-of-rights-violation/
 /dot                                      301  /it
 /dpd                                      301  /departments/department-of-planning-and-development/
@@ -918,7 +922,8 @@
 /programs/family-empowerment-services-fes/ 301 /programs/family-empowerment-programs/
 /programs/integrity-works/faq/            301  /departments/office-of-the-chief-integrity-officer/frequently-asked-questions/
 /programs/integrity-works/(.*)            301  /departments/office-of-the-chief-integrity-officer/$1
-/programs/mayors-volunteer-corps/         301  /programs/mayors-volunteers/
+/programs/mayors-volunteer-corps/         301  /departments/office-of-community-empowerment-and-opportunity/
+/programs/mayors-volunteers/              301  /departments/office-of-community-empowerment-and-opportunity/
 /programs/mechanical-street-cleaning/phase-2-pilot/      301  /programs/mechanical-street-cleaning/cleaning-schedule/
 /programs/philadelphia-resilience-project/ 301 /programs/opioid-response-unit/
 /programs/philly-powered/                 301  /departments/department-of-public-health/wellness/exercise-and-nutrition/
@@ -1131,6 +1136,7 @@
 /services/crime-law-justice/inmates/contact-an-inmate-by-mail/	301  /services/crime-law-justice/prisons-incarcerated-people-and-returning-citizens/finding-and-contacting-incarcerated-people/contact-an-incarcerated-person-by-mail/
 /services/crime-law-justice/inmates/send-clothes-to-an-inmate/	301  /services/crime-law-justice/prisons-incarcerated-people-and-returning-citizens/finding-and-contacting-incarcerated-people/send-clothes-to-an-incarcerated-person/
 /services/crime-law-justice/inmates/send-funds-to-an-inmate/	301  /services/crime-law-justice/prisons-incarcerated-people-and-returning-citizens/finding-and-contacting-incarcerated-people/send-funds-to-an-incarcerated-person/
+/services/culture-recreation/volunteer/nominate-someone-for-a-mayors-day-of-service-recognition-award/ 301  /departments/office-of-community-empowerment-and-opportunity/
 /services/diversity-inclusion-immigration/?(.*) 301 /services/diversity-inclusion-accessibility-immigration/$1
 /services/diversity-inclusion-accessibility-immigration/find-a-minority-woman-disabled-owned-business/ 301  /services/diversity-inclusion-accessibility-immigration/m-w-dsbe-owned-businesses/find-a-minority-woman-disabled-owned-business/
 /services/diversity-inclusion-accessibility-immigration/register-as-a-minority-woman-disabled-owned-business/ 301  /services/diversity-inclusion-accessibility-immigration/m-w-dsbe-owned-businesses/register-as-a-minority-woman-disabled-owned-business/
@@ -1676,7 +1682,7 @@
 /violence-?prevention                      301  /departments/office-of-violence-prevention/
 /visionzero                               301  http://phl.maps.arcgis.com/apps/CrowdsourceReporter/index.html?appid=0b7432f7e6734795b1e09721eba506c1
 /visitors                                 301  http://www.visitphilly.com
-/volunteer                                301  https://www.serve.phila.gov
+/volunteer                                301  /departments/office-of-community-empowerment-and-opportunity/
 /vote-by-mail                             301  /2020-09-08-general-election-mail-in-ballot-guide-for-philadelphia-voters/
 /voting(.*)                               301  https://vote.phila.gov/ballot-drop-off/
 /vi$                                      301  /vi/
