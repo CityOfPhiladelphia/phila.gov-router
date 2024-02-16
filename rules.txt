@@ -572,6 +572,7 @@
 /li/eclipse-?help                         301  /departments/department-of-licenses-and-inspections/permits-and-certificates/help-using-eclipse/
 /li/eclipse                               301  https://eclipse.phila.gov/
 /li/feedback-form                         301  https://form.jotform.com/202103727154041
+li/fire-?protection-?certification        301  /departments/department-of-licenses-and-inspections/inspections/maintenance-certifications/fire-protection-certifications/
 /li/get-help                              301  https://form.jotform.com/202434637485055
 /li/pages/Appealscalendar.aspx            301  /li/appeals-calendar/
 /li/pages/findlicensedprofessional.aspx   301  https://li.phila.gov/Contractor-Lookup
