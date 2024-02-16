@@ -572,7 +572,7 @@
 /li/eclipse-?help                         301  /departments/department-of-licenses-and-inspections/permits-and-certificates/help-using-eclipse/
 /li/eclipse                               301  https://eclipse.phila.gov/
 /li/feedback-form                         301  https://form.jotform.com/202103727154041
-/li/fire-?protection-?certification        301  /departments/department-of-licenses-and-inspections/inspections/maintenance-certifications/fire-protection-certifications/
+/li/fire-?protection-?certifications?     301  /departments/department-of-licenses-and-inspections/inspections/maintenance-certifications/fire-protection-certifications/
 /li/get-help                              301  https://form.jotform.com/202434637485055
 /li/pages/Appealscalendar.aspx            301  /li/appeals-calendar/
 /li/pages/findlicensedprofessional.aspx   301  https://li.phila.gov/Contractor-Lookup
@@ -942,6 +942,7 @@
 /programs/substance-use-prevention-and-harm-reduction/bereavement-support-services/ 301 /programs/substance-use-prevention-and-harm-reduction/our-work/bereavement-support-services/
 /programs/substance-use-prevention-and-harm-reduction/treatment/ 301 /services/mental-physical-health/get-health-care-and-support/get-treatment-for-substance-use-disorder/
 /programs/substance-use-prevention-and-harm-reduction/servicios-de-apoyo-para-el-duelo/ 301 /programs/substance-use-prevention-and-harm-reduction/our-work/bereavement-support-services/servicios-de-apoyo-para-el-duelo/
+/programs/summer-jobs-for-teens/          301  /programs/career-connected-learning-phl-c2l-phl
 /programs/workready-at-parks-rec          301  /programs/parks-rec-summer-youth-employment-program/
 /programs/workforce-development/          301  /departments/department-of-commerce/about-us/divisions/office-of-neighborhood-economic-development/
 /programs/zero-waste-initiatives/food-matters-project/ 301  /programs/zero-waste-initiatives/food-waste-reduction/
