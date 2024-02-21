@@ -278,6 +278,7 @@
 /departments/office-of-the-chief-administrative-officer/contracts-legislation-unit(.*)  301  /departments/office-of-the-chief-administrative-officer/contract-opportunities-with-special-application-processes$1
 /departments/office-of-the-chief-diversity-and-inclusion-officer 301 /departments/office-of-diversity-equity-and-inclusion/
 /departments/office-of-children-and-families/about/our-mission/  301 /departments/office-of-children-and-families/about/our-vision/ 
+/departments/office-of-the-director-of-finance/contact-information/ 301  /departments/office-of-the-director-of-finance/about/units/
 /departments/parks-recreation             301  /departments/philadelphia-parks-recreation/
 /departments/police-advisory-commission/(.*) 301  /departments/citizens-police-oversight-commission/$1
 /departments/revenue                      301  /departments/department-of-revenue/
@@ -654,6 +655,7 @@
 /media/20201118125433/Guidance-for-positive-test-1.pdf  301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
 /media/20211210131210/2021_CUA_Scorecard_print.pdf  301  /documents/cua-scorecards/
 /media/20230517102700/HCW-guidance-updated-_5.9.23-.pdf  301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/vaccine-and-masking-requirements-for-healthcare-workers/ 
+/media/20240104103841/Pensions-investment-policy-20231026.pdf   301  /media/20240220161559/Pensions-IPS-202402.pdf
 /mpox                                     301  /programs/monkeypox
 /mocs                                     301  /ceo
 /mod                                      301  /departments/mayors-office-for-people-with-disabilities/
@@ -929,7 +931,7 @@
 /programs/philadelphia-resilience-project/ 301 /programs/opioid-response-unit/
 /programs/philly-powered/                 301  /departments/department-of-public-health/wellness/exercise-and-nutrition/
 /programs/phlconnected/partners/          301  /programs/phlconnected/
-/programs/probate-deferment-initiative-pdi/  301  /departments/register-of-wills/ 
+/programs/probate-deferment-initiative-pdi/(.*)  301  /departments/register-of-wills/ 
 /programs/rebuild/careers/                301  /programs/rebuild/training-programs/
 /programs/rebuild/programs                301  /programs/rebuild/for-businesses/
 /programs/rebuild/project-sites/panati-recreation-center/  301  /programs/rebuild/project-sites/panati-playground/
@@ -1068,6 +1070,7 @@
 /saferathome                              301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
 /safer-at-home                            301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
 /safetyandjustice(.*)                     301  /programs/philadelphia-safety-and-justice-challenge/
+/same-?day-?pay                           301  /2024-01-25-how-to-connect-with-a-same-day-work-pay-opportunity/     
 /safe-routes-philly                       301  /programs/safe-routes-philly/
 /school-income-tax                        301  /services/payments-assistance-taxes/taxes/income-taxes/school-income-tax/
 /school-board-nominations                 301  /departments/educational-nominating-panel/
