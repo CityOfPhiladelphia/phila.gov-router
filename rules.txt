@@ -321,6 +321,7 @@
 /disputes-appeals/dispute-a-water-bill    301  /services/water-gas-utilities/pay-or-dispute-a-water-bill/dispute-a-water-bill/
 /districtattorney(.*)                     301  https://phillyda.org/
 /dnc                                      301  /events/democratic-national-convention/
+/do-?something-?big                       301  /2024-02-27-do-something-big-explore-a-career-with-the-city-of-philadelphia/
 /dobbins                                  301  /programs/community-schools/murrell-dobbins-cte-high-school/
 /documents/2015-income-based-wage-tax-refund-petition 301 /documents/income-based-wage-tax-refund-petition/
 /documents/affordable-housing-rfp-2019/   301  /documents/previous-dhcd-requests-for-proposals/ 
