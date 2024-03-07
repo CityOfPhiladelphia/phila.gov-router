@@ -573,6 +573,7 @@
 /li/codesandregulations/Pages/default.aspx  301  /departments/department-of-licenses-and-inspections/resources/applicable-codes/
 /li/eclipse-?help                         301  /departments/department-of-licenses-and-inspections/permits-and-certificates/help-using-eclipse/
 /li/eclipse                               301  https://eclipse.phila.gov/
+/li/eclipse-faqs                          301  https://www.phila.gov/departments/department-of-licenses-and-inspections/eclipse-faqs/
 /li/feedback-form                         301  https://form.jotform.com/202103727154041
 /li/fire-?protection-?certifications?     301  /departments/department-of-licenses-and-inspections/inspections/maintenance-certifications/fire-protection-certifications/
 /li/get-help                              301  https://form.jotform.com/202434637485055
