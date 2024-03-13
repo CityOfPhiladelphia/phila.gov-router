@@ -463,6 +463,8 @@
 /fr$                                      301  /fr/ 
 /fsedmonds                                301  /programs/community-schools/f-s-edmonds-elementary-school/
 /FY20-budget                              301  /2019-03-07-mayor-kenneys-fy20-budget-prioritizes-education-inclusion-and-justice/
+/FY25-budget                              301  /departments/mayor/fiscal-year-2025-budget/
+/FY25budget                               301  /departments/mayor/fiscal-year-2025-budget/
 /getcovered                               301  /posts/health/2017-11-01-deadline-december-15-everything-you-need-to-know-about-aca-enrollment/
 /gethealthyphilly                         301  /programs/get-healthy-philly/
 /getmarried                               301  /services/birth-marriage-life-events/marriage-and-divorce/get-a-marriage-license/
