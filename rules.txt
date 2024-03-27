@@ -221,6 +221,7 @@
 /departments/department-of-commerce/investing-in-neighborhoods/small-business-improvement-programs/ 301  /departments/department-of-commerce/for-businesses/
 /departments/department-of-commerce/investing-in-neighborhoods/?(.*) 301  /departments/department-of-commerce/for-community-organizations/$1 
 /departments/department-of-commerce/supporting-business/?(.*) 301  /departments/department-of-commerce/for-businesses/$1
+/departments/department-of-commerce/documents-and-forms/ 301  /departments/department-of-commerce/documents-and-reports/ 
 /departments/department-of-licenses-and-inspections/permits-and-certificates/contractor-requirements/ 301 /departments/department-of-licenses-and-inspections/inspections/contractor-requirements/
 /departments/department-of-licenses-and-inspections/inspections/violation-types/   301 /departments/department-of-licenses-and-inspections/inspections/violation-and-order-types/ 
 /departments/department-of-licenses-and-inspections/licenses/business-licenses/rental-licenses/  301 /departments/department-of-licenses-and-inspections/licenses/rental-and-property-licenses/ 
@@ -235,6 +236,7 @@
 /departments/emergency-management         301  /departments/oem
 /departments/emergency-management/(.*)    301  /departments/oem/$1
 /departments/health-and-human-services/data-management-office 301  /departments/office-of-integrated-data-for-evidence-and-action/
+/departments/law-department/practice-groups/legislation-and-legal-counsel-unit/ 301  /departments/law-department/practice-groups/compliance-investigation-privacy/ 
 /departments/mayor/get-involved           301  /departments/mayor/#action-modal
 /departments/mayor/quality-pre-k          301  /programs/quality-pre-k/
 /departments/office-of-immigrant-affairs/mayors-commission-on-asian-american-affairs/(.*) 301 /departments/office-of-immigrant-affairs/mayors-commission-on-asian-pacific-american-affairs/$1
@@ -279,6 +281,7 @@
 /departments/office-of-the-chief-diversity-and-inclusion-officer 301 /departments/office-of-diversity-equity-and-inclusion/
 /departments/office-of-children-and-families/about/our-mission/  301 /departments/office-of-children-and-families/about/our-vision/ 
 /departments/office-of-the-director-of-finance/contact-information/ 301  /departments/office-of-the-director-of-finance/about/units/
+/departments/office-of-sustainability/programs(.*) 301  /departments/office-of-sustainability/
 /departments/parks-recreation             301  /departments/philadelphia-parks-recreation/
 /departments/police-advisory-commission/(.*) 301  /departments/citizens-police-oversight-commission/$1
 /departments/revenue                      301  /departments/department-of-revenue/
@@ -396,6 +399,7 @@
 /documents/summary-of-the-consolidated-cash-reconciliation/  301  /documents/reconciliation-task-force-archives/ 
 /documents/philadelphia-city-council-real-estate-tax-credit-program/  301  /services/property-lots-housing/property-taxes/get-real-estate-tax-relief/
 /documents/mayors-volunteer-zine/         301  /departments/office-of-community-empowerment-and-opportunity/
+/documents/emergency-contact-form/        301  /documents/family-emergency-plan/
 /domestic-?work                           301  /services/working-jobs/worker-protections/report-a-domestic-workers-bill-of-rights-violation/
 /dot                                      301  /it
 /dpd                                      301  /departments/department-of-planning-and-development/
