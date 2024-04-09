@@ -34,7 +34,7 @@
 /2023-04-19-resource-hubs-offer-drop-in-assistance-and-free-services-in-five-philadelphia-neighborhoods/  301 /2023-04-24-resource-hubs-offer-drop-in-assistance-and-free-services-in-five-philadelphia-neighborhoods/
 /2023-04-03-dfdith/                       301  https://idaay.org/program/don-t-fall-down-in-the-hood-prevention  
 /2023-03-09-businesses-can-now-apply-for-the-quality-jobs-program/ 301  /programs/quality-jobs-program/ 
-/2023-04-03-welcome-to-the-home-of-itsasummerthing/ 301 /2023-04-09-welcome-to-the-home-of-itsasummerthing/ 
+/2023-04-03-welcome-to-the-home-of-itsasummerthing/ 301 /2024-04-09-welcome-to-the-home-of-itsasummerthing/ 
 /311/(.*)                                 301  /departments/philly311/
 /311/report-an-issue                      301  https://iframe.publicstuff.com/#?client_id=242
 /abandoned-car                            301  /services/streets-sidewalks-alleys/report-a-problem-on-a-city-street-sidewalk-or-alley/report-an-abandoned-vehicle/ 
@@ -548,7 +548,7 @@
 /it/aboutus/units/Pages/GISServicesGroup.aspx 301 /departments/office-of-innovation-and-technology/innovation-management-team/
 /it/aboutus/pages/employment.aspx         301  https://www.smartrecruiters.com/OfficeOfInnovationTechnology
 /itjobs                                   301  https://www.smartrecruiters.com/OfficeOfInnovationTechnology
-/itsasummerthing                          301  https://www.phila.gov/2023-04-09-welcome-to-the-home-of-itsasummerthing/ 
+/itsasummerthing                          301  /2024-04-09-welcome-to-the-home-of-itsasummerthing/ 
 /iwa                                      301  https://goo.gl/forms/bgDbXCvrvpJoRpul2
 /kenney-?1000-?days                       301  /documents/first-1000-days-of-the-kenney-administration/
 /khsa                                     301  /programs/community-schools/kensington-health-sciences-academy/
