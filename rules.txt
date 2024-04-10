@@ -301,7 +301,7 @@
 /departments/sinking-fund-commission/sinking-fund-philadelphia-gas-works-pension-plan/ 301 /departments/sinking-fund-commission/sinking-fund-philadelphia-gas-works-pension-plan-reports/
 /departments/department-of-revenue/our-services/tax-services/non-resident-covid-ez-refund-petition/ 301 https://tax-services.phila.gov/
 /departments/department-of-revenue/our-services/tax-services/online-income-based-wage-tax-refund-petition/ 301 https://tax-services.phila.gov/
-/departments/managing-directors-office/clusters/ 301  /departments/managing-directors-office/divisons/
+/departments/managing-directors-office/clusters/ 301  /departments/managing-directors-office/divisions/
 /departments/office-of-sustainability/about/food-policy-advisory-council/ 301  /departments/office-of-sustainability/about/commissions-and-councils/
 /departments/office-of-sustainability/about/energy-office/   301 /departments/office-of-sustainability/about/municipal-energy-office/
 /departments/office-of-sustainability/about/energy-office/procurement-analytics/   301 /departments/office-of-sustainability/about/municipal-energy-office/procurement-analytics/ 
