@@ -928,6 +928,7 @@
 /programs/coronavirus-disease-2019-covid-19/data/vaccine/ 301  /programs/coronavirus-disease-2019-covid-19/vaccines/vaccine-data/
 /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/schools-guidance/ 301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/resources-management-of-covid-19-in-schools-early-childhood-settings/
 /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/early-childhood-education-ece-guidance/ 301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/resources-management-of-covid-19-in-schools-early-childhood-settings/
+/programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/resources-management-of-covid-19-in-schools-early-childhood-settings/ 301 /programs/coronavirus-disease-2019-covid-19/
 /programs/coronavirus-disease-2019-covid-19/multi-language-resources/ 301  /programs/coronavirus-disease-2019-covid-19/
 /programs/e3-power-centers/               301  /programs/e3-services/
 /programs/e3-services/                    301  /departments/office-of-children-and-families/
