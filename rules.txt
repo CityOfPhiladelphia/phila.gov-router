@@ -1288,6 +1288,7 @@
 /services/payments-assistance-taxes/regulations-rulings/property-tax-regulations/ 301  /departments/department-of-revenue/forms-documents/regulations-rulings/
 /services/payments-assistance-taxes/regulations-rulings/statements-of-tax-policy/ 301  /departments/department-of-revenue/forms-documents/regulations-rulings/
 /services/payments-assistance-taxes/regulations-rulings/technical-private-letter-rulings/ 301  /services/payments-assistance-taxes/taxes/request-a-technical-private-letter-ruling-for-unusual-tax-circumstances/
+/services/payments-assistance-taxes/resolve-judgments-liens-and-debts/real-estate-tax-receivership/ 301 /services/payments-assistance-taxes/resolve-judgments-liens-and-debts/prevent-sequestration-of-your-property-due-to-unpaid-debts/ 
 /services/payments-assistance-taxes/senior-citizen-discounts/ 301  /services/payments-assistance-taxes/payment-plans-and-assistance-programs/senior-citizen-programs/
 /services/payments-assistance-taxes/senior-citizen-discounts/low-income-senior-citizen-real-estate-tax-freeze/ 301  /services/payments-assistance-taxes/payment-plans-and-assistance-programs/senior-citizen-programs/apply-for-the-low-income-senior-citizen-real-estate-tax-freeze/
 /services/payments-assistance-taxes/senior-citizen-discounts/senior-citizen-water-bill-discount/ 301  /services/payments-assistance-taxes/payment-plans-and-assistance-programs/senior-citizen-programs/apply-for-the-senior-citizen-water-bill-discount/
