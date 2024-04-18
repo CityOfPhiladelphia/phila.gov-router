@@ -331,6 +331,7 @@
 /dnc                                      301  /events/democratic-national-convention/
 /do-?something-?big                       301  /2024-02-27-do-something-big-explore-a-career-with-the-city-of-philadelphia/
 /dobbins                                  301  /programs/community-schools/murrell-dobbins-cte-high-school/
+/documents/100-day-police-report/         301  /documents/100-day-public-safety-report/
 /documents/2009-business-income-receipts-tax-birt-forms/  301 /departments/department-of-revenue/forms-documents/tax-forms-and-instructions/#/
 /documents/2009-earnings-tax-forms/       301  /departments/department-of-revenue/forms-documents/tax-forms-and-instructions/#/
 /documents/2009-liquor-tax-form/          301  /departments/department-of-revenue/forms-documents/tax-forms-and-instructions/#/
