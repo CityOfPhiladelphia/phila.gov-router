@@ -277,6 +277,9 @@
 /departments/office-of-innovation-and-technology/innovation-management-team/  301 /departments/office-of-innovation-and-technology/public-technology-and-innovation-team/
 /departments/office-of-innovation-and-technology/resources/news-articles/ 301  /departments/office-of-innovation-and-technology/
 /departments/office-of-innovation-and-technology/verizon-franchise-agreement-feedback-form/  301  /departments/office-of-innovation-and-technology/
+/departments/office-of-transportation-infrastructure-sustainability/ 301 /departments/office-of-transportation-and-infrastructure-systems/
+/departments/office-of-transportation-infrastructure-sustainability/our-team/ 301 /departments/office-of-transportation-and-infrastructure-systems/our-team/
+/departments/office-of-transportation-infrastructure-sustainability/resources/ 301 /departments/office-of-transportation-and-infrastructure-systems/resources/
 /departments/office-of-transportation-infrastructure-systems/ 301 /departments/office-of-transportation-infrastructure-sustainability/
 /departments/office-of-the-chief-administrative-officer/contracts-legislation-unit(.*)  301  /departments/office-of-the-chief-administrative-officer/contract-opportunities-with-special-application-processes$1
 /departments/office-of-the-chief-diversity-and-inclusion-officer 301 /departments/office-of-diversity-equity-and-inclusion/
