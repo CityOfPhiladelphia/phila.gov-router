@@ -1060,7 +1060,7 @@
 /programs/e3-power-centers/               301  /programs/e3-services/
 /programs/e3-services/                    301  /departments/office-of-children-and-families/
 /programs/education-and-childcare-services/(.*) 301 /programs/education-support-center/$1
-/programs/energy-benchmarking/            301  http://www.phillybuildingbenchmarking.com/
+/programs/energy-benchmarking/            301  https://philly-pa.beam-portal.org/helpdesk/kb/energy-and-water-benchmarking/?org=City%20of%20Philadelphia
 /programs/family-empowerment-services-fes/ 301 /programs/family-empowerment-programs/
 /programs/integrity-works/faq/            301  /departments/office-of-the-chief-integrity-officer/frequently-asked-questions/
 /programs/integrity-works/(.*)            301  /departments/office-of-the-chief-integrity-officer/$1
