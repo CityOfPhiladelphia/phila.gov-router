@@ -518,6 +518,7 @@
 /documents/community-based-organization-cbo-rapid-test-kit-distribution-program/ 301  /documents/covid-19-test-kit-distribution-program/
 /documents/special-event-rapid-test-kit-distribution-requests/ 301  /documents/covid-19-test-kit-distribution-program/
 /documents/real-estate-and-property-business-license-materials/ 301  /departments/department-of-licenses-and-inspections/licenses/rental-and-property-licenses/rental-and-property-licenses-materials/
+/documents/reentry-solutions-microgrants-for-community-engagement/ 301 /departments/office-of-reentry-partnerships/
 /documents/executive-order-10-16-acceptance-of-gifts/ 301  /departments/mayor/executive-orders/#/?table=%2520Mayoral%2520executive%2520orders%2520from%25201952%2520to%2520the%2520present&q=10-16:%20Acceptance%20of%20Gifts%20by%20City%20Officers%20and%20Employees
 /documents/executive-order-11-14-financial-disclosure-in-the-executive-branch/ 301  /departments/mayor/executive-orders/#/?table=%2520Mayoral%2520executive%2520orders%2520from%25201952%2520to%2520the%2520present&q=11-14:%20Financial%20Disclosure%20Filing%20in%20the%20Executive%20Branch
 /documents/executive-order-1-11-nepotism/	301  /departments/mayor/executive-orders/#/?table=%2520Mayoral%2520executive%2520orders%2520from%25201952%2520to%2520the%2520present&q=1-11:%20Prohibition%20Against%20Nepotism%20(2011)
