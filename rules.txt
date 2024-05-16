@@ -25,6 +25,7 @@
 /2020-08-20-where-to-find-supervised-connected-access-centers-for-digital-learning/ 301 /2021-02-22-the-citys-access-centers-are-still-enrolling-students/
 /2020-12-07-phldonatetech-providing-computers-to-families-and-residents-in-need/   301 /phldonatetech
 /2020-12-08-phldonatetech-frequently-asked-questions/  301 /phldonatetech
+/2020-06-23-dla-grant-comes-to-life-as-organizations-share-their-digital-navigator-services/	301	/2020-06-23-call-a-digital-navigator-today/
 /2021-11-08-how-to-visit-an-inmate-in-person/ 301  /services/crime-law-justice/incarcerated-people/visit-an-incarcerated-person/
 /2021-04-21-philadelphia-more-beautiful-committee-pmbc-2021-clean-block-schedule/ 301  /2022-03-23-2022-philadelphia-more-beautiful-committee-clean-block-events/
 /2020-09-08-general-election-mail-in-ballot-guide-for-philadelphia-voters 301  /2022-05-09-election-day-guide-may-17-2022/
@@ -35,6 +36,7 @@
 /2023-04-03-dfdith/                       301  https://idaay.org/program/don-t-fall-down-in-the-hood-prevention  
 /2023-03-09-businesses-can-now-apply-for-the-quality-jobs-program/ 301  /programs/quality-jobs-program/ 
 /2023-04-03-welcome-to-the-home-of-itsasummerthing/ 301 /2024-04-09-welcome-to-the-home-of-itsasummerthing/ 
+/2024-04-02-request-for-proposals-with-the-office-of-children-and-families/	301	/2022-02-17-request-for-proposals-with-the-office-of-children-and-families/
 /311/(.*)                                 301  /departments/philly311/
 /311/report-an-issue                      301  https://iframe.publicstuff.com/#?client_id=242
 /abandoned-car                            301  /services/streets-sidewalks-alleys/report-a-problem-on-a-city-street-sidewalk-or-alley/report-an-abandoned-vehicle/ 
@@ -166,7 +168,7 @@
 /complete-streets/lehigh-kensington-american 301  /documents/lehigh-kensington-american
 /complete-streets/limekiln-medary-haines  301  /documents/limekiln-medary-haines
 /complete-streets/longshore-roosevelt-frontenac 301 /documents/longshore-roosevelt-frontenac
-/complete-streets/market-old-city         301  /documents/market-old-city
+/complete-streets/market-old-city         301  /programs/complete-streets/projects/market-street-old-city-improvement-project/
 /complete-streets/penrose-traffic-calming 301  /2021-08-12-penrose-roundabout-looks-to-improve-safety-at-busy-intersection/
 /complete-streets/springfield-51st-57th   301  /documents/springfield-51st-57th/
 /complete-streets/strawberry-mansion-bikeways 301  /documents/strawberry-mansion-bikeways
@@ -318,6 +320,10 @@
 /departments/office-of-the-chief-integrity-officer/archives/ 301  /departments/office-of-the-chief-integrity-officer/resources/
 /departments/department-of-licenses-and-inspections/licenses/rental-licenses/ 301  /departments/department-of-licenses-and-inspections/licenses/rental-and-property-licenses/
 /departments/department-of-licenses-and-inspections/licenses/rental-licenses/rental-license-faq/ 301  /departments/department-of-licenses-and-inspections/licenses/rental-and-property-licenses/rental-license-faq/
+/departments/department-of-commerce/documents-and-forms/private-nonprofit-economic-opportunity-plan-documents/	301	/departments/department-of-commerce/documents-and-reports/private-nonprofit-economic-opportunity-plan-documents/																								
+/departments/office-of-the-chief-administrative-officer/contract-opportunities-with-special-application-processes/contract-opportunities-with-special-application-processes/	301	/departments/office-of-the-chief-administrative-officer/contract-opportunities-with-special-application-processes/
+/departments/office-of-the-chief-integrity-officer/faq	301	/departments/office-of-the-chief-integrity-officer/frequently-asked-questions/
+/departments/office-of-the-chief-integrity-officer/rules-regulations/	301	/departments/office-of-the-chief-integrity-officer/rules-and-regulations/
 /departments/water-department/            301	 /departments/philadelphia-water-department/
 /development-services                     301  /departments/division-of-development-services/
 /dhcd/neighborhood-resources(.*)          301  /departments/division-of-housing-and-community-development/neighborhood-resources/
@@ -546,6 +552,17 @@
 /documents/solar-pv-system-installation-permits-and-documents/	301	/services/permits-violations-licenses/apply-for-a-permit/building-and-repair-permits/get-a-permit-to-install-solar-panels/
 /documents/temporary-outdoor-dining-application/	301	/services/streets-sidewalks-alleys/outdoor-dining/
 /documents/zoning-permit-materials/	      301	/departments/department-of-licenses-and-inspections/permits-and-certificates/zoning-permits-and-approvals/zoning-permit-materials/#/
+/documents/non-discrimination-policy/	    301	/documents/title-vi-compliance-policy-and-complaint-form/
+/documents/notice-of-hipaa-breach/	      301	/departments/department-of-public-health/
+/documents/opioid-prescribing-and-tapering-guidelines/	301	/documents/opioid-guidance-for-clinicians/
+/documents/personal-care-guide-book/	    301	/documents/personal-care-home-emergency-planning-guide/
+/documents/philadelphia-tax-center-educational-materials/	301	/guides/philadelphia-tax-center/
+/documents/real-estate-tax-deferral-program-notice/	301	/services/payments-assistance-taxes/payment-plans-and-assistance-programs/income-based-programs-for-residents/enroll-in-the-real-estate-tax-deferral-program/
+/documents/recommended-planting-list-for-off-street-parking-updated-2007/	301	/documents/recommended-planting-list-for-off-street-parking/
+/documents/title-v-compliance-policy-and-complaint-form/	301	/documents/title-vi-compliance-policy-and-complaint-form/
+/documents/tobacco-laws-and-regulations/	301	/documents/clean-indoor-air-laws/
+/documents/unintentional-drug-overdose-fatalities-in-philadelphia-2021/	301	/documents/unintentional-drug-overdose-fatalities-in-philadelphia/
+/documents/zipcheck-application/	        301	/services/water-gas-utilities/pay-or-dispute-a-water-bill/pay-a-water-bill/
 /domestic-?work                           301  /services/working-jobs/worker-protections/report-a-domestic-workers-bill-of-rights-violation/
 /dot                                      301  /it
 /dpd                                      301  /departments/department-of-planning-and-development/
@@ -599,6 +616,7 @@
 /finance/units-RiskManagement(.*) 301 /departments/office-of-the-director-of-finance/office-of-risk-management/
 /finance(.*)                              301 /departments/office-of-the-director-of-finance/
 /findafacility/?.*                        301  /parks-rec-finder/#/locations
+/FIRE/pdfs/notice_privacypractices.pdf	  301	/documents/philadelphia-fire-department-privacy-policy/
 /fire/recruit                             301  /departments/philadelphia-fire-department/recruitment/
 /fire/?.*                                 301  /departments/philadelphia-fire-department/
 /fleet(.*)                                301  /departments/office-of-fleet-management/
@@ -618,6 +636,7 @@
 /gethealthyphilly                         301  /programs/get-healthy-philly/
 /getmarried                               301  /services/birth-marriage-life-events/marriage-and-divorce/get-a-marriage-license/
 /get-married-in-love-park                 301  /services/birth-marriage-life-events/marriage-and-divorce/get-married-in-love-park/
+/get-?free-?or-?low-?cost-?internet       301  /services/education-learning/get-help-with-technology/get-free-or-low-cost-internet/
 /gideon                                   301  /programs/community-schools/edward-gideon-elementary-school/
 /globalphiladelphia                       301  /departments/office-of-immigrant-affairs/
 /gompers                                  301  /programs/community-schools/samuel-gompers-school/
@@ -679,6 +698,7 @@
 /income-based-assistance-programs/longtime-owner-occupants-program-loop 301 /services/payments-assistance-taxes/payment-plans-and-assistance-programs/income-based-programs-for-residents/apply-for-the-longtime-owner-occupants-program-loop/
 /income-based-assistance-programs/low-income-senior-citizen-real-estate-tax-freeze 301 /services/property-lots-housing/get-real-estate-tax-relief/low-income-senior-citizen-real-estate-tax-freeze/
 /income-based-assistance-programs/real-estate-tax-deferral-program 301  /services/payments-assistance-taxes/payment-plans-and-assistance-programs/income-based-programs-for-residents/enroll-in-the-real-estate-tax-deferral-program/
+/income-taxes/earnings-tax-employees/	    301	/services/payments-assistance-taxes/taxes/income-taxes/earnings-tax-employees/
 /income-taxes/net-profits-tax             301  /services/business-self-employment/business-taxes/net-profits-tax/
 /income-taxes/overview                    301  /services/payments-assistance-taxes/income-taxes/
 /InformationCenters/boards/Pages/default.aspx  301 /departments/ 
@@ -810,6 +830,10 @@
 /media/20230517102700/HCW-guidance-updated-_5.9.23-.pdf  301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/vaccine-and-masking-requirements-for-healthcare-workers/ 
 /media/20240104103841/Pensions-investment-policy-20231026.pdf   301  /media/20240220161559/Pensions-IPS-202402.pdf
 /media/20170209150802/CertifiedCopy16017601-1.pdf 301 https://codelibrary.amlegal.com/codes/philadelphia/latest/philadelphia_pa/0-0-0-300626
+/media/20190529113010/AHS-NPP.pdf	301	/documents/notice-of-privacy-practices/
+/media/20200423151504/EO-1-11-Nepotism.pdf	301	/departments/mayor/executive-orders/#/?table=%2520Mayoral%2520executive%2520orders%2520from%25201952%2520to%2520the%2520present&q=1-11:%20Prohibition%20Against%20Nepotism%20(2011)
+/media/20200423151508/EO-10-16-Acceptance-of-gifts.pdf	301	/departments/mayor/executive-orders/#/?table=%2520Mayoral%2520executive%2520orders%2520from%25201952%2520to%2520the%2520present&q=10-16:%20Acceptance%20of%20Gifts%20by%20City%20Officers%20and%20Employees
+/media/20200423151508/EO-12-16-Outside-self-employment.pdf	301	/departments/mayor/executive-orders/#/?table=%2520Mayoral%2520executive%2520orders%2520from%25201952%2520to%2520the%2520present&q=12-16:%20Regulation%20of%20Outside%20Employment%20and%20Self-Employment%20of%20City%20Officers%20and%20Employees
 /mpox                                     301  /programs/monkeypox
 /mocs                                     301  /ceo
 /mod                                      301  /departments/mayors-office-for-people-with-disabilities/
@@ -999,6 +1023,7 @@
 /parksandrecreation/(.*)                  301  /departments/philadelphia-parks-recreation/
 /pra/?.*                                  301  http://www.philadelphiaredevelopmentauthority.org
 /prepare-for-an-emergency                 301  /services/safety-emergency-preparedness/prepare-for-an-emergency/
+/prepare-for-an-emergency/know-whether-to-stay-or-go/	301	/departments/oem/ready-or-not/how-to-get-ready/prepare-for-an-emergency/know-whether-to-stay-or-go/
 /press-releases                           301  /the-latest/archives/?template=press_release
 /primarycare                              301  /primary-care/
 /primary-care$                            301  /primary-care/
@@ -1919,6 +1944,13 @@
 /services/payments-assistance-taxes/taxes/refunds/refunds-for-taxes-paid-to-local-jurisdictions/	301	/services/payments-assistance-taxes/taxes/refunds/request-a-refund-for-taxes-paid-to-local-jurisdictions/
 /services/payments-assistance-taxes/resolve-judgments-liens-and-debts/debt-collection-agencies/ 301  /services/payments-assistance-taxes/resolve-judgments-liens-and-debts/contact-a-collection-agency-to-resolve-a-debt/
 /services/zoning-planning-development/get-approval-for-work-to-a-historic-property/ 301  /services/zoning-planning-development/get-a-plan-review/get-approval-for-work-to-a-historic-property/
+/services/business-self-employment/get-a-tax-account/	301	/services/payments-assistance-taxes/taxes/get-a-tax-account/
+/services/business-taxes/business-income-receipts-tax-birt/	301	/services/payments-assistance-taxes/business-taxes/business-income-receipts-tax-birt/
+/services/crime-law-justice/report-child-abuse-or-neglect/	301	/services/crime-law-justice/report-a-crime-or-concern/abuse-and-harassment/report-child-abuse-or-neglect/
+/services/safety-emergency-preparedness/extreme-weather/report-dog-left-outdoors-in-extreme-weather/	301	/services/safety-emergency-preparedness/animal-welfare-safety-protection/report-dog-left-outdoors-in-extreme-weather/
+/services/working-jobs/find-a-job-or-internship/appeal-to-the-civil-service-commission/	301	/services/working-jobs/city-jobs-and-internships/appeal-to-the-civil-service-commission/
+/services/zoning-planning-development/get-a-plan-review-by-the-philadelphia-art-commission/apply-for-newsstand-approval-from-the-art-commission/	301	/services/zoning-planning-development/get-a-plan-review/art-commission-plan-reviews/apply-for-encroachment-approval-from-the-art-commission/
+/services/zoning-planning-development/philadelphia-city-planning-commission-plan-reviews/get-a-garage-facade-review/	301	/services/zoning-planning-development/get-a-plan-review/philadelphia-city-planning-commission-plan-reviews/get-a-garage-facade-review/
 /servicedesignstudio 301 /departments/office-of-the-chief-administrative-officer/service-design-studio/
 /service-design-studio 301 /departments/office-of-the-chief-administrative-officer/service-design-studio/
 /sick-?leave                              301  /services/working-jobs/worker-protections/paid-or-unpaid-leave/paid-sick-leave/ 
