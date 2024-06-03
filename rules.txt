@@ -721,7 +721,7 @@
 /ig(.*)                                   301  /departments/office-of-the-inspector-general/
 /ima/                                     301  /departments/office-of-immigrant-affairs/
 /immigrant-business-week                  301  /spotlight/immigrant-business-week-2020/
-/immigrant-heritage-month                 301  /spotlight/immigrant-heritage-month-2023/
+/immigrant-heritage-month                 301  /spotlight/immigrant-heritage-month-2024/
 /inclusive-growth                         301  /2019-05-02-city-focuses-on-inclusion-and-equity-in-its-economic-growth-plan/
 /income-based-assistance-programs         301  /services/payments-assistance-taxes/payment-plans-and-assistance-programs/income-based-programs-for-residents/
 /income-based-assistance-programs/longtime-owner-occupants-program-loop 301 /services/payments-assistance-taxes/payment-plans-and-assistance-programs/income-based-programs-for-residents/apply-for-the-longtime-owner-occupants-program-loop/
