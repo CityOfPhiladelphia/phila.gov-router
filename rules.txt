@@ -1054,6 +1054,10 @@
 /parksandrecreation/(.*)                  301  /departments/philadelphia-parks-recreation/
 /pra/?.*                                  301  http://www.philadelphiaredevelopmentauthority.org
 /prepare-for-an-emergency                 301  /services/safety-emergency-preparedness/prepare-for-an-emergency/
+/prepare-for-an-emergency/make-a-shelter-in-place-kit/ 301 /departments/oem/ready-or-not/how-to-get-ready/prepare-for-an-emergency/make-a-shelter-in-place-kit/
+/prepare-for-an-emergency/make-a-go-bag/  301  /departments/oem/ready-or-not/how-to-get-ready/prepare-for-an-emergency/make-a-go-bag/
+/prepare-for-an-emergency/make-an-emergency-plan/ 301 /departments/oem/ready-or-not/how-to-get-ready/prepare-for-an-emergency/make-an-emergency-plan/
+/prepare-for-an-emergency/keep-documents-safe/  301 /departments/oem/ready-or-not/how-to-get-ready/prepare-for-an-emergency/keep-documents-safe/
 /prepare-for-an-emergency/know-whether-to-stay-or-go/	301	/departments/oem/ready-or-not/how-to-get-ready/prepare-for-an-emergency/know-whether-to-stay-or-go/
 /press-releases                           301  /the-latest/archives/?template=press_release
 /primarycare                              301  /primary-care/
@@ -1277,6 +1281,7 @@
 /revenue/pbt                              301  /services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-type/philadelphia-beverage-tax-pbt/
 /revenue/pbt-instructions                 301  /documents/philadelphia-beverage-tax-pbt-filing-instructions/
 /revenue/realestatetax(.*)                301  https://tax-services.phila.gov/_/?Link=PropertySearch
+/revenue/resolve-debt                     301  /services/payments-assistance-taxes/resolve-judgments-liens-and-debts/
 /revenue/sustainable-tax-credit           301  /services/payments-assistance-taxes/taxes/tax-credits/business-tax-credits/sustainable-business-tax-credit/
 /revenue/sustainable-jump-start           301  /services/payments-assistance-taxes/taxes/tax-credits/business-tax-credits/sustainable-jump-start-tax-credit/
 /revenue/tax-forms                        301  /departments/department-of-revenue/forms-documents/tax-forms-and-instructions/
@@ -1459,6 +1464,7 @@
 /services/diversity-inclusion-accessibility-immigration/apply-for-a-disabled-parking-permit/ 301  /services/diversity-inclusion-accessibility-immigration/accessibility-services/apply-for-a-disabled-parking-permit/
 /services/diversity-inclusion-accessibility-immigration/request-a-curb-ramp/ 301  /services/diversity-inclusion-accessibility-immigration/accessibility-services/request-a-curb-ramp/
 /services/diversity-inclusion-accessibility-immigration/discrimination/ 301  /services/diversity-inclusion-accessibility-immigration/discrimination-protections/
+/services/mental-physical-health/code-blue/                    301  /services/safety-emergency-preparedness/code-blue/
 /services/mental-physical-health/environmental-health-hazards/covid-19/could-i-have-covid-19  301  /programs/coronavirus-disease-2019-covid-19/guidance/signs-and-symptoms/
 /services/mental-physical-health/environmental-health-hazards/covid-19/covid-19-and-children  301  /programs/coronavirus-disease-2019-covid-19/guidance/children-and-pregnancy/
 /services/mental-physical-health/environmental-health-hazards/covid-19/covid-19-and-pregnancy  301  /programs/coronavirus-disease-2019-covid-19/guidance/children-and-pregnancy/
@@ -1621,6 +1627,11 @@
 /services/payments-assistance-taxes/taxes/income-taxes/earnings-tax-employees-2/  301 /services/payments-assistance-taxes/taxes/income-taxes/earnings-tax-employees/ 
 /services/payments-assistance-taxes/taxes/income-taxes/school-income-tax/school-income-tax-regulations/ 301 /documents/school-income-tax-regulations/
 /services/payments-assistance-taxes/taxes/business-taxes/voluntary-disclosure-of-non-payment-2/ 301  /services/payments-assistance-taxes/payment-plans-and-assistance-programs/other-payment-plans-and-programs/apply-for-the-voluntary-disclosure-program-for-overdue-taxes/
+/services/payments-assistance-taxes/taxes/property-and-real-estate-taxes/real-estate-tax-2/ 301 /services/payments-assistance-taxes/taxes/property-and-real-estate-taxes/real-estate-tax/
+/services/payments-assistance-taxes/taxes/filing-and-paying-your-taxes/how-to-file-and-pay-city-taxes-2/ 301 /services/payments-assistance-taxes/taxes/filing-and-paying-your-taxes/how-to-file-and-pay-city-taxes/
+/services/payments-assistance-taxes/taxes/get-tax-clearance-2/             301   /services/payments-assistance-taxes/taxes/get-tax-clearance/
+/services/payments-assistance-taxes/taxes/filing-and-paying-your-taxes/make-an-appointment-to-pay-city-taxes-or-a-water-bill-in-person-2/ 301 /services/payments-assistance-taxes/taxes/filing-and-paying-your-taxes/make-an-appointment-to-pay-city-taxes-or-a-water-bill-in-person/
+/services/payments-assistance-taxes/water-bills/resolve-water-liens-judgments/ 301 /services/payments-assistance-taxes/water-bills/resolve-water-liens-and-judgments/
 /services/payments-assistance-taxes/vendor-payment-status/ 301  /services/payments-assistance-taxes/payments-from-the-city/track-vendor-payment/
 /services/payments-assistance-taxes/water-bills/water-bill-affordability-assistance-programs-payment-plans/income-based-water-bill-assistance/  301 /services/payments-assistance-taxes/water-bills/water-bill-affordability-assistance-programs-payment-plans/apply-for-water-bill-customer-assistance/
 /services/payments-assistance-taxes/water-bills/water-bill-affordability-assistance-programs-payment-plans/senior-citizen-water-bill-discount/  301 /services/payments-assistance-taxes/water-bills/water-bill-affordability-assistance-programs-payment-plans/apply-for-the-senior-citizen-water-bill-discount/
@@ -2179,6 +2190,7 @@
 /zero-?fare                                301  /programs/zero-fare/
 /zero-?waste                              301  /programs/zero-waste-initiatives/
 /zika                                     301  /documents/zika-prevention-resources/
+/zika-virus/overview/                     301  /documents/zika-prevention-resources/
 /zipcheck                                 301  /documents/zipcheck-application/
 /zoning-summary-generator$                301  /zoning-summary-generator/
 /zoning-summary-generator/(.*)            200  http://dpd-zoning-summary-generator.s3-website-us-east-1.amazonaws.com/$1
