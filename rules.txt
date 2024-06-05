@@ -1021,6 +1021,7 @@
 /plan-of-safe-care                        301  /services/birth-marriage-life-events/birth-adoption-and-parenting/coordinate-a-plan-of-safe-care/
 /phils(.*)                                301  /departments/department-of-records/city-archives/
 /philly-?spring-?cleanup                  301  /programs/philly-spring-cleanup/
+/philly-?stat-?360                        301  /departments/office-of-philly-stat-360
 /phlcityid                                301  /programs/phl-city-id/
 /phlimmigrantbiz                          301  /posts/office-of-immigrant-affairs/2017-03-09-immigrant-business-week-2017-march-27-april-1/
 /phonedir$                                301  /departments/
