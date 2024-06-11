@@ -612,6 +612,7 @@
 /employee-screener$                       301  /employee-screener/
 /employee-screener/(.*)                   200  http://philagov-employee-screener.s3-website-us-east-1.amazonaws.com/employee-screener/prod/$1
 /employee-?test                           301  https://phl-cao.quickbase.com/db/bskn8t35g?a=dbpage&pageID=2
+/energy-?data                             301  https://experience.arcgis.com/experience/52c8a3b10e8c465eab723f04dbcb2a4d/
 /eoc-gisrequest                           301  https://veoci.com/veoci/p/dashboard/4p9brrkav6
 /eslmap                                   301  http://phl.maps.arcgis.com/apps/View/index.html?appid=3929071e10db460db6e2265423ed4e83
 /es$                                      301  /es/
