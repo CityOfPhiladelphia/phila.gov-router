@@ -1174,6 +1174,7 @@
 /programs/substance-use-prevention-and-harm-reduction/about-opioids/  301 /programs/opioid-response-unit/about-opioids/
 /programs/substance-use-prevention-and-harm-reduction/resources-2/ 301 /programs/substance-use-prevention-and-harm-reduction/resources/
 /programs/substance-use-prevention-and-harm-reduction/bereavement-support-services/ 301 /programs/substance-use-prevention-and-harm-reduction/our-work/bereavement-support-services/
+/programs/substance-use-prevention-and-harm-reduction/our-work/bereavement-support-services/ 301 /programs/substance-use-prevention-and-harm-reduction/our-work/grief-support-for-drug-related-loss/
 /programs/substance-use-prevention-and-harm-reduction/treatment/ 301 /services/mental-physical-health/get-health-care-and-support/get-treatment-for-substance-use-disorder/
 /programs/substance-use-prevention-and-harm-reduction/servicios-de-apoyo-para-el-duelo/ 301 /programs/substance-use-prevention-and-harm-reduction/our-work/bereavement-support-services/servicios-de-apoyo-para-el-duelo/
 /programs/summer-jobs-for-teens/          301  /programs/career-connected-learning-phl-c2l-phl
