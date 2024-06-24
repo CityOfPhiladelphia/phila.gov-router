@@ -155,7 +155,7 @@
 /combinedcampaign(.*)                     301  https://cityofphiladelphiacombinedcampaign.americascharities.stratuslive.com/
 /commissioners                            301  http://www.philadelphiavotes.com/
 /commissions/index.html                   301  /departments/ 
-/commerce/boost                           301  /2021-11-22-city-launches-boost-your-business-fund
+/commerce/boost                           301  /2024-06-11-city-launches-new-round-of-boost-your-business-program/ 
 /commerce/doBusiness/Pages/default.aspx   301  /services/business-self-employment/do-business-with-the-city/
 /commerce/businesssupport/mwdsbesupport/pages/default.aspx 301 /departments/office-of-economic-opportunity/
 /commerce/businessAttraction/Pages/default.aspx 301 /departments/department-of-commerce/about-us/divisions/office-of-business-development-and-workforce-solutions/
@@ -330,6 +330,8 @@
 /departments/office-of-sustainability/about/energy-office/capital-improvements/    301 /departments/office-of-sustainability/about/municipal-energy-office/capital-improvements/ 
 /departments/office-of-sustainability/about/energy-office/compliance/high-performance-buildings/ 301 /departments/office-of-sustainability/about/municipal-energy-office/ 
 /departments/office-of-sustainability/about/energy-office/energy-conservation-programs/   301 /departments/office-of-sustainability/about/municipal-energy-office/energy-conservation-programs/
+/departments/office-of-sustainability/about/energy-office/energy-management-operations/ 301  /departments/office-of-sustainability/about/municipal-energy-office/procurement-analytics/ 
+/departments/office-of-sustainability/about/energy-office/energy-projects/ 301 /departments/office-of-sustainability/about/municipal-energy-office/capital-improvements/
 /departments/office-of-sustainability/about/energy-office/building-compliance/     301 /departments/office-of-sustainability/about/municipal-energy-office/building-compliance/ 
 /departments/office-of-sustainability/about/energy-office/building-compliance/high-performance-buildings/   301 /departments/office-of-sustainability/about/municipal-energy-office/building-compliance/high-performance-buildings/ 
 /departments/office-of-sustainability/energy-office/energy-management-operations/ 301 /departments/office-of-sustainability/about/municipal-energy-office/ 
@@ -484,6 +486,7 @@
 /documents/business-income-receipts-tax-birt-no-tax-liability-form/ 301 /departments/department-of-revenue/forms-documents/tax-forms-and-instructions/#/
 /documents/probate-and-estate-services-fee-schedule/  301 /documents/register-of-wills-fee-schedule/
 /documents/cao-by-the-numbers/             301  /documents/cao-reports/
+/documents/citizens-police-oversight-commission-integrity-and-accountability-reports/ 301 documents/citizens-police-oversight-commission-executive-review-and-explainers/
 /documents/cleanup-calendar/               301  /programs/vacant-lot-program/
 /documents/coronavirus-covid-19-resources  301  /programs/coronavirus-disease-2019-covid-19/multi-language-resources/covid-19-coronavirus-resources-in-english/
 /documents/coronavirus-tax-guidance/       301  /departments/department-of-revenue/our-services/tax-services/tax-guidance-in-response-to-covid-19/
@@ -1185,6 +1188,7 @@
 /programs/coronavirus-disease-2019-covid-19/support-for-the-community/city-service-updates/	301	/programs/coronavirus-disease-2019-covid-19/
 /programs/kiva/	                          301	/departments/department-of-commerce/
 /programs/Philadelphia-covid-19-small-business-relief-fund/	301	/departments/covid-19-recovery-office/
+/programs/philadelphia-covid-19-small-business-relief-fund/application-for-relief-programs/ 301 /departments/covid-19-recovery-office/
 /property                                 301  https://property.phila.gov
 /property/aboutus(.*)                     301  /departments/department-of-public-property/
 /property/capital(.*)                     301  /departments/department-of-public-property/
@@ -1207,6 +1211,7 @@
 /qualityoflife                            301  /clip
 /qualityprek                              301  /programs/quality-pre-k/
 /rain-garden                              301  http://stormwaterpa.org/raingarden.html?key=0
+/rco                                      301  /programs/registered-community-organizations-rcos/
 /rconotification$                         301  /rconotification/
 /rconotification/(.*)                     200  https://du77h83q9ewhi.cloudfront.net/$1
 /rda                                      301  /pra
