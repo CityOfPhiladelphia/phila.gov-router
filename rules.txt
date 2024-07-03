@@ -2,6 +2,14 @@
 /2016-water-quality-data                  301  /water/PDF/2016-water-quality-results.pdf
 /2016waterquality                         301  /water/wu/water%20quality%20reports/2016waterquality.pdf
 /2018                                     301  /2018-12-21-10-big-moments-from-2018-in-philadelphia/
+/2018-08-07-beat-the-heat-hunting-park/	301 	/2018-08-19-beat-the-heat-hunting-park/
+/2019-03-19-beat-the-heat-hunting-park/	301 	/2018-08-19-beat-the-heat-hunting-park/
+/2020-03-21-li-emite-normativa-sobre-los-trabajos-de-construccion-siguiendo-la-orden-del-gobernador-del-19-de-marzo/	301	/programs/coronavirus-disease-2019-covid-19/
+/2020-03-20-li-issues-guidance-on-construction-work/ 301  /programs/coronavirus-disease-2019-covid-19/
+/2020-05-21-summer-2020-update/	301  /programs/coronavirus-disease-2019-covid-19/
+/2020-05-01-restarting-construction-faqs/	301  /programs/coronavirus-disease-2019-covid-19/
+/2021-12-31-city-announces-vaccine-mandate-for-all-city-employees-and-contractors/	301  /2021-11-19-city-announces-vaccine-mandate-for-all-city-employees-and-contractors/
+/2021-03-10-how-philadelphia-supported-local-businesses-during-an-unprecedented-year/	301  /2021-03-10-how-philadelphia-supported-local-businesses-during-an-unprecedented-year/
 /2018-11-28-hate-crimes-and-bias-incidents/  301  /services/crime-law-justice/report-a-crime-or-concern/discrimination-and-unfair-practices/report-a-hate-incident/ 
 /2019-06-11-what-happens-when-the-city-declares-a-heat-health-emergency/  301 /2023-07-26-what-happens-when-the-city-declares-a-heat-health-emergency/ 
 /2020-03-28-where-to-find-free-nutritious-food-during-covid-19/ 301 /food/
@@ -599,6 +607,7 @@
 /documents/opioid-prescribing-and-tapering-guidelines/	301	/documents/opioid-guidance-for-clinicians/
 /documents/personal-care-guide-book/	    301	/documents/personal-care-home-emergency-planning-guide/
 /documents/philadelphia-tax-center-educational-materials/	301	/guides/philadelphia-tax-center/
+/documents/buprenorphine-action-kit-for-pharmacists/	301  /documents/buprenorphine-detailing-action-kit-for-pharmacists/
 /documents/real-estate-tax-deferral-program-notice/	301	/services/payments-assistance-taxes/payment-plans-and-assistance-programs/income-based-programs-for-residents/enroll-in-the-real-estate-tax-deferral-program/
 /documents/ready-philadelphia-stay-cool-guide/ 301 /guides/extreme-heat-guide/
 /documents/recommended-planting-list-for-off-street-parking-updated-2007/	301	/documents/recommended-planting-list-for-off-street-parking/
@@ -1125,6 +1134,7 @@
 /programs/coronavirus-disease-2019-covid-19/support-for-the-community/services-and-support-for-residents/  301  /programs/coronavirus-disease-2019-covid-19/support-for-the-community/support-for-residents/
 /programs/coronavirus-disease-2019-covid-19/multi-language-resources/covid-19-coronavirus-resources-in-other-languages/	301	/programs/coronavirus-disease-2019-covid-19/
 /programs/coronavirus-disease-2019-covid-19/support-for-the-community/support-for-residents/ 301 /programs/coronavirus-disease-2019-covid-19/ 
+/programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/graduation-ceremonies-guidance/	301	 /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
 /programs/combating-the-opioid-epidemic/  301  /programs/opioid-response-unit/
 /programs/combating-the-opioid-epidemic/about-opioids/   301 /programs/opioid-response-unit/about-opioids/
 /programs/combating-the-opioid-epidemic/harm-reduction/  301 /programs/substance-use-prevention-and-harm-reduction/harm-reduction/
@@ -1181,6 +1191,7 @@
 /programs/philadelphia-resilience-project/ 301 /programs/opioid-response-unit/
 /programs/philly-powered/                 301  /departments/department-of-public-health/wellness/exercise-and-nutrition/
 /programs/phlconnected/partners/          301  /programs/phlconnected/
+/programs/phlconnected/digital-skills-classes-for-caregivers/ 301  /programs/phlconnected/
 /programs/probate-deferment-initiative-pdi/(.*)  301  /departments/register-of-wills/ 
 /programs/rebuild/careers/                301  /programs/rebuild/training-programs/
 /programs/rebuild/programs                301  /programs/rebuild/for-businesses/
@@ -1689,6 +1700,7 @@
 /services/payments-assistance-taxes/water-bills/water-bill-affordability-assistance-programs-payment-plans/senior-citizen-water-bill-discount/  301 /services/payments-assistance-taxes/water-bills/water-bill-affordability-assistance-programs-payment-plans/apply-for-the-senior-citizen-water-bill-discount/
 /services/payments-assistance-taxes/payment-plans-and-assistance-programs/income-based-programs-for-residents/low-income-senior-citizen-real-estate-tax-freeze/ 301  /services/payments-assistance-taxes/payment-plans-and-assistance-programs/income-based-programs-for-residents/apply-for-the-low-income-senior-citizen-real-estate-tax-freeze/
 /services/payments-assistance-taxes/taxes/refunds/wage-tax-refunds/  301  /services/payments-assistance-taxes/taxes/refunds/request-a-wage-tax-refund/ 
+/services/payments-assistance-taxes/financial-services-for-residents/get-free-help-applying-for-public-benefits-2/	301  /services/payments-assistance-taxes/financial-services-for-residents/get-free-help-applying-for-public-benefits/
 /services/permits-violations-licenses/appeal-a-denied-residential-parking-spot-for-people-with-disabilities/    301     /services/permits-violations-licenses/dispute-or-appeal-a-decision/appeal-a-denied-residential-parking-spot-for-people-with-disabilities/
 /services/permits-violations-licenses/environmental-permits-and-approvals/?(.*)  301  /services/permits-violations-licenses/apply-for-a-permit/environmental-permits-and-approvals/$1
 /services/permits-violations-licenses/get-a-license/find-out-what-license-you-need-for-your-business/  301  /services/permits-violations-licenses/get-a-license/business-licenses-permits-and-approvals/
