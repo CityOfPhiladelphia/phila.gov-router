@@ -2170,8 +2170,15 @@
 /spotlight/city-of-philadelphia-holiday-celebrations-2021/ 301  /holiday-celebrations
 /spotlight/city-of-philadelphia-holiday-celebrations-2022/ 301  /holiday-celebrations
 /spotlight/septa-for-all-augmenting-transit-with-augmented-reality/ 301  /departments/office-of-innovation-and-technology/
-/spotlight/immigrant-heritage-month?/     301  /immigrant-heritage-month
-/spotlight/welcoming-week-?/              301  /welcoming-week
+/spotlight/immigrant-heritage-month       301  /immigrant-heritage-month
+/spotlight/immigrant-heritage-month-2021  301  /immigrant-heritage-month
+/spotlight/immigrant-heritage-month-2022  301  /immigrant-heritage-month
+/spotlight/immigrant-heritage-month-2023  301  /immigrant-heritage-month
+/spotlight/welcoming-week-2018            301  /welcoming-week
+/spotlight/welcoming-week-2019            301  /welcoming-week
+/spotlight/welcoming-week-2020            301  /welcoming-week
+/spotlight/welcoming-week-2021            301  /welcoming-week
+/spotlight/welcoming-week-2022            301  /welcoming-week
 /stormwater-planter                       301  http://www.stormwaterpa.org/creating-community-columbus-square-park.html?key=1
 /stormwater-tools                         301  http://stormwaterpa.org/green-city,-clean-waters.html?key=0
 /stormwater-tree                          301  http://www.stormwaterpa.org/soak-it-up-stormwater-trees.html?key=0
