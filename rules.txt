@@ -318,6 +318,8 @@
 /departments/office-of-children-and-families/about/our-mission/  301 /departments/office-of-children-and-families/about/our-vision/ 
 /departments/office-of-the-director-of-finance/contact-information/ 301  /departments/office-of-the-director-of-finance/about/units/
 /departments/office-of-sustainability/programs(.*) 301  /departments/office-of-sustainability/
+/departments/office-of-policy-and-strategic-initiatives-for-criminal-justice-and-public-safety/(.*) 301  /departments/office-of-public-safety/$1
+/departments/office-of-violence-prevention/(.*) 301  /departments/office-of-safe-neighborhoods/$1
 /departments/parks-recreation             301  /departments/philadelphia-parks-recreation/
 /departments/police-advisory-commission/(.*) 301  /departments/citizens-police-oversight-commission/$1
 /departments/revenue                      301  /departments/department-of-revenue/
@@ -913,6 +915,7 @@
 /obme                                     301  /departments/mayors-office-of-black-male-engagement/
 /obme/resources$                          301  /obme/resources/
 /obme/resources/(.*)                      200  http://phila-resource-finder-v2.s3-website-us-east-1.amazonaws.com/obme/resources/$1
+/odvs                                     301  /departments/office-of-domestic-violence-strategies/
 /oec                                      301  /programs/community-schools/overbrook-educational-center/
 /oem/storm                                301  https://survey123.arcgis.com/share/29280025e5eb440184f7c33717cf2623?portalUrl=https://phl.maps.arcgis.com
 /oem(.*)                                  301  /departments/emergency-management/
@@ -2151,6 +2154,7 @@
 /services/zoning-planning-development/request-a-plan-consistency-letter-for-a-development-proposal/ 301 /services/zoning-planning-development/get-a-plan-review/philadelphia-city-planning-commission-plan-reviews/request-a-plan-consistency-letter-for-a-development-proposal/
 /servicedesignstudio 301 /departments/office-of-the-chief-administrative-officer/service-design-studio/
 /service-design-studio 301 /departments/office-of-the-chief-administrative-officer/service-design-studio/
+/shared-?safety/                          301  /programs/shared-safety-philadelphia/
 /sick-?leave                              301  /services/working-jobs/worker-protections/paid-or-unpaid-leave/paid-sick-leave/ 
 /smartblockphl                            301  /programs/smartcityphl/smartblockphl/
 /smartchoice/?$                           301  /departments/department-of-commerce/about-us/divisions/office-of-business-development-and-workforce-solutions/
