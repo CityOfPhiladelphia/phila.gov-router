@@ -628,6 +628,7 @@
 /dpd/land-dashboard                       301  /departments/department-of-planning-and-development/about/our-results/land-management-dashboard/
 /droneguide                               301  https://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=d93906e2068e4eaa9c0e505287b959e2
 /DronePhilly                              301  https://veoci.com/veoci/p/dashboard/8vfac7c7b7
+/dtap                                     301  /2024-07-23-building-blocks-for-a-healthy-future-vaccinate-your-children-for-diphtheria-tetanus-and-pertussis/
 /duelo                                    301  /programs/substance-use-prevention-and-harm-reduction/servicios-de-apoyo-para-el-duelo/
 /earnings-tax-employees                   301  /services/payments-assistance-taxes/taxes/income-taxes/earnings-tax-employees/
 /ecvc                                     301  /2021-04-08-getting-vaccinated-at-the-esperanza-community-vaccination-center-what-to-expect
@@ -746,6 +747,7 @@
 /homeless-?services                       301  /departments/office-of-homeless-services/
 /homestead                                301  /services/property-lots-housing/get-real-estate-tax-relief/get-the-homestead-exemption/
 /homebuynow(.*)                           301  https://cedphilly.org/philadelphia-home-buy-now
+/hpv-vaccine                              301  /2024-07-23-protect-your-kids-for-a-lifetime-get-them-the-hpv-vaccine-now/
 /ht$                                      301  /ht/ 
 /humanrelations(.*)                       301  /departments/philadelphia-commission-on-human-relations/
 /ida-?recovery                            301  /departments/office-of-the-director-of-finance/hurricane-ida-recovery-funding/
