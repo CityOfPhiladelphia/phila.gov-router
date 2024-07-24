@@ -953,7 +953,7 @@
 /opa/search                               301  https://property.phila.gov
 /opa(.*)                                  301  /departments/office-of-property-assessment/
 /operate-a-farmers-market                 301  /services/permits-violations-licenses/get-a-license/business-licenses/food-businesses/operate-a-farmers-market/
-/ops                                      301  /2020-02-12-heres-what-you-need-to-know-about-overdose-prevention-sites/
+/ops                                      301  /departments/office-of-public-safety/ 
 /opendata                                 301  /data
 /openbudget                               301  https://data.phila.gov/visualizations/payments-aggregate/
 /open-?data-?dashboard                     301  https://phl.maps.arcgis.com/apps/dashboards/69ccf9aefddc4c198ec470c05ae3685a
@@ -1237,6 +1237,7 @@
 /property/data$                           301  /property/data/
 /property/data/(.*)                       200  https://cityofphiladelphia.github.io/property-download/$1
 /pt$                                      301  /pt/
+/public-safety                            301  /departments/office-of-public-safety/ 
 /publicart                                301  http://creativephl.org/tagged/Public-Art/
 /publications-forms(.*)                   301  /documents/
 /public-?restroom(.*)                     301  /2022-08-16-updates-on-the-philadelphia-public-restroom-pilot/
@@ -1896,6 +1897,7 @@
 /services/permits-violations-licenses/get-a-license/business-licenses/day-care-centers/get-a-child-care-facility-license/	301	/services/permits-violations-licenses/get-a-license/business-licenses/child-care-facilities/get-a-child-care-facility-license/
 /services/permits-violations-licenses/get-a-license/business-licenses/day-care-centers/schedule-a-sanitation-safety-inspection-for-a-child-care-facility/	301	/services/permits-violations-licenses/get-a-license/business-licenses/child-care-facilities/schedule-a-sanitation-safety-inspection-for-a-child-care-facility/
 /services/permits-violations-licenses/get-a-license/business-licenses/food-businesses/get-a-temporary-sidewalk-cafe-streetery-license/	301	/services/streets-sidewalks-alleys/outdoor-dining/
+/services/permits-violations-licenses/get-a-license/business-licenses/food-businesses/get-a-temporary-sidewalk-cafe-license/            301 /services/permits-violations-licenses/get-a-license/business-licenses/food-businesses/get-a-sidewalk-cafe-license/
 /services/permits-violations-licenses/get-a-license/business-licenses/rental-and-property/get-a-limited-lodging-and-hotels-booking-agent-license/ 301 /services/permits-violations-licenses/get-a-license/business-licenses/rental-and-property/get-a-limited-lodging-booking-agent-license/ 
 /services/permits-violations-licenses/get-a-license/business-licenses-permits-and-approvals/get-a-hot-work-license/	301	/services/permits-violations-licenses/get-a-license/business-licenses/other-businesses/get-a-hot-work-license/
 /services/permits-violations-licenses/get-a-license/business-licenses-permits-and-approvals/get-help-creating-a-tobacco-free-policy/	301	/services/permits-violations-licenses/apply-for-a-permit/tobacco-retailers/get-help-creating-a-tobacco-free-policy/
