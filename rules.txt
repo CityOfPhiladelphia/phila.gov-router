@@ -833,7 +833,7 @@
 /locke                                    301  /programs/community-schools/alain-locke-school/
 /logan                                    301  /programs/community-schools/james-logan-elementary-school/
 /loop(.*)                                 301  /services/payments-assistance-taxes/payment-plans-and-assistance-programs/income-based-programs-for-residents/apply-for-the-longtime-owner-occupants-program-loop/
-/love-park                                301  https://locations.phila.gov/love-park/
+/love-park                                301  /departments/philadelphia-parks-recreation/our-locations/ 
 /mcaaa(.*)                                301  /departments/mayors-office-of-public-engagement/mayors-commission-on-asian-american-affairs/
 /map                                      301  http://gsg.phila.gov/map
 /maps/imageryviewer                       301  http://phl.maps.arcgis.com/apps/MapSeries/index.html?appid=a0378ae03f6d4b1c9a186c4cdc396894
@@ -2172,7 +2172,7 @@
 /specialeventapplication                  301  https://www.officialpayments.com/pc_entry_cobrand.jsp?productId=149845250351954021456528724669927515
 /sphs                                     301  /programs/community-schools/south-philadelphia-high-school/
 /spotlight                                301  /the-latest
-/spotlight/love-park                      301  /spotlight/christmas-village-in-love-park-2019/
+/spotlight/love-park                      301  /spotlight/summer-of-love/
 /spotlight/city-of-philadelphia-holiday-celebrations/ 301  /holiday-celebrations
 /spotlight/city-of-philadelphia-holiday-celebrations-2019/ 301  /holiday-celebrations
 /spotlight/city-of-philadelphia-holiday-celebrations-2021/ 301  /holiday-celebrations
