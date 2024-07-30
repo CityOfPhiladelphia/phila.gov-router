@@ -68,7 +68,7 @@
 /aqi-redirect                             301  /services/mental-physical-health/environmental-health-hazards/air-quality/
 /aqi(.*)                                  301  /services/mental-physical-health/environmental-health-hazards/air-quality/
 /ar$                                      301  /ar/
-/arena-?proposal                          301  /2023-10-16-city-continuing-its-due-diligence-on-arena-proposal/ 
+/arena-?proposal                          301  /2024-07-29-********/ 
 /artcommission(.*)                        301  /departments/philadelphia-art-commission/
 /art-commission                           301  /departments/philadelphia-art-commission/
 /artincityhall                            301  http://creativephl.org/tagged/Exhibitions-and-Performances/
@@ -220,6 +220,7 @@
 /covid-testing-sites/(.*)                 200  http://phila-resource-finder-v2.s3-website-us-east-1.amazonaws.com/covid-testing-sites/$1
 /cpoc                                     301  /departments/citizens-police-oversight-commission/
 /cramp                                    301  /programs/community-schools/william-cramp-elementary-school/
+/creativephl                              301  https://www.creativephl.org/
 /crossing-?guard(.*)                      301  /programs/school-crossing-guard-program/
 /damage-?reporter                         301  https://survey123.arcgis.com/share/29280025e5eb440184f7c33717cf2623?portalUrl=https://phl.maps.arcgis.com
 /data                                     301  /programs/open-data-program/
@@ -550,6 +551,7 @@
 /documents/grief-support-groups-for-drug-overdose-deaths/ 301  /programs/substance-use-prevention-and-harm-reduction/bereavement-support-services/
 /documents/visit-the-medical-examiners-office/ 301  /departments/medical-examiners-office/
 /documents/food-matters-project-documents/ 301  /programs/zero-waste-initiatives/food-waste-reduction/
+/documents/food-access-and-benephilly-postcard/ 301  /documents/food-access-postcard/
 /documents/philadelphia-police-department-ada-registration-form/ 301  /services/safety-emergency-preparedness/notify-911-dispatchers-of-disability-needs-in-your-household/
 /documents/od-stat-annual-report/         301  /documents/od-stat-fatality-review-team-documents/
 /documents/od-stat-annual-report-2021/    301  /documents/od-stat-fatality-review-team-documents/
@@ -1237,7 +1239,7 @@
 /property/data$                           301  /property/data/
 /property/data/(.*)                       200  https://cityofphiladelphia.github.io/property-download/$1
 /pt$                                      301  /pt/
-/public-safety                            301  /departments/office-of-public-safety/ 
+/public-?safety                           301  /departments/office-of-public-safety/ 
 /publicart                                301  http://creativephl.org/tagged/Public-Art/
 /publications-forms(.*)                   301  /documents/
 /public-?restroom(.*)                     301  /2022-08-16-updates-on-the-philadelphia-public-restroom-pilot/
