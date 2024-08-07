@@ -71,7 +71,7 @@
 /arena-?proposal                          301  /2023-10-16-city-continuing-its-due-diligence-on-arena-proposal/
 /artcommission(.*)                        301  /departments/philadelphia-art-commission/
 /art-commission                           301  /departments/philadelphia-art-commission/
-/artincityhall                            301  http://creativephl.org/tagged/Exhibitions-and-Performances/
+/artincityhall                            301  https://www.creativephl.org/exhibitions/
 /arts                                     301  http://creativephl.org/
 /asistencia-factura-agua                  301  https://cap.phila.gov/static/index-spanish.html
 /avicalculator                            301  http://avicalculator.phila.gov
@@ -1196,6 +1196,8 @@
 /programs/mayors-volunteer-corps/         301  /departments/office-of-community-empowerment-and-opportunity/
 /programs/mayors-volunteers/              301  /departments/office-of-community-empowerment-and-opportunity/
 /programs/mechanical-street-cleaning/phase-2-pilot/      301  /programs/mechanical-street-cleaning/cleaning-schedule/
+/programs/philacan-pilot-program/         301  /programs/philacan-program/
+/programs/philacan-pilot-program/philacan-pilot-program-interest-form/  301    /programs/philacan-program/philacan-program-interest-form/
 /programs/philadelphia-resilience-project/ 301 /programs/opioid-response-unit/
 /programs/philly-powered/                 301  /departments/department-of-public-health/wellness/exercise-and-nutrition/
 /programs/phlconnected/partners/          301  /programs/phlconnected/
@@ -1240,7 +1242,7 @@
 /property/data/(.*)                       200  https://cityofphiladelphia.github.io/property-download/$1
 /pt$                                      301  /pt/
 /public-?safety                           301  /departments/office-of-public-safety/ 
-/publicart                                301  http://creativephl.org/tagged/Public-Art/
+/publicart                                301  https://www.creativephl.org/public-art/
 /publications-forms(.*)                   301  /documents/
 /public-?restroom(.*)                     301  /2022-08-16-updates-on-the-philadelphia-public-restroom-pilot/
 /quality-?jobs-?program                   301  /programs/quality-jobs-program/
