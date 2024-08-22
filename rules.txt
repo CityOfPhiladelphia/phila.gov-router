@@ -927,7 +927,7 @@
 /farmphilly                               301  /programs/farmphilly/
 /fe/(.*)                                  301  /programs/financial-empowerment-centers/
 /fhc                                      301  /departments/fair-housing-commission/
-/findrec/	                              301  /parks-rec-finder/#/
+/findrec/	                                301  /parks-rec-finder/#/
 /findrec/RecCenterDetails.aspx            301  /parks-rec-finder/#/locations
 /financialempowerment                     301  /programs/financial-empowerment-centers/
 /finance/units-RiskManagement(.*) 301  /departments/office-of-the-director-of-finance/office-of-risk-management/
@@ -1224,7 +1224,7 @@
 /ops                                      301  /departments/office-of-public-safety/ 
 /opendata                                 301  /programs/open-data-program/
 /openbudget                               301  https://data.phila.gov/visualizations/payments-aggregate/
-/open-?data-?dashboard                     301  https://phl.maps.arcgis.com/apps/dashboards/69ccf9aefddc4c198ec470c05ae3685a
+/open-?data-?dashboard                    301  https://phl.maps.arcgis.com/apps/dashboards/69ccf9aefddc4c198ec470c05ae3685a
 /opioids                                  301  /programs/opioid-response-unit/
 /oru                                      301  /programs/opioid-response-unit/
 /ose                                      301  /departments/office-of-special-events/
@@ -2792,8 +2792,7 @@
 /zba                                      301  /departments/zoning-board-of-adjustment/
 /zero-?fare                               301  /programs/zero-fare/
 /zero-?waste                              301  /programs/zero-waste-initiatives/
-/zika                                     301  /departments/department-of-public-health/
-/zika-virus/overview/                     301  /departments/department-of-public-health/
+/zika(.*)                                 301  /departments/department-of-public-health/
 /zipcheck                                 301  /services/water-gas-utilities/pay-or-dispute-a-water-bill/pay-a-water-bill/
 /zoning-summary-generator$                301  /zoning-summary-generator/
 /zoning-summary-generator/(.*)            200  http://dpd-zoning-summary-generator.s3-website-us-east-1.amazonaws.com/$1
