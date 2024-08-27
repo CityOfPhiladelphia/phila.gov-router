@@ -68,7 +68,8 @@
 /aqi-redirect                             301  /services/mental-physical-health/environmental-health-hazards/air-quality/
 /aqi(.*)                                  301  /services/mental-physical-health/environmental-health-hazards/air-quality/
 /ar$                                      301  /ar/
-/arena-?proposal                          301  /2023-10-16-city-continuing-its-due-diligence-on-arena-proposal/
+/arena-?proposal                          301  /2024-08-26-explore-the-center-city-arena-studies/
+/arena-?reports                           301  /2024-08-26-explore-the-center-city-arena-studies/
 /artcommission(.*)                        301  /departments/philadelphia-art-commission/
 /art-commission                           301  /departments/philadelphia-art-commission/
 /artincityhall                            301  https://www.creativephl.org/exhibitions/
