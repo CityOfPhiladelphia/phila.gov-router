@@ -336,8 +336,12 @@
 /departments/philadelphia-historical-commission/agendas-and-minutes/ 301 /departments/philadelphia-historical-commission/public-meetings/
 /departments/philadelphia-board-of-education 301  /departments/educational-nominating-panel/
 /departments/philadelphia-parks-recreation/get-involved/park-friends-groups/park-friends-group-list/   301 /departments/philadelphia-parks-recreation/get-involved/park-friends-groups/ 
+/departments/department-of-streets/about/boards-and-committees/  301  /departments/department-of-streets/about/boards/
+/departments/department-of-streets/about/rules-and-regulations/residential-trash-and-recycling-rules/  301  /departments/department-of-sanitation/about/rules-and-regulations/residential-trash-and-recycling-rules/ 
+/departments/department-of-streets/beautification/  301  /departments/department-of-sanitation/beautification/
 /departments/department-of-streets/resources/ 301 /departments/department-of-streets/
 /departments/department-of-streets/resources/residential-trash-and-recycling-rules/ 301 /departments/department-of-streets/about/rules-and-regulations/residential-trash-and-recycling-rules/
+/departments/department-of-streets/solid-waste/  301  /departments/department-of-sanitation/trash-and-recycling/
 /departments/sinking-fund-commission/sinking-fund-philadelphia-gas-works-pension-plan/ 301 /departments/sinking-fund-commission/sinking-fund-philadelphia-gas-works-pension-plan-reports/
 /departments/department-of-revenue/our-services/tax-services/non-resident-covid-ez-refund-petition/ 301 https://tax-services.phila.gov/
 /departments/department-of-revenue/our-services/tax-services/online-income-based-wage-tax-refund-petition/ 301 https://tax-services.phila.gov/
@@ -515,6 +519,7 @@
 /documents/covid-19-executive-order-for-safer-at-home-yellow-phase/ 301 /programs/coronavirus-disease-2019-covid-19/guidance/covid-19-emergency-orders/#/
 /documents/covid-19-resource-translations  301  /programs/coronavirus-disease-2019-covid-19/multi-language-resources/
 /documents/covid-19-reminders-letter-to-contractors/ 301 /departments/department-of-licenses-and-inspections/
+/documents/department-of-streets-regulations/  301  /documents/department-of-streets-and-department-of-sanitation-regulations/
 /documents/distressed-business-tax-credit-forms/ 301 /services/payments-assistance-taxes/taxes/tax-credits/business-tax-credits/distressed-business-tax-credit/
 /documents/eo-and-explanation-of-prohibition-on-non-essential-businesses/ 301 /programs/coronavirus-disease-2019-covid-19/guidance/covid-19-emergency-orders/#/
 /documents/employer-requested-2020-wage-tax-refund-template/ 301 /services/payments-assistance-taxes/taxes/refunds/request-a-wage-tax-refund/
@@ -1356,6 +1361,7 @@
 /safety-emergency-preparedness/code-blue/ 301  /services/safety-emergency-preparedness/extreme-weather/code-blue/
 /safetyandjustice(.*)                     301  /programs/philadelphia-safety-and-justice-challenge/
 /same-?day-?pay                           301  /2024-01-25-how-to-connect-with-a-same-day-work-pay-opportunity/     
+/sanitation                               301  /departments/department-of-sanitation/
 /safe-routes-philly                       301  /programs/safe-routes-philly/
 /school-income-tax                        301  /services/payments-assistance-taxes/taxes/income-taxes/school-income-tax/
 /school-board-nominations                 301  /departments/educational-nominating-panel/
