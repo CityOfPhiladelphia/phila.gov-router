@@ -207,7 +207,7 @@
 /bankon                                   301  /services/payments-assistance-taxes/financial-services-for-residents/open-a-safe-and-affordable-bank-account/
 /bank-on                                  301  /services/payments-assistance-taxes/financial-services-for-residents/open-a-safe-and-affordable-bank-account/
 /become-a-water-customer                  301  /services/water-gas-utilities/become-a-water-customer/
-/benchmarking                             301  https://philly-pa.beam-portal.org/helpdesk/kb/energy-and-water-benchmarking/?org=City%20of%20Philadelphia
+/benchmarking                             301  /programs/building-energy-programs/building-energy-benchmarking-program
 /benephilly                               301  /programs/benephilly
 /bge                                      301  /programs/broad-germantown-and-erie-bge/
 /bids                                     301  /departments/procurement-department/
@@ -727,6 +727,7 @@
 /documents/emergency-contact-form/        301  /documents/family-emergency-plan/
 /documents/employer-requested-2020-wage-tax-refund-template/ 301  /services/payments-assistance-taxes/taxes/refunds/request-a-wage-tax-refund/
 /documents/employer-requested-2021-wage-tax-refund-template/ 301  /departments/department-of-revenue/forms-documents/tax-forms-and-instructions/#/
+/documents/empowerment-zone-funding-applications/  301  /programs/neighborhood-funding-stream/
 /documents/eo-and-explanation-of-prohibition-on-non-essential-businesses/ 301  /programs/coronavirus-disease-2019-covid-19/guidance/covid-19-emergency-orders/#/
 /documents/eplan-training-webinar-slides/	301  /departments/department-of-licenses-and-inspections/eclipse-faqs/
 /documents/equity-and-opportunity-for-all-moving-philadelphia-forward/ 301  /documents/mayor-kenneys-second-term-report/
@@ -787,6 +788,7 @@
 /documents/obtaining-li-services-during-the-city-building-shutdown/	301  /departments/department-of-licenses-and-inspections/
 /documents/od-stat-annual-report-2021/    301  /documents/od-stat-fatality-review-team-documents/
 /documents/od-stat-annual-report/         301  /documents/od-stat-fatality-review-team-documents/
+/documents/office-of-administrative-review-tax-refund-form/  301  /documents/refund-petition-form/
 /documents/office-of-workforce-development-owd-one-pagers/	301  /departments/department-of-commerce/documents-and-reports/
 /documents/ohscontractattachments/        301  /departments/office-of-homeless-services/documents/standards-policies-and-forms/
 /documents/oic-form                       301  /documents/offer-in-compromise/
@@ -1391,6 +1393,8 @@
 /press-releases/health/city-officials-release-statement-on-cassidy-graham-bill/	301  /press-releases/department-of-public-health/city-officials-release-statement-on-cassidy-graham-bill/
 /press-releases/health/mayor-holds-press-conference-against-the-graham-cassidy-bill/	301  /press-releases/department-of-public-health/mayor-holds-press-conference-against-the-graham-cassidy-bill/
 /press-releases/health/take-action-philly-hosts-medicaid-convening-to-educate-engage-community/	301  /press-releases/department-of-public-health/take-action-philly-hosts-medicaid-convening-to-educate-engage-community/
+/press-releases/uncategorised/mayor-kenneys-public-schedule-for-tuesday-october-11-2016/	301  /press-releases/kenney/mayor-kenneys-public-schedule-for-tuesday-october-11-2016/
+/press-releases/uncategorised/mayor-kenney-wednesday-public-schedule-september-28-2016/    301  /press-releases/kenney/mayor-kenney-wednesday-public-schedule-september-28-2016/
 /presidentshouse/                       	301  https://www.visitphilly.com/things-to-do/attractions/the-presidents-house/
 /primarycare                              301  /primary-care/
 /primary-care$                            301  /primary-care/
@@ -1420,6 +1424,9 @@
 /programs/acute-communicable-disease-program/monkeypox/   301  /programs/monkeypox/
 /programs/blockchain-for-city-government  301  /departments/office-of-innovation-and-technology/
 /programs/broad-germantown-and-erie-bge/frequently-asked-questions/ 301  /programs/broad-germantown-and-erie-bge/
+/programs/building-energy-performance-program/  301  /programs/building-energy-programs/building-energy-performance-program/
+/programs/building-energy-performance-program/deadlines/  301  /programs/building-energy-programs/building-energy-performance-program/compliance-deadlines/
+/programs/building-energy-performance-program/resources/  301  /programs/building-energy-programs/building-energy-performance-program/
 /programs/career-technical-education/     301  /departments/office-of-children-and-families/
 /programs/civic-engagement-academy/for-groups/  301  /programs/civic-engagement-academy/
 /programs/civic-engagement-academy/for-individuals/  301  /programs/civic-engagement-academy/
@@ -1490,6 +1497,7 @@
 /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/rs-9/	301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/?language=russian
 /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/rs/	301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/?language=russian
 /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/ru/	301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/?language=russian
+/programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/safety-checklist-for-outdoor-shopping-fairs-and-festivals/	301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
 /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/sc-10/	301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/?language=chinese
 /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/sc-11/	301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/?language=chinese
 /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/sc-4/	301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/?language=chinese
@@ -1563,7 +1571,8 @@
 /programs/e3-power-centers/               301  /departments/office-of-children-and-families/
 /programs/e3-services/                    301  /departments/office-of-children-and-families/
 /programs/education-and-childcare-services/(.*) 301  /programs/education-support-center/$1
-/programs/energy-benchmarking/            301  https://philly-pa.beam-portal.org/helpdesk/kb/energy-and-water-benchmarking/?org=City%20of%20Philadelphia
+/programs/empowerment-zones/(.*)          301  /programs/neighborhood-funding-stream/ 
+/programs/energy-benchmarking/            301  /programs/building-energy-programs/building-energy-benchmarking-program
 /programs/family-empowerment-services-fes/ 301  /programs/family-empowerment-programs/
 /programs/healthy-start/	301  /services/mental-physical-health/get-health-care-and-support/family-and-childrens-health-care/get-lactation-support/
 /programs/immigrant-workers-academy-iwa/	301  /departments/office-of-immigrant-affairs/
@@ -1612,6 +1621,8 @@
 /programs/substance-use-prevention-and-harm-reduction/the-citys-response/  301  /programs/opioid-response-unit/the-citys-response/
 /programs/substance-use-prevention-and-harm-reduction/treatment/ 301  /services/mental-physical-health/get-health-care-and-support/get-treatment-for-substance-use-disorder/
 /programs/summer-jobs-for-teens/          301  /programs/career-connected-learning-phl-c2l-phl
+/programs/the-philadelphia-resilience-project/  301  /documents/philadelphia-resilience-project-archives/
+/programs/the-philadelphia-resilience-project/support-the-philadelphia-resilience-project/  301  /documents/philadelphia-resilience-project-archives/
 /programs/workforce-development/          301  /departments/department-of-commerce/about-us/divisions/office-of-neighborhood-economic-development/
 /programs/workready-at-parks-rec          301  /programs/parks-rec-summer-youth-employment-program/
 /programs/zero-waste-initiatives/food-matters-project/ 301  /programs/zero-waste-initiatives/food-waste-reduction/
