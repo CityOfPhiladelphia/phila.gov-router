@@ -194,7 +194,8 @@
 /aqi-redirect                             301  /services/mental-physical-health/environmental-health-hazards/air-quality/
 /aqi(.*)                                  301  /services/mental-physical-health/environmental-health-hazards/air-quality/
 /ar$                                      301  /ar/
-/arena-?proposal                          301  /2023-10-16-city-continuing-its-due-diligence-on-arena-proposal/
+/arena-?proposal                          301  /2024-08-26-explore-the-center-city-arena-studies/
+/arena-?reports                           301  /2024-08-26-explore-the-center-city-arena-studies/
 /artcommission(.*)                        301  /departments/philadelphia-art-commission/
 /art-commission                           301  /departments/philadelphia-art-commission/
 /artincityhall                            301  https://www.creativephl.org/exhibitions/
@@ -1747,6 +1748,7 @@
 /safety-emergency-preparedness/code-blue/ 301  /services/safety-emergency-preparedness/extreme-weather/code-blue/
 /safetyandjustice(.*)                     301  /programs/philadelphia-safety-and-justice-challenge/
 /same-?day-?pay                           301  /2024-01-25-how-to-connect-with-a-same-day-work-pay-opportunity/     
+/sanitation                               301  /departments/department-of-sanitation/
 /safe-routes-philly                       301  /programs/safe-routes-philly/
 /school-income-tax                        301  /services/payments-assistance-taxes/taxes/income-taxes/school-income-tax/
 /school-board-nominations                 301  /departments/educational-nominating-panel/
