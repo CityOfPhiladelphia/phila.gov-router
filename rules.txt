@@ -726,6 +726,7 @@
 /documents/eclipse-public-information-webinar-slides/	301  /departments/department-of-licenses-and-inspections/permits-and-certificates/help-using-eclipse/#/
 /documents/electronic-funds-transfer-ach-enrollment-for-vendors-and-foster-parents/ 301  /services/payments-assistance-taxes/payments-from-the-city/enroll-in-direct-deposit-as-a-vendor-or-a-foster-parent/
 /documents/emergency-contact-form/        301  /documents/family-emergency-plan/
+/documents/emergency-preparedness-brochures/ 301  https://hip.phila.gov/emergency-response/php-community-resources/
 /documents/employer-requested-2020-wage-tax-refund-template/ 301  /services/payments-assistance-taxes/taxes/refunds/request-a-wage-tax-refund/
 /documents/employer-requested-2021-wage-tax-refund-template/ 301  /departments/department-of-revenue/forms-documents/tax-forms-and-instructions/#/
 /documents/empowerment-zone-funding-applications/  301  /programs/neighborhood-funding-stream/
@@ -761,7 +762,7 @@
 /documents/hancock-playground-plans-and-renderings-for-rebuild/ 301  /documents/hancock-playground-rebuild-plans-and-resources/
 /documents/health-commissioners-office-review-committee-submission-form/	301  /services/mental-physical-health/medical-professionals/submit-a-study-to-the-health-commissioners-office-review-committee/
 /documents/health-data-request-form/	301  /services/mental-physical-health/medical-professionals/request-health-data/
-/documents/healthy-start-program-brochures/	301  /services/mental-physical-health/get-health-care-and-support/family-and-childrens-health-care/get-lactation-support/
+/documents/healthy-start-program-brochures/	301  /services/mental-physical-health/get-health-care-and-support/family-and-childrens-health-care/get-prenatal-care/
 /documents/home-arp-draft-allocation-plan-archive/	301  /departments/office-of-homeless-services/documents/publications/#/home-arp-allocation-plan-(english-and-spanish)
 /documents/housing-is-important-flyer/	301  /documents/home-purchase-repair-and-tax-information/
 /documents/how-to-notify-your-covid-19-contacts/	301  /programs/coronavirus-disease-2019-covid-19/
@@ -1575,7 +1576,7 @@
 /programs/empowerment-zones/(.*)          301  /programs/neighborhood-funding-stream/ 
 /programs/energy-benchmarking/            301  /programs/building-energy-programs/building-energy-benchmarking-program
 /programs/family-empowerment-services-fes/ 301  /programs/family-empowerment-programs/
-/programs/healthy-start/	301  /services/mental-physical-health/get-health-care-and-support/family-and-childrens-health-care/get-lactation-support/
+/programs/healthy-start/	                301  /services/mental-physical-health/get-health-care-and-support/family-and-childrens-health-care/get-prenatal-care/
 /programs/immigrant-workers-academy-iwa/	301  /departments/office-of-immigrant-affairs/
 /programs/integrity-works/faq/            301  /departments/office-of-the-chief-integrity-officer/frequently-asked-questions/
 /programs/integrity-works/(.*)            301  /departments/office-of-the-chief-integrity-officer/$1
@@ -1982,6 +1983,9 @@
 /services/mental-physical-health/get-health-care-and-support/family-and-childrens-health-care/get-breastfeeding-support/	301  /services/mental-physical-health/get-health-care-and-support/family-and-childrens-health-care/get-lactation-support/
 /services/mental-physical-health/get-health-care-and-support/get-mens-health-care/	301  /services/mental-physical-health/city-health-centers/
 /services/mental-physical-health/get-health-care-and-support/womens-healthcare/	301  /services/mental-physical-health/city-health-centers/
+/services/mental-physical-health/get-health-care-and-support/womens-healthcare/get-breastfeeding-support/ 301  /services/mental-physical-health/get-health-care-and-support/family-and-childrens-health-care/get-lactation-support/
+/services/mental-physical-health/get-health-care-and-support/womens-healthcare/get-family-planning-services/ 301  /services/mental-physical-health/get-health-care-and-support/family-and-childrens-health-care/get-family-planning-services/ 
+/services/mental-physical-health/get-health-care-and-support/womens-healthcare/get-prenatal-care/ 301  /services/mental-physical-health/get-health-care-and-support/family-and-childrens-health-care/get-prenatal-care/
 /services/mental-physical-health/get-health-care-and-support/womens-healthcare/get-womens-health-care/	301  /services/mental-physical-health/city-health-centers/
 /services/mental-physical-health/get-vaccinated/get-the-vaccines-your-child-needs-to-start-school/ 301  /services/mental-physical-health/get-vaccinated/vaccinate-your-child/
 /services/mental-physical-health/get-vaccinated/get-vaccinated-if-you-dont-have-health-insurance/ 301  /services/mental-physical-health/get-vaccinated/get-adult-vaccines/
@@ -2200,7 +2204,8 @@
 /services/payments-assistance-taxes/taxes/request-a-refund-for-taxes-paid-to-local-jurisdictions/	301  /services/payments-assistance-taxes/taxes/refunds/request-a-refund-for-taxes-paid-to-local-jurisdictions/
 /services/payments-assistance-taxes/taxes/tax-credits/business-tax-credits/community-development-corporation-cdc-tax-credit-2/	301  /services/payments-assistance-taxes/taxes/tax-credits/business-tax-credits/community-development-corporation-cdc-tax-credit/
 /services/payments-assistance-taxes/taxes/tax-credits/business-tax-credits/distressed-business-tax-credit-2/	301  /services/payments-assistance-taxes/taxes/tax-credits/business-tax-credits/distressed-business-tax-credit/
-/services/payments-assistance-taxes/taxes/tax-credits/business-tax-credits/earned-income-tax-credit-eitc-resources-2/	301  /services/payments-assistance-taxes/taxes/tax-credits/business-tax-credits/earned-income-tax-credit-eitc-resources/
+/services/payments-assistance-taxes/taxes/tax-credits/business-tax-credits/earned-income-tax-credit-eitc-resources-2/	301  /services/payments-assistance-taxes/taxes/tax-credits/resident-tax-credits/earned-income-tax-credit-eitc-resources/
+/services/payments-assistance-taxes/taxes/tax-credits/business-tax-credits/earned-income-tax-credit-eitc-resources/ 301  /services/payments-assistance-taxes/taxes/tax-credits/resident-tax-credits/earned-income-tax-credit-eitc-resources/ 
 /services/payments-assistance-taxes/taxes/tax-credits/business-tax-credits/green-roof-tax-credit-2/	301  /services/payments-assistance-taxes/taxes/tax-credits/business-tax-credits/green-roof-tax-credit/
 /services/payments-assistance-taxes/taxes/tax-credits/business-tax-credits/healthy-beverages-tax-credit-2/	301  /services/payments-assistance-taxes/taxes/tax-credits/business-tax-credits/healthy-beverages-tax-credit/
 /services/payments-assistance-taxes/taxes/tax-credits/business-tax-credits/job-creation-tax-credit-2/	301  /services/payments-assistance-taxes/taxes/tax-credits/business-tax-credits/job-creation-tax-credit/
