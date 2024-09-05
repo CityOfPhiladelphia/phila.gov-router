@@ -395,7 +395,11 @@
 /departments/department-of-revenue/our-services/tax-services/non-resident-covid-ez-refund-petition/ 301  https://tax-services.phila.gov/
 /departments/department-of-revenue/our-services/tax-services/online-income-based-wage-tax-refund-petition/ 301  https://tax-services.phila.gov/
 /departments/department-of-streets/resources/ 301  /departments/department-of-streets/
-/departments/department-of-streets/resources/residential-trash-and-recycling-rules/ 301  /departments/department-of-streets/about/rules-and-regulations/residential-trash-and-recycling-rules/
+/departments/department-of-streets/resources/residential-trash-and-recycling-rules/ 301  /departments/department-of-sanitation/about/rules-and-regulations/residential-trash-and-recycling-rules/
+/departments/department-of-streets/about/boards-and-committees/  301  /departments/department-of-streets/about/boards/
+/departments/department-of-streets/about/rules-and-regulations/residential-trash-and-recycling-rules/  301  /departments/department-of-sanitation/about/rules-and-regulations/residential-trash-and-recycling-rules/ 
+/departments/department-of-streets/beautification/  301  /departments/department-of-sanitation/beautification/
+/departments/department-of-streets/solid-waste/ 301 /departments/department-of-sanitation/trash-and-recycling/
 /departments/division-of-housing-and-community-development/neighborhood-resources-archive/   301  /departments/division-of-housing-and-community-development/neighborhood-resources/
 /departments/division-of-housing-and-community-development/neighborhood-resources-archive/neighborhood-energy-centers-necs	301  /departments/division-of-housing-and-community-development/neighborhood-resources/neighborhood-energy-centers-necs/
 /departments/division-of-housing-community-development/ 301  /departments/division-of-housing-and-community-development/
@@ -710,6 +714,7 @@
 /documents/deferred-retirement-option-plan-drop-application/	301  /documents/pension-deferred-retirement-option-plan-drop-application/
 /documents/department-of-commerce-job-openings/	301  /jobs/#/
 /documents/department-of-streets-hauling-permit-guide/   301  /services/permits-violations-licenses/apply-for-a-permit/get-a-special-hauling-permit/
+/documents/department-of-streets-regulations/ 301 /documents/department-of-streets-and-department-of-sanitation-regulations/
 /documents/depository-reinvestment-goals/	301  /documents/depository-community-reinvestment-goals/
 /documents/designated-survivor-pension-benefits-application/	301  /documents/pension-designated-survivor-application/
 /documents/designated-survivor-pension-benefits-application/	301  /documents/pension-designated-survivor-application/
