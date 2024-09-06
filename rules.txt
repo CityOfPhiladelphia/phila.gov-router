@@ -2559,7 +2559,7 @@
 /services/property-lots-housing/report-a-problem-with-property/report-graffiti/ 301  /services/streets-sidewalks-alleys/report-a-problem-on-a-city-street-sidewalk-or-alley/report-graffiti/
 /services/property-lots-housing/services-for-the-homeless/	301  /services/property-lots-housing/buy-sell-or-rent-a-property/find-housing/services-for-the-homeless/
 /services/property-lots-housing/property-taxes/get-real-estate-tax-relief/low-income-senior-citizen-real-estate-tax-freeze/	301  /services/payments-assistance-taxes/taxes/property-and-real-estate-taxes/get-real-estate-tax-relief/tax-freeze/low-income-senior-citizen-real-estate-tax-freeze/
-/services/property-lots-housing/property-taxes/get-real-estate-tax-relief/?(.*) 301  /services/payments-assistance-taxes/taxes/property-and-real-estate-taxes/get-real-estate-tax-relief/$1
+/services/property-lots-housing/property-taxes/get-real-estate-tax-relief/(.*) 301  /services/payments-assistance-taxes/taxes/property-and-real-estate-taxes/get-real-estate-tax-relief/$1
 /services/report-possible-fraud-waste-or-other-issues-on-contracts/                 301  /services/working-jobs/report-possible-issues-on-contracts/
 /services/safety-emergency-preparedness/after-an-emergency/	301  /departments/oem/ready-or-not/how-to-get-ready/after-an-emergency/
 /services/safety-emergency-preparedness/after-an-emergency/access-to-restricted-areas/	301  /departments/oem/ready-or-not/how-to-get-ready/after-an-emergency/access-to-restricted-areas/
