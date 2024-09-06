@@ -2293,6 +2293,7 @@
 /services/payments-assistance-taxes/taxes/tax-forms-instructions/2020-tax-forms/ 301  /departments/department-of-revenue/forms-documents/tax-forms-and-instructions/#/
 /services/payments-assistance-taxes/taxes/tax-forms-instructions/2021-tax-forms/ 301  /departments/department-of-revenue/forms-documents/tax-forms-and-instructions/#/
 /services/payments-assistance-taxes/taxes/tax-forms-instructions/2022-tax-forms/ 301  /departments/department-of-revenue/forms-documents/tax-forms-and-instructions/#/
+/services/payments-assistance-taxes/taxes/taxes/property-and-real-estate-taxes/get-real-estate-tax-relief/apply-for-the-low-income-real-estate-tax-freeze/ 301  /services/payments-assistance-taxes/taxes/property-and-real-estate-taxes/get-real-estate-tax-relief/tax-freeze/apply-for-the-low-income-real-estate-tax-freeze/
 /services/payments-assistance-taxes/taxes/technical-private-letter-rulings/   301  /services/payments-assistance-taxes/taxes/request-a-technical-private-letter-ruling-for-unusual-tax-circumstances/
 /services/payments-assistance-taxes/vendor-payment-status/ 301  /services/payments-assistance-taxes/payments-from-the-city/track-vendor-payment/
 /services/payments-assistance-taxes/water-bills/pay-a-water-bill/appeal-a-water-bill-or-water-service-decision/ 301  /services/payments-assistance-taxes/water-bills/appeal-a-water-bill-or-water-service-decision/
@@ -2557,6 +2558,8 @@
 /services/property-lots-housing/report-a-problem-with-property/report-a-vacant-building/ 301  /services/property-lots-housing/report-a-problem-with-a-building-lot-or-street/
 /services/property-lots-housing/report-a-problem-with-property/report-graffiti/ 301  /services/streets-sidewalks-alleys/report-a-problem-on-a-city-street-sidewalk-or-alley/report-graffiti/
 /services/property-lots-housing/services-for-the-homeless/	301  /services/property-lots-housing/buy-sell-or-rent-a-property/find-housing/services-for-the-homeless/
+/services/property-lots-housing/property-taxes/get-real-estate-tax-relief/low-income-senior-citizen-real-estate-tax-freeze/	301  /services/payments-assistance-taxes/taxes/property-and-real-estate-taxes/get-real-estate-tax-relief/tax-freeze/low-income-senior-citizen-real-estate-tax-freeze/
+/services/property-lots-housing/property-taxes/get-real-estate-tax-relief/(.*) 301  /services/payments-assistance-taxes/taxes/property-and-real-estate-taxes/get-real-estate-tax-relief/$1
 /services/report-possible-fraud-waste-or-other-issues-on-contracts/                 301  /services/working-jobs/report-possible-issues-on-contracts/
 /services/safety-emergency-preparedness/after-an-emergency/	301  /departments/oem/ready-or-not/how-to-get-ready/after-an-emergency/
 /services/safety-emergency-preparedness/after-an-emergency/access-to-restricted-areas/	301  /departments/oem/ready-or-not/how-to-get-ready/after-an-emergency/access-to-restricted-areas/
