@@ -2780,7 +2780,7 @@
 /tax-center-guide                         301  /guides/philadelphia-tax-center/
 /tax-center-guia                          301  /guides/philadelphia-tax-center/philadelphia-tax-center-en-espanol/
 /tax-change                               301  /documents/tax-account-change-form
-/tax-?freeze                              301  /services/payments-assistance-taxes/taxes/property-and-real-estate-taxes/get-real-estate-tax-relief/tax-freezes/
+/tax-?freeze                              301  /services/payments-assistance-taxes/taxes/property-and-real-estate-taxes/get-real-estate-tax-relief/tax-freeze/
 /tax-credits/keystone-opportunity-zone-tax-credit-koz 301  /services/payments-assistance-taxes/taxes/tax-credits/business-tax-credits/keystone-opportunity-zone-tax-credit/
 /tax-credits/life-partner-transgender-care-health-benefits-tax-credit 301  /services/payments-assistance-taxes/taxes/tax-credits/business-tax-credits/life-partner-and-transgender-care-health-benefits-tax-credits/
 /tax-credits/sustainable-business-tax-credit 301  /services/payments-assistance-taxes/taxes/tax-credits/business-tax-credits/sustainable-business-tax-credit/
