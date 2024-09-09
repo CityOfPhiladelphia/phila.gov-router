@@ -2788,12 +2788,12 @@
 /tax-refunds                              301  /services/payments-assistance-taxes/taxes/refunds/
 /tax-refunds/request-a-refund             301  /services/payments-assistance-taxes/taxes/refunds/
 /testing                                  301  /covid-testing-sites/
-/the-latest/archives/?templates=post	    301	 /news-and-events/#/posts
 /the-latest/archives/?templates=post?templates=featured&department=(.*) 301  /news-and-events/#/posts?featured=true&department=$1
 /the-latest/archives/?templates=post?templates=featured(.*) 301  /news-and-events/#/posts/?featured=true
+/the-latest/archives/?templates=post(.*)	301	 /news-and-events/#/posts
 /the-latest/archives/?templates=press_release&department=(.*) 301  /news-and-events/#/press-releases?department=$1
-/the-latest/archives/?templates=press_release	301  /news-and-events/#/press-releases
-/the-latest/archives/?templates=action_guide	301  /news-and-events/#/action-guides
+/the-latest/archives/?templates=press_release(.*)	301  /news-and-events/#/press-releases
+/the-latest/archives/?templates=action_guide(.*)	301  /news-and-events/#/action-guides
 /the-latest/archive(.*)                   301  /news-and-events/#/posts
 /the-latest/all-events/?category=(.*)     301  /news-and-events/#/events/?category=$1
 /the-latest/all-events(.*)	              301	 /news-and-events/#/events
