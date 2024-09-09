@@ -183,7 +183,7 @@
 /aco                                      301  /departments/mayors-office-for-people-with-disabilities/
 /access-center-finder(.*)                 301  /2021-02-22-the-citys-access-centers-are-still-enrolling-students/
 /access-?centers                          301  /2021-02-22-the-citys-access-centers-are-still-enrolling-students/
-/actionguides                             301  /the-latest/#action-guides
+/actionguides                             301  /news-and-events/#/action-guides/
 /active-duty-credit                       301  /services/payments-assistance-taxes/taxes/tax-credits/resident-tax-credits/active-duty-tax-credit/
 /ada-grievance                            301  /services/diversity-inclusion-accessibility-immigration/submit-an-ada-grievance-against-the-city/
 /adult-education                          301  /programs/adult-education/
@@ -249,7 +249,7 @@
 /business-?vaccine                        301  /services/mental-physical-health/get-vaccinated/get-your-covid-19-vaccine/
 /c2l-?phl                                 301  /programs/career-connected-learning-phl-c2l-phl
 /cf-?dashboard                            301  https://experience.arcgis.com/experience/7444617509954375adc64e7355b98581/
-/calendar/sustainability/                 301  /the-latest/all-events/?category=Office%20of%20Sustainability
+/calendar/sustainability/                 301  /news-and-events/#/events?category=Office%20of%20Sustainability
 /camp                                     301  /services/culture-recreation/activities-and-events/register-for-summer-camp/
 /camps                                    301  /services/culture-recreation/activities-and-events/register-for-summer-camp/
 /candidate-?resources                     301  /departments/mayor/resources-for-2023-mayoral-candidates/
@@ -353,8 +353,8 @@
 /defender                                 301  https://phillydefenders.org/
 /dei                                      301  /departments/office-of-diversity-equity-and-inclusion/
 /departmentofpublicproperty/pages/default.aspx 301  /departments/department-of-public-property/
-/departments/(.*)/about/all-events        301  /the-latest/all-events/
-/departments/(.*)/all-events              301  /the-latest/all-events/
+/departments/(.*)/about/all-events        301  /news-and-events/#/events
+/departments/(.*)/all-events              301  /news-and-events/#/events
 /departments/aging/	                      301  /departments/mayors-commission-on-aging/
 /departments/board-of-education           301  /departments/educational-nominating-panel/
 /departments/board-of-ethics/document-search/ 301  /departments/board-of-ethics/ethics-resources/
@@ -411,7 +411,7 @@
 /departments/law-department/practice-groups/legislation-and-legal-counsel-unit/ 301  /departments/law-department/practice-groups/compliance-legislation-group/ 
 /departments/law-department/practice-groups/compliance-investigation-privacy/ 301  /departments/law-department/practice-groups/compliance-legislation-group/ 
 /departments/managing-directors-office/clusters/ 301  /departments/managing-directors-office/divisions/
-/departments/mayor/press-videos.html	    301  /the-latest/archives/?templates=press_release&department=Mayor
+/departments/mayor/press-videos.html	    301  /news-and-events/#/press-releases?department=Mayor
 /departments/mayor/quality-pre-k          301  /programs/quality-pre-k/
 /departments/mayors-office-for-people-with-disabilities/(.*) 301  /departments/office-for-people-with-disabilities/$1
 /departments/mayors-office-for-people-with-disabilities/submit-your-comments-on-the-city-of-philadelphias-ada-transition-plan/	301  /documents/city-of-philadelphia-ada-transition-plan/
@@ -1010,7 +1010,7 @@
 /health/tobaccopermits                    301  /services/permits-violations-licenses/business-licenses-permits-and-approvals/tobacco-retailers/get-a-tobacco-retailer-permit/
 /health/jobs                              301  /departments/department-of-public-health/about-us/jobs/
 /health/resource-hubs                     301  /2023-04-24-resource-hubs-offer-drop-in-assistance-and-free-services-in-five-philadelphia-neighborhoods/
-/health/resource-hubs-calendar            301  /the-latest/all-events/?category=Health%20resource%20hubs
+/health/resource-hubs-calendar            301  /news-and-events/#/events?category=Health%20resource%20hubs
 /health(.*)                               301  /departments/department-of-public-health/
 /heat                                     301  /guides/extreme-heat-guide/
 /helpme                                   301  /departments/philly311/
@@ -1181,7 +1181,7 @@
 /motu/atfive.html                         301  /departments/office-of-transportation-and-infrastructure-systems/
 /mrc                                      301  /programs/philadelphia-medical-reserve-corps-pmrc/
 /net-profits-tax                          301  /services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-type/net-profits-tax/
-/news                                     301  /the-latest/
+/news                                     301  /news-and-events/
 /news/department-of-licenses-and-inspections/protect-against-outdoor-deck-collapses/	301  /departments/department-of-licenses-and-inspections/
 /news/health/call-for-comments-the-citys-plan-to-prevent-childhood-lead-poisoning/	301  /news/department-of-public-health/call-for-comments-the-citys-plan-to-prevent-childhood-lead-poisoning/
 /news/health/deadline-december-15-everything-you-need-to-know-about-aca-enrollment/	301  /news/department-of-public-health/deadline-december-15-everything-you-need-to-know-about-aca-enrollment/
@@ -1346,7 +1346,7 @@
 /pools                                    301  /parks-rec-finder/#/locations/swimming-pools
 /porous-pave                              301  https://water.phila.gov/blog/11-2011-percy-street-porous-paving/
 /porous-play                              301  https://water.phila.gov/gsi/
-/posts                                    301  /the-latest/archives/?template=post
+/posts                                    301  /news-and-events/#/posts
 /posts/health/2017-03-09-affordable-care-act-city-of-philadelphia-action-guide/	301  /posts/department-of-public-health/2017-03-09-affordable-care-act-city-of-philadelphia-action-guide/
 /posts/health/2017-09-07-what-does-jonas-salk-have-to-do-with-your-childrens-school/	301  /posts/department-of-public-health/2017-09-07-what-does-jonas-salk-have-to-do-with-your-childrens-school/
 /posts/health/2017-09-11-the-flu-shot-can-save-you/	301  /posts/department-of-public-health/2017-09-11-the-flu-shot-can-save-you/
@@ -1370,7 +1370,7 @@
 /posts/office-of-lgbt-affairs/2017-05-04-lgbtq-protections-city-of-philadelphia-action-guide 301  /2017-12-04-philadelphias-lgbtq-protections/
 /posts/office-of-lgbt-affairs/2017-05-04-resources-for-lgbtq-philadelphians/	301  /posts/office-of-diversity-equity-and-inclusion/2017-05-04-resources-for-lgbtq-philadelphians/
 /posts/office-of-lgbt-affairs/2017-06-08-more-color-more-pride/	301  /posts/office-of-diversity-equity-and-inclusion/2017-06-08-more-color-more-pride/
-/posts/office-of-sustainability/	301  /the-latest/archives/?templates=post&templates=featured&department=Sustainability
+/posts/office-of-sustainability/	301  /news-and-events/#/posts?featured=true&department=Sustainability
 /posts/office-of-sustainability/2017-03-03-energy-efficiency-sustainability-fund/ 301  /departments/office-of-sustainability/
 /posts/office-of-sustainability/2017-03-28-environment-sustainability-city-of-philadelphia-action-guide 301  /2017-11-29-environmental-protection-during-the-trump-administration/
 /posts/office-of-the-chief-diversity-and-inclusion-officer/2016-02-09-chief-diversity-and-inclusion-officer-nolan-atkinson/	301  /posts/office-of-diversity-equity-and-inclusion/2016-02-09-chief-diversity-and-inclusion-officer-nolan-atkinson/
@@ -1396,7 +1396,7 @@
 /prepare-for-an-emergency/keep-documents-safe/  301  /departments/oem/ready-or-not/how-to-get-ready/prepare-for-an-emergency/keep-documents-safe/
 /prepare-for-an-emergency/know-whether-to-stay-or-go/	301  /departments/oem/ready-or-not/how-to-get-ready/prepare-for-an-emergency/know-whether-to-stay-or-go/
 /prepare-for-an-emergency/plan-for-everyone/	301  /departments/oem/ready-or-not/how-to-get-ready/prepare-for-an-emergency/plan-for-everyone/
-/press-releases                           301  /the-latest/archives/?template=press_release
+/press-releases                           301  /news-and-events/#/press-releases
 /press-releases/health/city-officials-release-statement-on-cassidy-graham-bill/	301  /press-releases/department-of-public-health/city-officials-release-statement-on-cassidy-graham-bill/
 /press-releases/health/mayor-holds-press-conference-against-the-graham-cassidy-bill/	301  /press-releases/department-of-public-health/mayor-holds-press-conference-against-the-graham-cassidy-bill/
 /press-releases/health/take-action-philly-hosts-medicaid-convening-to-educate-engage-community/	301  /press-releases/department-of-public-health/take-action-philly-hosts-medicaid-convening-to-educate-engage-community/
