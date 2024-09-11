@@ -443,6 +443,7 @@
 /departments/oem/ready-or-not/how-to-get-ready/disaster-recovery-funding/	301  /departments/oem/ready-or-not/how-to-get-ready/after-an-emergency/disaster-recovery-funding/
 /departments/oem/about/contact-us/	      301  /departments/oem/
 /departments/office-of-adult-education/	  301  /departments/office-of-children-and-families/
+/departments/office-of-arts-culture-and-the-creative-economy/  301  /departments/creative-philadelphia/
 /departments/office-of-children-and-families/about/our-mission/  301  /departments/office-of-children-and-families/about/our-vision/
 /departments/office-of-children-and-families/partnership-opportunities-sign-up/	301  /departments/office-of-children-and-families/
 /departments/office-of-children-and-families/scheduling-request-form/	301  /departments/office-of-children-and-families/
