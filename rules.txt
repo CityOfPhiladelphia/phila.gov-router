@@ -502,6 +502,7 @@
 /departments/office-of-the-chief-integrity-officer/rules-regulations/	301  /departments/office-of-the-chief-integrity-officer/rules-and-regulations/
 /departments/office-of-the-city-solicitor/	301  /departments/law-department/
 /departments/office-of-the-director-of-finance/contact-information/ 301  /departments/office-of-the-director-of-finance/about/units/
+/departments/office-of-the-director-of-finance/hurricane-ida-recovery-funding/ 301  /departments/office-of-the-director-of-finance/cdbg-dr-program/
 /departments/office-of-transportation-infrastructure-sustainability/ 301  /departments/office-of-transportation-and-infrastructure-systems/
 /departments/office-of-transportation-infrastructure-sustainability/our-team/ 301  /departments/office-of-transportation-and-infrastructure-systems/our-team/
 /departments/office-of-transportation-infrastructure-sustainability/resources/ 301  /departments/office-of-transportation-and-infrastructure-systems/resources/
@@ -1026,7 +1027,7 @@
 /hpv-vaccine                              301  /2024-07-23-protect-your-kids-for-a-lifetime-get-them-the-hpv-vaccine-now/
 /ht$                                      301  /ht/ 
 /humanrelations(.*)                       301  /departments/philadelphia-commission-on-human-relations/
-/ida-?recovery                            301  /departments/office-of-the-director-of-finance/hurricane-ida-recovery-funding/
+/ida-?recovery                            301  /departments/office-of-the-director-of-finance/cdbg-dr-program/
 /ig(.*)                                   301  /departments/office-of-the-inspector-general/
 /ima/                                     301  /departments/office-of-immigrant-affairs/
 /immigrant-business-week                  301  /spotlight/immigrant-business-week-2020/
