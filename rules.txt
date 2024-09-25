@@ -195,6 +195,7 @@
 /aqi-redirect                             301  /services/mental-physical-health/environmental-health-hazards/air-quality/
 /aqi(.*)                                  301  /services/mental-physical-health/environmental-health-hazards/air-quality/
 /ar$                                      301  /ar/
+/arena-?bills                             301  /documents/arena-proposal-drafted-ordinances/
 /arena-?proposal                          301  /2024-08-26-explore-the-center-city-arena-studies/
 /arena-?reports                           301  /2024-08-26-explore-the-center-city-arena-studies/
 /artcommission(.*)                        301  /departments/philadelphia-art-commission/
@@ -210,6 +211,7 @@
 /become-a-water-customer                  301  /services/water-gas-utilities/become-a-water-customer/
 /benchmarking                             301  /programs/building-energy-programs/building-energy-benchmarking-program
 /benephilly                               301  /programs/benephilly
+/better-?services-?phl                    301  /programs/better-services-phl
 /bge                                      301  /programs/broad-germantown-and-erie-bge/
 /bids                                     301  /departments/procurement-department/
 /bidsonline                               301  https://www.phlcontracts.phila.gov/bso/
@@ -2280,8 +2282,8 @@
 /services/payments-assistance-taxes/taxes/tax-credits/business-tax-credits/keystone-opportunity-zone-tax-credit-2/	301  /services/payments-assistance-taxes/taxes/tax-credits/business-tax-credits/keystone-opportunity-zone-tax-credit/
 /services/payments-assistance-taxes/taxes/tax-credits/business-tax-credits/life-partner-transgender-care-health-benefits-tax-credits/	301  /services/payments-assistance-taxes/taxes/tax-credits/business-tax-credits/life-partner-and-transgender-care-health-benefits-tax-credits/
 /services/payments-assistance-taxes/taxes/tax-credits/business-tax-credits/philadelphia-re-entry-program-prep-tax-credit-2/	301  /services/payments-assistance-taxes/taxes/tax-credits/business-tax-credits/philadelphia-re-entry-program-prep-tax-credit/
-/services/payments-assistance-taxes/taxes/tax-credits/business-tax-credits/sustainable-business-tax-credit-2/	301  /services/payments-assistance-taxes/taxes/tax-credits/business-tax-credits/sustainable-business-tax-credit/
-/services/payments-assistance-taxes/taxes/tax-credits/business-tax-credits/sustainable-jump-start-tax-credit-2/	301  /services/payments-assistance-taxes/taxes/tax-credits/business-tax-credits/sustainable-jump-start-tax-credit/
+/services/payments-assistance-taxes/taxes/tax-credits/business-tax-credits/sustainable-business-tax-credit/     301  /services/payments-assistance-taxes/taxes/tax-credits/business-tax-credits/
+/services/payments-assistance-taxes/taxes/tax-credits/business-tax-credits/sustainable-jump-start-tax-credit/   301  /services/payments-assistance-taxes/taxes/tax-credits/business-tax-credits/
 /services/payments-assistance-taxes/taxes/tax-credits/business-tax-credits/veterans-employment-tax-credit-2/	301  /services/payments-assistance-taxes/taxes/tax-credits/business-tax-credits/
 /services/payments-assistance-taxes/taxes/tax-credits/business-tax-credits/veterans-employment-tax-credit/  301  /documents/veterans-employment-tax-credit/
 /services/payments-assistance-taxes/taxes/tax-credits/resident-tax-credits/active-duty-tax-credit-2/   301  /services/payments-assistance-taxes/taxes/tax-credits/resident-tax-credits/active-duty-tax-credit/
