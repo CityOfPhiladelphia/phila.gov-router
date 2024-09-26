@@ -908,7 +908,7 @@
 /ecvc                                     301  /2021-04-08-getting-vaccinated-at-the-esperanza-community-vaccination-center-what-to-expect
 /educational-nominating-panel             301  /departments/educational-nominating-panel/
 /education-nominating-panel               301  /departments/educational-nominating-panel/
-/education(.*)                            301  /departments/office-of-children-and-families/
+/education(.*)                            301  /departments/mayors-office-of-education/
 /educationnews                            301  /departments/office-of-children-and-families/newsletter-sign-up/
 /eeo-?complaint?                          301  /services/working-jobs/worker-protections/discrimination-and-harassment/file-a-sexual-harassment-complaint/
 /employee-screener$                       301  /employee-screener/
