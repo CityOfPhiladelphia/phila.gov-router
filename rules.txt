@@ -321,6 +321,7 @@
 /complete-streets/market-old-city         301  /programs/complete-streets/projects/market-street-old-city-improvement-project/
 /complete-streets/penrose-traffic-calming 301  /2021-08-12-penrose-roundabout-looks-to-improve-safety-at-busy-intersection/
 /complete-streets/springfield-51st-57th   301  /documents/springfield-51st-57th/
+/complete-?streets/spruce-?pine           301  /programs/complete-streets/projects/spruce-pine-traffic-safety-project/
 /complete-streets/strawberry-mansion-bikeways 301  /documents/strawberry-mansion-bikeways
 /complete-streets/tioga-5th-15th          301  /documents/tioga-5th-15th
 /complete-streets/westminster-40th-52nd   301  /documents/westminster-40th-52nd
