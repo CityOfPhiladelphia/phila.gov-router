@@ -256,6 +256,7 @@
 /camps                                    301  /services/culture-recreation/activities-and-events/register-for-summer-camp/
 /candidate-?resources                     301  /departments/mayor/resources-for-2023-mayoral-candidates/
 /cao                                      301  /departments/office-of-the-chief-administrative-officer/
+/ccme                                     301  /programs/city-college-for-municipal-employment-ccme
 /ccvc                                     301  /2021-03-02-getting-vaccinated-at-the-center-city-vaccination-center-what-you-need-to-know/
 /ceo/community-champions                  301  /2022-03-21-apply-now-or-nominate-someone-as-a-community-champion/
 /ceo/(.*)                                 301  /departments/office-of-community-empowerment-and-opportunity/
