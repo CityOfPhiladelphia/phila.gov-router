@@ -1178,6 +1178,7 @@
 /media/2015/07/Center-City-High-Rise-Evacuation-Rallying-Points-Map-Book-OEM.pdf	301  /departments/oem/ready-or-not/how-to-get-ready/prepare-for-an-emergency/know-whether-to-stay-or-go/
 /media/2015/07/Property-Owners-and-Managers-Toolkit-Evaculation-Plan-OEM.pdf	301  /departments/oem/ready-or-not/how-to-get-ready/prepare-for-an-emergency/know-whether-to-stay-or-go/
 /media/20180806114511/Parking-meter-laws.pdf	301  https://codelibrary.amlegal.com/codes/philadelphia/latest/philadelphia_pa/0-0-0-285487
+/media/20221018201649/Philadelphia-Streetery-License-Restaurant-Owners-Guide-Version-1.0.pdf 301  /documents/philadelphia-streetery-license-guide-outdoor-dining-program/
 /mpox                                     301  /programs/monkeypox
 /mocs                                     301  /departments/office-of-community-empowerment-and-opportunity/
 /mod                                      301  /departments/mayors-office-for-people-with-disabilities/
