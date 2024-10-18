@@ -472,6 +472,9 @@
 /departments/office-of-innovation-and-technology/resources/news-articles/ 301  /departments/office-of-innovation-and-technology/
 /departments/office-of-innovation-and-technology/verizon-franchise-agreement-feedback-form/  301  /departments/office-of-innovation-and-technology/
 /departments/office-of-innovation-management/         301  /departments/office-of-innovation-and-technology/public-technology-and-innovation-team/
+/departments/office-of-lgbt-affairs/                  301  /departments/office-of-lgbtq-affairs/
+/departments/office-of-lgbt-affairs/resources-for-lgbt-individuals/  301  /departments/office-of-lgbtq-affairs/resources-for-lgbtq-individuals/
+/departments/office-of-lgbt-affairs/partnerships/     301  /departments/office-of-lgbtq-affairs/partnerships/
 /departments/office-of-open-data-and-digital-transformation(.*)    301  /2019-10-14-the-evolution-of-design-tech-and-data-at-the-city/
 /departments/office-of-policy-and-strategic-initiatives-for-criminal-justice-and-public-safety/(.*) 301  /departments/office-of-public-safety/$1
 /departments/office-of-sustainability/about/energy-office/   301  /departments/office-of-sustainability/about/municipal-energy-office/
