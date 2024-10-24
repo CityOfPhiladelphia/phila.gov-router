@@ -1247,6 +1247,7 @@
 /open-?data-?dashboard                    301  https://phl.maps.arcgis.com/apps/dashboards/69ccf9aefddc4c198ec470c05ae3685a
 /opioids                                  301  /programs/opioid-response-unit/
 /oru                                      301  /programs/opioid-response-unit/
+/oru-canvassing                           301  /2024-10-21-overdose-awareness-and-prevention-canvassing-program/
 /ose                                      301  /departments/office-of-special-events/
 /osh(.*)                                  301  /departments/office-of-homeless-services/
 /ost                                      301  /programs/out-of-school-time-ost/
