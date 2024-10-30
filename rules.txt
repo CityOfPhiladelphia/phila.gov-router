@@ -1006,6 +1006,7 @@
 /health/Commissioner/DataResearch.html    301  /departments/department-of-public-health/data/
 /health/contact.html                      301  /departments/department-of-public-health/about-us/contact-us/
 /health/diseasecontrol/hc1.html           301  /services/mental-physical-health/city-health-centers/
+/health/ehs                               301  /departments/department-of-public-health/environmental-health-services/
 /health/FoodProtection/FoodSafetyReports.html 301  /services/permits-violations-licenses/business-licenses-permits-and-approvals/food-businesses/look-up-a-food-safety-inspection-report/
 /health/FoodProtection/NewFoodBusinesses.html 301  /services/permits-violations-licenses/business-licenses-permits-and-approvals/food-businesses/take-a-food-safety-certification-course/
 /health/faq/faq_medicalexaminer.html      301  /departments/medical-examiners-office/
