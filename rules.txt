@@ -316,6 +316,7 @@
 /complete-streets/fishtown-bikeways       301  /documents/fishtown-bikeways
 /complete-streets/germantown-bikeways     301  /documents/germantown-bikeways
 /complete-streets/lehigh-kensington-american 301  /documents/lehigh-kensington-american
+/complete-streets/lehigh-traffic-safety   301  /programs/complete-streets/projects/lehigh-avenue-traffic-safety-improvement-projects/
 /complete-streets/limekiln-medary-haines  301  /documents/limekiln-medary-haines
 /complete-streets/longshore-roosevelt-frontenac 301  /documents/longshore-roosevelt-frontenac
 /complete-streets/market-old-city         301  /programs/complete-streets/projects/market-street-old-city-improvement-project/
@@ -812,6 +813,8 @@
 /documents/open-data-program-executive-order/ 301  /departments/mayor/executive-orders/#/?table=%2520Mayoral%2520executive%2520orders%2520from%25201952%2520to%2520the%2520present&q=1-12:%20Open%20Data%20and%20Government%20Transparency%20(2012)
 /documents/opioid-emergency-response-executive-order/ 301  /departments/mayor/executive-orders/#/?table=%2520Mayoral%2520executive%2520orders%2520from%25201952%2520to%2520the%2520present&q=3-18:%20Opioid%20Emergency%20Response
 /documents/opioid-prescribing-and-tapering-guidelines/	301  /documents/opioid-guidance-for-clinicians/
+/documents/overdose-prevention-sites/     301  /
+/documents/overdose-prevention-sites-fact-sheets/ 301  /
 /documents/permit-fee-schedule/	301  /documents/fees-for-li-permits-and-licenses/
 /documents/personal-care-guide-book/	    301  /documents/personal-care-home-emergency-planning-guide/
 /documents/philadelphia-activities-fund-grant-application/   301  /services/culture-recreation/apply-for-a-philadelphia-activities-fund-grant/
@@ -1242,6 +1245,7 @@
 /opa(.*)                                  301  /departments/office-of-property-assessment/
 /operate-a-farmers-market                 301  /services/permits-violations-licenses/get-a-license/business-licenses/food-businesses/operate-a-farmers-market/
 /ops                                      301  /departments/office-of-public-safety/ 
+/ops-?grants                              301  /departments/office-of-public-safety/grants/
 /opendata                                 301  /programs/open-data-program/
 /openbudget                               301  https://data.phila.gov/visualizations/payments-aggregate/
 /open-?data-?dashboard                    301  https://phl.maps.arcgis.com/apps/dashboards/69ccf9aefddc4c198ec470c05ae3685a
