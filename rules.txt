@@ -327,6 +327,7 @@
 /complete-streets/tioga-5th-15th          301  /documents/tioga-5th-15th
 /complete-streets/westminster-40th-52nd   301  /documents/westminster-40th-52nd
 /complete-streets/west-chestnut-walnut    301  /programs/complete-streets/projects/chestnut-walnut-repaving-and-complete-street-safety-project/
+/complete-streets/woodland-42nd-va        301  /programs/complete-streets/projects/woodland-42nd-va/
 /consumer-protection                      301  /programs/philadelphia-consumer-financial-protection-task-force/
 /content-style-guide(.*)                  301   https://standards.phila.gov/docs/content/style-guide/common-usage.html
 /contractprepfee                          301  https://www.officialpayments.com/pc_entry_cobrand.jsp?productId=635840624434951202173815789925863516
@@ -399,6 +400,7 @@
 /departments/department-of-public-property/green-buildings/ 301  /departments/office-of-sustainability/about/municipal-energy-office/
 /departments/department-of-revenue/our-services/tax-services/non-resident-covid-ez-refund-petition/ 301  https://tax-services.phila.gov/
 /departments/department-of-revenue/our-services/tax-services/online-income-based-wage-tax-refund-petition/ 301  https://tax-services.phila.gov/
+/departments/department-of-revenue/about/contact-us/report-tax-fraud/ 301  /services/payments-assistance-taxes/taxes/report-tax-fraud/
 /departments/department-of-streets/resources/ 301  /departments/department-of-streets/
 /departments/department-of-streets/resources/residential-trash-and-recycling-rules/ 301  /departments/department-of-sanitation/about/rules-and-regulations/residential-trash-and-recycling-rules/
 /departments/department-of-streets/about/boards-and-committees/  301  /departments/department-of-streets/about/boards/
@@ -473,9 +475,7 @@
 /departments/office-of-innovation-and-technology/resources/news-articles/ 301  /departments/office-of-innovation-and-technology/
 /departments/office-of-innovation-and-technology/verizon-franchise-agreement-feedback-form/  301  /departments/office-of-innovation-and-technology/
 /departments/office-of-innovation-management/         301  /departments/office-of-innovation-and-technology/public-technology-and-innovation-team/
-/departments/office-of-lgbt-affairs/                  301  /departments/office-of-lgbtq-affairs/
-/departments/office-of-lgbt-affairs/resources-for-lgbt-individuals/  301  /departments/office-of-lgbtq-affairs/resources-for-lgbtq-individuals/
-/departments/office-of-lgbt-affairs/partnerships/     301  /departments/office-of-lgbtq-affairs/partnerships/
+/departments/office-of-lgbt-affairs/(.*)                  301  /departments/office-of-lgbtq-affairs/$1
 /departments/office-of-open-data-and-digital-transformation(.*)    301  /2019-10-14-the-evolution-of-design-tech-and-data-at-the-city/
 /departments/office-of-policy-and-strategic-initiatives-for-criminal-justice-and-public-safety/(.*) 301  /departments/office-of-public-safety/$1
 /departments/office-of-sustainability/about/energy-office/   301  /departments/office-of-sustainability/about/municipal-energy-office/
@@ -1081,7 +1081,7 @@
 /lead                                     301  /guides/lead-guide/
 /leadhealthyhomes                         301  /programs/lead-and-healthy-homes-program/
 /leaf-recycling                           301  /services/trash-recycling-city-upkeep/residential-trash-and-recycling/recycle-fall-leaves/
-/lgbt                                     301  /departments/office-of-lgbt-affairs/
+/lgbtq?                                   301  /departments/office-of-lgbtq-affairs/ 
 /lgbt-pride-month                         301  /spotlight/lgbt-pride-month
 /li-permit-tracker$                       301  /li-permit-tracker/
 /li-permit-tracker/(.*)                   200  http://li-permit-tracker.s3-website-us-east-1.amazonaws.com/$1
@@ -1722,6 +1722,7 @@
 /property-taxes/realty-transfer-tax       301  /services/property-lots-housing/property-taxes/realty-transfer-tax/
 /property/data$                           301  /property/data/
 /property/data/(.*)                       200  https://cityofphiladelphia.github.io/property-download/$1
+/ps-?360                                  301  https://philly-stat-360-phl.hub.arcgis.com/ 
 /pt$                                      301  /pt/
 /public-?safety                           301  /departments/office-of-public-safety/ 
 /publicart                                301  https://www.creativephl.org/public-art/
