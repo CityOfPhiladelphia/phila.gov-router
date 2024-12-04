@@ -1669,7 +1669,7 @@
 /programs/mayors-volunteer-corps/         301  /departments/office-of-community-empowerment-and-opportunity/
 /programs/mayors-volunteers/              301  /departments/office-of-community-empowerment-and-opportunity/
 /programs/mechanical-street-cleaning/phase-2-pilot/      301  /programs/mechanical-street-cleaning/cleaning-schedule/
-/programs/opioid-response-unit/(.*)       301  /programs/overdose-response-unit$1
+/programs/opioid-response-unit/(.*)       301  /programs/overdose-response-unit/$1
 /programs/philacan-pilot-program/         301  /programs/philacan-program/
 /programs/philacan-pilot-program/philacan-pilot-program-interest-form/  301    /programs/philacan-program/philacan-program-interest-form/
 /programs/philadelphia-city-scholarship-program/	301  https://www.ccp.edu/admission-aid/paying-college/scholarships/octavius-catto-scholarship
