@@ -330,7 +330,7 @@
 /complete-streets/woodland-42nd-va        301  /programs/complete-streets/projects/woodland-42nd-va/
 /consumer-protection                      301  /programs/philadelphia-consumer-financial-protection-task-force/
 /content-style-guide(.*)                  301   https://standards.phila.gov/docs/content/style-guide/common-usage.html
-/contractprepfee                          301  https://www.officialpayments.com/pc_entry_cobrand.jsp?productId=635840624434951202173815789925863516
+/contractprepfee                          301  https://idoxs.kubra.com/CityOfPhiladelphiaLaw/OneTimeValidate.aspx?FISC=0104400977108
 /contracts/data$                          301  /contracts/data/
 /contracts/data/(.*)                      200  https://cityofphiladelphia.github.io/contracts/$1
 /contracts/additional-opportunities       301  /departments/office-of-the-chief-administrative-officer/contract-opportunities-with-special-application-processes/
@@ -995,7 +995,7 @@
 /guncontrolpolicies                       301  /2018-03-20-gun-control-policies/
 /guncontrol                               301  /2018-03-20-gun-control-policies/
 /gwhs                                     301  /programs/community-schools/george-washington-high-school/
-/healthcenters                            301  /services/mental-physical-health/city-health-centers/
+/healthcenters?                           301  /services/mental-physical-health/city-health-centers/
 /healthreform                             301  /departments/department-of-public-health/
 /health/airmanagement/AirCodes.html       301  /departments/department-of-public-health/for-business-owners/air-and-dust/
 /health/AirManagement/AirPermittingForms.html  301  /departments/department-of-public-health/for-business-owners/air-and-dust/
@@ -1086,6 +1086,7 @@
 /li-permit-tracker$                       301  /li-permit-tracker/
 /li-permit-tracker/(.*)                   200  http://li-permit-tracker.s3-website-us-east-1.amazonaws.com/$1
 /li/appointment                           301  /services/permits-violations-licenses/make-an-appointment-to-visit-the-li-permit-and-license-center/
+/li/adjacent-property-construction-impacts 301  /departments/department-of-licenses-and-inspections/resources/construction-that-impacts-an-adjacent-property/#/ 
 /li/contractor-permit-lookup(.*)          301  https://li.phila.gov/contractor-permit-lookup$1
 /li/find-a-licensed-contractor(.*)        301  https://li.phila.gov/Contractor-Lookup$1
 /li/appeals-calendar(.*)                  301  https://li.phila.gov/appeals-calendar
@@ -1094,6 +1095,7 @@
 /li/eclipse-?help                         301  /departments/department-of-licenses-and-inspections/permits-and-certificates/help-using-eclipse/
 /li/eclipse                               301  https://eclipse.phila.gov/
 /li/eclipse-faqs                          301  /departments/department-of-licenses-and-inspections/eclipse-faqs/
+/li/excavation-permit                     301  /services/permits-violations-licenses/apply-for-a-permit/building-and-repair-permits/get-an-excavation-site-permit/ 
 /li/feedback-form                         301  https://form.jotform.com/202103727154041
 /li/fire-?protection-?certifications?     301  /departments/department-of-licenses-and-inspections/inspections/maintenance-certifications/fire-protection-certifications/
 /li/get-help                              301  https://form.jotform.com/202434637485055
@@ -1106,6 +1108,7 @@
 /li/pages/Zoning.aspx                     301  /departments/department-of-licenses-and-inspections/permits-and-certificates/zoning-permits-and-approvals/
 /li/pages/Appeals.aspx                    301  /departments/department-of-licenses-and-inspections/appeals/
 /li/pay-violation-fee                     301  /services/permits-violations-licenses/pay-a-fine-or-ticket/pay-an-li-violation-fee-or-fine/
+/li/plan-requirements                     301  /departments/department-of-licenses-and-inspections/resources/li-plan-requirements/#/  
 /li/project-meeting                       301  https://form.jotform.com/83434300042139
 /li/schedule-inspections                  301  /departments/department-of-licenses-and-inspections/inspections/construction-inspections/
 /li/zoning-appeals                        301  /zba/appeals-calendar/
@@ -1445,6 +1448,7 @@
 /programs-initiatives(.*)                 301  /programs/
 /programs/access-centers(.*)              301  /2021-02-22-the-citys-access-centers-are-still-enrolling-students/
 /programs/acute-communicable-disease-program/monkeypox/   301  /programs/monkeypox/
+/programs/benephilly/mobile-unit-request-form/ 301  /programs/benephilly/
 /programs/blockchain-for-city-government  301  /departments/office-of-innovation-and-technology/
 /programs/broad-germantown-and-erie-bge/frequently-asked-questions/ 301  /programs/broad-germantown-and-erie-bge/
 /programs/building-energy-performance-program/  301  /programs/building-energy-programs/building-energy-performance-program/
@@ -1665,6 +1669,7 @@
 /programs/mayors-volunteer-corps/         301  /departments/office-of-community-empowerment-and-opportunity/
 /programs/mayors-volunteers/              301  /departments/office-of-community-empowerment-and-opportunity/
 /programs/mechanical-street-cleaning/phase-2-pilot/      301  /programs/mechanical-street-cleaning/cleaning-schedule/
+/programs/opioid-response-unit/(.*)       301  /programs/overdose-response-unit/$1
 /programs/philacan-pilot-program/         301  /programs/philacan-program/
 /programs/philacan-pilot-program/philacan-pilot-program-interest-form/  301    /programs/philacan-program/philacan-program-interest-form/
 /programs/philadelphia-city-scholarship-program/	301  https://www.ccp.edu/admission-aid/paying-college/scholarships/octavius-catto-scholarship
@@ -1752,7 +1757,7 @@
 /ready                                    301  /departments/oem/
 /readyemployee                            301  https://member.everbridge.net/892807736722946/login
 /ReadyNPO                                 301  https://veoci.com/veoci/p/dashboard/ztvz85x3vq
-/real-estate-relief                       301  /services/payments-assistance-taxes/taxes/property-and-real-estate-taxes/get-real-estate-tax-relief/
+/real-?estate-?relief                     301  /services/payments-assistance-taxes/taxes/property-and-real-estate-taxes/get-real-estate-tax-relief/
 /reasonable-modification                  301  /services/diversity-inclusion-accessibility-immigration/submit-a-reasonable-modification-request/
 /rebuild/careers                          301  /programs/rebuild/training-programs/
 /records/PoliceFire/Police.html           301  /services/crime-law-justice/get-a-copy-of-a-public-safety-report/
@@ -2272,6 +2277,7 @@
 /services/payments-assistance-taxes/taxes/filing-and-paying-your-taxes/how-to-file-and-pay-city-taxes-2/ 301  /services/payments-assistance-taxes/taxes/filing-and-paying-your-taxes/how-to-file-and-pay-city-taxes/
 /services/payments-assistance-taxes/taxes/filing-and-paying-your-taxes/interest-penalties-and-fees-2/  301  /services/payments-assistance-taxes/taxes/filing-and-paying-your-taxes/interest-penalties-and-fees/
 /services/payments-assistance-taxes/taxes/filing-and-paying-your-taxes/make-an-appointment-to-pay-city-taxes-or-a-water-bill-in-person-2/ 301  /services/payments-assistance-taxes/taxes/filing-and-paying-your-taxes/make-an-appointment-to-pay-city-taxes-or-a-water-bill-in-person/
+/services/payments-assistance-taxes/taxes/filing-and-paying-your-taxes/make-an-appointment-to-pay-city-taxes-or-a-water-bill-in-person/ 301  /departments/department-of-revenue/about/contact-us/ 
 /services/payments-assistance-taxes/taxes/get-a-tax-account-2/	301  /services/payments-assistance-taxes/taxes/get-a-tax-account/
 /services/payments-assistance-taxes/taxes/get-tax-clearance-2/             301  /services/payments-assistance-taxes/taxes/get-tax-clearance/
 /services/payments-assistance-taxes/taxes/income-taxes/earnings-tax-employees-2/  301  /services/payments-assistance-taxes/taxes/income-taxes/earnings-tax-employees/
@@ -2317,6 +2323,7 @@
 /services/payments-assistance-taxes/water-bills/resolve-water-liens-judgments/ 301  /services/payments-assistance-taxes/water-bills/resolve-water-liens-and-judgments/
 /services/payments-assistance-taxes/water-bills/water-bill-affordability-assistance-programs-payment-plans/income-based-water-bill-assistance/  301  /services/payments-assistance-taxes/water-bills/water-bill-affordability-assistance-programs-payment-plans/apply-for-water-bill-customer-assistance/
 /services/payments-assistance-taxes/water-bills/water-bill-affordability-assistance-programs-payment-plans/senior-citizen-water-bill-discount/  301  /services/payments-assistance-taxes/water-bills/water-bill-affordability-assistance-programs-payment-plans/apply-for-the-senior-citizen-water-bill-discount/
+/services/payments-assistance-taxes/water-bills/make-an-appointment-for-city-taxes-or-a-water-bill-in-person/ 301  /departments/department-of-revenue/about/contact-us/ 
 /services/permits-violations-licenses/appeal-a-denied-residential-parking-spot-for-people-with-disabilities/    301     /services/permits-violations-licenses/dispute-or-appeal-a-decision/appeal-a-denied-residential-parking-spot-for-people-with-disabilities/
 /services/permits-violations-licenses/apply-for-a-permit/apply-for-a-media-permit/	301  /services/permits-violations-licenses/apply-for-a-permit/event-permits/events-in-a-city-park-field-or-rec-center/apply-for-a-media-permit/
 /services/permits-violations-licenses/apply-for-a-permit/apply-to-provide-food-or-drinks-at-a-special-event/ 301  /services/permits-violations-licenses/apply-for-a-permit/event-permits/large-scale-special-events/apply-to-provide-food-or-drinks-at-a-special-event/
@@ -2834,8 +2841,7 @@
 /unitycup                                 301  http://unitycup.phila.gov
 /universalprek(.*)                        301  /programs/quality-pre-k/
 /up-?and-?away                            301  /2022-03-25-keep-medicines-and-drugs-up-and-out-of-reach-of-children/ 
-/vaccine                                  301  /services/mental-physical-health/get-vaccinated/get-your-covid-19-vaccine/
-/vaccines                                 301  /services/mental-physical-health/get-vaccinated/get-your-covid-19-vaccine/
+/vaccines?                                301  /services/mental-physical-health/get-vaccinated/
 /vaccine-?interest                        301  /services/mental-physical-health/get-vaccinated/get-your-covid-19-vaccine/
 /vacancymap                               301  http://phl.maps.arcgis.com/apps/webappviewer/index.html?id=64ac160773d04952bc17ad895cc00680
 /vendorpayments/?$                        301  https://vendor-payments.phila.gov/login
