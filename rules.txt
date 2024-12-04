@@ -1757,7 +1757,7 @@
 /ready                                    301  /departments/oem/
 /readyemployee                            301  https://member.everbridge.net/892807736722946/login
 /ReadyNPO                                 301  https://veoci.com/veoci/p/dashboard/ztvz85x3vq
-/real-estate-relief                       301  /services/payments-assistance-taxes/taxes/property-and-real-estate-taxes/get-real-estate-tax-relief/
+/real-?estate-?relief                     301  /services/payments-assistance-taxes/taxes/property-and-real-estate-taxes/get-real-estate-tax-relief/
 /reasonable-modification                  301  /services/diversity-inclusion-accessibility-immigration/submit-a-reasonable-modification-request/
 /rebuild/careers                          301  /programs/rebuild/training-programs/
 /records/PoliceFire/Police.html           301  /services/crime-law-justice/get-a-copy-of-a-public-safety-report/
