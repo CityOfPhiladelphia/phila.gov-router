@@ -390,6 +390,7 @@
 /departments/department-of-licenses-and-inspections/licenses/rental-licenses/rental-license-faq/ 301  /departments/department-of-licenses-and-inspections/licenses/rental-and-property-licenses/rental-license-faq/
 /departments/department-of-licenses-and-inspections/permits-and-certificates/contractor-requirements/ 301  /departments/department-of-licenses-and-inspections/inspections/contractor-requirements/
 /departments/department-of-licenses-and-inspections/inspections/maintenance-inspections/	301  /departments/department-of-licenses-and-inspections/inspections/maintenance-certifications/structural-certifications/
+/departments/office-of-sustainability/about/municipal-energy-office/      301       /departments/office-of-sustainability/about/divisions/division-of-energy-and-climate-solutions 
 /departments/department-of-planning-and-development/about/leadership/ 301  /departments/department-of-planning-and-development/about/staff/
 /departments/department-of-planning-and-development/development-services(.*) 301  /departments/division-of-development-services/
 /departments/department-of-planning-and-development/job-opportunities/ 301  /departments/department-of-planning-and-development/about/jobs/
