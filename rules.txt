@@ -1850,6 +1850,7 @@
 /same-?day-?pay                           301  /2024-01-25-how-to-connect-with-a-same-day-work-pay-opportunity/     
 /sanitation                               301  /departments/department-of-sanitation/
 /safe-routes-philly                       301  /programs/safe-routes-philly/
+/scsep                                    301  /programs/senior-community-service-employment-program-scsep
 /school-income-tax                        301  /services/payments-assistance-taxes/taxes/income-taxes/school-income-tax/
 /school-board-nominations                 301  /departments/educational-nominating-panel/
 /senior-freeze                            301  /services/payments-assistance-taxes/payment-plans-and-assistance-programs/senior-citizen-programs/apply-for-the-low-income-senior-citizen-real-estate-tax-freeze/
