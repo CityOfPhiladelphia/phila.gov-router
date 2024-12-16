@@ -917,6 +917,7 @@
 /duelo                                    301  /programs/substance-use-prevention-and-harm-reduction/servicios-de-apoyo-para-el-duelo/
 /earnings-tax-employees                   301  /services/payments-assistance-taxes/taxes/income-taxes/earnings-tax-employees/
 /ecvc                                     301  /2021-04-08-getting-vaccinated-at-the-esperanza-community-vaccination-center-what-to-expect
+/edey                                     301  /programs/extended-day-extended-year
 /educational-nominating-panel             301  /departments/educational-nominating-panel/
 /education-nominating-panel               301  /departments/educational-nominating-panel/
 /education(.*)                            301  /departments/mayors-office-of-education/
@@ -1664,7 +1665,6 @@
 /programs/empowerment-zones/(.*)          301  /programs/neighborhood-funding-stream/ 
 /programs/energy-benchmarking/            301  /programs/building-energy-programs/building-energy-benchmarking-program
 /programs/family-empowerment-services-fes/ 301  /programs/family-empowerment-programs/
-/edey                                      301   /programs/extended-day-extended-year
 /programs/healthy-start/	                301  /services/mental-physical-health/get-health-care-and-support/family-and-childrens-health-care/get-prenatal-care/
 /programs/immigrant-workers-academy-iwa/	301  /departments/office-of-immigrant-affairs/
 /programs/integrity-works/faq/            301  /departments/office-of-the-chief-integrity-officer/frequently-asked-questions/
