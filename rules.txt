@@ -489,10 +489,8 @@
 /departments/office-of-sustainability/about/energy-office/energy-projects/ 301  /departments/office-of-sustainability/about/municipal-energy-office/capital-improvements/
 /departments/office-of-sustainability/about/energy-office/procurement-analytics/   301  /departments/office-of-sustainability/about/municipal-energy-office/procurement-analytics/
 /departments/office-of-sustainability/about/food-policy-advisory-council/ 301  /departments/office-of-sustainability/about/commissions-and-councils/
-/departments/office-of-sustainability/about/municipal-energy-office/building-compliance/    301     /departments/office-of-sustainability/about/divisions/division-of-energy-and-climate-solutions/building-compliance/ 
-/departments/office-of-sustainability/about/municipal-energy-office/capital-improvements/   301     /departments/office-of-sustainability/about/divisions/division-of-energy-and-climate-solutions/capital-improvements/ 
-/departments/office-of-sustainability/about/municipal-energy-office/energy-conservation-programs/   301    /departments/office-of-sustainability/about/divisions/division-of-energy-and-climate-solutions/energy-conservation-programs/
-/departments/office-of-sustainability/about/municipal-energy-office/procurement-analytics/   301   /departments/office-of-sustainability/about/divisions/division-of-energy-and-climate-solutions/procurement-and-analytics/ 
+/departments/office-of-sustainability/about/municipal-energy-office/procurement-analytics/   301  /departments/office-of-sustainability/about/divisions/division-of-energy-and-climate-solutions/procurement-and-analytics/ 
+/departments/office-of-sustainability/about/municipal-energy-office/(.*)   301  /departments/office-of-sustainability/about/divisions/division-of-energy-and-climate-solutions/$1
 /departments/office-of-sustainability/about/what-we-do/	301  /departments/office-of-sustainability/
 /departments/office-of-sustainability/energy-office/ 301  /departments/office-of-sustainability/about/municipal-energy-office/
 /departments/office-of-sustainability/energy-office/energy-management-operations/	301  /departments/office-of-sustainability/about/municipal-energy-office/
