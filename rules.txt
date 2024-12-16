@@ -489,6 +489,8 @@
 /departments/office-of-sustainability/about/energy-office/energy-projects/ 301  /departments/office-of-sustainability/about/municipal-energy-office/capital-improvements/
 /departments/office-of-sustainability/about/energy-office/procurement-analytics/   301  /departments/office-of-sustainability/about/municipal-energy-office/procurement-analytics/
 /departments/office-of-sustainability/about/food-policy-advisory-council/ 301  /departments/office-of-sustainability/about/commissions-and-councils/
+/departments/office-of-sustainability/about/municipal-energy-office/procurement-analytics/   301  /departments/office-of-sustainability/about/divisions/division-of-energy-and-climate-solutions/procurement-and-analytics/ 
+/departments/office-of-sustainability/about/municipal-energy-office/(.*)   301  /departments/office-of-sustainability/about/divisions/division-of-energy-and-climate-solutions/$1
 /departments/office-of-sustainability/about/what-we-do/	301  /departments/office-of-sustainability/
 /departments/office-of-sustainability/energy-office/ 301  /departments/office-of-sustainability/about/municipal-energy-office/
 /departments/office-of-sustainability/energy-office/energy-management-operations/	301  /departments/office-of-sustainability/about/municipal-energy-office/
@@ -914,6 +916,7 @@
 /duelo                                    301  /programs/substance-use-prevention-and-harm-reduction/servicios-de-apoyo-para-el-duelo/
 /earnings-tax-employees                   301  /services/payments-assistance-taxes/taxes/income-taxes/earnings-tax-employees/
 /ecvc                                     301  /2021-04-08-getting-vaccinated-at-the-esperanza-community-vaccination-center-what-to-expect
+/edey                                     301  /programs/extended-day-extended-year
 /educational-nominating-panel             301  /departments/educational-nominating-panel/
 /education-nominating-panel               301  /departments/educational-nominating-panel/
 /education(.*)                            301  /departments/mayors-office-of-education/
@@ -1727,7 +1730,7 @@
 /property-taxes/realty-transfer-tax       301  /services/property-lots-housing/property-taxes/realty-transfer-tax/
 /property/data$                           301  /property/data/
 /property/data/(.*)                       200  https://cityofphiladelphia.github.io/property-download/$1
-/ps-?360                                  301  https://philly-stat-360-phl.hub.arcgis.com/ 
+/ps-?360                                  301  https://philly-stat-360.phila.gov/
 /pt$                                      301  /pt/
 /public-?safety                           301  /departments/office-of-public-safety/ 
 /publicart                                301  https://www.creativephl.org/public-art/
