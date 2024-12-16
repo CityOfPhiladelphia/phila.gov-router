@@ -490,6 +490,8 @@
 /departments/office-of-sustainability/about/energy-office/energy-projects/ 301  /departments/office-of-sustainability/about/municipal-energy-office/capital-improvements/
 /departments/office-of-sustainability/about/energy-office/procurement-analytics/   301  /departments/office-of-sustainability/about/municipal-energy-office/procurement-analytics/
 /departments/office-of-sustainability/about/food-policy-advisory-council/ 301  /departments/office-of-sustainability/about/commissions-and-councils/
+/departments/office-of-sustainability/about/municipal-energy-office/procurement-analytics/   301  /departments/office-of-sustainability/about/divisions/division-of-energy-and-climate-solutions/procurement-and-analytics/ 
+/departments/office-of-sustainability/about/municipal-energy-office/(.*)   301  /departments/office-of-sustainability/about/divisions/division-of-energy-and-climate-solutions/$1
 /departments/office-of-sustainability/about/what-we-do/	301  /departments/office-of-sustainability/
 /departments/office-of-sustainability/energy-office/ 301  /departments/office-of-sustainability/about/municipal-energy-office/
 /departments/office-of-sustainability/energy-office/energy-management-operations/	301  /departments/office-of-sustainability/about/municipal-energy-office/
@@ -1662,6 +1664,7 @@
 /programs/empowerment-zones/(.*)          301  /programs/neighborhood-funding-stream/ 
 /programs/energy-benchmarking/            301  /programs/building-energy-programs/building-energy-benchmarking-program
 /programs/family-empowerment-services-fes/ 301  /programs/family-empowerment-programs/
+/edey                                      301   /programs/extended-day-extended-year
 /programs/healthy-start/	                301  /services/mental-physical-health/get-health-care-and-support/family-and-childrens-health-care/get-prenatal-care/
 /programs/immigrant-workers-academy-iwa/	301  /departments/office-of-immigrant-affairs/
 /programs/integrity-works/faq/            301  /departments/office-of-the-chief-integrity-officer/frequently-asked-questions/
@@ -1728,7 +1731,7 @@
 /property-taxes/realty-transfer-tax       301  /services/property-lots-housing/property-taxes/realty-transfer-tax/
 /property/data$                           301  /property/data/
 /property/data/(.*)                       200  https://cityofphiladelphia.github.io/property-download/$1
-/ps-?360                                  301  https://philly-stat-360-phl.hub.arcgis.com/ 
+/ps-?360                                  301  https://philly-stat-360.phila.gov/
 /pt$                                      301  /pt/
 /public-?safety                           301  /departments/office-of-public-safety/ 
 /publicart                                301  https://www.creativephl.org/public-art/
