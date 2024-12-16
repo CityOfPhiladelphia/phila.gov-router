@@ -1665,6 +1665,7 @@
 /programs/empowerment-zones/(.*)          301  /programs/neighborhood-funding-stream/ 
 /programs/energy-benchmarking/            301  /programs/building-energy-programs/building-energy-benchmarking-program
 /programs/family-empowerment-services-fes/ 301  /programs/family-empowerment-programs/
+/edey                                      301   https://www.phila.gov/programs/extended-day-extended-year
 /programs/healthy-start/	                301  /services/mental-physical-health/get-health-care-and-support/family-and-childrens-health-care/get-prenatal-care/
 /programs/immigrant-workers-academy-iwa/	301  /departments/office-of-immigrant-affairs/
 /programs/integrity-works/faq/            301  /departments/office-of-the-chief-integrity-officer/frequently-asked-questions/
@@ -1731,7 +1732,7 @@
 /property-taxes/realty-transfer-tax       301  /services/property-lots-housing/property-taxes/realty-transfer-tax/
 /property/data$                           301  /property/data/
 /property/data/(.*)                       200  https://cityofphiladelphia.github.io/property-download/$1
-/ps-?360                                  301  https://philly-stat-360-phl.hub.arcgis.com/ 
+/ps-?360                                  301  https://philly-stat-360.phila.gov/
 /pt$                                      301  /pt/
 /public-?safety                           301  /departments/office-of-public-safety/ 
 /publicart                                301  https://www.creativephl.org/public-art/
