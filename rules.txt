@@ -1818,7 +1818,7 @@
 /revenue/contact-us                       301  /departments/department-of-revenue/about/contact-us/
 /revenue/eft-ach                          301  /services/payments-assistance-taxes/taxes/filing-and-paying-your-taxes/
 /revenue/eitc                             301  /documents/earned-income-tax-credit-eitc-employer-notice/
-/revenue/income-refund                    301  https://tax-services.phila.gov/_/
+/revenue/income-refund                    301  /documents/income-based-wage-tax-refund-petition/
 /revenue/installment-plan                 301  /services/payments-assistance-taxes/payment-plans-and-assistance-programs/income-based-programs-for-residents/set-up-real-estate-tax-installment-plan/
 /revenue/job-creation-tax-credit          301  /services/payments-assistance-taxes/taxes/tax-credits/business-tax-credits/job-creation-tax-credit/
 /revenue/jumpstart                        301  /services/payments-assistance-taxes/taxes/tax-credits/business-tax-credits/jump-start-philly/
