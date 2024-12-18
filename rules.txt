@@ -747,6 +747,7 @@
 /documents/employer-requested-2020-wage-tax-refund-template/ 301  /services/payments-assistance-taxes/taxes/refunds/request-a-wage-tax-refund/
 /documents/employer-requested-2021-wage-tax-refund-template/ 301  /departments/department-of-revenue/forms-documents/tax-forms-and-instructions/#/
 /documents/empowerment-zone-funding-applications/  301  /programs/neighborhood-funding-stream/
+/documents/energy-compliance-materials/   301   /departments/department-of-licenses-and-inspections/resources/energy-code-compliance-materials/#/ 
 /documents/eo-and-explanation-of-prohibition-on-non-essential-businesses/ 301  /programs/coronavirus-disease-2019-covid-19/guidance/covid-19-emergency-orders/#/
 /documents/eplan-training-webinar-slides/	301  /departments/department-of-licenses-and-inspections/eclipse-faqs/
 /documents/equity-and-opportunity-for-all-moving-philadelphia-forward/ 301  /documents/mayor-kenneys-second-term-report/
