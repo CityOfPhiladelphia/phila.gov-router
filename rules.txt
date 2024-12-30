@@ -972,6 +972,7 @@
 /fosteringphilly                          301  /services/birth-marriage-life-events/birth-adoption-and-parenting/become-a-foster-parent/
 /foster-?grandparents                     301  /programs/foster-grandparents/
 /fr$                                      301  /fr/ 
+/free-?tax-?help                          301  /services/payments-assistance-taxes/payment-plans-and-assistance-programs/income-based-programs-for-residents/find-free-tax-preparation-assistance-for-qualifying-taxpayers/
 /fsedmonds                                301  /programs/community-schools/f-s-edmonds-elementary-school/
 /FY20-budget                              301  /2019-03-07-mayor-kenneys-fy20-budget-prioritizes-education-inclusion-and-justice/
 /gethealthyphilly                         301  /programs/get-healthy-philly/
