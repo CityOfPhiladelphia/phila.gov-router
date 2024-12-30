@@ -1659,7 +1659,7 @@
 /programs/coronavirus-disease-2019-covid-19/vaccines/frequently-asked-questions/	301  /programs/coronavirus-disease-2019-covid-19/faq/#vaccines
 /programs/coronavirus-disease-2019-covid-19/vaccines/vaccine-distribution/   301  /programs/coronavirus-disease-2019-covid-19/vaccines/vaccine-data/
 /programs/covid-19-recovery-office        301  /departments/covid-19-recovery-office/
-/justice-debt-relief                      301  /programs/criminal-and-juvenile-justice-debt-relief-program/    
+/justice-?debt-?relief                    301  /programs/criminal-and-juvenile-justice-debt-relief-program/    
 /programs/e3-power-centers/               301  /departments/office-of-children-and-families/
 /programs/e3-services/                    301  /departments/office-of-children-and-families/
 /programs/education-and-childcare-services/(.*) 301  /programs/education-support-center/$1
