@@ -877,6 +877,7 @@
 /documents/rfp-to-operate-tenant-based-rapid-re-housing-opportunities/	301  /departments/office-of-the-chief-administrative-officer/contract-opportunities-with-special-application-processes/
 /documents/rfp-to-run-tenant-based-rapid-re-housing-for-households-without-children/	301  /departments/office-of-the-chief-administrative-officer/contract-opportunities-with-special-application-processes/
 /documents/rfp-to-run-tenant-based-rapid-re-housing-for-households-without-children/	301  /departments/office-of-homeless-services/
+/documents/right-of-way-improvement-standards/  301  /departments/department-of-streets/design-construction/standards-and-guidelines/#/?table=Philadelphia%20Streets%20Engineering%20Standards%20(PSES) 
 /documents/risk-of-foreclosure-notification-letter/ 301  /documents/warning-of-risk-of-tax-foreclosure/
 /documents/sexual-harassment-prevention-policy-and-executive-order/ 301  /departments/mayor/executive-orders/#/?table=%2520Mayoral%2520executive%2520orders%2520from%25201952%2520to%2520the%2520present&q=2-18:%20Sexual%20Harassment%20Prevention%20in%20City%20Government
 /documents/signs-permit-information-and-materials/	301  /services/permits-violations-licenses/apply-for-a-permit/zoning-permits/get-a-zoning-permit-for-signs/
@@ -1002,6 +1003,7 @@
 /gwhs                                     301  /programs/community-schools/george-washington-high-school/
 /healthcenters?                           301  /services/mental-physical-health/city-health-centers/
 /healthreform                             301  /departments/department-of-public-health/
+/health/ams                               301  /programs/air-management-services/ 
 /health/airmanagement/AirCodes.html       301  /departments/department-of-public-health/for-business-owners/air-and-dust/
 /health/AirManagement/AirPermittingForms.html  301  /departments/department-of-public-health/for-business-owners/air-and-dust/
 /health/airmanagement/AsbestosControl.html 301  /services/permits-violations-licenses/apply-for-a-permit/environmental-permits-and-approvals/dust-air-pollution-and-asbestos/apply-for-an-asbestos-project-permit/
@@ -2764,6 +2766,8 @@
 /sphs                                     301  /programs/community-schools/south-philadelphia-high-school/
 /spotlight                                301  /the-latest
 /spotlight/love-park                      301  /spotlight/summer-of-love/
+/spotlight/black-history-month-2022/      301  /
+/spotlight/black-history-month-2023/      301  /
 /spotlight/career-empowerment-fair/       301  /departments/office-of-the-chief-administrative-officer/office-of-talent-and-employee-success/
 /spotlight/city-of-philadelphia-holiday-celebrations/ 301  /spotlight/holiday-celebrations
 /spotlight/city-of-philadelphia-holiday-celebrations-2019/ 301  /spotlight/holiday-celebrations
@@ -2779,11 +2783,13 @@
 /spotlight/immigrant-heritage-month-2021  301  /immigrant-heritage-month
 /spotlight/immigrant-heritage-month-2022  301  /immigrant-heritage-month
 /spotlight/immigrant-heritage-month-2023  301  /immigrant-heritage-month
+/spotlight/philadelphia-celebrates-black-history-month/	301  /
 /spotlight/juneteenth-2021/               301  /
 /spotlight/lgbt-pride-month/              301  /departments/office-of-lgbt-affairs/
 /spotlight/philadelphia-celebrates-black-history-month/	301  /departments/philadelphia-parks-recreation/
 /spotlight/philadelphia-millennial-forum/ 301  /departments/mayors-office-of-youth-engagement/
 /spotlight/septa-for-all-augmenting-transit-with-augmented-reality/ 301  /departments/office-of-innovation-and-technology/
+/spotlight/spring-into-love-2020/         301  /departments/philadelphia-parks-recreation/
 /spotlight/welcoming-week-2018            301  /welcoming-week
 /spotlight/welcoming-week-2019            301  /welcoming-week
 /spotlight/welcoming-week-2020            301  /welcoming-week
