@@ -998,6 +998,7 @@
 /gwhs                                     301  /programs/community-schools/george-washington-high-school/
 /healthcenters?                           301  /services/mental-physical-health/city-health-centers/
 /healthreform                             301  /departments/department-of-public-health/
+/health/ams                               301  /programs/air-management-services/ 
 /health/airmanagement/AirCodes.html       301  /departments/department-of-public-health/for-business-owners/air-and-dust/
 /health/AirManagement/AirPermittingForms.html  301  /departments/department-of-public-health/for-business-owners/air-and-dust/
 /health/airmanagement/AsbestosControl.html 301  /services/permits-violations-licenses/apply-for-a-permit/environmental-permits-and-approvals/dust-air-pollution-and-asbestos/apply-for-an-asbestos-project-permit/
@@ -1449,7 +1450,6 @@
 /programs-initiatives(.*)                 301  /programs/
 /programs/access-centers(.*)              301  /2021-02-22-the-citys-access-centers-are-still-enrolling-students/
 /programs/acute-communicable-disease-program/monkeypox/   301  /programs/monkeypox/
-/programs/air-management-services/        301  /health/ams
 /programs/benephilly/mobile-unit-request-form/ 301  /programs/benephilly/
 /programs/blockchain-for-city-government  301  /departments/office-of-innovation-and-technology/
 /programs/broad-germantown-and-erie-bge/frequently-asked-questions/ 301  /programs/broad-germantown-and-erie-bge/
