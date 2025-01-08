@@ -874,6 +874,7 @@
 /documents/rfp-to-operate-tenant-based-rapid-re-housing-opportunities/	301  /departments/office-of-the-chief-administrative-officer/contract-opportunities-with-special-application-processes/
 /documents/rfp-to-run-tenant-based-rapid-re-housing-for-households-without-children/	301  /departments/office-of-the-chief-administrative-officer/contract-opportunities-with-special-application-processes/
 /documents/rfp-to-run-tenant-based-rapid-re-housing-for-households-without-children/	301  /departments/office-of-homeless-services/
+/documents/right-of-way-improvement-standards/  301  /departments/department-of-streets/design-construction/standards-and-guidelines/#/?table=Philadelphia%20Streets%20Engineering%20Standards%20(PSES) 
 /documents/risk-of-foreclosure-notification-letter/ 301  /documents/warning-of-risk-of-tax-foreclosure/
 /documents/sexual-harassment-prevention-policy-and-executive-order/ 301  /departments/mayor/executive-orders/#/?table=%2520Mayoral%2520executive%2520orders%2520from%25201952%2520to%2520the%2520present&q=2-18:%20Sexual%20Harassment%20Prevention%20in%20City%20Government
 /documents/signs-permit-information-and-materials/	301  /services/permits-violations-licenses/apply-for-a-permit/zoning-permits/get-a-zoning-permit-for-signs/
@@ -1448,6 +1449,7 @@
 /programs-initiatives(.*)                 301  /programs/
 /programs/access-centers(.*)              301  /2021-02-22-the-citys-access-centers-are-still-enrolling-students/
 /programs/acute-communicable-disease-program/monkeypox/   301  /programs/monkeypox/
+/programs/air-management-services/        301  /health/ams
 /programs/benephilly/mobile-unit-request-form/ 301  /programs/benephilly/
 /programs/blockchain-for-city-government  301  /departments/office-of-innovation-and-technology/
 /programs/broad-germantown-and-erie-bge/frequently-asked-questions/ 301  /programs/broad-germantown-and-erie-bge/
@@ -2758,6 +2760,8 @@
 /sphs                                     301  /programs/community-schools/south-philadelphia-high-school/
 /spotlight                                301  /the-latest
 /spotlight/love-park                      301  /spotlight/summer-of-love/
+/spotlight/black-history-month-2022/      301  /
+/spotlight/black-history-month-2023/      301  /
 /spotlight/city-of-philadelphia-holiday-celebrations/ 301  /spotlight/holiday-celebrations
 /spotlight/city-of-philadelphia-holiday-celebrations-2019/ 301  /spotlight/holiday-celebrations
 /spotlight/city-of-philadelphia-holiday-celebrations-2021/ 301  /spotlight/holiday-celebrations
@@ -2770,8 +2774,9 @@
 /spotlight/immigrant-heritage-month-2021  301  /immigrant-heritage-month
 /spotlight/immigrant-heritage-month-2022  301  /immigrant-heritage-month
 /spotlight/immigrant-heritage-month-2023  301  /immigrant-heritage-month
-/spotlight/philadelphia-celebrates-black-history-month/	301  /departments/philadelphia-parks-recreation/
+/spotlight/philadelphia-celebrates-black-history-month/	301  /
 /spotlight/septa-for-all-augmenting-transit-with-augmented-reality/ 301  /departments/office-of-innovation-and-technology/
+/spotlight/spring-into-love-2020/         301  /departments/philadelphia-parks-recreation/
 /spotlight/welcoming-week-2018            301  /welcoming-week
 /spotlight/welcoming-week-2019            301  /welcoming-week
 /spotlight/welcoming-week-2020            301  /welcoming-week
