@@ -489,6 +489,8 @@
 /departments/office-of-sustainability/about/energy-office/energy-projects/ 301  /departments/office-of-sustainability/about/municipal-energy-office/capital-improvements/
 /departments/office-of-sustainability/about/energy-office/procurement-analytics/   301  /departments/office-of-sustainability/about/municipal-energy-office/procurement-analytics/
 /departments/office-of-sustainability/about/food-policy-advisory-council/ 301  /departments/office-of-sustainability/about/commissions-and-councils/
+/departments/office-of-sustainability/about/municipal-energy-office/procurement-analytics/   301  /departments/office-of-sustainability/about/divisions/division-of-energy-and-climate-solutions/procurement-and-analytics/ 
+/departments/office-of-sustainability/about/municipal-energy-office/(.*)   301  /departments/office-of-sustainability/about/divisions/division-of-energy-and-climate-solutions/$1
 /departments/office-of-sustainability/about/what-we-do/	301  /departments/office-of-sustainability/
 /departments/office-of-sustainability/energy-office/ 301  /departments/office-of-sustainability/about/municipal-energy-office/
 /departments/office-of-sustainability/energy-office/energy-management-operations/	301  /departments/office-of-sustainability/about/municipal-energy-office/
@@ -745,6 +747,7 @@
 /documents/employer-requested-2020-wage-tax-refund-template/ 301  /services/payments-assistance-taxes/taxes/refunds/request-a-wage-tax-refund/
 /documents/employer-requested-2021-wage-tax-refund-template/ 301  /departments/department-of-revenue/forms-documents/tax-forms-and-instructions/#/
 /documents/empowerment-zone-funding-applications/  301  /programs/neighborhood-funding-stream/
+/documents/energy-compliance-materials/   301   /departments/department-of-licenses-and-inspections/resources/energy-code-compliance-materials/#/ 
 /documents/eo-and-explanation-of-prohibition-on-non-essential-businesses/ 301  /programs/coronavirus-disease-2019-covid-19/guidance/covid-19-emergency-orders/#/
 /documents/eplan-training-webinar-slides/	301  /departments/department-of-licenses-and-inspections/eclipse-faqs/
 /documents/equity-and-opportunity-for-all-moving-philadelphia-forward/ 301  /documents/mayor-kenneys-second-term-report/
@@ -915,6 +918,7 @@
 /duelo                                    301  /programs/substance-use-prevention-and-harm-reduction/servicios-de-apoyo-para-el-duelo/
 /earnings-tax-employees                   301  /services/payments-assistance-taxes/taxes/income-taxes/earnings-tax-employees/
 /ecvc                                     301  /2021-04-08-getting-vaccinated-at-the-esperanza-community-vaccination-center-what-to-expect
+/edey                                     301  /programs/extended-day-extended-year
 /educational-nominating-panel             301  /departments/educational-nominating-panel/
 /education-nominating-panel               301  /departments/educational-nominating-panel/
 /education(.*)                            301  /departments/mayors-office-of-education/
@@ -969,6 +973,7 @@
 /fosteringphilly                          301  /services/birth-marriage-life-events/birth-adoption-and-parenting/become-a-foster-parent/
 /foster-?grandparents                     301  /programs/foster-grandparents/
 /fr$                                      301  /fr/ 
+/free-?tax-?help                          301  /services/payments-assistance-taxes/payment-plans-and-assistance-programs/income-based-programs-for-residents/find-free-tax-preparation-assistance-for-qualifying-taxpayers/
 /fsedmonds                                301  /programs/community-schools/f-s-edmonds-elementary-school/
 /FY20-budget                              301  /2019-03-07-mayor-kenneys-fy20-budget-prioritizes-education-inclusion-and-justice/
 /gethealthyphilly                         301  /programs/get-healthy-philly/
@@ -1177,8 +1182,8 @@
 /media/20201118125433/Guidance-for-positive-test-1.pdf  301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
 /media/20211210131210/2021_CUA_Scorecard_print.pdf  301  /documents/cua-scorecards/
 /media/20230517102700/HCW-guidance-updated-_5.9.23-.pdf  301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/vaccine-and-masking-requirements-for-healthcare-workers/ 
-/media/20240104103841/Pensions-investment-policy-20231026.pdf   301  /media/20240516111338/Pensions-Investment-Policy-Statement.pdf
-/media/20240220161559/Pensions-IPS-202402.pdf 301  /media/20240516111338/Pensions-Investment-Policy-Statement.pdf
+/media/20240104103841/Pensions-investment-policy-20231026.pdf   301  /media/20240516111338/pensions-investment-policy-statement.pdf
+/media/20240220161559/Pensions-IPS-202402.pdf 301  /media/20240516111338/pensions-investment-policy-statement.pdf
 /media/20170209150802/CertifiedCopy16017601-1.pdf 301  https://codelibrary.amlegal.com/codes/philadelphia/latest/philadelphia_pa/0-0-0-300626
 /media/20190529113010/AHS-NPP.pdf	301  /documents/notice-of-privacy-practices/
 /media/20200423151504/EO-1-11-Nepotism.pdf	301  /departments/mayor/executive-orders/#/?table=%2520Mayoral%2520executive%2520orders%2520from%25201952%2520to%2520the%2520present&q=1-11:%20Prohibition%20Against%20Nepotism%20(2011)
@@ -1657,6 +1662,7 @@
 /programs/coronavirus-disease-2019-covid-19/vaccines/frequently-asked-questions/	301  /programs/coronavirus-disease-2019-covid-19/faq/#vaccines
 /programs/coronavirus-disease-2019-covid-19/vaccines/vaccine-distribution/   301  /programs/coronavirus-disease-2019-covid-19/vaccines/vaccine-data/
 /programs/covid-19-recovery-office        301  /departments/covid-19-recovery-office/
+/justice-?debt-?relief                    301  /programs/criminal-and-juvenile-justice-debt-relief-program/    
 /programs/e3-power-centers/               301  /departments/office-of-children-and-families/
 /programs/e3-services/                    301  /departments/office-of-children-and-families/
 /programs/education-and-childcare-services/(.*) 301  /programs/education-support-center/$1
@@ -1729,7 +1735,7 @@
 /property-taxes/realty-transfer-tax       301  /services/property-lots-housing/property-taxes/realty-transfer-tax/
 /property/data$                           301  /property/data/
 /property/data/(.*)                       200  https://cityofphiladelphia.github.io/property-download/$1
-/ps-?360                                  301  https://philly-stat-360-phl.hub.arcgis.com/ 
+/ps-?360                                  301  https://philly-stat-360.phila.gov/
 /pt$                                      301  /pt/
 /public-?safety                           301  /departments/office-of-public-safety/ 
 /publicart                                301  https://www.creativephl.org/public-art/
@@ -1820,7 +1826,7 @@
 /revenue/contact-us                       301  /departments/department-of-revenue/about/contact-us/
 /revenue/eft-ach                          301  /services/payments-assistance-taxes/taxes/filing-and-paying-your-taxes/
 /revenue/eitc                             301  /documents/earned-income-tax-credit-eitc-employer-notice/
-/revenue/income-refund                    301  https://tax-services.phila.gov/_/
+/revenue/income-refund                    301  /documents/income-based-wage-tax-refund-petition/
 /revenue/installment-plan                 301  /services/payments-assistance-taxes/payment-plans-and-assistance-programs/income-based-programs-for-residents/set-up-real-estate-tax-installment-plan/
 /revenue/job-creation-tax-credit          301  /services/payments-assistance-taxes/taxes/tax-credits/business-tax-credits/job-creation-tax-credit/
 /revenue/jumpstart                        301  /services/payments-assistance-taxes/taxes/tax-credits/business-tax-credits/jump-start-philly/
@@ -2762,19 +2768,26 @@
 /spotlight/love-park                      301  /spotlight/summer-of-love/
 /spotlight/black-history-month-2022/      301  /
 /spotlight/black-history-month-2023/      301  /
+/spotlight/career-empowerment-fair/       301  /departments/office-of-the-chief-administrative-officer/office-of-talent-and-employee-success/
 /spotlight/city-of-philadelphia-holiday-celebrations/ 301  /spotlight/holiday-celebrations
 /spotlight/city-of-philadelphia-holiday-celebrations-2019/ 301  /spotlight/holiday-celebrations
+/spotlight/city-of-philadelphia-holiday-celebrations-2020/  301  /holiday-celebrations
 /spotlight/city-of-philadelphia-holiday-celebrations-2021/ 301  /spotlight/holiday-celebrations
 /spotlight/city-of-philadelphia-holiday-celebrations-2022/ 301  /spotlight/holiday-celebrations
 /spotlight/city-of-philadelphia-holiday-celebrations-2023/ 301  /spotlight/holiday-celebrations
 /spotlight/christmas-village-in-love-park-2019/	301  /departments/philadelphia-parks-recreation/
 /spotlight/fall-in-love-2019/	            301  /departments/philadelphia-parks-recreation/
 /spotlight/fall-in-love-2021/	            301  /departments/philadelphia-parks-recreation/
+/spotlight/immigrant-business-week/?.*    301  /departments/department-of-commerce/
 /spotlight/immigrant-heritage-month       301  /immigrant-heritage-month
 /spotlight/immigrant-heritage-month-2021  301  /immigrant-heritage-month
 /spotlight/immigrant-heritage-month-2022  301  /immigrant-heritage-month
 /spotlight/immigrant-heritage-month-2023  301  /immigrant-heritage-month
 /spotlight/philadelphia-celebrates-black-history-month/	301  /
+/spotlight/juneteenth-2021/               301  /
+/spotlight/lgbt-pride-month/              301  /departments/office-of-lgbt-affairs/
+/spotlight/philadelphia-celebrates-black-history-month/	301  /departments/philadelphia-parks-recreation/
+/spotlight/philadelphia-millennial-forum/ 301  /departments/mayors-office-of-youth-engagement/
 /spotlight/septa-for-all-augmenting-transit-with-augmented-reality/ 301  /departments/office-of-innovation-and-technology/
 /spotlight/spring-into-love-2020/         301  /departments/philadelphia-parks-recreation/
 /spotlight/welcoming-week-2018            301  /welcoming-week
@@ -2782,6 +2795,7 @@
 /spotlight/welcoming-week-2020            301  /welcoming-week
 /spotlight/welcoming-week-2021            301  /welcoming-week
 /spotlight/welcoming-week-2022            301  /welcoming-week
+/spotlight/welcoming-week-2023            301  /welcoming-week
 /stormwater-planter                       301  https://water.phila.gov/gsi/tools/stormwater-planter/
 /stormwater-tools                         301  https://water.phila.gov/gsi/tools/
 /stormwater-tree                          301  https://water.phila.gov/gsi/tools/tree/
