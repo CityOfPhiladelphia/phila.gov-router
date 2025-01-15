@@ -2918,6 +2918,7 @@
 /wp-content/uploads/2018/12/Temporary-Certificate-of-Occupancy-Quick-Guide.pdf	301  /services/permits-violations-licenses/get-a-certificate/get-a-temporary-certificate-of-occupancy/
 /wp-content/uploads/2020/11/Quarantine-Visual-Aid-.pdf	301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
 /wright                                   301  /programs/community-schools/richard-r-wright-school/
+/year-one-report                          301  https://storymaps.arcgis.com/stories/a11853be23ca45e69a39b08c51f7cee8
 /youthprograms	                          301  /departments/office-of-children-and-families/
 /youthcommission/pages/default.aspx       301  /departments/office-of-youth-engagement/
 /youthengagement/youthcommission/Pages/default.aspx 301  /departments/office-of-youth-engagement/philadelphia-youth-commission/
