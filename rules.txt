@@ -2334,6 +2334,7 @@
 /services/payments-assistance-taxes/water-bills/water-bill-affordability-assistance-programs-payment-plans/senior-citizen-water-bill-discount/  301  /services/payments-assistance-taxes/water-bills/water-bill-affordability-assistance-programs-payment-plans/apply-for-the-senior-citizen-water-bill-discount/
 /services/payments-assistance-taxes/water-bills/make-an-appointment-for-city-taxes-or-a-water-bill-in-person/ 301  /departments/department-of-revenue/about/contact-us/ 
 /services/permits-violations-licenses/appeal-a-denied-residential-parking-spot-for-people-with-disabilities/    301     /services/permits-violations-licenses/dispute-or-appeal-a-decision/appeal-a-denied-residential-parking-spot-for-people-with-disabilities/
+/services/permits-violations-licenses/apply-for-a-permit/air-management-equipment-permits/  301  /services/permits-violations-licenses/apply-for-a-permit/factories/
 /services/permits-violations-licenses/apply-for-a-permit/apply-for-a-media-permit/	301  /services/permits-violations-licenses/apply-for-a-permit/event-permits/events-in-a-city-park-field-or-rec-center/apply-for-a-media-permit/
 /services/permits-violations-licenses/apply-for-a-permit/apply-to-provide-food-or-drinks-at-a-special-event/ 301  /services/permits-violations-licenses/apply-for-a-permit/event-permits/large-scale-special-events/apply-to-provide-food-or-drinks-at-a-special-event/
 /services/permits-violations-licenses/apply-for-a-permit/building-and-repair-permits/get-a-fire-suppression-systems-permit/ 301  /services/permits-violations-licenses/apply-for-a-permit/building-and-repair-permits/get-a-fire-suppression-permit/
@@ -2367,6 +2368,7 @@
 /services/permits-violations-licenses/apply-for-a-permit/building-and-repair/request-a-preliminary-review-of-construction-projects/ 301  /services/permits-violations-licenses/get-construction-approval-and-review/request-a-preliminary-review-of-construction-projects/
 /services/permits-violations-licenses/apply-for-a-permit/building-and-repair/submit-as-a-pa-home-improvement-contractor/ 301  /services/permits-violations-licenses/apply-for-a-permit/submit-as-a-pa-home-improvement-contractor-to-get-construction-permits/
 /services/permits-violations-licenses/apply-for-a-permit/environmental-permits-and-approvals/-2/  301  /services/permits-violations-licenses/apply-for-a-permit/environmental-permits-and-approvals/
+/services/permits-violations-licenses/apply-for-a-permit/environmental-permits-and-approvals/dust-and-asbestos-permits/  301  /services/permits-violations-licenses/apply-for-a-permit/environmental-permits-and-approvals/dust-air-pollution-and-asbestos/
 /services/permits-violations-licenses/apply-for-a-permit/event-permits/events-in-a-city-park-field-or-rec-center/get-a-friends-community-groups-event-permit/	301  /services/permits-violations-licenses/apply-for-a-permit/event-permits/events-in-a-city-park-field-or-rec-center/get-a-friends-and-community-group-event-permit/
 /services/permits-violations-licenses/apply-for-a-permit/event-permits/events-in-a-city-park-field-or-rec-center/get-a-wedding-ceremony-or-photo-permit/	301  /services/permits-violations-licenses/apply-for-a-permit/event-permits/events-in-a-city-park-field-or-rec-center/get-a-wedding-ceremony-or-wedding-photo-permit/
 /services/permits-violations-licenses/apply-for-a-permit/event-permits/use-a-philadelphia-parks-recreation-space/	301  /services/permits-violations-licenses/apply-for-a-permit/event-permits/events-in-a-city-park-field-or-rec-center/
@@ -2916,6 +2918,7 @@
 /wp-content/uploads/2018/12/Temporary-Certificate-of-Occupancy-Quick-Guide.pdf	301  /services/permits-violations-licenses/get-a-certificate/get-a-temporary-certificate-of-occupancy/
 /wp-content/uploads/2020/11/Quarantine-Visual-Aid-.pdf	301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
 /wright                                   301  /programs/community-schools/richard-r-wright-school/
+/year-one-report                          301  https://storymaps.arcgis.com/stories/a11853be23ca45e69a39b08c51f7cee8
 /youthprograms	                          301  /departments/office-of-children-and-families/
 /youthcommission/pages/default.aspx       301  /departments/office-of-youth-engagement/
 /youthengagement/youthcommission/Pages/default.aspx 301  /departments/office-of-youth-engagement/philadelphia-youth-commission/
