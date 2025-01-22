@@ -1049,7 +1049,7 @@
 /ig(.*)                                   301  /departments/office-of-the-inspector-general/
 /ima/                                     301  /departments/office-of-immigrant-affairs/
 /immigrant-business-week                  301  /spotlight/immigrant-business-week-2020/
-/immigrant-heritage-month                 301  /spotlight/immigrant-heritage-month-2024/
+/immigrant-?heritage-?month                 301  /spotlight/immigrant-heritage-month-2024/
 /inclusive-growth                         301  /2019-05-02-city-focuses-on-inclusion-and-equity-in-its-economic-growth-plan/
 /income-based-assistance-programs         301  /services/payments-assistance-taxes/payment-plans-and-assistance-programs/income-based-programs-for-residents/
 /income-based-assistance-programs/longtime-owner-occupants-program-loop 301  /services/payments-assistance-taxes/payment-plans-and-assistance-programs/income-based-programs-for-residents/apply-for-the-longtime-owner-occupants-program-loop/
@@ -2788,6 +2788,8 @@
 /spotlight/lgbt-pride-month/              301  /departments/office-of-lgbt-affairs/
 /spotlight/philadelphia-celebrates-black-history-month/	301  /departments/philadelphia-parks-recreation/
 /spotlight/philadelphia-millennial-forum/ 301  /departments/mayors-office-of-youth-engagement/
+/spotlight/philadelphia-minority-enterprise-development-med-?week/  301   /med-week
+/spotlight/philadelphia-minority-enterprise-development-week-2020/   301  /med-week
 /spotlight/septa-for-all-augmenting-transit-with-augmented-reality/ 301  /departments/office-of-innovation-and-technology/
 /spotlight/spring-into-love-2020/         301  /departments/philadelphia-parks-recreation/
 /spotlight/welcoming-week-2018            301  /welcoming-week
@@ -2902,7 +2904,7 @@
 /webster                                  301  /programs/community-schools/john-h-webster-school/
 /welcomingweek2016                        301  /posts/office-of-immigrant-affairs/2016-08-31-welcoming-week-2016/
 /welcomingweek2017                        301  /posts/office-of-immigrant-affairs/2017-08-31-welcoming-week-2017/
-/welcoming-week                           301  /spotlight/welcoming-week-2024/
+/welcoming-?week                           301  /spotlight/welcoming-week-2024/
 /wholesale-wastewater                     301  https://secure8.i-doxs.net/CityOfPhiladelphiaWRB/WastewaterValidate.aspx
 /wills                                    301  /departments/register-of-wills/
 /worker-protections                       301  /services/working-jobs/worker-protections/
