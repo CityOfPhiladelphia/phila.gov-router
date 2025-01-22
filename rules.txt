@@ -2792,7 +2792,7 @@
 /spotlight/philadelphia-minority-enterprise-development-med-week/  301   /med-week
 /spotlight/philadelphia-minority-enterprise-development-med-week-2021/  301  /med-week
 /spotlight/philadelphia-minority-enterprise-development-med-week-2022/  301  /med-week
-spotlight/philadelphia-minority-enterprise-development-med-week-2023/  301  /med-week
+/spotlight/philadelphia-minority-enterprise-development-med-week-2023/  301  /med-week
 /spotlight/philadelphia-minority-enterprise-development-week-2020/   301  /med-week
 /spotlight/septa-for-all-augmenting-transit-with-augmented-reality/ 301  /departments/office-of-innovation-and-technology/
 /spotlight/spring-into-love-2020/         301  /departments/philadelphia-parks-recreation/
