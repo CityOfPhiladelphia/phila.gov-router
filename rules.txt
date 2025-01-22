@@ -2938,4 +2938,6 @@
 /zipcheck                                 301  /services/water-gas-utilities/pay-or-dispute-a-water-bill/pay-a-water-bill/
 /zoning-summary-generator$                301  /zoning-summary-generator/
 /zoning-summary-generator/(.*)            200  http://dpd-zoning-summary-generator.s3-website-us-east-1.amazonaws.com/$1
+/zoning-summary-generator-dev$            301  /zoning-summary-generator/
+/zoning-summary-generator-dev/(.*)        200  http://dpd-zoning-summary-generator-dev.s3-website-us-east-1.amazonaws.com/$1
 /zh$                                      301  /zh/
