@@ -1136,7 +1136,7 @@
 /mayor-scheduling-page                    301  /departments/mayor/scheduling-request-form/
 /mayor/(.*)                               301  /departments/mayor/$1
 /mayor/faithbased                         301  /departments/faith-based-and-interfaith-affairs/
-/mayors-?business-roundtables              301  /departments/mayors-business-roundtables
+/mayors-?business-?roundtables            301  /departments/mayors-business-roundtables
 /mbec                                     301  /departments/office-of-economic-opportunity/
 /mcclure                                  301  /programs/community-schools/alexander-k-mcclure-school/
 /mcpd(.*)                                 301  /departments/mayors-office-for-people-with-disabilities/
