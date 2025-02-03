@@ -662,6 +662,7 @@
 /documents/2020-wage-tax-refunds/	        301  /services/payments-assistance-taxes/taxes/refunds/request-a-wage-tax-refund/
 /documents/2021-business-income-receipts-tax-birt-forms/ 301  /departments/department-of-revenue/forms-documents/tax-forms-and-instructions/#/
 /documents/2021-business-tax-return-for-trade-show-vendors/ 301  /departments/department-of-revenue/forms-documents/tax-forms-and-instructions/#/
+/documents/2021-covid-reentry-payment-program/  301  /departments/office-of-reentry-partnerships/
 /documents/2021-earnings-tax-forms/       301  /departments/department-of-revenue/forms-documents/tax-forms-and-instructions/#/
 /documents/2021-keystone-opportunity-zone-forms/ 301  /departments/department-of-revenue/forms-documents/tax-forms-and-instructions/#/
 /documents/2021-net-profits-tax-npt-forms/ 301  /departments/department-of-revenue/forms-documents/tax-forms-and-instructions/#/
@@ -674,6 +675,7 @@
 /documents/2022-streetery-information/	301  /services/streets-sidewalks-alleys/outdoor-dining/get-a-streetery-license/
 /documents/2022-wage-tax-forms/           301  /services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-type/wage-tax-employers/
 /documents/a-data-snapshot-of-philadelphias-progress-towards-ending-homelessness/	301  /departments/office-of-homeless-services/documents/publications/#/?table=Data%20snapshots
+/documents/absconder-review-program/  301  /departments/office-of-public-safety/
 /documents/accounts-write-off-panels/	301  /documents/account-review-panel-meeting-materials/
 /documents/affordable-housing-rfp-2019/   301  /documents/previous-dhcd-requests-for-proposals/
 /documents/agreement-with-afscme-district-council-33-workforce-vaccination-mandate/ 301  /documents/labor-union-agreements-workforce-vaccination-mandate/
@@ -784,6 +786,7 @@
 /documents/home-arp-draft-allocation-plan-archive/	301  /departments/office-of-homeless-services/documents/publications/#/home-arp-allocation-plan-(english-and-spanish)
 /documents/housing-is-important-flyer/	301  /documents/home-purchase-repair-and-tax-information/
 /documents/how-to-notify-your-covid-19-contacts/	301  /programs/coronavirus-disease-2019-covid-19/
+/documents/hurricane-ida-disaster-recovery-plans-and-other-resources/  301  /departments/office-of-the-director-of-finance/cdbg-dr-program/action-plan-and-related-documents/
 /documents/immigrant-workers-academy-handouts/	301  /departments/office-of-immigrant-affairs/
 /documents/information-for-businesses-interested-in-working-on-rebuild/ 301  /documents/rebuild-resources-for-businesses/
 /documents/integrity-works-newsletters/ 301  /departments/office-of-the-chief-integrity-officer/
