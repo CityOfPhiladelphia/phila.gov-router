@@ -792,6 +792,7 @@
 /documents/integrity-works-newsletters/ 301  /departments/office-of-the-chief-integrity-officer/
 /documents/investment-policy-of-the-board-of-pensions-and-retirement/	301  /departments/board-of-pensions-and-retirement/resources/
 /documents/li-city-building-closure-information/	301  /departments/department-of-licenses-and-inspections/
+/documents/li-plan-review-checklists/  301  /departments/department-of-licenses-and-inspections/resources/plan-review-checklists/#/ 
 /documents/love-park-sponsorship-instructions-and-form/	301  /departments/philadelphia-parks-recreation/get-involved/
 /documents/mayorkenneyfy2017budget/	301  /documents/budget-addresses-and-presentations-from-the-kenney-administration/
 /documents/mayors-volunteer-corps-zine/   301  /departments/office-of-community-empowerment-and-opportunity/
@@ -813,6 +814,7 @@
 /documents/od-stat-annual-report/         301  /documents/od-stat-fatality-review-team-documents/
 /documents/office-of-administrative-review-tax-refund-form/  301  /documents/refund-petition-form/
 /documents/office-of-workforce-development-owd-one-pagers/	301  /departments/department-of-commerce/documents-and-reports/
+/departments/office-of-transportation-and-infrastructure-systems/our-team/  301  /departments/office-of-transportation-and-infrastructure-systems
 /documents/ohscontractattachments/        301  /departments/office-of-homeless-services/documents/standards-policies-and-forms/
 /documents/oic-form                       301  /documents/offer-in-compromise/
 /documents/onephilly-claim-information-form/	301  /departments/office-of-the-director-of-finance/about/units/#onephilly
@@ -821,6 +823,7 @@
 /documents/opioid-prescribing-and-tapering-guidelines/	301  /documents/opioid-guidance-for-clinicians/
 /documents/overdose-prevention-sites/     301  /
 /documents/overdose-prevention-sites-fact-sheets/ 301  /
+/documents/pchr-annual-report-fy24/  301  /documents/philadelphia-commission-on-human-relations-annual-reports/ 
 /documents/permit-fee-schedule/	301  /documents/fees-for-li-permits-and-licenses/
 /documents/personal-care-guide-book/	    301  /documents/personal-care-home-emergency-planning-guide/
 /documents/philadelphia-activities-fund-grant-application/   301  /services/culture-recreation/apply-for-a-philadelphia-activities-fund-grant/
@@ -2047,6 +2050,7 @@
 /services/education-learning/early-childhood-education/	301  /services/education-learning/find-child-care-and-early-childhood-education/
 /services/education-learning/find-affordable-childcare/	301  /services/education-learning/find-child-care-and-early-childhood-education/
 /services/ethics-transparency/ask-the-chief-integrity-officer-a-question/ 301  /departments/office-of-the-chief-integrity-officer/
+/services/ethics-transparency/nominate-someone-for-the-joan-markman-award-for-integrity/  301  /departments/office-of-the-inspector-general/
 /services/get-a-rental-license/                                301  /services/permits-violations-licenses/get-a-license/business-licenses/rental-and-property/get-a-rental-license/
 /services/mental-physical-health/air-quality/                  301  /services/mental-physical-health/environmental-health-hazards/air-quality/
 /services/mental-physical-health/code-blue/                    301  /services/safety-emergency-preparedness/extreme-weather/code-blue/
