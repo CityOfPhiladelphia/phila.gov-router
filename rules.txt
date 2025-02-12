@@ -420,6 +420,7 @@
 /departments/managing-directors-office/clusters/ 301  /departments/managing-directors-office/divisions/
 /departments/mayor/press-videos.html	    301  /the-latest/archives/?templates=press_release&department=Mayor
 /departments/mayor/quality-pre-k          301  /programs/quality-pre-k/
+/departments/mayors-commission-on-aging/partners-and-providers/  301  /departments/mayors-commission-on-aging/
 /departments/mayors-office-for-people-with-disabilities/(.*) 301  /departments/office-for-people-with-disabilities/$1
 /departments/mayors-office-for-people-with-disabilities/submit-your-comments-on-the-city-of-philadelphias-ada-transition-plan/	301  /documents/city-of-philadelphia-ada-transition-plan/
 /departments/mayors-office-of-civic-engagement-and-volunteer-service/ 301  /departments/office-of-community-empowerment-and-opportunity/
@@ -772,6 +773,7 @@
 /documents/food-matters-project-documents/ 301  /programs/zero-waste-initiatives/food-waste-reduction/
 /documents/fpac-annual-reports/	301  /documents/food-policy-advisory-council-annual-reports/
 /documents/free-health-screenings/	301  /2023-10-30-get-a-free-health-screening-at-a-health-department-resource-hub/
+/documents/future-contracting-opportunities-public-works/  301  /documents/future-contracting-opportunities/
 /documents/general-assistance-instructions-and-forms/	301  /services/payments-assistance-taxes/financial-services-for-residents/get-free-help-applying-for-public-benefits/
 /documents/greenworks-initiatives-update-2017/	301  /documents/greenworks-initiatives-update/
 /documents/greenworks-on-the-ground-what-communities-can-do/ 301  /documents/greenworks-on-the-ground/
