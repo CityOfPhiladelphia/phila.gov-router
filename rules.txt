@@ -988,8 +988,7 @@
 /foster-?grandparents                     301  /programs/foster-grandparents/
 /fr$                                      301  /fr/ 
 /free-?tax-?help                          301  /services/payments-assistance-taxes/payment-plans-and-assistance-programs/income-based-programs-for-residents/find-free-tax-preparation-assistance-for-qualifying-taxpayers/
-/frontdoor                                301  https://housing-front-door.phila.gov/
-/front-door                               301  https://housing-front-door.phila.gov/
+/front-?door                              301  https://housing-front-door.phila.gov/
 /fsedmonds                                301  /programs/community-schools/f-s-edmonds-elementary-school/
 /FY20-budget                              301  /2019-03-07-mayor-kenneys-fy20-budget-prioritizes-education-inclusion-and-justice/
 /gethealthyphilly                         301  /programs/get-healthy-philly/
