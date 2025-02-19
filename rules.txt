@@ -656,8 +656,10 @@
 /documents/2020-business-tax-return-for-trade-show-vendors/ 301  /departments/department-of-revenue/forms-documents/tax-forms-and-instructions/#/
 /documents/2020-earnings-tax-forms/       301  /departments/department-of-revenue/forms-documents/tax-forms-and-instructions/#/
 /documents/2020-keystone-opportunity-zone-forms/ 301  /departments/department-of-revenue/forms-documents/tax-forms-and-instructions/#/
+/documents/2020-general-election-mail-in-ballot-guide/  301  https://vote.phila.gov/
 /documents/2020-monthly-tax-analysis/     301  /departments/department-of-revenue/reports/
 /documents/2020-net-profits-tax-npt-forms/ 301  /departments/department-of-revenue/forms-documents/tax-forms-and-instructions/#/
+/documents/2020-primary-election-voter-guides/  301  https://vote.phila.gov/
 /documents/2020-school-income-tax-forms/  301  /departments/department-of-revenue/forms-documents/tax-forms-and-instructions/#/
 /documents/2020-wage-tax-forms/           301  /departments/department-of-revenue/forms-documents/tax-forms-and-instructions/#/
 /documents/2020-wage-tax-refunds/	        301  /services/payments-assistance-taxes/taxes/refunds/request-a-wage-tax-refund/
@@ -725,6 +727,7 @@
 /documents/covid-19-reminders-letter-to-contractors/ 301  /departments/department-of-licenses-and-inspections/
 /documents/covid-19-resource-translations  301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
 /documents/covid-19-vaccine-distribution-plan-overview/	301  /programs/coronavirus-disease-2019-covid-19/faq/#vaccines
+/documents/data-and-statistics-report/  301   /departments/mayors-commission-on-aging/
 /documents/deferred-retirement-option-plan-drop-application/	301  /documents/pension-deferred-retirement-option-plan-drop-application/
 /documents/deferred-retirement-option-plan-drop-application/	301  /documents/pension-deferred-retirement-option-plan-drop-application/
 /documents/department-of-commerce-job-openings/	301  /jobs/#/
@@ -771,6 +774,7 @@
 /documents/fire-emergency-medical-support-ems-report/	301  /services/crime-law-justice/get-a-copy-of-a-public-safety-report/
 /documents/food-access-and-benephilly-postcard/ 301  /documents/food-access-postcard/
 /documents/food-matters-project-documents/ 301  /programs/zero-waste-initiatives/food-waste-reduction/
+/documents/food-resource-guide/   301  /departments/mayors-commission-on-aging/
 /documents/fpac-annual-reports/	301  /documents/food-policy-advisory-council-annual-reports/
 /documents/free-health-screenings/	301  /2023-10-30-get-a-free-health-screening-at-a-health-department-resource-hub/
 /documents/future-contracting-opportunities-public-works/  301  /documents/future-contracting-opportunities/
@@ -796,6 +800,7 @@
 /documents/li-city-building-closure-information/	301  /departments/department-of-licenses-and-inspections/
 /documents/li-plan-review-checklists/  301  /departments/department-of-licenses-and-inspections/resources/plan-review-checklists/#/ 
 /documents/love-park-sponsorship-instructions-and-form/	301  /departments/philadelphia-parks-recreation/get-involved/
+/documents/mail-in-ballot-guide-postcard/  301  https://vote.phila.gov/
 /documents/mayorkenneyfy2017budget/	301  /documents/budget-addresses-and-presentations-from-the-kenney-administration/
 /documents/mayors-volunteer-corps-zine/   301  /departments/office-of-community-empowerment-and-opportunity/
 /documents/mayors-volunteer-zine/         301  /departments/office-of-community-empowerment-and-opportunity/
@@ -902,6 +907,7 @@
 /documents/title-v-compliance-policy-and-complaint-form/	301  /documents/title-vi-compliance-policy-and-complaint-form/
 /documents/tobacco-laws-and-regulations/	301  /documents/clean-indoor-air-laws/
 /documents/transition-report/	301  /departments/mayor/
+/documents/transportation-guide/   301  /departments/mayors-commission-on-aging/
 /documents/treasurers-office-final-report/  301  /documents/reconciliation-task-force-archives/
 /documents/tuberculosis-surveillance-reports/	301  https://hip.phila.gov/data-reports-statistics/tuberculosis/
 /documents/unintentional-drug-overdose-fatalities-in-philadelphia-2021/	301  /documents/unintentional-drug-overdose-fatalities-in-philadelphia/
@@ -982,6 +988,7 @@
 /foster-?grandparents                     301  /programs/foster-grandparents/
 /fr$                                      301  /fr/ 
 /free-?tax-?help                          301  /services/payments-assistance-taxes/payment-plans-and-assistance-programs/income-based-programs-for-residents/find-free-tax-preparation-assistance-for-qualifying-taxpayers/
+/front-?door                              301  https://housing-front-door.phila.gov/
 /fsedmonds                                301  /programs/community-schools/f-s-edmonds-elementary-school/
 /FY20-budget                              301  /2019-03-07-mayor-kenneys-fy20-budget-prioritizes-education-inclusion-and-justice/
 /gethealthyphilly                         301  /programs/get-healthy-philly/
@@ -1551,6 +1558,7 @@
 /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/orientacion-en-escuelas-y-educacion-en-la-primera-infancia/	301	/programs/coronavirus-disease-2019-covid-19/
 /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/orientacion-para-el-transporte-de-pacientes-de-casos-del-covid19/	301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/?language=spanish
 /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/outdoor-performance-and-event-guidance/	301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
+/programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/outdoor-races-and-runs-guidance/  301  /programs/coronavirus-disease-2019-covid-19/
 /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/outpatient-health-care-facility-guidance/	301	/programs/coronavirus-disease-2019-covid-19/
 /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/parade-guidance/	301  /programs/coronavirus-disease-2019-covid-19/
 /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/personal-services-guidance-salons-barbers-spas-etc/	301	/programs/coronavirus-disease-2019-covid-19/
@@ -2891,7 +2899,7 @@
 /visitors                                 301  https://www.visitphilly.com/
 /volunteer                                301  /departments/office-of-community-empowerment-and-opportunity/
 /vote                                     301  https://vote.phila.gov/
-/vote-by-mail                             301  /2020-09-08-general-election-mail-in-ballot-guide-for-philadelphia-voters/
+/vote-by-mail                             301  https://vote.phila.gov/
 /voting(.*)                               301  https://vote.phila.gov/ballot-drop-off/
 /vi$                                      301  /vi/
 /wage-?theft                              301  /services/working-jobs/worker-protections/wage-protections/report-wage-theft/
