@@ -176,6 +176,7 @@
 /2024-02-18-2022-philly-spring-cleanup-celebrating-15-years-of-community-cleaning-partnerships/	301  /programs/philly-spring-cleanup/
 /2024-04-02-request-for-proposals-with-the-office-of-children-and-families/	301  /2022-02-17-request-for-proposals-with-the-office-of-children-and-families/
 /2024-07-13-h                             301  /2024-07-13-health-department-declares-heat-health-emergency-effective-monday-july-15-2024-ending-wednesday-july-17-2024/
+/2024-07-19-risk-of-bird-flu-h5n1-infection-in-philadelphia-remains-low/  301  /2025-02-21-the-current-state-of-bird-flu-what-you-need-to-know/
 /311/(.*)                                 301  /departments/philly311/
 /311/report-an-issue                      301  https://iframe.publicstuff.com/#?client_id=242
 /abandoned-car                            301  /services/streets-sidewalks-alleys/report-a-problem-on-a-city-street-sidewalk-or-alley/report-an-abandoned-vehicle/ 
