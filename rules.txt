@@ -162,6 +162,11 @@
 /2022-10-18-city-of-philadelphia-shares-evaluation-of-community-crisis-intervention-program/ 301  /documents/community-crisis-intervention-program-evaluation/
 /2022-11-17-christmas-village-returns-to-love-park-for-its-15th-season/	301  /2022-11-17-16-reasons-to-visit-christmas-village-in-love-park/
 /2022-11-23-explore-philadelphia-parks-and-recs-wonderland-with-these-fun-winter-activities/	301  /2022-11-23-explore-philadelphias-wonderlands-with-these-fun-winter-activities/
+/2022-07-19-probate-deferment-initiative-psas-the-smith-family/	301  /departments/register-of-wills/
+/2022-07-18-iniciativa-de-aplazamiento-testamentario-anuncios-de-servicio-publico-la-familia-garcia/	301  /departments/register-of-wills/
+/2022-07-05-probate-deferment-initiative-psas-the-garcia-family/	301  /departments/register-of-wills/
+/2022-06-28-probate-deferment-initiative-psas-the-jones-family/	301  /departments/register-of-wills/
+/2021-02-26-how-to-get-a-marriage-license-in-philadelphia/	301  /services/birth-marriage-life-events/marriage-and-divorce/get-a-marriage-license/
 /2023-02-06-it-just-got-a-little-simpler-for-homeowners-and-small-business-owners-to-navigate-the-permit-process/	301  /2023-02-06-what-you-need-to-know-about-the-permit-navigator-pilot/
 /2023-02-08-celebrating-economic-opportunities-at-the-2023-mayoral-luncheon/	301  /2023-02-08-shares-economic-opportunities-at-greater-philadelphia-chamber-of-commerce-mayoral-luncheon/
 /2023-03-08-learn-about-the-chinatown-stitch-a-project-to-reconnect-philadelphia-to-vine-street/	301  /2023-03-08-learn-about-the-chinatown-stitch/
@@ -802,6 +807,7 @@
 /documents/li-city-building-closure-information/	301  /departments/department-of-licenses-and-inspections/
 /documents/li-plan-review-checklists/  301  /departments/department-of-licenses-and-inspections/resources/plan-review-checklists/#/ 
 /documents/love-park-sponsorship-instructions-and-form/	301  /departments/philadelphia-parks-recreation/get-involved/
+/documents/luzerne-street-american-st-to-m-st-traffic-safety-project/ 301 /documents/luzerne-american-m/
 /documents/mail-in-ballot-guide-postcard/  301  https://vote.phila.gov/
 /documents/mayorkenneyfy2017budget/	301  /documents/budget-addresses-and-presentations-from-the-kenney-administration/
 /documents/mayors-volunteer-corps-zine/   301  /departments/office-of-community-empowerment-and-opportunity/
