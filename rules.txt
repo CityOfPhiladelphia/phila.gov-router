@@ -904,6 +904,7 @@
 /documents/signs-permit-information-and-materials/	301  /services/permits-violations-licenses/apply-for-a-permit/zoning-permits/get-a-zoning-permit-for-signs/
 /documents/solar-pv-system-installation-permits-and-documents/	301  /services/permits-violations-licenses/apply-for-a-permit/building-and-repair-permits/get-a-permit-to-install-solar-panels/
 /documents/special-event-rapid-test-kit-distribution-requests/ 301  /documents/covid-19-test-kit-distribution-program/
+/documents/special-inspections-information/  301  /departments/department-of-licenses-and-inspections/resources/special-inspections-information/#/     
 /documents/summary-of-the-consolidated-cash-reconciliation/  301  /documents/reconciliation-task-force-archives/
 /documents/tax-and-water-bill-relief-for-unpaid-federal-workers/	301  /services/payments-assistance-taxes/taxes/
 /documents/tax-appeal-petition-form/      301  /departments/tax-review-board/tax-review-board-forms-and-instructions/
