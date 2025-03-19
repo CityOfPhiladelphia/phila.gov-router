@@ -548,6 +548,7 @@
 /dhcd/neighborhood-resources(.*)          301  /departments/division-of-housing-and-community-development/neighborhood-resources/
 /dhcd/?(.*)                               301  /departments/division-of-housing-and-community-development/
 /dhcd/housing-counseling/                 301  /departments/division-of-housing-and-community-development/neighborhood-resources/housing-counseling/
+/dhcd/legal-?notices                      301  /departments/division-of-housing-and-community-development/about/legal-notices/
 /dhs/about                                301  /departments/department-of-human-services/about-us/
 /dhs/qpi                                  301  /programs/quality-parenting-initiative-qpi/
 /dhs(.*)                                  301  /departments/department-of-human-services/
@@ -986,6 +987,7 @@
 /FIRE/pdfs/notice_privacypractices.pdf	  301  /documents/philadelphia-fire-department-privacy-policy/
 /fire/recruit                             301  /services/working-jobs/city-jobs-and-internships/join-the-fire-department/
 /fire/?.*                                 301  /departments/philadelphia-fire-department/
+/fiscal-?notes                            301  /departments/mayor/fiscal-notes/#/
 /fleet(.*)                                301  /departments/department-of-fleet-services/
 /flood-management                         301  /programs/flood-management-program/
 /flu-?shot                                301  /services/mental-physical-health/get-vaccinated/get-your-annual-flu-shot/
@@ -1221,6 +1223,7 @@
 /media/2015/07/Property-Owners-and-Managers-Toolkit-Evaculation-Plan-OEM.pdf	301  /departments/oem/ready-or-not/how-to-get-ready/prepare-for-an-emergency/know-whether-to-stay-or-go/
 /media/20180806114511/Parking-meter-laws.pdf	301  https://codelibrary.amlegal.com/codes/philadelphia/latest/philadelphia_pa/0-0-0-285487
 /media/20221018201649/Philadelphia-Streetery-License-Restaurant-Owners-Guide-Version-1.0.pdf 301  /documents/philadelphia-streetery-license-guide-outdoor-dining-program/
+/media/20221208093546/IE-Calendar-12.221.pdf  301  /programs/coronavirus-disease-2019-covid-19/faq/
 /mpox                                     301  /programs/monkeypox
 /mocs                                     301  /departments/office-of-community-empowerment-and-opportunity/
 /mod                                      301  /departments/mayors-office-for-people-with-disabilities/
@@ -1391,6 +1394,7 @@
 /plastic-bag-ban                          301  /programs/plastic-bag-ban/
 /play-it-safe-PHL                         301  /programs/playitsafephl/
 /playitsafePHL                            301  /programs/playitsafephl/
+/pmbc                                     301  /programs/philadelphia-more-beautiful-committee/ 
 /police                                   301  https://www.phillypolice.com/
 /policeovertime                           301  https://tax-services.phila.gov/_/
 /police-?reports?                         301  /services/crime-law-justice/get-a-copy-of-a-public-safety-report/ 
@@ -2871,6 +2875,7 @@
 /the-latest/archive/(.*)                  301  /the-latest/archives/$1
 /tibform                                  301  /services/business-self-employment/bidding-on-a-city-contract/file-transparency-in-business-act-disclosure-forms/
 /tilden                                   301  /programs/community-schools/tilden-middle-school/
+/tire-?round-?up                          301  /programs/tire-round-up-program/ 
 /tobacco-products-tax                     301  /services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-type/tobacco-and-tobacco-related-products-tax/
 /topics(.*)                               301  /service-directory/
 /tos/(.*)                                 301  /terms-of-use/
