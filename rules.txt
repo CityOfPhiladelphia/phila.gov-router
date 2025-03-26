@@ -657,6 +657,7 @@
 /documents/2019-business-tax-return-for-trade-show-vendors/ 301  /departments/department-of-revenue/forms-documents/tax-forms-and-instructions/#/
 /documents/2019-earnings-tax-forms/       301  /departments/department-of-revenue/forms-documents/tax-forms-and-instructions/#/
 /documents/2019-keystone-opportunity-zone-forms/ 301  /departments/department-of-revenue/forms-documents/tax-forms-and-instructions/#/
+/documents/2019-municipal-greenhouse-gas-inventory/  301  /documents/philadelphia-greenhouse-gas-inventory/
 /documents/2019-net-profits-tax-npt-forms/ 301  /departments/department-of-revenue/forms-documents/tax-forms-and-instructions/#/
 /documents/2019-school-income-tax-forms/  301  /departments/department-of-revenue/forms-documents/tax-forms-and-instructions/#/
 /documents/2019-wage-tax-forms/           301  /departments/department-of-revenue/forms-documents/tax-forms-and-instructions/#/
@@ -736,6 +737,7 @@
 /documents/covid-19-resource-translations  301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
 /documents/covid-19-vaccine-distribution-plan-overview/	301  /programs/coronavirus-disease-2019-covid-19/faq/#vaccines
 /documents/data-and-statistics-report/  301   /departments/mayors-commission-on-aging/
+/documents/deed-and-mortgage-fraud-resources/   301  /documents/deed-and-mortgage-fraud-report-form/ 
 /documents/deferred-retirement-option-plan-drop-application/	301  /documents/pension-deferred-retirement-option-plan-drop-application/
 /documents/deferred-retirement-option-plan-drop-application/	301  /documents/pension-deferred-retirement-option-plan-drop-application/
 /documents/department-of-commerce-job-openings/	301  /jobs/#/
@@ -848,6 +850,7 @@
 /documents/philadelphia-city-council-real-estate-tax-credit-program/  301  /services/property-lots-housing/property-taxes/get-real-estate-tax-relief/
 /documents/philadelphia-city-planning-commission-meeting-agendas-and-minutes/ 301  /departments/philadelphia-city-planning-commission/public-meetings/
 /documents/philadelphia-city-scholarship-program-application/ 301  /2018-12-06-high-school-seniors-apply-for-the-philadelphia-city-scholarship/
+/documents/philadelphia-document-recording-requirements/   301  /services/property-lots-housing/record-a-deed-or-other-document/ 
 /documents/philadelphia-fire-department-face-sheet-fy-2018/	301  /documents/philadelphia-fire-department-fact-sheet/
 /documents/philadelphia-fire-department-fact-sheet-fy-2019/	301  /documents/philadelphia-fire-department-fact-sheet/
 /documents/philadelphia-investor-conference-2022/	301  /programs/investor-information/
@@ -1208,6 +1211,7 @@
 /media/20201112100019/Guidance-for-Holidays.pdf  301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
 /media/20201118125433/Guidance-for-positive-test-1.pdf  301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
 /media/20211210131210/2021_CUA_Scorecard_print.pdf  301  /documents/cua-scorecards/
+/media/20210427111717/department-of-records-document-recording-requirements-20201208.pdf  301  /services/property-lots-housing/record-a-deed-or-other-document/ 
 /media/20230517102700/HCW-guidance-updated-_5.9.23-.pdf  301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/vaccine-and-masking-requirements-for-healthcare-workers/ 
 /media/20240104103841/Pensions-investment-policy-20231026.pdf   301  /media/20240516111338/pensions-investment-policy-statement.pdf
 /media/20240220161559/Pensions-IPS-202402.pdf 301  /media/20240516111338/pensions-investment-policy-statement.pdf
@@ -1699,6 +1703,7 @@
 /programs/empowerment-zones/(.*)          301  /programs/neighborhood-funding-stream/ 
 /programs/energy-benchmarking/            301  /programs/building-energy-programs/building-energy-benchmarking-program
 /programs/family-empowerment-services-fes/ 301  /programs/family-empowerment-programs/
+/programs/greenworks/                     301  /documents/greenworks-program-archives/
 /programs/healthy-start/	                301  /services/mental-physical-health/get-health-care-and-support/family-and-childrens-health-care/get-prenatal-care/
 /programs/immigrant-workers-academy-iwa/	301  /departments/office-of-immigrant-affairs/
 /programs/integrity-works/faq/            301  /departments/office-of-the-chief-integrity-officer/frequently-asked-questions/
@@ -1707,6 +1712,7 @@
 /programs/mayors-volunteer-corps/         301  /departments/office-of-community-empowerment-and-opportunity/
 /programs/mayors-volunteers/              301  /departments/office-of-community-empowerment-and-opportunity/
 /programs/mechanical-street-cleaning/phase-2-pilot/      301  /programs/mechanical-street-cleaning/cleaning-schedule/
+/programs/my-brothers-keeper-philly/      301  /departments/mayors-office-of-black-male-engagement/ 
 /programs/opioid-response-unit/(.*)       301  /programs/overdose-response-unit/$1
 /programs/philacan-pilot-program/         301  /programs/philacan-program/
 /programs/philacan-pilot-program/philacan-pilot-program-interest-form/  301    /programs/philacan-program/philacan-program-interest-form/
@@ -2876,6 +2882,7 @@
 /tibform                                  301  /services/business-self-employment/bidding-on-a-city-contract/file-transparency-in-business-act-disclosure-forms/
 /tilden                                   301  /programs/community-schools/tilden-middle-school/
 /tire-?round-?up                          301  /programs/tire-round-up-program/ 
+/title-?clearance                         301  /services/property-lots-housing/get-help-with-clearing-your-homes-title/
 /tobacco-products-tax                     301  /services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-type/tobacco-and-tobacco-related-products-tax/
 /topics(.*)                               301  /service-directory/
 /tos/(.*)                                 301  /terms-of-use/
