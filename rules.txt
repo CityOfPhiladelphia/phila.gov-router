@@ -546,9 +546,9 @@
 /departments/zoning-and-project-reviews/	301  /departments/department-of-planning-and-development/zoning-and-project-reviews/
 /development-services                     301  /departments/division-of-development-services/
 /dhcd/neighborhood-resources(.*)          301  /departments/division-of-housing-and-community-development/neighborhood-resources/
-/dhcd/?(.*)                               301  /departments/division-of-housing-and-community-development/
 /dhcd/housing-counseling/                 301  /departments/division-of-housing-and-community-development/neighborhood-resources/housing-counseling/
 /dhcd/legal-?notices                      301  /departments/division-of-housing-and-community-development/about/legal-notices/
+/dhcd/?(.*)                               301  /departments/division-of-housing-and-community-development/
 /dhs/about                                301  /departments/department-of-human-services/about-us/
 /dhs/qpi                                  301  /programs/quality-parenting-initiative-qpi/
 /dhs(.*)                                  301  /departments/department-of-human-services/
