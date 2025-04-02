@@ -782,6 +782,7 @@
 /documents/executive-order-9-17-whistleblower-protections/ 301  /documents/executive-order-9-17-whistleblower-protections-handout/
 /documents/executive-order-for-additional-safety-measures-fall-winter-2020-21/ 301  /programs/coronavirus-disease-2019-covid-19/guidance/covid-19-emergency-orders/
 /documents/face-masks-executive-order/	  301  /programs/coronavirus-disease-2019-covid-19/guidance/covid-19-emergency-orders/#/
+/documents/fee-schedules-department-of-records/  301  /departments/department-of-records/document-recording-and-service-fees/  
 /documents/fire-code-appeal-instructions/	301  /documents/fire-code-appeal-form/
 /documents/fire-department-reports/	301  /documents/philadelphia-fire-department-fact-sheet/
 /documents/fire-emergency-medical-support-ems-report/	301  /services/crime-law-justice/get-a-copy-of-a-public-safety-report/
@@ -2952,6 +2953,7 @@
 /welcomingweek2016                        301  /posts/office-of-immigrant-affairs/2016-08-31-welcoming-week-2016/
 /welcomingweek2017                        301  /posts/office-of-immigrant-affairs/2017-08-31-welcoming-week-2017/
 /welcoming-?week                           301  /spotlight/welcoming-week-2024/
+/wellness-?ecosystem                      301  /programs/wellness-ecosystem-initiative
 /wholesale-wastewater                     301  https://secure8.i-doxs.net/CityOfPhiladelphiaWRB/WastewaterValidate.aspx
 /wi-?fi$                                  301  /wifi/
 /wi-fi/(.*)                               301  /wifi/$1
