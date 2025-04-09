@@ -166,6 +166,7 @@
 /2022-07-18-iniciativa-de-aplazamiento-testamentario-anuncios-de-servicio-publico-la-familia-garcia/	301  /departments/register-of-wills/
 /2022-07-05-probate-deferment-initiative-psas-the-garcia-family/	301  /departments/register-of-wills/
 /2022-06-28-probate-deferment-initiative-psas-the-jones-family/	301  /departments/register-of-wills/
+/2022-hazard-mitigation-plan-executive-summary/  301  /departments/oem/programs/hazard-mitigation-plan/hazard-mitigation-plan-2022-executive-summary/
 /2021-02-26-how-to-get-a-marriage-license-in-philadelphia/	301  /services/birth-marriage-life-events/marriage-and-divorce/get-a-marriage-license/
 /2023-02-06-it-just-got-a-little-simpler-for-homeowners-and-small-business-owners-to-navigate-the-permit-process/	301  /2023-02-06-what-you-need-to-know-about-the-permit-navigator-pilot/
 /2023-02-08-celebrating-economic-opportunities-at-the-2023-mayoral-luncheon/	301  /2023-02-08-shares-economic-opportunities-at-greater-philadelphia-chamber-of-commerce-mayoral-luncheon/
@@ -314,7 +315,7 @@
 /commerce(.*)                             301  /departments/department-of-commerce/
 /commercial-activity-license              301  /services/permits-violations-licenses/get-a-license/business-licenses/activity/get-a-commercial-activity-license/
 /community-?schools                       301  /programs/community-schools/ 
-/complete-streets                         301  /programs/complete-streets/
+/complete-?streets                         301  /programs/complete-streets/
 /complete-streets/11th-master-diamond     301  /documents/11th-master-diamond/
 /complete-streets/57th-upland-wynnefield  301  /documents/57th-upland-wynnefield
 /complete-streets/aramingo-allegheny-wheatsheaf 301  /documents/aramingo-allegheny-wheatsheaf
@@ -1805,6 +1806,7 @@
 /ready                                    301  /departments/oem/
 /readyemployee                            301  https://member.everbridge.net/892807736722946/login
 /ReadyNPO                                 301  https://veoci.com/veoci/p/dashboard/ztvz85x3vq
+/readyphiladelphia-faqs/                  301  /departments/oem/programs/readyphiladelphia/frequently-asked-questions-about-readyphiladelphia-translations/
 /real-?estate-?relief                     301  /services/payments-assistance-taxes/taxes/property-and-real-estate-taxes/get-real-estate-tax-relief/
 /reasonable-modification                  301  /services/diversity-inclusion-accessibility-immigration/submit-a-reasonable-modification-request/
 /rebuild/careers                          301  /programs/rebuild/training-programs/
