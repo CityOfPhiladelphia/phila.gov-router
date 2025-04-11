@@ -1178,6 +1178,7 @@
 /mdo/(.*)                                 301  /departments/managing-directors-office/
 /mechanical-street-cleaning               301  /programs/mechanical-street-cleaning/
 /med-?week                                301  /spotlight/philadelphia-minority-enterprise-development-med-week-2024/
+/measles                                  301  /2025-03-24-whats-happening-with-measles-in-and-around-philadelphia/
 /media/20181204100431/Executive-Order-No.-4-94.pdf  301  /departments/mayor/executive-orders/#/?table=%2520Mayoral%2520executive%2520orders%2520from%25201952%2520to%2520the%2520present&q=04-94:%20Office%20of%20the%20Inspector%20General
 /media/20181204100427/Executive-Order-No.-2-94.pdf  301  /departments/mayor/executive-orders/#/?table=%2520Mayoral%2520executive%2520orders%2520from%25201952%2520to%2520the%2520present&q=02-94:%20Role%20and%20Responsibilities%20of%20the%20Integrity%20Office
 /media/20181204100423/Executive-Order-No.-2-89.pdf  301  /departments/mayor/executive-orders/#/?table=%2520Mayoral%2520executive%2520orders%2520from%25201952%2520to%2520the%2520present&q=2-89:%20Establishing%20Office%20of%20Inspector%20General/Amendment%20to%20Executive%20Order%20No.%2010-84%20(1989)
