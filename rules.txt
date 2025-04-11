@@ -1176,6 +1176,7 @@
 /mcpd(.*)                                 301  /departments/mayors-office-for-people-with-disabilities/
 /mdo                                      301  /departments/managing-directors-office/
 /mdo/(.*)                                 301  /departments/managing-directors-office/
+/measles                                  301  /2025-03-24-whats-happening-with-measles-in-and-around-philadelphia/
 /mechanical-street-cleaning               301  /programs/mechanical-street-cleaning/
 /med-?week                                301  /spotlight/philadelphia-minority-enterprise-development-med-week-2024/
 /media/20181204100431/Executive-Order-No.-4-94.pdf  301  /departments/mayor/executive-orders/#/?table=%2520Mayoral%2520executive%2520orders%2520from%25201952%2520to%2520the%2520present&q=04-94:%20Office%20of%20the%20Inspector%20General
