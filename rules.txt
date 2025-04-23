@@ -263,7 +263,7 @@
 /camps                                    301  /services/culture-recreation/activities-and-events/register-for-summer-camp/
 /candidate-?resources                     301  /departments/mayor/resources-for-2023-mayoral-candidates/
 /cao                                      301  /departments/office-of-the-chief-administrative-officer/
-/catalyst-?fund                           301  /2025-02-05-city-launches-the-philadelphia-small-business-catalyst-fund/
+/catalyst-?fund                           301  /programs/the-catalyst-fund/
 /ccme                                     301  /programs/city-college-for-municipal-employment-ccme
 /ccvc                                     301  /2021-03-02-getting-vaccinated-at-the-center-city-vaccination-center-what-you-need-to-know/
 /ceo/community-champions                  301  /2022-03-21-apply-now-or-nominate-someone-as-a-community-champion/
@@ -1394,6 +1394,7 @@
 /phl-tcb                                  301  /programs/phl-taking-care-of-business/
 /plan-develop                             301  /departments/department-of-planning-and-development/
 /plan-of-safe-care                        301  /services/birth-marriage-life-events/birth-adoption-and-parenting/coordinate-a-plan-of-safe-care/
+/phila2050                                301  /programs/phila2050-planning-together/
 /phils(.*)                                301  /departments/department-of-records/city-archives/
 /philly-?spring-?cleanup                  301  /programs/philly-spring-cleanup/
 /philly-?stat-?360                        301  /departments/office-of-philly-stat-360
@@ -2932,7 +2933,7 @@
 /vi$                                      301  /vi/
 /wage-?theft                              301  /services/working-jobs/worker-protections/wage-protections/report-wage-theft/
 /wage-tax-refund                          301  /services/payments-assistance-taxes/taxes/refunds/request-a-wage-tax-refund/
-/warningletter                            301  /documents/warning-of-risk-of-tax-foreclosure/
+/warning-?letter                          301  /documents/warning-of-risk-of-tax-foreclosure/
 /water-?grant                             301  /2022-05-06-how-to-get-help-with-past-due-water-bills/
 /water-?bill                              301  https://secure8.i-doxs.net/CityOfPhiladelphiaWRB/SignIn.aspx
 /water-bill-help                          301  /services/water-gas-utilities/pay-or-dispute-a-water-bill/water-bill-customer-assistance/
