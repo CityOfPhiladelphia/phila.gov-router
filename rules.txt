@@ -1076,6 +1076,7 @@
 /homeless-?services                       301  /departments/office-of-homeless-services/
 /homestead                                301  /services/property-lots-housing/get-real-estate-tax-relief/get-the-homestead-exemption/
 /homebuynow(.*)                           301  https://cedphilly.org/philadelphia-home-buy-now
+/HOME-?plan                               301  /2025-03-25-mayor-cherelle-l-parker-unveils-historic-2-billion-h-o-m-e-housing-plan-to-create-and-preserve-30000-homes/
 /hpv-vaccine                              301  /2024-07-23-protect-your-kids-for-a-lifetime-get-them-the-hpv-vaccine-now/
 /ht$                                      301  /ht/ 
 /humanrelations(.*)                       301  /departments/philadelphia-commission-on-human-relations/
@@ -1793,8 +1794,8 @@
 /publications/civil-service-regulations/8-applications/8-02-right-to-reject-an-application/8-022-rejection-of-application-because-of-examination-cancellation/#/	301  /publications/civil-service-regulations/
 /publications/civil-service-regulations/8-applications/8-02-right-to-reject-an-application/8-024-right-to-future-consideration/#/	301  /publications/civil-service-regulations/
 /publications-forms(.*)                   301  /documents/
-/public-?property	                        301  /departments/department-of-public-property/
-/public-?restroom(.*)                     301  /2022-08-16-updates-on-the-philadelphia-public-restroom-pilot/
+/public-?property	                      301  /departments/department-of-public-property/
+/public-?restroom(.*)                     301  /2024-10-16-philadelphias-public-restroom-pilot-the-philly-phlush/
 /quality-?jobs-?program                   301  /programs/quality-jobs-program/
 /quality-pre-k                            301  /programs/quality-pre-k/
 /qualityoflife                            301  /departments/community-life-improvement-program/
