@@ -2941,6 +2941,8 @@
 /water-payment-agreements                 301  /services/water-gas-utilities/pay-or-dispute-a-water-bill/income-based-water-bill-payment-agreements
 /water-pipe-meter-maintenance/customer-responsibilities 301  /services/water-gas-utilities/water-pipe-meter-maintenance/customer-responsibilities/
 /water-pipe-meter-maintenance/water-meters 301  /services/water-gas-utilities/water-pipe-meter-maintenance/water-meters/
+/water-?rate-?hearing                     301  /departments/water-sewer-storm-water-rate-board/meetings/#public-hearings
+/water-?rate-?meeting                     301  /departments/water-sewer-storm-water-rate-board/meetings/ 
 /water-shutoffs                           301  /services/water-gas-utilities/water-shutoffs/
 /water-shutoffs/reasons-for-water-shutoffs 301  /services/water-gas-utilities/water-shutoffs/reasons-for-water-shutoff/
 /water/wu/Documents/cccp-dws-TechList.pdf 301  https://water.phila.gov/pool/files/cccp-dws-TechList.pdf
