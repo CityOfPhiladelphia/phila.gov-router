@@ -1448,6 +1448,7 @@
 /posts/open-data-digital-transformation/2017-09-08-leveraging-open-data-to-educate-future-urban-planners/	301  /posts/citygeo/2017-09-08-leveraging-open-data-to-educate-future-urban-planners/
 /posts/open-data-digital-transformation/2017-09-12-using-open-data-to-make-models-of-building-plans/	301  /posts/citygeo/2017-09-12-using-open-data-to-make-models-of-building-plans/
 /potholes                                 301  /services/streets-sidewalks-alleys/report-a-problem-on-a-city-street-sidewalk-or-alley/report-a-pothole-or-other-street-damage/
+/power-?up-?tour                          301  /spotlight/power-up-tour/
 /ppedonation                              301  https://veoci.com/veoci/p/form/pauqjjhrzsw8
 /ppe-donation                             301  https://veoci.com/veoci/p/form/pauqjjhrzsw8
 /ppe-?bids                                301  https://veoci.com/veoci/p/form/8nzuw5ffjc3s#tab=entryForm
