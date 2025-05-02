@@ -1805,6 +1805,8 @@
 /rco                                      301  /programs/registered-community-organizations-rcos/
 /rconotification$                         301  /rconotification/
 /rconotification/(.*)                     200  https://du77h83q9ewhi.cloudfront.net/$1
+/rconotificationdev$                      301  /rconotificationdev/
+/rconotificationdev/(.*)                  200  https://dui903bhxcgt3.cloudfront.net/$1
 /rda                                      301  https://phdcphila.org/
 /re-notification-letter                   301  /documents/warning-of-risk-of-tax-foreclosure/
 /ready                                    301  /departments/oem/
