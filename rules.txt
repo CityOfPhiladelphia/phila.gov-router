@@ -1000,7 +1000,7 @@
 /flood-management                         301  /programs/flood-management-program/
 /flu-?shot                                301  /services/mental-physical-health/get-vaccinated/get-your-annual-flu-shot/
 /foodstandards                            301  /documents/city-of-philadelphia-nutrition-standards/
-/food-?waste                              301  /programs/zero-waste-initiatives/food-waste-reduction/
+/food-?waste                              301  /documents/zero-waste-initiatives-archives/ 
 /food$                                    301  /food/
 /food/(.*)                                200  http://phila-resource-finder-v2.s3-website-us-east-1.amazonaws.com/food/$1
 /fosteringphilly                          301  /services/birth-marriage-life-events/birth-adoption-and-parenting/become-a-foster-parent/
@@ -1767,6 +1767,7 @@
 /programs/workforce-development/          301  /departments/department-of-commerce/about-us/divisions/office-of-neighborhood-economic-development/
 /programs/workready-at-parks-rec          301  /programs/parks-rec-summer-youth-employment-program/
 /programs/zero-waste-initiatives/food-matters-project/ 301  /programs/zero-waste-initiatives/food-waste-reduction/
+/programs/zero-waste-initiatives/?.*      301  /documents/zero-waste-initiatives-archives/ 
 /property                                 301  https://property.phila.gov
 /property/aboutus(.*)                     301  /departments/department-of-public-property/
 /property/capital(.*)                     301  /departments/department-of-public-property/
@@ -2987,7 +2988,7 @@
 /zba/appeals-calendar(.*)                 301  https://li.phila.gov/zba-appeals-calendar
 /zba                                      301  /departments/zoning-board-of-adjustment/
 /zero-?fare                               301  /programs/zero-fare/
-/zero-?waste                              301  /programs/zero-waste-initiatives/
+/zero-?waste                              301  /documents/zero-waste-initiatives-archives/ 
 /zika(.*)                                 301  /departments/department-of-public-health/
 /zipcheck                                 301  /services/water-gas-utilities/pay-or-dispute-a-water-bill/pay-a-water-bill/
 /zoning-summary-generator$                301  /zoning-summary-generator/
