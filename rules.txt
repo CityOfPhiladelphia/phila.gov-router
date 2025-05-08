@@ -217,7 +217,9 @@
 /bank-on                                  301  /services/payments-assistance-taxes/financial-services-for-residents/open-a-safe-and-affordable-bank-account/
 /become-a-water-customer                  301  /services/water-gas-utilities/become-a-water-customer/
 /benchmarking                             301  /programs/building-energy-programs/building-energy-benchmarking-program
+/bestpractices/database/Pages/default.aspx(.*)  301 /
 /benephilly                               301  /programs/benephilly
+/deptaz/                                  301  /
 /better-?services-?phl                    301  /programs/better-services-phl
 /bge                                      301  /programs/broad-germantown-and-erie-bge/
 /bids                                     301  /departments/procurement-department/
@@ -226,6 +228,7 @@
 /bikeshare(.*)                            301  /services/cars-parking-transportation/suggest-a-location-for-an-indego-bike-station/
 /bil                                      301  /programs/bipartisan-infrastructure-law/
 /bluezone                                 301  https://phila.city/display/bluezone
+/bluezone/Pages/default.aspx              301  /
 /blockchain                               301  /departments/office-of-innovation-and-technology/
 /board-of-education                       301  /departments/educational-nominating-panel/
 /boards/index.html                        301  /departments/
@@ -1100,9 +1103,12 @@
 /income-taxes/earnings-tax-employees/	    301  /services/payments-assistance-taxes/taxes/income-taxes/earnings-tax-employees/
 /income-taxes/net-profits-tax             301  /services/business-self-employment/business-taxes/net-profits-tax/
 /income-taxes/overview                    301  /services/payments-assistance-taxes/income-taxes/
+/informationcenters/                      301  /
+/informationcenters/awards/pages/default.aspx  301  /
 /InformationCenters/boards/Pages/default.aspx  301  /departments/ 
+/InformationCenters/Pages/default.aspx    301  /
 /InformationCenters/Pages/Firearm.aspx    301  /documents/application-for-a-pennsylvania-license-to-carry-firearm/
-/informationcenters/pages/summerweatherinformation.aspx  301  /services/safety-emergency-preparedness/extreme-weather/heat-health-emergency/
+/informationcenters/pages/summerweatherinformation.aspx  301 /services/safety-emergency-preparedness/extreme-weather/heat-health-emergency/
 /informationcenters/pages/winterweatherinfo.aspx  301  /services/safety-emergency-preparedness/extreme-weather/
 /innovation-team                          301  /departments/office-of-innovation-and-technology/public-technology-and-innovation-team/
 /inspector                                301  /departments/office-of-the-inspector-general/
@@ -1853,6 +1859,7 @@
 /records/index.html                       301  /departments/department-of-records/
 /records/pdf/(.*)                         301  /departments/department-of-records/
 /records/pdfs/(.*)                        301  /departments/department-of-records/
+/records/PublicRecords/Outdoor_Advertising.html  301  /
 /records/recordsmanagement/(.*)           301  /departments/department-of-records/
 /records/survey/(.*)                      301  /departments/department-of-records/
 /recovery                                 301  /departments/covid-19-recovery-office/
