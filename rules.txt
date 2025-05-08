@@ -225,6 +225,7 @@
 /bids                                     301  /departments/procurement-department/
 /bidsonline                               301  https://www.phlcontracts.phila.gov/bso/
 /bikeshare/pages/default.aspx             301  /services/cars-parking-transportation/suggest-a-location-for-an-indego-bike-station/
+/bikeshare(.*)                            301  /services/cars-parking-transportation/suggest-a-location-for-an-indego-bike-station/
 /bil                                      301  /programs/bipartisan-infrastructure-law/
 /bluezone                                 301  https://phila.city/display/bluezone
 /bluezone/Pages/default.aspx              301  /
@@ -248,6 +249,7 @@
 /brt/propertyinformation/Pages/default.aspx 301  /services/property-lots-housing/find-property-information/
 /brt/aboutus/Pages/FAQ.aspx               301  /departments/board-of-revision-of-taxes/faq/
 /brt(.*)                                  301  /departments/board-of-revision-of-taxes/
+/buildingsafety(.*)                       301  /departments/department-of-licenses-and-inspections/
 /bumpout                                  301  https://water.phila.gov/gsi/tools/bumpout/
 /business                                 301  https://business.phila.gov
 /businesssupport                          301  /departments/department-of-commerce/for-businesses/
@@ -261,12 +263,13 @@
 /business-?vaccine                        301  /services/mental-physical-health/get-vaccinated/get-your-covid-19-vaccine/
 /c2l-?phl                                 301  /programs/career-connected-learning-phl-c2l-phl
 /cf-?dashboard                            301  https://experience.arcgis.com/experience/7444617509954375adc64e7355b98581/
+/cablefranchises(.*)                      301  /services/water-gas-utilities/submit-a-cable-tv-service-complaint/
 /calendar/sustainability/                 301  /the-latest/all-events/?category=Office%20of%20Sustainability
 /camp                                     301  /services/culture-recreation/activities-and-events/register-for-summer-camp/
 /camps                                    301  /services/culture-recreation/activities-and-events/register-for-summer-camp/
 /candidate-?resources                     301  /departments/mayor/resources-for-2023-mayoral-candidates/
 /cao                                      301  /departments/office-of-the-chief-administrative-officer/
-/catalyst-?fund                           301  /2025-02-05-city-launches-the-philadelphia-small-business-catalyst-fund/
+/catalyst-?fund                           301  /programs/the-catalyst-fund/
 /ccme                                     301  /programs/city-college-for-municipal-employment-ccme
 /ccvc                                     301  /2021-03-02-getting-vaccinated-at-the-center-city-vaccination-center-what-you-need-to-know/
 /ceo/community-champions                  301  /2022-03-21-apply-now-or-nominate-someone-as-a-community-champion/
@@ -340,6 +343,7 @@
 /complete-streets/west-chestnut-walnut    301  /programs/complete-streets/projects/chestnut-walnut-repaving-and-complete-street-safety-project/
 /complete-streets/woodland-42nd-va        301  /programs/complete-streets/projects/woodland-42nd-va/
 /consumer-protection                      301  /programs/philadelphia-consumer-financial-protection-task-force/
+/contact(.*)                              301  /departments
 /content-style-guide(.*)                  301   https://standards.phila.gov/docs/content/style-guide/common-usage.html
 /contractprepfee                          301  https://idoxs.kubra.com/CityOfPhiladelphiaLaw/OneTimeValidate.aspx?FISC=0104400977108
 /contracts/data$                          301  /contracts/data/
@@ -369,6 +373,7 @@
 /deed-fraud                               301  /services/property-lots-housing/get-help-with-deed-or-mortgage-fraud/
 /defender                                 301  https://phillydefenders.org/
 /dei                                      301  /departments/office-of-diversity-equity-and-inclusion/
+/departments.html(.*)                     301  /departments/
 /departmentofpublicproperty/pages/default.aspx 301  /departments/department-of-public-property/
 /departments/(.*)/about/all-events        301  /the-latest/all-events/
 /departments/(.*)/all-events              301  /the-latest/all-events/
@@ -959,6 +964,7 @@
 /education(.*)                            301  /departments/mayors-office-of-education/
 /educationnews                            301  /departments/office-of-children-and-families/newsletter-sign-up/
 /eeo-?complaint?                          301  /services/working-jobs/worker-protections/discrimination-and-harassment/file-a-sexual-harassment-complaint/
+/election2012/(.*)                        301  https://vote.phila.gov/
 /employee-screener$                       301  /employee-screener/
 /employee-screener/(.*)                   200  http://philagov-employee-screener.s3-website-us-east-1.amazonaws.com/employee-screener/prod/$1
 /energy-?data                             301  https://experience.arcgis.com/experience/52c8a3b10e8c465eab723f04dbcb2a4d/
@@ -978,6 +984,7 @@
 /evacuations(.*)                          301  /departments/oem/ready-or-not/how-to-get-ready/prepare-for-an-emergency/
 /executive_orders/?.*                     301  /departments/mayor/executive-orders/
 /executiveorders(.*)                      301  /departments/mayor/executive-orders/
+/experiencephila/(.*)                     301  /programs/mayors-internship-program/
 /fairchancephilly                         301  /2018-06-25-philadelphias-fair-chance-hiring-law-heres-what-you-should-know/
 /fairhousing                              301  /departments/fair-housing-commission/
 /fairhousingcommission(.*)                301  /departments/fair-housing-commission/
@@ -1003,7 +1010,7 @@
 /flood-management                         301  /programs/flood-management-program/
 /flu-?shot                                301  /services/mental-physical-health/get-vaccinated/get-your-annual-flu-shot/
 /foodstandards                            301  /documents/city-of-philadelphia-nutrition-standards/
-/food-?waste                              301  /programs/zero-waste-initiatives/food-waste-reduction/
+/food-?waste                              301  /documents/zero-waste-initiatives-archives/ 
 /food$                                    301  /food/
 /food/(.*)                                200  http://phila-resource-finder-v2.s3-website-us-east-1.amazonaws.com/food/$1
 /fosteringphilly                          301  /services/birth-marriage-life-events/birth-adoption-and-parenting/become-a-foster-parent/
@@ -1079,6 +1086,7 @@
 /homeless-?services                       301  /departments/office-of-homeless-services/
 /homestead                                301  /services/property-lots-housing/get-real-estate-tax-relief/get-the-homestead-exemption/
 /homebuynow(.*)                           301  https://cedphilly.org/philadelphia-home-buy-now
+/HOME-?plan                               301  /2025-03-25-mayor-cherelle-l-parker-unveils-historic-2-billion-h-o-m-e-housing-plan-to-create-and-preserve-30000-homes/
 /hpv-vaccine                              301  /2024-07-23-protect-your-kids-for-a-lifetime-get-them-the-hpv-vaccine-now/
 /ht$                                      301  /ht/ 
 /humanrelations(.*)                       301  /departments/philadelphia-commission-on-human-relations/
@@ -1403,6 +1411,7 @@
 /phl-tcb                                  301  /programs/phl-taking-care-of-business/
 /plan-develop                             301  /departments/department-of-planning-and-development/
 /plan-of-safe-care                        301  /services/birth-marriage-life-events/birth-adoption-and-parenting/coordinate-a-plan-of-safe-care/
+/phila2050                                301  /programs/phila2050-planning-together/
 /phils(.*)                                301  /departments/department-of-records/city-archives/
 /philly-?spring-?cleanup                  301  /programs/philly-spring-cleanup/
 /philly-?stat-?360                        301  /departments/office-of-philly-stat-360
@@ -1455,6 +1464,7 @@
 /posts/open-data-digital-transformation/2017-09-08-leveraging-open-data-to-educate-future-urban-planners/	301  /posts/citygeo/2017-09-08-leveraging-open-data-to-educate-future-urban-planners/
 /posts/open-data-digital-transformation/2017-09-12-using-open-data-to-make-models-of-building-plans/	301  /posts/citygeo/2017-09-12-using-open-data-to-make-models-of-building-plans/
 /potholes                                 301  /services/streets-sidewalks-alleys/report-a-problem-on-a-city-street-sidewalk-or-alley/report-a-pothole-or-other-street-damage/
+/power-?up-?tour                          301  /spotlight/power-up-tour/
 /ppedonation                              301  https://veoci.com/veoci/p/form/pauqjjhrzsw8
 /ppe-donation                             301  https://veoci.com/veoci/p/form/pauqjjhrzsw8
 /ppe-?bids                                301  https://veoci.com/veoci/p/form/8nzuw5ffjc3s#tab=entryForm
@@ -1773,6 +1783,7 @@
 /programs/workforce-development/          301  /departments/department-of-commerce/about-us/divisions/office-of-neighborhood-economic-development/
 /programs/workready-at-parks-rec          301  /programs/parks-rec-summer-youth-employment-program/
 /programs/zero-waste-initiatives/food-matters-project/ 301  /programs/zero-waste-initiatives/food-waste-reduction/
+/programs/zero-waste-initiatives/?.*      301  /documents/zero-waste-initiatives-archives/ 
 /property                                 301  https://property.phila.gov
 /property/aboutus(.*)                     301  /departments/department-of-public-property/
 /property/capital(.*)                     301  /departments/department-of-public-property/
@@ -1780,6 +1791,7 @@
 /property/facilities(.*)                  301  /departments/department-of-public-property/
 /property/Pages/default.aspx	            301  /departments/department-of-public-property/
 /property-assessments                     301  /services/property-lots-housing/
+/property-feedback/                       301  https://property.phila.gov/
 /property-tax-balance                     301  /services/property-lots-housing/property-taxes/look-up-your-property-tax-balance/
 /property-taxes                           301  /services/property-lots-housing/property-taxes/real-estate-tax/
 /property-taxes/real-estate-tax           301  /services/property-lots-housing/property-taxes/real-estate-tax/
@@ -1801,8 +1813,8 @@
 /publications/civil-service-regulations/8-applications/8-02-right-to-reject-an-application/8-022-rejection-of-application-because-of-examination-cancellation/#/	301  /publications/civil-service-regulations/
 /publications/civil-service-regulations/8-applications/8-02-right-to-reject-an-application/8-024-right-to-future-consideration/#/	301  /publications/civil-service-regulations/
 /publications-forms(.*)                   301  /documents/
-/public-?property	                        301  /departments/department-of-public-property/
-/public-?restroom(.*)                     301  /2022-08-16-updates-on-the-philadelphia-public-restroom-pilot/
+/public-?property	                      301  /departments/department-of-public-property/
+/public-?restroom(.*)                     301  /2024-10-16-philadelphias-public-restroom-pilot-the-philly-phlush/
 /quality-?jobs-?program                   301  /programs/quality-jobs-program/
 /quality-pre-k                            301  /programs/quality-pre-k/
 /qualityoflife                            301  /departments/community-life-improvement-program/
@@ -1811,6 +1823,8 @@
 /rco                                      301  /programs/registered-community-organizations-rcos/
 /rconotification$                         301  /rconotification/
 /rconotification/(.*)                     200  https://du77h83q9ewhi.cloudfront.net/$1
+/devrconotification$                      301  /devrconotification/
+/devrconotification/(.*)                  200  https://dui903bhxcgt3.cloudfront.net/$1
 /rda                                      301  https://phdcphila.org/
 /re-notification-letter                   301  /documents/warning-of-risk-of-tax-foreclosure/
 /ready                                    301  /departments/oem/
@@ -1820,6 +1834,7 @@
 /real-?estate-?relief                     301  /services/payments-assistance-taxes/taxes/property-and-real-estate-taxes/get-real-estate-tax-relief/
 /reasonable-modification                  301  /services/diversity-inclusion-accessibility-immigration/submit-a-reasonable-modification-request/
 /rebuild/careers                          301  /programs/rebuild/training-programs/
+/records/ContactUs.html                   301  /departments/department-of-records/
 /records/PoliceFire/Police.html           301  /services/crime-law-justice/get-a-copy-of-a-public-safety-report/
 /records/DocumentRecording/DocumentRecording.html 301  /services/property-lots-housing/record-a-deed-or-other-document/
 /records//DocumentRecording/DocumentRecording.html 301  /services/property-lots-housing/record-a-deed-or-other-document/
@@ -1829,12 +1844,14 @@
 /records/DocumentRecording/Hints.html     301  /services/property-lots-housing/record-a-deed-or-other-document/
 /records/PoliceFire/Traffic_Accident_Reports.html 301  /services/crime-law-justice/get-a-copy-of-a-public-safety-report/
 /records/Archives/Archives.html           301  /departments/department-of-records/city-archives/
+/records/Archives/FAQ.html                301  /departments/department-of-records/frequently-asked-questions/
 /records/Archives/OnlineApplications.html 301  /departments/department-of-records/city-archives/
 /records/PoliceFire/Reports.html          301  /services/crime-law-justice/get-a-copy-of-a-public-safety-report/
-/records/Archives/FAQ.html                301  /departments/department-of-records/frequently-asked-questions/
+/records/PublicRecords/Public_Records.html  301  /departments/department-of-records/
 /records                                  301  /departments/department-of-records/
 /records/                                 301  /departments/department-of-records/
 /records/announcements/(.*)               301  /departments/department-of-records/
+/records/announcements.html               301  /departments/department-of-records/
 /records/archives/(.*)                    301  /departments/department-of-records/
 /records/campaignfinance/(.*)             301  /departments/department-of-records/
 /records/documentrecording/(.*)           301  /departments/department-of-records/
@@ -2816,6 +2833,7 @@
 /solarproject                             301  /2020-02-03-here-is-your-chance-to-name-phillys-solar-project/
 /solar-rebate                             301  /programs/solar-rebate-program/
 /southwark                                301  /programs/community-schools/southwark-school/
+/specialadvisory(.*)                      301  /departments/office-of-the-inspector-general/
 /special-events                           301  /departments/office-of-special-events/
 /specialeventpayment                      301  https://www.officialpayments.com/pc_entry_cobrand.jsp?productId=149845250351954021456528662661337179
 /specialeventapplication                  301  https://www.officialpayments.com/pc_entry_cobrand.jsp?productId=149845250351954021456528724669927515
@@ -2920,6 +2938,9 @@
 /Treasurer/Pages/taxcompliance.aspx       301  /departments/city-treasurers-office/
 /Treasurer/aboutus/Pages/FAQ.aspx         301  /departments/city-treasurers-office/
 /Treasurer/aboutus/Pages/default.aspx     301  /departments/city-treasurers-office/
+/Treasurer/aboutus/Pages/history.aspx     301  /departments/city-treasurers-office/about/
+/Treasurer/aboutus/Pages/Mission.aspx     301  /departments/city-treasurers-office/
+/Treasurer/aboutus/Pages/SinkingFundPGW.aspx  301  /sinking-fund-commission/sinking-fund-philadelphia-gas-works-pension-plan-reports/#/
 /tree-trench                              301  https://water.phila.gov/gsi/tools/tree-trench/
 /unitycup                                 301  http://unitycup.phila.gov
 /universalprek(.*)                        301  /programs/quality-pre-k/
@@ -2942,13 +2963,15 @@
 /vi$                                      301  /vi/
 /wage-?theft                              301  /services/working-jobs/worker-protections/wage-protections/report-wage-theft/
 /wage-tax-refund                          301  /services/payments-assistance-taxes/taxes/refunds/request-a-wage-tax-refund/
-/warningletter                            301  /documents/warning-of-risk-of-tax-foreclosure/
+/warning-?letter                          301  /documents/warning-of-risk-of-tax-foreclosure/
 /water-?grant                             301  /2022-05-06-how-to-get-help-with-past-due-water-bills/
 /water-?bill                              301  https://secure8.i-doxs.net/CityOfPhiladelphiaWRB/SignIn.aspx
 /water-bill-help                          301  /services/water-gas-utilities/pay-or-dispute-a-water-bill/water-bill-customer-assistance/
 /water-payment-agreements                 301  /services/water-gas-utilities/pay-or-dispute-a-water-bill/income-based-water-bill-payment-agreements
 /water-pipe-meter-maintenance/customer-responsibilities 301  /services/water-gas-utilities/water-pipe-meter-maintenance/customer-responsibilities/
 /water-pipe-meter-maintenance/water-meters 301  /services/water-gas-utilities/water-pipe-meter-maintenance/water-meters/
+/water-?rate-?hearing                     301  /departments/water-sewer-storm-water-rate-board/meetings/#public-hearings
+/water-?rate-?meeting                     301  /departments/water-sewer-storm-water-rate-board/meetings/ 
 /water-shutoffs                           301  /services/water-gas-utilities/water-shutoffs/
 /water-shutoffs/reasons-for-water-shutoffs 301  /services/water-gas-utilities/water-shutoffs/reasons-for-water-shutoff/
 /water/wu/Documents/cccp-dws-TechList.pdf 301  https://water.phila.gov/pool/files/cccp-dws-TechList.pdf
@@ -2992,7 +3015,7 @@
 /zba/appeals-calendar(.*)                 301  https://li.phila.gov/zba-appeals-calendar
 /zba                                      301  /departments/zoning-board-of-adjustment/
 /zero-?fare                               301  /programs/zero-fare/
-/zero-?waste                              301  /programs/zero-waste-initiatives/
+/zero-?waste                              301  /documents/zero-waste-initiatives-archives/ 
 /zika(.*)                                 301  /departments/department-of-public-health/
 /zipcheck                                 301  /services/water-gas-utilities/pay-or-dispute-a-water-bill/pay-a-water-bill/
 /zoning-summary-generator$                301  /zoning-summary-generator/
