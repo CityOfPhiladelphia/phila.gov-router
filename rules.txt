@@ -207,7 +207,7 @@
 /arena-?reports                           301  /2024-08-26-explore-the-center-city-arena-studies/
 /artcommission(.*)                        301  /departments/philadelphia-art-commission/
 /art-commission                           301  /departments/philadelphia-art-commission/
-/artincityhall                            301  https://www.creativephl.org/exhibitions/
+/artincityhall(.*)                        301  https://www.creativephl.org/exhibitions/
 /arts                                     301  https://www.creativephl.org/
 /asistencia-factura-agua                  301  https://water.phila.gov/cap/es/
 /authorities/index.html                   301  /departments/
@@ -260,7 +260,7 @@
 /business-?vaccine                        301  /services/mental-physical-health/get-vaccinated/get-your-covid-19-vaccine/
 /c2l-?phl                                 301  /programs/career-connected-learning-phl-c2l-phl
 /cf-?dashboard                            301  https://experience.arcgis.com/experience/7444617509954375adc64e7355b98581/
-/cablefranchises(.*)                      301  /water-gas-utilities/submit-a-cable-tv-service-complaint/
+/cablefranchises(.*)                      301  /services/water-gas-utilities/submit-a-cable-tv-service-complaint/
 /calendar/sustainability/                 301  /the-latest/all-events/?category=Office%20of%20Sustainability
 /camp                                     301  /services/culture-recreation/activities-and-events/register-for-summer-camp/
 /camps                                    301  /services/culture-recreation/activities-and-events/register-for-summer-camp/
@@ -1102,7 +1102,7 @@
 /income-taxes/overview                    301  /services/payments-assistance-taxes/income-taxes/
 /InformationCenters/boards/Pages/default.aspx  301  /departments/ 
 /InformationCenters/Pages/Firearm.aspx    301  /documents/application-for-a-pennsylvania-license-to-carry-firearm/
-/informationcenters/pages/summerweatherinformation.aspx  301  /safety-emergency-preparedness/extreme-weather/heat-health-emergency/
+/informationcenters/pages/summerweatherinformation.aspx  301  /services/safety-emergency-preparedness/extreme-weather/heat-health-emergency/
 /informationcenters/pages/winterweatherinfo.aspx  301  /services/safety-emergency-preparedness/extreme-weather/
 /innovation-team                          301  /departments/office-of-innovation-and-technology/public-technology-and-innovation-team/
 /inspector                                301  /departments/office-of-the-inspector-general/
