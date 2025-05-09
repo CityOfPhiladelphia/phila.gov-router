@@ -217,7 +217,7 @@
 /bank-on                                  301  /services/payments-assistance-taxes/financial-services-for-residents/open-a-safe-and-affordable-bank-account/
 /become-a-water-customer                  301  /services/water-gas-utilities/become-a-water-customer/
 /benchmarking                             301  /programs/building-energy-programs/building-energy-benchmarking-program
-/bestpractices/(.*)  301 /
+/bestpractices/(.*)                       301  /
 /benephilly                               301  /programs/benephilly
 /deptaz/                                  301  /
 /better-?services-?phl                    301  /programs/better-services-phl
