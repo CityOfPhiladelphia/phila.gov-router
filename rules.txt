@@ -193,7 +193,8 @@
 /actionguides                             301  /the-latest/#action-guides
 /active-duty-credit                       301  /services/payments-assistance-taxes/taxes/tax-credits/resident-tax-credits/active-duty-tax-credit/
 /ada-grievance                            301  /services/diversity-inclusion-accessibility-immigration/submit-an-ada-grievance-against-the-city/
-/adult-education                          301  /programs/adult-education/
+/adult-?ed                                301  /programs/adult-education/
+/adult-?education                         301  /programs/adult-education/
 /after-an-emergency                       301  /departments/oem/ready-or-not/how-to-get-ready/after-an-emergency/
 /after-an-emergency/access-to-restricted-areas/ 301  /departments/oem/ready-or-not/how-to-get-ready/after-an-emergency/access-to-restricted-areas/
 /agencies(.*)                             301  /departments/
