@@ -362,6 +362,7 @@
 /covid-19-tax-relief                      301  /departments/department-of-revenue/our-services/tax-services/tax-guidance-in-response-to-covid-19/
 /covid-testing-sites$                     301  /covid-testing-sites/
 /covid-testing-sites/(.*)                 200  http://phila-resource-finder-v2.s3-website-us-east-1.amazonaws.com/covid-testing-sites/$1
+/cpo                                      301  /departments/capital-program-office
 /cpoc                                     301  /departments/citizens-police-oversight-commission/
 /cramp                                    301  /programs/community-schools/william-cramp-elementary-school/
 /creativephl                              301  https://www.creativephl.org/
