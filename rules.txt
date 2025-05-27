@@ -2858,7 +2858,7 @@
 /spotlight/immigrant-heritage-month-2021  301  /immigrant-heritage-month
 /spotlight/immigrant-heritage-month-2022  301  /immigrant-heritage-month
 /spotlight/immigrant-heritage-month-2023  301  /immigrant-heritage-month
-/spotlight/immigrant-heritage-month-2024/  301 /immigrant-heritage-month 
+/spotlight/immigrant-heritage-month-2024  301  /immigrant-heritage-month 
 /spotlight/philadelphia-celebrates-black-history-month/	301  /
 /spotlight/juneteenth-2021/               301  /
 /spotlight/lgbt-pride-month/              301  /departments/office-of-lgbt-affairs/
