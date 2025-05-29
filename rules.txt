@@ -1152,6 +1152,7 @@
 /li/appeals-calendar(.*)                  301  https://li.phila.gov/appeals-calendar
 /li/appeals-materials                     301  /documents/licenses-and-inspections-appeals-materials/
 /li/codesandregulations/Pages/default.aspx  301  /departments/department-of-licenses-and-inspections/resources/applicable-codes/
+/li/construction-site-requirements        301  /departments/department-of-licenses-and-inspections/inspections/construction-site-requirements/
 /li/eclipse-?help                         301  /departments/department-of-licenses-and-inspections/permits-and-certificates/help-using-eclipse/
 /li/eclipse                               301  https://eclipse.phila.gov/
 /li/eclipse-faqs                          301  /departments/department-of-licenses-and-inspections/eclipse-faqs/
