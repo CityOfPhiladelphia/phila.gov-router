@@ -1354,9 +1354,10 @@
 /parksnrecnewsletter                      301  /departments/philadelphia-parks-recreation/#action-modal
 /paving                                   301  /departments/department-of-streets/roadways/maintenance/paving/
 /pay                                      301  https://epay.phila.gov/paymentcenter/accountlookup/
+/payment-?agreements                      301  /services/payments-assistance-taxes/payment-plans-and-assistance-programs/other-payment-plans-and-programs/set-up-a-payment-agreement-for-your-business-or-income-taxes/
 /payment-agreement-letters                301  /documents/sample-payment-agreement-letters/
 /payment-?plans                           301  /services/payments-assistance-taxes/payment-plans-and-assistance-programs/
-/payment-?agreements                      301  /services/payments-assistance-taxes/payment-plans-and-assistance-programs/other-payment-plans-and-programs/set-up-a-payment-agreement-for-your-business-or-income-taxes/
+/pay-?property-?work                      301  /services/payments-assistance-taxes/resolve-judgments-liens-and-debts/resolve-bills-or-liens-for-work-done-by-the-city-on-a-property/
 /pbt-registered-distributors(.*)          301  https://tax-services.phila.gov/?link=RegisteredDistributor
 /pchr                                     301  /departments/philadelphia-commission-on-human-relations/
 /pdfs/returningtolearning.pdf             301  /documents/returning-to-learning-program-materials/
@@ -1897,6 +1898,7 @@
 /revenue/businesses/(.*)                  301  /services/payments-assistance-taxes/taxes/business-taxes/
 /revenue/child-tax-credit                 301  /services/payments-assistance-taxes/taxes/tax-credits/resident-tax-credits/child-tax-credit-ctc-resources/
 /revenue/contact-us                       301  /departments/department-of-revenue/about/contact-us/
+/revenue/delinquency-?reports             301  /documents/tax-delinquency-trend-action-reports/ 
 /revenue/eft-ach                          301  /services/payments-assistance-taxes/taxes/filing-and-paying-your-taxes/
 /revenue/eitc                             301  /documents/earned-income-tax-credit-eitc-employer-notice/
 /revenue/income-refund                    301  /documents/income-based-wage-tax-refund-petition/
