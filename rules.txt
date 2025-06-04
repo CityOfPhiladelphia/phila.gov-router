@@ -1354,8 +1354,8 @@
 /parksnrecnewsletter                      301  /departments/philadelphia-parks-recreation/#action-modal
 /paving                                   301  /departments/department-of-streets/roadways/maintenance/paving/
 /pay                                      301  https://epay.phila.gov/paymentcenter/accountlookup/
-/payment-?agreements                      301  /services/payments-assistance-taxes/payment-plans-and-assistance-programs/other-payment-plans-and-programs/set-up-a-payment-agreement-for-your-business-or-income-taxes/
 /payment-agreement-letters                301  /documents/sample-payment-agreement-letters/
+/payment-?agreements                      301  /services/payments-assistance-taxes/payment-plans-and-assistance-programs/other-payment-plans-and-programs/set-up-a-payment-agreement-for-your-business-or-income-taxes/
 /payment-?plans                           301  /services/payments-assistance-taxes/payment-plans-and-assistance-programs/
 /pay-?property-?work                      301  /services/payments-assistance-taxes/resolve-judgments-liens-and-debts/resolve-bills-or-liens-for-work-done-by-the-city-on-a-property/
 /pbt-registered-distributors(.*)          301  https://tax-services.phila.gov/?link=RegisteredDistributor
