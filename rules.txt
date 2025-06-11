@@ -1032,7 +1032,7 @@
 /gompers                                  301  /programs/community-schools/samuel-gompers-school/
 /green(.*)                                301  /departments/office-of-sustainability/
 /grief-?support                           301  /programs/substance-use-prevention-and-harm-reduction/our-work/grief-support-for-drug-related-loss/
-/guides                                   301  /guides/lead-guide/
+/guides                                   301  /tools/?search=guide 
 /guides/landlord-gateway/	                301  /programs/landlord-gateway/
 /guides/landlord-gateway/affordable-housing/	301  /programs/landlord-gateway/affordable-housing/
 /guides/landlord-gateway/existing-landlords/	301  /programs/landlord-gateway/existing-landlords/
