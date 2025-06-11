@@ -752,6 +752,7 @@
 /documents/covid-19-vaccine-distribution-plan-overview/	301  /programs/coronavirus-disease-2019-covid-19/faq/#vaccines
 /documents/data-and-statistics-report/  301   /departments/mayors-commission-on-aging/
 /documents/deed-and-mortgage-fraud-resources/   301  /documents/deed-and-mortgage-fraud-report-form/ 
+/documents/deed-and-mortgage-fraud-report-form/ 301  /services/property-lots-housing/get-help-with-deed-or-mortgage-fraud/report-suspected-deed-or-mortgage-fraud/ 
 /documents/deferred-retirement-option-plan-drop-application/	301  /documents/pension-deferred-retirement-option-plan-drop-application/
 /documents/deferred-retirement-option-plan-drop-application/	301  /documents/pension-deferred-retirement-option-plan-drop-application/
 /documents/department-of-commerce-job-openings/	301  /jobs/#/
@@ -1243,6 +1244,7 @@
 /media/20240220161559/Pensions-IPS-202402.pdf 301  /media/20240516111338/pensions-investment-policy-statement.pdf
 /media/20170209150802/CertifiedCopy16017601-1.pdf 301  https://codelibrary.amlegal.com/codes/philadelphia/latest/philadelphia_pa/0-0-0-300626
 /media/20190529113010/AHS-NPP.pdf	301  /documents/notice-of-privacy-practices/
+/media/20190903095045/Fraud-Report-9-3-19.pdf  301  /services/property-lots-housing/get-help-with-deed-or-mortgage-fraud/report-suspected-deed-or-mortgage-fraud/
 /media/20200423151504/EO-1-11-Nepotism.pdf	301  /departments/mayor/executive-orders/#/?table=%2520Mayoral%2520executive%2520orders%2520from%25201952%2520to%2520the%2520present&q=1-11:%20Prohibition%20Against%20Nepotism%20(2011)
 /media/20200423151508/EO-10-16-Acceptance-of-gifts.pdf	301  /departments/mayor/executive-orders/#/?table=%2520Mayoral%2520executive%2520orders%2520from%25201952%2520to%2520the%2520present&q=10-16:%20Acceptance%20of%20Gifts%20by%20City%20Officers%20and%20Employees
 /media/20200423151508/EO-12-16-Outside-self-employment.pdf	301  /departments/mayor/executive-orders/#/?table=%2520Mayoral%2520executive%2520orders%2520from%25201952%2520to%2520the%2520present&q=12-16:%20Regulation%20of%20Outside%20Employment%20and%20Self-Employment%20of%20City%20Officers%20and%20Employees
