@@ -1094,6 +1094,7 @@
 /ht$                                      301  /ht/ 
 /humanrelations(.*)                       301  /departments/philadelphia-commission-on-human-relations/
 /ida-?recovery                            301  /departments/office-of-the-director-of-finance/cdbg-dr-program/
+/ida-?business-?assistance                301  /2025-06-11-city-launches-the-ida-business-assistance-program/ 
 /ig(.*)                                   301  /departments/office-of-the-inspector-general/
 /ima/                                     301  /departments/office-of-immigrant-affairs/
 /immigrant-business-week                  301  /spotlight/immigrant-business-week-2020/
