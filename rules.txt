@@ -1082,7 +1082,7 @@
 /heat                                     301  /guides/extreme-heat-guide/
 /helpme                                   301  /departments/philly311/
 /hhs(.*)                                  301  /departments/health-and-human-services/
-/hhe                                      301  /2024-06-19-the-heat-is-on-philadelphia-declares-a-heat-health-emergency/
+/hhe                                      301  /2023-07-26-what-happens-when-the-city-declares-a-heat-health-emergency/
 /historical/taskforce                     301  https://www.phlpreservation.org/
 /historical(.*)                           301  /departments/philadelphia-historical-commission/
 /holiday-?celebrations                    301  /spotlight/holiday-celebrations
