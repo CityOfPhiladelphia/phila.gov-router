@@ -3003,6 +3003,7 @@
 /wi-fi/(.*)                               301  /wifi/$1
 /wifi/(.*)                                200  http://phila-resource-finder-v2.s3-website-us-east-1.amazonaws.com/wifi/$1
 /wills                                    301  /departments/register-of-wills/
+/work-?stoppage                           301  /2025-07-01-what-you-need-to-know-about-the-city-work-stoppage/ 
 /worker-protections                       301  /services/working-jobs/worker-protections/
 /workforce                                301  /departments/department-of-commerce/about-us/divisions/office-of-neighborhood-economic-development/
 /workforce-?hub                           301  /programs/philadelphia-white-house-workforce-hub/
