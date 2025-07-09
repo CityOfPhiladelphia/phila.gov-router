@@ -1918,6 +1918,7 @@
 /revenue/sustainable-tax-credit           301  /services/payments-assistance-taxes/taxes/tax-credits/business-tax-credits/sustainable-business-tax-credit/
 /revenue/tax-forms                        301  /departments/department-of-revenue/forms-documents/tax-forms-and-instructions/
 /revenue/taxpro/pages/refundpetitions.aspx 301  /documents/income-based-wage-tax-refund-petition/
+/revenue/uo-?tax                          301  /services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-type/use-occupancy-tax/
 /revenue/use-occupancy                    301  /services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-type/use-occupancy-tax/
 /revenue/wage-tax-petition                301  /documents/income-based-wage-tax-refund-petition/
 /revenue(.*)                              301  /departments/department-of-revenue/
