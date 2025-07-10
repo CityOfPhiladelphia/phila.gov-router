@@ -5,7 +5,7 @@ Lambda@Edge function for handling redirects and rewrites
 Store your redirect and rewrite rules in `rules.txt`
 
 ```
-/otis                     301 http://www.phillyotis.com
+/otis                     301 /departments/office-of-transportation-and-infrastructure-system/
 /parksandrec(.*)          301 /departments/philadelphia-parks-recreation/
 /revenue/(.*)             301 /departments/department-of-revenue/$1
 /contracts/data$          301 /contracts/data/
@@ -24,22 +24,22 @@ Patterns are converted to regexes with the following enhancements:
 
 Redirect `/otis` or `/otis/` to their external site:
 ```
-/otis  301  http://phillyotis.com
+/otis  301  /departments/office-of-transportation-and-infrastructure-systems/
 ```
 
-Redirect `/eeocomplaint` and `/eeocomplaints` and `/eeo-complaints` to its service page:
+Redirect `/eeocomplaint` and `/eeo-complaint` to its service page:
 ```
-/eeo-?complaints?  301  /services/working-jobs/file-a-sexual-harassment-complaint/
+/eeo-?complaint?  301  /services/working-jobs/file-a-sexual-harassment-complaint/
 ```
 
 Redirect anything under `/parksandrec` to the new homepage:
 ```
-/parksandrec/?.*  301  /departments/parks-and-recreation/
+/parksandrec/?.*  301  /departments/philadelphia-parks-recreation/
 ```
 
 Redirect anything under `/oem` to its expanded route:
 ```
-/oem/?(.*)  301  /departments/office-of-emergency-management/$1
+/oem/?(.*)  301  /departments/oem/$1
 ```
 
 Rewrite `/contracts/data` to mask a site on github pages (note the redirect for a missing trailing slash, which is otherwise handled by S3's static file hosting feature):
@@ -50,7 +50,6 @@ Rewrite `/contracts/data` to mask a site on github pages (note the redirect for 
 
 ## tips
 - You can use sites like [regex101](https://regex101.com) to test your regular expressions.
-- You can use [tsv-pretty](https://ebay.github.io/tsv-utils-dlang/#tsv-pretty) to format the file to be more readable.
 
 ## deployment
 Deployment will happen automatically via github actions
