@@ -932,6 +932,7 @@
 /documents/tax-forms-and-applications-for-a-new-business/ 301  /documents/business-tax-account-application/
 /documents/tax-review-board-refund-petition/   301  /documents/refund-petition-form/
 /documents/temporary-outdoor-dining-application/	301  /services/streets-sidewalks-alleys/outdoor-dining/
+/documents/temporary-waste-drop-off-sites/  301  /departments/department-of-sanitation/ 
 /documents/the-department-of-licenses-and-inspections-strategic-plan/ 301  /departments/department-of-licenses-and-inspections/
 /documents/the-health-bulletin/	301  /documents/community-response-partner-network/
 /documents/title-v-compliance-policy-and-complaint-form/	301  /documents/title-vi-compliance-policy-and-complaint-form/
