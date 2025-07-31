@@ -1432,11 +1432,12 @@
 /plastic-bag-ban                          301  /programs/plastic-bag-ban/
 /play-it-safe-PHL                         301  /programs/playitsafephl/
 /playitsafePHL                            301  /programs/playitsafephl/
+/playstreets                              301  /programs/playstreets/
 /pmbc                                     301  /programs/philadelphia-more-beautiful-committee/ 
 /police                                   301  https://www.phillypolice.com/
 /policeovertime                           301  https://tax-services.phila.gov/_/
 /police-?reports?                         301  /services/crime-law-justice/get-a-copy-of-a-public-safety-report/ 
-/pools                                    301  /parks-rec-finder/#/locations/swimming-pools
+/pools                                    301  /services/culture-recreation/find-a-swimming-pool/ 
 /porous-pave                              301  https://water.phila.gov/blog/11-2011-percy-street-porous-paving/
 /porous-play                              301  https://water.phila.gov/gsi/
 /posts                                    301  /the-latest/archives/?template=post
