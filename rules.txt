@@ -1758,6 +1758,7 @@
 /programs/philadelphia-resilience-project/ 301  /programs/opioid-response-unit/
 /programs/philadelphia-resilience-project/plans-and-reports/	301  /documents/philadelphia-resilience-project-archives/
 /programs/philadelphia-resilience-project/support-the-philadelphia-resilience-project/	301  /documents/philadelphia-resilience-project-archives/
+/programs/philadelphia-white-house-workforce-hub/  301  /programs/philadelphia-workforce-hub/ 
 /programs/philly-counts/arabic/	          301  /ar/programs/philly-counts/
 /programs/philly-counts/chinese/	        301  /zh/programs/philly-counts/
 /programs/philly-counts/espanol/	        301  /es/programs/philly-counts/
