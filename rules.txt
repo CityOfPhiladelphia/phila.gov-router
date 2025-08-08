@@ -1525,6 +1525,8 @@
 /programs/access-centers(.*)              301  /2021-02-22-the-citys-access-centers-are-still-enrolling-students/
 /programs/acute-communicable-disease-program/monkeypox/   301  /programs/monkeypox/
 /programs/benephilly/mobile-unit-request-form/ 301  /programs/benephilly/
+/programs/bipartisan-infrastructure-law/  301  /programs/infrastructure-solutions-team/ 
+/programs/bipartisan-infrastructure-law/bipartisan-infrastructure-law-funded-projects/  301  /documents/future-contracting-opportunities/     
 /programs/blockchain-for-city-government  301  /departments/office-of-innovation-and-technology/
 /programs/broad-germantown-and-erie-bge/frequently-asked-questions/ 301  /programs/broad-germantown-and-erie-bge/
 /programs/building-energy-performance-program/  301  /programs/building-energy-programs/building-energy-performance-program/
