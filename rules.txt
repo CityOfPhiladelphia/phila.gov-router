@@ -183,6 +183,7 @@
 /2024-04-02-request-for-proposals-with-the-office-of-children-and-families/	301  /2022-02-17-request-for-proposals-with-the-office-of-children-and-families/
 /2024-07-13-h                             301  /2024-07-13-health-department-declares-heat-health-emergency-effective-monday-july-15-2024-ending-wednesday-july-17-2024/
 /2024-07-19-risk-of-bird-flu-h5n1-infection-in-philadelphia-remains-low/  301  /2025-02-21-the-current-state-of-bird-flu-what-you-need-to-know/
+/2026                                     301  /2026-events
 /311/(.*)                                 301  /departments/philly311/
 /311/report-an-issue                      301  https://iframe.publicstuff.com/#?client_id=242
 /abandoned-car                            301  /services/streets-sidewalks-alleys/report-a-problem-on-a-city-street-sidewalk-or-alley/report-an-abandoned-vehicle/ 
@@ -1932,6 +1933,7 @@
 /revtaxes/index.html	                    301  /departments/board-of-revision-of-taxes/
 /rgrp                                     301  /2021-01-22-philadelphia-covid-19-restaurant-and-gym-relief-program/
 /rfp(.*)                                  301  https://contracts.phila.gov
+/ring-?it-?on                             301  /programs/ring-it-on
 /rise/employer/pages/banthebox.aspx       301  /departments/philadelphia-commission-on-human-relations/
 /rise(.*)                                 301  /departments/office-of-reentry-partnerships/
 /risk                                     301  /departments/office-of-the-director-of-finance/office-of-risk-management/
