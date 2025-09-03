@@ -1688,6 +1688,7 @@
 /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/summer-camps-guidance/	301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
 /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/transporting-patients-with-covid-19-guidance-for-family-members/	301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
 /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/travel-guidance/	301	/programs/coronavirus-disease-2019-covid-19/
+/programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/vaccine-and-masking-requirements-for-healthcare-workers/  301  /programs/coronavirus-disease-2019-covid-19/
 /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/viet-choosing-to-mask/	301	 /programs/coronavirus-disease-2019-covid-19/
 /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/vocational-recreational-and-adult-education-guidance/	301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
 /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/youth-schools-community-and-club-sports-guidance/	301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
