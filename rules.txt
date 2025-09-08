@@ -226,6 +226,7 @@
 /bge                                      301  /programs/broad-germantown-and-erie-bge/
 /bids                                     301  /departments/procurement-department/
 /bidsonline                               301  https://www.phlcontracts.phila.gov/bso/
+/big-?belly-?compost                      301  /programs/bigbelly-program/smart-composting
 /bikeshare/pages/default.aspx             301  /services/cars-parking-transportation/suggest-a-location-for-an-indego-bike-station/
 /bikeshare(.*)                            301  /services/cars-parking-transportation/suggest-a-location-for-an-indego-bike-station/
 /bil                                      301  /programs/bipartisan-infrastructure-law/
