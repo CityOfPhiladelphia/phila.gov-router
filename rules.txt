@@ -479,6 +479,7 @@
 /departments/office-of-children-and-families/thank-you/	301  /departments/office-of-children-and-families/
 /departments/office-of-civic-engagement-and-volunteer-service(.*) 301  /departments/office-of-community-empowerment-and-opportunity/$1
 /departments/office-of-community-empowerment-and-opportunity/advocacy/ 301  /departments/office-of-community-empowerment-and-opportunity/programs-we-support/
+/departments/office-of-criminal-justice/  301  /departments/division-of-criminal-justice/ 
 /departments/office-of-engagement-for-women(.*) 301  /departments/mayors-office-of-engagement-for-women$1
 /departments/office-of-fleet-management/ 301  /departments/department-of-fleet-services/
 /departments/office-of-fleet-management/efficiency-measures/	301  /departments/department-of-fleet-services/efficiency-measures/
@@ -1099,7 +1100,7 @@
 /ht$                                      301  /ht/ 
 /humanrelations(.*)                       301  /departments/philadelphia-commission-on-human-relations/
 /ida-?recovery                            301  /departments/office-of-the-director-of-finance/cdbg-dr-program/
-/ida-?business-?assistance                301  /2025-06-11-city-launches-the-ida-business-assistance-program/ 
+/ida-?business-?assistance                301  /programs/ida-business-assistance-program/ 
 /ig(.*)                                   301  /departments/office-of-the-inspector-general/
 /ima/                                     301  /departments/office-of-immigrant-affairs/
 /immigrant-business-week                  301  /spotlight/immigrant-business-week-2020/
