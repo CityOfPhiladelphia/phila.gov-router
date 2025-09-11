@@ -3013,7 +3013,7 @@
 /webster                                  301  /programs/community-schools/john-h-webster-school/
 /welcomingweek2016                        301  /posts/office-of-immigrant-affairs/2016-08-31-welcoming-week-2016/
 /welcomingweek2017                        301  /posts/office-of-immigrant-affairs/2017-08-31-welcoming-week-2017/
-/welcoming-?week                           301  /spotlight/welcoming-week-2024/
+/welcoming-?week                          301  /spotlight/welcoming-week
 /wellness-?ecosystem                      301  /programs/wellness-ecosystem-initiative
 /wholesale-wastewater                     301  https://secure8.i-doxs.net/CityOfPhiladelphiaWRB/WastewaterValidate.aspx
 /wi-?fi$                                  301  /wifi/
