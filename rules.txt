@@ -2856,6 +2856,7 @@
 /solarproject                             301  /2020-02-03-here-is-your-chance-to-name-phillys-solar-project/
 /solar-rebate                             301  /programs/solar-rebate-program/
 /southwark                                301  /programs/community-schools/southwark-school/
+/spark                                    301  /programs/spark-innovation-academy/ 
 /specialadvisory(.*)                      301  /departments/office-of-the-inspector-general/
 /special-events                           301  /departments/office-of-special-events/
 /specialeventpayment                      301  https://www.officialpayments.com/pc_entry_cobrand.jsp?productId=149845250351954021456528662661337179
