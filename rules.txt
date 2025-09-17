@@ -844,6 +844,7 @@
 /documents/municipal-id-ordinance/	301  https://codelibrary.amlegal.com/codes/philadelphia/latest/philadelphia_pa/0-0-0-302358
 /documents/naloxone-in-pharmacies-action-kit/	301  /documents/2023-naloxone-action-kit-for-pharmacists/
 /documents/navigating-residential-permitting-webinar-slides/	301  /departments/department-of-licenses-and-inspections/
+/documents/next-?level-?learning          301  /documents/adult-education-cards
 /documents/nfl-draft-road-closures/	301  /departments/office-of-special-events/events/upcoming-special-event-road-closures/
 /documents/non-discrimination-policy/	    301  /documents/title-vi-compliance-policy-and-complaint-form/
 /documents/notice-of-hipaa-breach/	      301  /departments/department-of-public-health/
