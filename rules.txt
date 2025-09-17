@@ -1184,6 +1184,7 @@
 /li/zoningappeals                         301  /zba/appeals-calendar/
 /licenses(andinspections)?                301  /departments/department-of-licenses-and-inspections/
 /li/(.*)                                  301  /departments/department-of-licenses-and-inspections/
+/liberty-?bell-?safe                      301  /programs/liberty-bell-safe-certification-program 
 /licontact                                301  http://iframe.publicstuff.com/#?client_id=242&request_type_id=1013002
 /lifeguard(.*)                            301  /services/working-jobs/city-jobs-and-internships/become-a-lifeguard/
 /liquor-tax                               301  /services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-type/liquor-tax/
@@ -1206,7 +1207,7 @@
 /mdo/(.*)                                 301  /departments/managing-directors-office/
 /measles                                  301  /2025-03-24-whats-happening-with-measles-in-and-around-philadelphia/
 /mechanical-street-cleaning               301  /programs/mechanical-street-cleaning/
-/med-?week                                301  /spotlight/med-week/
+/med-?week                                301  /spotlight/micro-economic-development-med-week/ 
 /media/20181204100431/Executive-Order-No.-4-94.pdf  301  /departments/mayor/executive-orders/#/?table=%2520Mayoral%2520executive%2520orders%2520from%25201952%2520to%2520the%2520present&q=04-94:%20Office%20of%20the%20Inspector%20General
 /media/20181204100427/Executive-Order-No.-2-94.pdf  301  /departments/mayor/executive-orders/#/?table=%2520Mayoral%2520executive%2520orders%2520from%25201952%2520to%2520the%2520present&q=02-94:%20Role%20and%20Responsibilities%20of%20the%20Integrity%20Office
 /media/20181204100423/Executive-Order-No.-2-89.pdf  301  /departments/mayor/executive-orders/#/?table=%2520Mayoral%2520executive%2520orders%2520from%25201952%2520to%2520the%2520present&q=2-89:%20Establishing%20Office%20of%20Inspector%20General/Amendment%20to%20Executive%20Order%20No.%2010-84%20(1989)
@@ -2786,6 +2787,8 @@
 /services/trash-recycling-city-upkeep/submit-a-service-request-with-311/ 301  /services/trash-recycling-city-upkeep/report-a-problem-with-trash-recycling-or-city-upkeep/submit-a-service-request-with-311/
 /services/trash-recycling-city-upkeep/track-a-service-request-with-311/ 301  /services/trash-recycling-city-upkeep/report-a-problem-with-trash-recycling-or-city-upkeep/track-a-service-request-with-311/
 /services/trash-recycling-city-upkeep/trash-recycling-pickup-schedules/ 301  /services/trash-recycling-city-upkeep/find-your-trash-and-recycling-collection-day/
+/services/trees-parks-the-environment/get-organic-materials/  301  /services/trees-parks-the-environment/get-or-dispose-of-organic-materials/ 
+/services/trees-parks-the-environment/dispose-of-organic-materials/   301  /services/trees-parks-the-environment/get-or-dispose-of-organic-materials/ 
 /services/trees-parks-the-environment/request-an-animal-free-zone/	301  /documents/philadelphia-parks-and-recreation-regulations/
 /services/water-gas-utilities/dispute-a-water-bill/ 301  /services/water-gas-utilities/pay-or-dispute-a-water-bill/dispute-a-water-bill/
 /services/water-gas-utilities/get-help-weatherizing-your-home/  301  /services/water-gas-utilities/get-advice-to-reduce-utility-costs/
