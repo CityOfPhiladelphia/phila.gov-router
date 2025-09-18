@@ -1306,7 +1306,8 @@
 /ohr                                      301  /departments/office-of-human-resources/
 /ohs(.*)                                  301  /departments/office-of-homeless-services/
 /oia                                      301  /departments/office-of-immigrant-affairs/
-/oia/resource-finder(.*)                  200  http://phila-resource-finder-v2.s3-website-us-east-1.amazonaws.com/oia/resource-finder$1
+/oia/resource-finder$                     301  /oia/resource-finder/
+/oia/resource-finder/(.*)                 200  http://phila-resource-finder-v2.s3-website-us-east-1.amazonaws.com/oia/resource-finder/$1
 /oig                                      301  /departments/office-of-the-inspector-general/
 /oit                                      301  /departments/office-of-innovation-and-technology/
 /oopa                                     301  /services/payments-assistance-taxes/payment-plans-and-assistance-programs/income-based-programs-for-residents/set-up-an-owner-occupied-real-estate-tax-payment-agreement-oopa
