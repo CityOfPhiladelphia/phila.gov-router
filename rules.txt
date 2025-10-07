@@ -186,6 +186,7 @@
 /2026                                     301  /2026-events
 /311/(.*)                                 301  /departments/philly311/
 /311/report-an-issue                      301  https://iframe.publicstuff.com/#?client_id=242
+/360/ai-?privacy                          301  https://philaprivacy.freshdesk.com/support/tickets/new
 /abandoned-car                            301  /services/streets-sidewalks-alleys/report-a-problem-on-a-city-street-sidewalk-or-alley/report-an-abandoned-vehicle/ 
 /abandoned-vehicle                        301  /services/streets-sidewalks-alleys/report-a-problem-on-a-city-street-sidewalk-or-alley/report-an-abandoned-vehicle/
 /aco                                      301  /departments/mayors-office-for-people-with-disabilities/
