@@ -181,6 +181,7 @@
 /2023-11-03-join-our-team-citys-office-of-children-and-families-seeks-communications-professionals/	301  /departments/office-of-children-and-families/
 /2024-02-18-2022-philly-spring-cleanup-celebrating-15-years-of-community-cleaning-partnerships/	301  /programs/philly-spring-cleanup/
 /2024-04-02-request-for-proposals-with-the-office-of-children-and-families/	301  /2022-02-17-request-for-proposals-with-the-office-of-children-and-families/
+/2022-04-25-philadelphia-honors-diversity-flag-raising-program/  301  /documents/the-philadelphia-honors-diversity-flag-raising-program-guidelines/ 
 /2024-07-13-h                             301  /2024-07-13-health-department-declares-heat-health-emergency-effective-monday-july-15-2024-ending-wednesday-july-17-2024/
 /2024-07-19-risk-of-bird-flu-h5n1-infection-in-philadelphia-remains-low/  301  /2025-02-21-the-current-state-of-bird-flu-what-you-need-to-know/
 /2026                                     301  /2026-events
@@ -236,6 +237,7 @@
 /blockchain                               301  /departments/office-of-innovation-and-technology/
 /board-of-education                       301  /departments/educational-nominating-panel/
 /boards/index.html                        301  /departments/
+/breathe-?philly                          301  https://experience.arcgis.com/experience/35a3b9706b2946ba937a33de049ffae5
 /browse/jobs-and-contracts	              301  /services/working-jobs/
 /browse/payments-and-taxes	              301  /services/payments-assistance-taxes/
 /browse/business                          301  /services/business-self-employment/
@@ -910,6 +912,7 @@
 /documents/readynotifypa-brochure         301  /departments/oem/ready-or-not/brochures/
 /documents/real-estate-and-property-business-license-materials/ 301  /departments/department-of-licenses-and-inspections/licenses/rental-and-property-licenses/rental-and-property-licenses-materials/
 /documents/real-estate-tax-deferral-program-notice/	301  /services/payments-assistance-taxes/payment-plans-and-assistance-programs/income-based-programs-for-residents/enroll-in-the-real-estate-tax-deferral-program/
+/documents/rebuild-annual-reports/  301  /documents/rebuild-monthly-reports/ 
 /documents/recommended-planting-list-for-off-street-parking-updated-2007/	301  /documents/recommended-planting-list-for-off-street-parking/
 /documents/reentry-solutions-microgrants-for-community-engagement/ 301  /departments/office-of-reentry-partnerships/
 /documents/refuse-exemption-forms/         301  /documents/commercial-trash-fee-exemption-forms/
