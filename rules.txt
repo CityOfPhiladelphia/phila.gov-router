@@ -1912,12 +1912,15 @@
 /residents(.*)                            301  /services/
 /resilientPHL                             301  /programs/opioid-response-unit/
 /revenue/active-duty-tax-credit           301  /services/payments-assistance-taxes/taxes/tax-credits/resident-tax-credits/active-duty-tax-credit/
+/revenue/appointment                      301  https://city-of-philadelphia.app.qless.com/kiosk/d3543259-6c02-41c1-b245-b7018a0227b3?locale=en
+/revenue/appt                             301  https://city-of-philadelphia.app.qless.com/kiosk/d3543259-6c02-41c1-b245-b7018a0227b3?locale=en
 /revenue/birt                             301  /services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-type/business-income-receipts-tax-birt/
 /revenue/birt-regs                        301  /documents/business-income-receipts-tax-birt-regulations/
 /revenue/businesses/taxes/pages/amusementtax.aspx 301  /services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-type/amusement-tax/
 /revenue/businesses/taxes/pages/birt.aspx 301  /services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-type/business-income-receipts-tax-birt/
 /revenue/businesses/taxes/Pages/hoteltax.aspx 301  /services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-type/hotel-tax/
 /revenue/businesses/(.*)                  301  /services/payments-assistance-taxes/taxes/business-taxes/
+/revenue/call-?back                       301  https://city-of-philadelphia.app.qless.com/kiosk/d3543259-6c02-41c1-b245-b7018a0227b3?locale=en
 /revenue/child-tax-credit                 301  /services/payments-assistance-taxes/taxes/tax-credits/resident-tax-credits/child-tax-credit-ctc-resources/
 /revenue/contact-us                       301  /departments/department-of-revenue/about/contact-us/
 /revenue/delinquency-?reports             301  /documents/tax-delinquency-trend-action-reports/ 
