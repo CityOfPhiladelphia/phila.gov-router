@@ -2979,7 +2979,6 @@
 /Treasurer/aboutus/Pages/default.aspx     301  /departments/city-treasurers-office/
 /Treasurer/aboutus/Pages/history.aspx     301  /departments/city-treasurers-office/about/
 /Treasurer/aboutus/Pages/Mission.aspx     301  /departments/city-treasurers-office/
-/Treasurer/aboutus/Pages/SinkingFundPGW.aspx  301  /departments/sinking-fund-commission/sinking-fund-philadelphia-gas-works-pension-plan-reports/#/
 /tree-trench                              301  https://water.phila.gov/gsi/tools/tree-trench/
 /unitycup                                 301  http://unitycup.phila.gov
 /universalprek(.*)                        301  /programs/quality-pre-k/
