@@ -184,6 +184,7 @@
 /2022-04-25-philadelphia-honors-diversity-flag-raising-program/  301  /documents/the-philadelphia-honors-diversity-flag-raising-program-guidelines/ 
 /2024-07-13-h                             301  /2024-07-13-health-department-declares-heat-health-emergency-effective-monday-july-15-2024-ending-wednesday-july-17-2024/
 /2024-07-19-risk-of-bird-flu-h5n1-infection-in-philadelphia-remains-low/  301  /2025-02-21-the-current-state-of-bird-flu-what-you-need-to-know/
+/2025-11-03-snap-benefits-have-changed-heres-what-you-need-to-know/  301  /2025-09-05-what-you-need-to-know-about-significant-changes-to-snap-benefits/ 
 /2026                                     301  /2026-events
 /311/(.*)                                 301  /departments/philly311/
 /311/report-an-issue                      301  https://iframe.publicstuff.com/#?client_id=242
