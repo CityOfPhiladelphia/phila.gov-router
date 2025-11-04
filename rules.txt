@@ -1373,7 +1373,7 @@
 /parksandrecreation/findafacility         301  /parks-rec-finder/#/locations
 /parksnrecnewsletter                      301  /departments/philadelphia-parks-recreation/#action-modal
 /paving                                   301  /departments/department-of-streets/roadways/maintenance/paving/
-/pay                                      301  https://epay.phila.gov/paymentcenter/accountlookup/
+/pay                                      301  /make-a-payment/
 /payment-agreement-letters                301  /documents/sample-payment-agreement-letters/
 /payment-?agreements                      301  /services/payments-assistance-taxes/payment-plans-and-assistance-programs/other-payment-plans-and-programs/set-up-a-payment-agreement-for-your-business-or-income-taxes/
 /payment-?plans                           301  /services/payments-assistance-taxes/payment-plans-and-assistance-programs/
