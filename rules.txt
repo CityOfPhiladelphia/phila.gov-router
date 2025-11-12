@@ -1432,6 +1432,7 @@
 /phillycounts                             301  /programs/philly-counts/
 /philly-counts                            301  /programs/philly-counts/
 /programs/philly-counts-2020(.*)          301  /programs/philly-counts$1
+/programs/reimagining-?market-?east/      301  /programs/market-east/  
 /phillyrising(.*)                         301  /departments/office-of-community-empowerment-and-opportunity/
 /PHLConnectED                             301  /programs/phlconnected/
 /phldonatetech                            301  /2023-05-02-phldonatetech/
