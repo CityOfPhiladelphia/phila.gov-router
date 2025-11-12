@@ -1206,7 +1206,7 @@
 /love-park                                301  /departments/philadelphia-parks-recreation/our-locations/ 
 /mcaaa(.*)                                301  /departments/mayors-office-of-public-engagement/mayors-commission-on-asian-american-affairs/
 /maps/vacancy                             301  https://phl.maps.arcgis.com/apps/webappviewer/index.html?id=64ac160773d04952bc17ad895cc00680
-/market-?east                             301  /programs/reimagining-market-east/ 
+/market-?east                             301  /programs/market-east/ 
 /mayor                                    301  /departments/mayor/
 /mayor-scheduling-page                    301  /departments/mayor/scheduling-request-form/
 /mayor/(.*)                               301  /departments/mayor/$1
