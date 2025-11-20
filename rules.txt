@@ -2083,6 +2083,7 @@
 /services/business-self-employment/starting-a-business/trade-licenses/get-an-expediters-license/	301  /services/permits-violations-licenses/get-a-license/trade-licenses/get-an-expediters-license/
 /services/business-self-employment/starting-a-business/trade-licenses/register-in-eclipse-as-a-design-professional-or-attorney-of-record/	301  /services/permits-violations-licenses/apply-for-a-permit/register-in-eclipse-as-a-design-professional-or-attorney-of-record/
 /services/business-self-employment/starting-a-business/trade-licenses/submit-as-a-pa-home-improvement-contractor-to-get-construction-permits/	301  /services/permits-violations-licenses/apply-for-a-permit/submit-as-a-pa-home-improvement-contractor-to-get-construction-permits/
+/services/business-self-employment/support-for-businesses/find-loans-through-the-philadelphia-business-lending-network/    301  /programs/philadelphia-business-lending-network/ 
 /services/business-taxes/business-income-receipts-tax-birt/	301  /services/payments-assistance-taxes/business-taxes/business-income-receipts-tax-birt/
 /services/cars-parking-transportation/apply-for-a-disabled-parking-permit/     301  /services/cars-parking-transportation/apply-for-a-parking-permit/apply-for-a-disabled-parking-permit/
 /services/cars-parking-transportation/apply-for-a-residential-parking-permit/  301  /services/cars-parking-transportation/apply-for-a-parking-permit/apply-for-a-residential-parking-permit/
