@@ -1013,8 +1013,9 @@
 /farmers-markets/(.*)                     200  http://phila-resource-finder-v2.s3-website-us-east-1.amazonaws.com/farmers-markets/$1
 /farmphilly                               301  /programs/farmphilly/
 /fe/(.*)                                  301  /programs/financial-empowerment-centers/
+/federal-?furlough-?relief                301  /2025-11-20-onephilly-federal-furloughed-rent-relief-program/ 
 /fhc                                      301  /departments/fair-housing-commission/
-/findrec/	                                301  /parks-rec-finder/#/
+/findrec/	                              301  /parks-rec-finder/#/
 /findrec/RecCenterDetails.aspx            301  /parks-rec-finder/#/locations
 /financialempowerment                     301  /programs/financial-empowerment-centers/
 /finance/units-RiskManagement(.*) 301  /departments/office-of-the-director-of-finance/office-of-risk-management/
