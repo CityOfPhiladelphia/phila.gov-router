@@ -290,6 +290,7 @@
 /channel64/Pages/CableComplaintForm.aspx  301  /services/water-gas-utilities/submit-a-cable-tv-service-complaint/
 /chirp                                    301  /2021-03-09-new-grant-opportunity-for-philadelphia-businesses-in-the-hospitality-industry
 /child-?tax-?credit                       301  /services/payments-assistance-taxes/taxes/tax-credits/resident-tax-credits/child-tax-credit-ctc-resources/
+/christmas-trees                          301  /services/trash-recycling-city-upkeep/residential-trash-and-recycling/dispose-of-christmas-trees/
 /citizenship                              301  /2018-01-12-citizenship-information-resources/
 /citybudget/pages/default.aspx            301  /departments/office-of-the-director-of-finance/financial-reports/#/?table=Five%20Year%20Financial%20and%20Strategic%20Plan
 /citycouncil                              301  https://phlcouncil.com/
@@ -2930,7 +2931,6 @@
 /streets/blockparty.html	                301  /services/streets-sidewalks-alleys/street-closures/apply-to-hold-a-block-party-or-street-event/
 /streets/backfill                         301  https://secure.phila.gov/streets/backfill/
 /streets/crplan                           301  https://secure.phila.gov/streets/commrecycling/
-/streets/christmas-trees                  301  /services/trash-recycling-city-upkeep/residential-trash-and-recycling/dispose-of-christmas-trees/
 /streets/recycling                        301  /programs/recycling-program/
 /streets/leaf-recycling                   301  /services/trash-recycling-city-upkeep/residential-trash-and-recycling/recycle-fall-leaves/
 /streets/hazardous-waste                  301  /services/trash-recycling-city-upkeep/residential-trash-and-recycling/dispose-of-household-hazardous-waste/
