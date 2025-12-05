@@ -567,6 +567,8 @@
 /departments/water-sewer-stormwater-rate-board 301  /departments/water-sewer-storm-water-rate-board/
 /departments/zoning-and-project-reviews/	301  /departments/department-of-planning-and-development/zoning-and-project-reviews/
 /development-services                     301  /departments/division-of-development-services/
+/dev/capital-projects-finder$             301  /dev/capital-projects-finder/
+/dev/capital-projects-finder/             200  http://phila-resource-finder-v2.s3-website-us-east-1.amazonaws.com/dev/capital-projects-finder/$1
 /dev/wi-?fi$                              301  /dev/wifi/
 /dev/wi-fi/(.*)                           301  /dev/wifi/$1
 /dev/wifi/(.*)                            200  http://phila-resource-finder-v2.s3-website-us-east-1.amazonaws.com/dev/wifi/$1
