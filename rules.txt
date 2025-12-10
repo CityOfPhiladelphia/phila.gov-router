@@ -1943,7 +1943,7 @@
 /revenue/installment-plan                 301  /services/payments-assistance-taxes/payment-plans-and-assistance-programs/income-based-programs-for-residents/set-up-real-estate-tax-installment-plan/
 /revenue/job-creation-tax-credit          301  /services/payments-assistance-taxes/taxes/tax-credits/business-tax-credits/job-creation-tax-credit/
 /revenue/jumpstart                        301  /services/payments-assistance-taxes/taxes/tax-credits/business-tax-credits/jump-start-philly/
-/revenue/lunch-and-learn                  301  /2025-12-08-join-us-for-revenues-first-ever-lunch-learn-webinar-series/
+/revenue/lunch-?and-?learn                  301  /2025-12-08-join-us-for-revenues-first-ever-lunch-learn-webinar-series/
 /revenue/mef                              301  /services/payments-assistance-taxes/taxes/filing-and-paying-your-taxes/use-modernized-e-filing-mef-for-city-taxes/
 /revenue/payment-appointment              301  /services/payments-assistance-taxes/taxes/filing-and-paying-your-taxes/make-an-appointment-to-pay-city-taxes-or-a-water-bill-in-person/
 /revenue/pbt                              301  /services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-type/philadelphia-beverage-tax-pbt/
