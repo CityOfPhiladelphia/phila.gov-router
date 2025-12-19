@@ -262,7 +262,7 @@
 /businesssupport                          301  /departments/department-of-commerce/for-businesses/
 /businessattraction                       301  /departments/department-of-commerce/about-us/divisions/office-of-business-development-and-workforce-solutions/
 /business/crime-prevention-tips           301  /2023-03-06-crime-prevention-tips-for-your-business-and-employees/
-/business-?tax-?prep                      301  /2025-07-09-coming-soon-free-business-tax-assistance-program/
+/business-?tax-?prep                      301  /2025-12-18-city-launches-the-free-business-tax-preparation-program/
 /business-?taxes                          301  /services/payments-assistance-taxes/taxes/business-taxes/
 /business-taxes/sales-use-tax             301  /services/business-self-employment/business-taxes/sales-use-hotel-occupancy-tax/
 /business-taxes/sweetened-beverage-tax    301  /services/business-self-employment/business-taxes/philadelphia-beverage-tax/
@@ -330,6 +330,7 @@
 /commerce/pages/default.aspx              301  /departments/department-of-commerce/
 /commerce(.*)                             301  /departments/department-of-commerce/
 /commercial-activity-license              301  /services/permits-violations-licenses/get-a-license/business-licenses/activity/get-a-commercial-activity-license/
+/commercial-?waste                        301  /services/trash-recycling-city-upkeep/commercial-trash-and-recycling/file-your-business-waste-and-recycling-compliance-forms/ 
 /community-?schools                       301  /programs/community-schools/ 
 /complete-?streets                         301  /programs/complete-streets/
 /complete-streets/11th-master-diamond     301  /documents/11th-master-diamond/
@@ -2789,6 +2790,8 @@
 /services/streets-sidewalks-alleys/submit-a-service-request-with-311/ 301  /services/streets-sidewalks-alleys/report-a-problem-on-a-city-street-sidewalk-or-alley/submit-a-service-request-with-311/
 /services/streets-sidewalks-alleys/track-a-service-request-with-311/ 301  /services/streets-sidewalks-alleys/report-a-problem-on-a-city-street-sidewalk-or-alley/track-a-service-request-with-311/
 /services/streets-sidewalks-alleys/trash-recycling-pickup-schedules/ 301  /services/trash-recycling-city-upkeep/find-your-trash-and-recycling-collection-day/#/
+/services/trash-recycling-city-upkeep/commercial-trash-and-recycling/file-a-commercial-waste-report/  301/  /services/trash-recycling-city-upkeep/commercial-trash-and-recycling/file-your-business-waste-and-recycling-compliance-forms/ 
+/services/trash-recycling-city-upkeep/commercial-trash-and-recycling/file-an-act-101-recycling-tonnage-report/  301 /services/trash-recycling-city-upkeep/commercial-trash-and-recycling/file-your-business-waste-and-recycling-compliance-forms/ 
 /services/trash-recycling-city-upkeep/commercial-trash-and-recycling/pay-your-refuse-collection-fee/ 301  /services/trash-recycling-city-upkeep/commercial-trash-and-recycling/pay-your-commercial-trash-fee/
 /services/trash-recycling-city-upkeep/dispose-of-christmas-trees-leaves-or-pumpkins/	301  /services/trash-recycling-city-upkeep/
 /services/trash-recycling-city-upkeep/find-a-trash-or-recycling-center/	301  /services/trash-recycling-city-upkeep/find-a-sanitation-convenience-center-to-drop-off-trash-or-recycling/
