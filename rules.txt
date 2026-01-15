@@ -489,6 +489,7 @@
 /departments/office-of-community-empowerment-and-opportunity/advocacy/ 301  /departments/office-of-community-empowerment-and-opportunity/programs-we-support/
 /departments/office-of-criminal-justice/  301  /departments/division-of-criminal-justice/ 
 /departments/office-of-engagement-for-women(.*) 301  /departments/mayors-office-of-engagement-for-women$1
+/departments/office-of-the-director-of-finance/cdbg-dr-program/program-documents/  301  /departments/office-of-the-director-of-finance/cdbg-dr-program/programs/
 /departments/office-of-fleet-management/ 301  /departments/department-of-fleet-services/
 /departments/office-of-fleet-management/efficiency-measures/	301  /departments/department-of-fleet-services/efficiency-measures/
 /departments/office-of-human-resources/job-specs/ 301  /departments/office-of-human-resources/careers/job-class-specifications/
