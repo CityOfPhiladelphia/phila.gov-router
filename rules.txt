@@ -1960,6 +1960,7 @@
 /revenue/uo-?tax                          301  /services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-type/use-occupancy-tax/
 /revenue/use-occupancy                    301  /services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-type/use-occupancy-tax/
 /revenue/wage-tax-petition                301  /documents/income-based-wage-tax-refund-petition/
+/revenue/W2-?submission-?instructions     301  /documents/w-2-submission-instructions/ 
 /revenue(.*)                              301  /departments/department-of-revenue/
 /revtaxes/index.html	                    301  /departments/board-of-revision-of-taxes/
 /rgrp                                     301  /2021-01-22-philadelphia-covid-19-restaurant-and-gym-relief-program/
