@@ -3001,6 +3001,7 @@
 /unitycup                                 301  http://unitycup.phila.gov
 /universalprek(.*)                        301  /programs/quality-pre-k/
 /up-?and-?away                            301  /2022-03-25-keep-medicines-and-drugs-up-and-out-of-reach-of-children/ 
+/UPHF                                     301  /services/mental-physical-health/medical-professionals/apply-for-an-urban-health-policy-fellowship/ 
 /vaccines?                                301  /services/mental-physical-health/get-vaccinated/
 /vaccine-?interest                        301  /services/mental-physical-health/get-vaccinated/get-your-covid-19-vaccine/
 /vacancymap                               301  http://phl.maps.arcgis.com/apps/webappviewer/index.html?id=64ac160773d04952bc17ad895cc00680
