@@ -1778,6 +1778,7 @@
 /programs/mayors-volunteers/              301  /departments/office-of-community-empowerment-and-opportunity/
 /programs/mechanical-street-cleaning/phase-2-pilot/      301  /programs/mechanical-street-cleaning/cleaning-schedule/
 /programs/my-brothers-keeper-philly/      301  /departments/mayors-office-of-black-male-engagement/ 
+/programs/newsontap                       301  /programs/housing-and-disability-technical-assistance-program/
 /programs/opioid-response-unit/(.*)       301  /programs/overdose-response-unit/$1
 /programs/philacan-pilot-program/         301  /programs/philacan-program/
 /programs/philacan-pilot-program/philacan-pilot-program-interest-form/  301    /programs/philacan-program/philacan-program-interest-form/
