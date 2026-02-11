@@ -844,6 +844,7 @@
 /documents/luzerne-street-american-st-to-m-st-traffic-safety-project/ 301 /documents/luzerne-american-m/
 /documents/mail-in-ballot-guide-postcard/  301  https://vote.phila.gov/
 /documents/mayorkenneyfy2017budget/	301  /documents/budget-addresses-and-presentations-from-the-kenney-administration/
+/documents/mayors-box-ticket-reports-kenney-administration/  301  /documents/mayors-box-ticket-reports/ 
 /departments/mayors-office-of-public-engagement/   301  /departments/mayors-office-of-constituency-engagement/  
 /documents/mayors-volunteer-corps-zine/   301  /departments/office-of-community-empowerment-and-opportunity/
 /documents/mayors-volunteer-zine/         301  /departments/office-of-community-empowerment-and-opportunity/
@@ -1778,6 +1779,7 @@
 /programs/mayors-volunteers/              301  /departments/office-of-community-empowerment-and-opportunity/
 /programs/mechanical-street-cleaning/phase-2-pilot/      301  /programs/mechanical-street-cleaning/cleaning-schedule/
 /programs/my-brothers-keeper-philly/      301  /departments/mayors-office-of-black-male-engagement/ 
+/programs/newsontap                       301  /programs/housing-and-disability-technical-assistance-program/
 /programs/opioid-response-unit/(.*)       301  /programs/overdose-response-unit/$1
 /programs/philacan-pilot-program/         301  /programs/philacan-program/
 /programs/philacan-pilot-program/philacan-pilot-program-interest-form/  301    /programs/philacan-program/philacan-program-interest-form/
