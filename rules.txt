@@ -278,6 +278,8 @@
 /camps                                    301  /services/culture-recreation/activities-and-events/register-for-summer-camp/
 /candidate-?resources                     301  /departments/mayor/resources-for-2023-mayoral-candidates/
 /cao                                      301  /departments/office-of-the-chief-administrative-officer/
+/capital-projects-finder$                 301  /capital-projects-finder/
+/capital-projects-finder/(.*)             200  http://phila-resource-finder-v2.s3-website-us-east-1.amazonaws.com/capital-projects-finder/$1
 /catalyst-?fund                           301  /programs/the-catalyst-fund/
 /ccme                                     301  /programs/city-college-for-municipal-employment-ccme
 /ccvc                                     301  /2021-03-02-getting-vaccinated-at-the-center-city-vaccination-center-what-you-need-to-know/
