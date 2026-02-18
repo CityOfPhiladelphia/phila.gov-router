@@ -1956,6 +1956,7 @@
 /revenue/pbt                              301  /services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-type/philadelphia-beverage-tax-pbt/
 /revenue/pbt-instructions                 301  /services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-type/philadelphia-beverage-tax-pbt/
 /revenue/realestatetax(.*)                301  https://tax-services.phila.gov/_/?Link=PropertySearch
+/revenue/refunds                          301  /services/payments-assistance-taxes/taxes/refunds/
 /revenue/resolve-debt                     301  /services/payments-assistance-taxes/resolve-judgments-liens-and-debts/
 /revenue/sustainable-jump-start           301  /services/payments-assistance-taxes/taxes/tax-credits/business-tax-credits/sustainable-jump-start-tax-credit/
 /revenue/sustainable-tax-credit           301  /services/payments-assistance-taxes/taxes/tax-credits/business-tax-credits/sustainable-business-tax-credit/
