@@ -334,6 +334,7 @@
 /commercial-activity-license              301  /services/permits-violations-licenses/get-a-license/business-licenses/activity/get-a-commercial-activity-license/
 /commercial-?waste                        301  /services/trash-recycling-city-upkeep/commercial-trash-and-recycling/file-your-business-waste-and-recycling-compliance-forms/ 
 /community-?schools                       301  /programs/community-schools/ 
+/community-?tech-?expo                    301  /spotlight/power-up-philly-community-tech-expo
 /complete-?streets                         301  /programs/complete-streets/
 /complete-streets/11th-master-diamond     301  /documents/11th-master-diamond/
 /complete-streets/57th-upland-wynnefield  301  /documents/57th-upland-wynnefield
