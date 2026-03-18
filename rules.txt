@@ -892,6 +892,7 @@
 /documents/philadelphia-fire-department-fact-sheet-fy-2019/	301  /documents/philadelphia-fire-department-fact-sheet/
 /documents/philadelphia-investor-conference-2022/	301  /programs/investor-information/
 /documents/philadelphia-investor-conference-presentations/	301  /programs/investor-information/
+/documents/philadelphia-patient-receiving-hospital-list/   301  /departments/philadelphia-regional-office-of-emergency-medical-services/resources/philadelphia-patient-receiving-hospitals-list/ 
 /documents/philadelphia-police-department-ada-registration-form/ 301  /services/safety-emergency-preparedness/notify-911-dispatchers-of-disability-needs-in-your-household/
 /documents/philadelphia-prisons-daily-census/ 301  /departments/philadelphia-department-of-prisons/daily-headcount-and-census/
 /documents/philadelphia-regional-office-of-ems-annual-report-fiscal-year-2020/	301  /documents/philadelphia-regional-office-of-ems-annual-reports/
@@ -2145,6 +2146,7 @@
 /services/crime-law-justice/inmates/send-mail-to-someone-in-jail-or-prison/ 301  /services/crime-law-justice/prisons-incarcerated-people-and-returning-citizens/finding-and-contacting-incarcerated-people/contact-an-incarcerated-person-by-mail/
 /services/crime-law-justice/inmates/visit-a-person-in-jail-or-prison/  301  /services/crime-law-justice/prisons-incarcerated-people-and-returning-citizens/finding-and-contacting-incarcerated-people/visit-an-incarcerated-person/
 /services/crime-law-justice/inmates/visit-an-inmate/	301  /services/crime-law-justice/prisons-incarcerated-people-and-returning-citizens/finding-and-contacting-incarcerated-people/visit-an-incarcerated-person/
+/services/crime-law-justice/police/find-a-police-station/  301  /services/crime-law-justice/police/find-a-police-district/ 
 /services/crime-law-justice/police/get-a-police-report/ 301  /services/crime-law-justice/get-a-copy-of-a-public-safety-report/
 /services/crime-law-justice/recommend-an-officer-for-commendation/	301  /services/crime-law-justice/police/recommend-a-police-officer-for-commendation/
 /services/crime-law-justice/report-a-crime-or-concern/report-a-noise-violation/ 301  /services/mental-physical-health/report-a-health-or-safety-concern/report-air-and-noise-pollution/
@@ -2958,6 +2960,7 @@
 /Style%20Library?(.*)                     301  /style-library$1
 /substance-?use                           301  /programs/substance-use-prevention-and-harm-reduction/
 /sUAS-commercial-form                     301  https://veoci.com/veoci/p/form/2ftf44vkr7b3
+/summermeals                              301  /2026-03-12-summer-meals-and-sun-bucks-what-philadelphia-families-and-providers-need-to-know/
 /summer-?camp                             301  /services/culture-recreation/activities-and-events/register-for-summer-camp/
 /summer-programs$                         301  /summer-programs/
 /summer-programs/(.*)                     200  http://phila-resource-finder.s3-website-us-east-1.amazonaws.com/summer-program/prod/$1
