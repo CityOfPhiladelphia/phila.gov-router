@@ -2895,7 +2895,7 @@
 /smartchoice/?$                           301  /departments/department-of-commerce/about-us/divisions/office-of-business-development-and-workforce-solutions/
 /smart-loading-zones                      301  /programs/smartcityphl/smart-loading-zones/
 /snap-?support-?grant                     301  https://www.phila.gov/2025-11-03-apply-for-funding-to-support-philadelphia-residents-through-the-one-philly-snap-support-program
-/solarmap                                 301  https://phl.maps.arcgis.com/apps/MapSeries/index.html?appid=c1a5d30acec04aec8c4acfa4cc60a311
+/solarmap                                 301  https://experience.arcgis.com/experience/324e94d1b01048fa9c6fb54384566135
 /solarproject                             301  /2020-02-03-here-is-your-chance-to-name-phillys-solar-project/
 /solar-rebate                             301  /programs/solar-rebate-program/
 /southwark                                301  /programs/community-schools/southwark-school/
@@ -2955,7 +2955,7 @@
 /streets/pmbc                             301  /programs/philadelphia-more-beautiful-committee/
 /streets/paving                           301  /departments/department-of-streets/roadways/maintenance/paving/
 /streets/surveysdesign.html	              301  /departments/board-of-surveyors/
-/stressmap                                301  https://phl.maps.arcgis.com/apps/MapSeries/index.html?appid=47afd9a9dcfa4637a2f88024d1c210b4
+/stressmap                                301  https://experience.arcgis.com/experience/836f13bc436c4580b90beeebd1472273
 /streetspermit                            301  https://stsweb.phila.gov/permitphl
 /Style%20Library?(.*)                     301  /style-library$1
 /substance-?use                           301  /programs/substance-use-prevention-and-harm-reduction/
