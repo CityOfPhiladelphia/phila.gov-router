@@ -3010,8 +3010,6 @@
 /Treasurer/aboutus/Pages/history.aspx     301  /departments/city-treasurers-office/about/
 /Treasurer/aboutus/Pages/Mission.aspx     301  /departments/city-treasurers-office/
 /tree-trench                              301  https://water.phila.gov/gsi/tools/tree-trench/
-/try-directus$                            301  /try-directus/
-/try-directus/(.*)                        200  http://philag-servi-vp1zaapilcqc-1517467386.us-east-1.elb.amazonaws.com/$1
 /unitycup                                 301  http://unitycup.phila.gov
 /universalprek(.*)                        301  /programs/quality-pre-k/
 /up-?and-?away                            301  /2022-03-25-keep-medicines-and-drugs-up-and-out-of-reach-of-children/ 
