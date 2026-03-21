@@ -334,6 +334,7 @@
 /commercial-activity-license              301  /services/permits-violations-licenses/get-a-license/business-licenses/activity/get-a-commercial-activity-license/
 /commercial-?waste                        301  /services/trash-recycling-city-upkeep/commercial-trash-and-recycling/file-your-business-waste-and-recycling-compliance-forms/ 
 /community-?schools                       301  /programs/community-schools/ 
+/community-?tech-?expo                    301  /spotlight/power-up-philly-community-tech-expo
 /complete-?streets                         301  /programs/complete-streets/
 /complete-streets/11th-master-diamond     301  /documents/11th-master-diamond/
 /complete-streets/57th-upland-wynnefield  301  /documents/57th-upland-wynnefield
@@ -891,6 +892,7 @@
 /documents/philadelphia-fire-department-fact-sheet-fy-2019/	301  /documents/philadelphia-fire-department-fact-sheet/
 /documents/philadelphia-investor-conference-2022/	301  /programs/investor-information/
 /documents/philadelphia-investor-conference-presentations/	301  /programs/investor-information/
+/documents/philadelphia-patient-receiving-hospital-list/   301  /departments/philadelphia-regional-office-of-emergency-medical-services/resources/philadelphia-patient-receiving-hospitals-list/ 
 /documents/philadelphia-police-department-ada-registration-form/ 301  /services/safety-emergency-preparedness/notify-911-dispatchers-of-disability-needs-in-your-household/
 /documents/philadelphia-prisons-daily-census/ 301  /departments/philadelphia-department-of-prisons/daily-headcount-and-census/
 /documents/philadelphia-regional-office-of-ems-annual-report-fiscal-year-2020/	301  /documents/philadelphia-regional-office-of-ems-annual-reports/
@@ -1844,6 +1846,7 @@
 /property-taxes/realty-transfer-tax       301  /services/property-lots-housing/property-taxes/realty-transfer-tax/
 /property/data$                           301  /property/data/
 /property/data/(.*)                       200  https://cityofphiladelphia.github.io/property-download/$1
+/ps360/kensington                         301  https://experience.arcgis.com/experience/0e59ffc62b32428d8014b80e17ae3475 
 /ps-?360                                  301  https://philly-stat-360.phila.gov/
 /pt$                                      301  /pt/
 /public-?safety                           301  /departments/office-of-public-safety/ 
@@ -1956,6 +1959,7 @@
 /revenue/pbt                              301  /services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-type/philadelphia-beverage-tax-pbt/
 /revenue/pbt-instructions                 301  /services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-type/philadelphia-beverage-tax-pbt/
 /revenue/realestatetax(.*)                301  https://tax-services.phila.gov/_/?Link=PropertySearch
+/revenue/refunds                          301  /services/payments-assistance-taxes/taxes/refunds/
 /revenue/resolve-debt                     301  /services/payments-assistance-taxes/resolve-judgments-liens-and-debts/
 /revenue/sustainable-jump-start           301  /services/payments-assistance-taxes/taxes/tax-credits/business-tax-credits/sustainable-jump-start-tax-credit/
 /revenue/sustainable-tax-credit           301  /services/payments-assistance-taxes/taxes/tax-credits/business-tax-credits/sustainable-business-tax-credit/
@@ -2097,6 +2101,8 @@
 /services/business-self-employment/starting-a-business/trade-licenses/register-in-eclipse-as-a-design-professional-or-attorney-of-record/	301  /services/permits-violations-licenses/apply-for-a-permit/register-in-eclipse-as-a-design-professional-or-attorney-of-record/
 /services/business-self-employment/starting-a-business/trade-licenses/submit-as-a-pa-home-improvement-contractor-to-get-construction-permits/	301  /services/permits-violations-licenses/apply-for-a-permit/submit-as-a-pa-home-improvement-contractor-to-get-construction-permits/
 /services/business-self-employment/support-for-businesses/find-loans-through-the-philadelphia-business-lending-network/    301  /programs/philadelphia-business-lending-network/ 
+/services/business-self-employment/find-a-minority-woman-or-disabled-owned-business/ 301  /departments/office-of-economic-opportunity/ 
+/services/business-self-employment/bidding-on-a-city-contract/register-as-a-minority-woman-or-disabled-owned-business/ 301  /departments/office-of-economic-opportunity/ 
 /services/business-taxes/business-income-receipts-tax-birt/	301  /services/payments-assistance-taxes/business-taxes/business-income-receipts-tax-birt/
 /services/cars-parking-transportation/apply-for-a-disabled-parking-permit/     301  /services/cars-parking-transportation/apply-for-a-parking-permit/apply-for-a-disabled-parking-permit/
 /services/cars-parking-transportation/apply-for-a-residential-parking-permit/  301  /services/cars-parking-transportation/apply-for-a-parking-permit/apply-for-a-residential-parking-permit/
@@ -2142,6 +2148,7 @@
 /services/crime-law-justice/inmates/send-mail-to-someone-in-jail-or-prison/ 301  /services/crime-law-justice/prisons-incarcerated-people-and-returning-citizens/finding-and-contacting-incarcerated-people/contact-an-incarcerated-person-by-mail/
 /services/crime-law-justice/inmates/visit-a-person-in-jail-or-prison/  301  /services/crime-law-justice/prisons-incarcerated-people-and-returning-citizens/finding-and-contacting-incarcerated-people/visit-an-incarcerated-person/
 /services/crime-law-justice/inmates/visit-an-inmate/	301  /services/crime-law-justice/prisons-incarcerated-people-and-returning-citizens/finding-and-contacting-incarcerated-people/visit-an-incarcerated-person/
+/services/crime-law-justice/police/find-a-police-station/  301  /services/crime-law-justice/police/find-a-police-district/ 
 /services/crime-law-justice/police/get-a-police-report/ 301  /services/crime-law-justice/get-a-copy-of-a-public-safety-report/
 /services/crime-law-justice/recommend-an-officer-for-commendation/	301  /services/crime-law-justice/police/recommend-a-police-officer-for-commendation/
 /services/crime-law-justice/report-a-crime-or-concern/report-a-noise-violation/ 301  /services/mental-physical-health/report-a-health-or-safety-concern/report-air-and-noise-pollution/
@@ -2890,7 +2897,7 @@
 /smartchoice/?$                           301  /departments/department-of-commerce/about-us/divisions/office-of-business-development-and-workforce-solutions/
 /smart-loading-zones                      301  /programs/smartcityphl/smart-loading-zones/
 /snap-?support-?grant                     301  https://www.phila.gov/2025-11-03-apply-for-funding-to-support-philadelphia-residents-through-the-one-philly-snap-support-program
-/solarmap                                 301  https://phl.maps.arcgis.com/apps/MapSeries/index.html?appid=c1a5d30acec04aec8c4acfa4cc60a311
+/solarmap                                 301  https://experience.arcgis.com/experience/324e94d1b01048fa9c6fb54384566135
 /solarproject                             301  /2020-02-03-here-is-your-chance-to-name-phillys-solar-project/
 /solar-rebate                             301  /programs/solar-rebate-program/
 /southwark                                301  /programs/community-schools/southwark-school/
@@ -2950,11 +2957,12 @@
 /streets/pmbc                             301  /programs/philadelphia-more-beautiful-committee/
 /streets/paving                           301  /departments/department-of-streets/roadways/maintenance/paving/
 /streets/surveysdesign.html	              301  /departments/board-of-surveyors/
-/stressmap                                301  https://phl.maps.arcgis.com/apps/MapSeries/index.html?appid=47afd9a9dcfa4637a2f88024d1c210b4
+/stressmap                                301  https://experience.arcgis.com/experience/836f13bc436c4580b90beeebd1472273
 /streetspermit                            301  https://stsweb.phila.gov/permitphl
 /Style%20Library?(.*)                     301  /style-library$1
 /substance-?use                           301  /programs/substance-use-prevention-and-harm-reduction/
 /sUAS-commercial-form                     301  https://veoci.com/veoci/p/form/2ftf44vkr7b3
+/summermeals                              301  /2026-03-12-summer-meals-and-sun-bucks-what-philadelphia-families-and-providers-need-to-know/
 /summer-?camp                             301  /services/culture-recreation/activities-and-events/register-for-summer-camp/
 /summer-programs$                         301  /summer-programs/
 /summer-programs/(.*)                     200  http://phila-resource-finder.s3-website-us-east-1.amazonaws.com/summer-program/prod/$1
