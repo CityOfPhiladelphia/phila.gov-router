@@ -1847,6 +1847,7 @@
 /property/data$                           301  /property/data/
 /property/data/(.*)                       200  https://cityofphiladelphia.github.io/property-download/$1
 /ps360/kensington                         301  https://experience.arcgis.com/experience/0e59ffc62b32428d8014b80e17ae3475 
+/ps360/riverview                          301  https://storymaps.arcgis.com/stories/0f91b5c77acf4683b8d9d39d2c604139 
 /ps-?360                                  301  https://philly-stat-360.phila.gov/
 /pt$                                      301  /pt/
 /public-?safety                           301  /departments/office-of-public-safety/ 
