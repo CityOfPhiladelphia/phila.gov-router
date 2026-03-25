@@ -728,6 +728,7 @@
 /documents/alternate-pension-payee-application/	301  /documents/pension-alternate-payee-application/
 /documents/amendment-and-extension-permit-materials/    301     /departments/department-of-licenses-and-inspections/permits-and-certificates/zoning-permits-and-approvals/zoning-permit-materials/#/
 /documents/appeal-form-for-the-impoundment-of-an-atv-dune-buggy-or-dirt-bike/	301  /departments/bureau-of-administrative-adjudication/
+/documents/application-for-a-pennsylvania-license-to-carry-firearm/  301   /services/permits-violations-licenses/get-a-license/get-a-gun-license/ 
 /documents/application-for-a-pennsylvania-license-to-carry-firearms/	301  /documents/application-for-a-pennsylvania-license-to-carry-firearm/
 /documents/application-for-sheriff-tax-sale-escrow-program/	301  /services/property-lots-housing/foreclosure-sheriff-sales/
 /documents/apply-to-start-a-covid-19-vaccination-and-testing-micro-site-program/	301  /programs/coronavirus-disease-2019-covid-19/
@@ -1865,6 +1866,7 @@
 /publications-forms(.*)                   301  /documents/
 /public-?property	                      301  /departments/department-of-public-property/
 /public-?restroom(.*)                     301  /2024-10-16-philadelphias-public-restroom-pilot-the-philly-phlush/
+/PYRF                                     301  /2026-03-20-connect-learn-thrive-join-us-at-the-4th-annual-parent-youth-resource-fair/
 /quality-?jobs-?program                   301  /programs/quality-jobs-program/
 /quality-pre-k                            301  /programs/quality-pre-k/
 /qualityoflife                            301  /departments/community-life-improvement-program/
@@ -2008,6 +2010,7 @@
 /services/birth-marriage-life-events/register-a-life-partnership/ 301  /services/birth-marriage-life-events/marriage-and-divorce/register-a-life-partnership/
 /services/birth-marriage-life-events/terminate-a-life-partnership/ 301  /services/birth-marriage-life-events/marriage-and-divorce/terminate-a-life-partnership/
 /services/business-self-employment/apply-for-a-trade-license/	301  /services/permits-violations-licenses/get-a-license/trade-licenses/
+/services/business-self-employment/bidding-on-a-city-contract/register-as-a-minority-woman-or-disabled-owned-business/  301 /departments/office-of-economic-opportunity/  
 /services/business-self-employment/bid-on-a-public-works-contract/	301  /services/business-self-employment/bidding-on-a-city-contract/bid-on-a-public-works-contract/
 /services/business-self-employment/bid-on-a-supplies-equipment-and-non-professional-services-contract/	301  /services/business-self-employment/bidding-on-a-city-contract/bid-on-a-supplies-equipment-and-non-professional-services-contract/
 /services/business-self-employment/business-licenses-permits-and-approvals/ 301  /services/permits-violations-licenses/get-a-license/business-licenses/
@@ -2017,6 +2020,7 @@
 /services/business-self-employment/business-licenses-permits-and-approvals/get-a-commercial-activity-license/	301  /services/permits-violations-licenses/get-a-license/business-licenses/activity/get-a-commercial-activity-license/
 /services/business-self-employment/business-licenses-permits-and-approvals/other-businesses/	301  /services/permits-violations-licenses/get-a-license/business-licenses/other-businesses/
 /services/business-self-employment/business-licenses-permits-and-approvals/vending-and-street-sales/	301  /services/permits-violations-licenses/get-a-license/business-licenses/vending-and-street-sales/
+/services/business-self-employment/find-a-minority-woman-or-disabled-owned-business/  301  //departments/office-of-economic-opportunity/ 
 /services/business-self-employment/find-financial-support-and-incentives-for-your-business/ 301  /business-self-employment/support-for-businesses/find-financial-support-and-incentives-for-your-business/
 /services/business-self-employment/find-loans-through-the-philadelphia-business-lending-network/ 301  /services/business-self-employment/support-for-businesses/find-loans-through-the-philadelphia-business-lending-network/
 /services/business-self-employment/for-vendors/	301  /services/business-self-employment/bidding-on-a-city-contract/
@@ -2655,6 +2659,7 @@
 /services/permits-violations-licenses/get-a-license/business-licenses/real-estate/?(.*) 301  /services/permits-violations-licenses/get-a-license/business-licenses/rental-and-property/$1
 /services/permits-violations-licenses/get-a-license/business-licenses/real-estate/get-a-limited-lodging-and-hotels-booking-agent-license/ 301  /services/permits-violations-licenses/get-a-license/business-licenses/rental-and-property/get-a-limited-lodging-booking-agent-license/
 /services/permits-violations-licenses/get-a-license/business-licenses/rental-and-property/get-a-limited-lodging-and-hotels-booking-agent-license/ 301  /services/permits-violations-licenses/get-a-license/business-licenses/rental-and-property/get-a-limited-lodging-booking-agent-license/
+/services/permits-violations-licenses/get-a-license/business-licenses/other-businesses/get-a-fleet-vehicle-mobile-fueling-license/  301  /services/permits-violations-licenses/get-a-license/business-licenses/other-businesses/get-a-fleet-vehicle-mobile-fueling-license/
 /services/permits-violations-licenses/get-a-license/find-out-what-license-you-need-for-your-business/  301  /services/permits-violations-licenses/get-a-license/business-licenses-permits-and-approvals/
 /services/permits-violations-licenses/get-a-license/search-for-property-history-and-business-license-information/ 301  /services/permits-violations-licenses/rent-or-sell-property/search-for-property-history-and-business-license-information/
 /services/permits-violations-licenses/get-a-license/trade-licenses/get-a-hot-work-license/ 301  /services/permits-violations-licenses/get-a-license/business-licenses/other-businesses/get-a-hot-work-license/
