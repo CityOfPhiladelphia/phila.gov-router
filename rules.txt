@@ -2020,7 +2020,7 @@
 /services/business-self-employment/business-licenses-permits-and-approvals/get-a-commercial-activity-license/	301  /services/permits-violations-licenses/get-a-license/business-licenses/activity/get-a-commercial-activity-license/
 /services/business-self-employment/business-licenses-permits-and-approvals/other-businesses/	301  /services/permits-violations-licenses/get-a-license/business-licenses/other-businesses/
 /services/business-self-employment/business-licenses-permits-and-approvals/vending-and-street-sales/	301  /services/permits-violations-licenses/get-a-license/business-licenses/vending-and-street-sales/
-/services/business-self-employment/find-a-minority-woman-or-disabled-owned-business/  301  //departments/office-of-economic-opportunity/ 
+/services/business-self-employment/find-a-minority-woman-or-disabled-owned-business/  301  /departments/office-of-economic-opportunity/ 
 /services/business-self-employment/find-financial-support-and-incentives-for-your-business/ 301  /business-self-employment/support-for-businesses/find-financial-support-and-incentives-for-your-business/
 /services/business-self-employment/find-loans-through-the-philadelphia-business-lending-network/ 301  /services/business-self-employment/support-for-businesses/find-loans-through-the-philadelphia-business-lending-network/
 /services/business-self-employment/for-vendors/	301  /services/business-self-employment/bidding-on-a-city-contract/
