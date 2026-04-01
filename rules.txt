@@ -414,6 +414,7 @@
 /departments/department-of-commerce/investing-in-neighborhoods/?(.*) 301  /departments/department-of-commerce/for-community-organizations/$1
 /departments/department-of-commerce/investing-in-neighborhoods/small-business-improvement-programs/ 301  /departments/department-of-commerce/for-businesses/
 /departments/department-of-commerce/supporting-business/?(.*) 301  /departments/department-of-commerce/for-businesses/$1
+/departments/department-of-licenses-and-inspections/about/contact-us/#district-offices  301  /departments/department-of-licenses-and-inspections/about/contact-us/#district-office-locations
 /departments/department-of-licenses-and-inspections/inspections/fire-protection-certifications/	301  /departments/department-of-licenses-and-inspections/inspections/maintenance-certifications/fire-protection-certifications/
 /departments/department-of-licenses-and-inspections/inspections/violation-types/   301  /departments/department-of-licenses-and-inspections/inspections/violation-and-order-types/
 /departments/department-of-licenses-and-inspections/licenses/business-licenses/rental-licenses/  301  /departments/department-of-licenses-and-inspections/licenses/rental-and-property-licenses/
@@ -1116,6 +1117,8 @@
 /HIVprevention                            301  /2025-10-17-hiv-basics-stay-informed-on-all-there-is-to-know-about-hiv/
 /holiday-?celebrations                    301  /spotlight/holiday-celebrations
 /home-?appraisal-?bias                    301  /programs/home-appraisal-bias-program
+/home-?initiative/curbside-?appeal        301  /programs/home-initiative/curbside-appeal-program/ 
+/home-?initiative/wills-?program          301  /programs/wills-?program/ 
 /homeless-?services                       301  /departments/office-of-homeless-services/
 /homestead                                301  /services/property-lots-housing/get-real-estate-tax-relief/get-the-homestead-exemption/
 /homebuynow(.*)                           301  https://cedphilly.org/philadelphia-home-buy-now
