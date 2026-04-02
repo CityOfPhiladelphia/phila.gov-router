@@ -1446,6 +1446,7 @@
 /philly-counts                            301  /programs/philly-counts/
 /programs/philly-counts-2020(.*)          301  /programs/philly-counts$1
 /programs/reimagining-?market-?east/      301  /programs/market-east/  
+/philly-?forward                          301  /2026-04-02-philly-forward-proposed-fy27-investments-in-philadelphias-future
 /phillyrising(.*)                         301  /departments/office-of-community-empowerment-and-opportunity/
 /PHLConnectED                             301  /programs/phlconnected/
 /phldonatetech                            301  /2023-05-02-phldonatetech/
