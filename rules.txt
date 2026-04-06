@@ -414,7 +414,6 @@
 /departments/department-of-commerce/investing-in-neighborhoods/?(.*) 301  /departments/department-of-commerce/for-community-organizations/$1
 /departments/department-of-commerce/investing-in-neighborhoods/small-business-improvement-programs/ 301  /departments/department-of-commerce/for-businesses/
 /departments/department-of-commerce/supporting-business/?(.*) 301  /departments/department-of-commerce/for-businesses/$1
-/departments/department-of-licenses-and-inspections/about/contact-us/#district-offices  301  /departments/department-of-licenses-and-inspections/about/contact-us/
 /departments/department-of-licenses-and-inspections/inspections/fire-protection-certifications/	301  /departments/department-of-licenses-and-inspections/inspections/maintenance-certifications/fire-protection-certifications/
 /departments/department-of-licenses-and-inspections/inspections/violation-types/   301  /departments/department-of-licenses-and-inspections/inspections/violation-and-order-types/
 /departments/department-of-licenses-and-inspections/licenses/business-licenses/rental-licenses/  301  /departments/department-of-licenses-and-inspections/licenses/rental-and-property-licenses/
