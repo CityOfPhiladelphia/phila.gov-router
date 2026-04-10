@@ -548,6 +548,7 @@
 /departments/office-of-the-city-solicitor/	301  /departments/law-department/
 /departments/office-of-the-director-of-finance/contact-information/ 301  /departments/office-of-the-director-of-finance/about/units/
 /departments/office-of-the-director-of-finance/hurricane-ida-recovery-funding/ 301  /departments/office-of-the-director-of-finance/cdbg-dr-program/
+/departments/office-of-economic-opportunity/?.*  301  /departments/office-of-business-impact-and-economic-advancement/office-of-economic-opportunity/ 
 /departments/office-of-transportation-infrastructure-sustainability/ 301  /departments/office-of-transportation-and-infrastructure-systems/
 /departments/office-of-transportation-infrastructure-sustainability/our-team/ 301  /departments/office-of-transportation-and-infrastructure-systems/our-team/
 /departments/office-of-transportation-infrastructure-sustainability/resources/ 301  /departments/office-of-transportation-and-infrastructure-systems/resources/
