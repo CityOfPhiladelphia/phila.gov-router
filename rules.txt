@@ -1450,6 +1450,7 @@
 /phillyid/pages/default.aspx              301  /programs/phl-city-id/
 /phillycounts                             301  /programs/philly-counts/
 /philly-counts                            301  /programs/philly-counts/
+/philly-?fellows                          301  /programs/philadelphia-public-service-fellows/ 
 /phillyprams2026                          301  https://phlpublichealth.iad1.qualtrics.com/jfe/form/SV_bkmiQMrQaO1FtFI
 /programs/philly-counts-2020(.*)          301  /programs/philly-counts$1
 /programs/reimagining-?market-?east/      301  /programs/market-east/  
