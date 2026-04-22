@@ -1410,12 +1410,15 @@
 /pensions/aboutus/Pages/default.aspx      301  /departments/board-of-pensions-and-retirement/
 /pensions/Pages/default.aspx              301  /departments/board-of-pensions-and-retirement/
 /pensions/aboutus/Pages/StaffDirectory.aspx 301  /departments/board-of-pensions-and-retirement/
+/pensions/investments/Pages/default.aspx  301  /departments/board-of-pensions-and-retirement/investments/#/
+/pensions/minutes/Pages/default.aspx      301 /departments/board-of-pensions-and-retirement/meeting-minutes/#/  
 /pensions/PDF/DirDep--Direct%20Deposit%20Application.pdf 301  /documents/pension-direct-deposit-application/
 /pensions/PDF/Alternate%20Payee%20Pension%20Application.pdf 301  /documents/pension-alternate-payee-application/
 /pensions/PDF/DROP%20Application-Rev.2011.pdf 301  /documents/pension-deferred-retirement-option-plan-drop-application/
 /pensions/PDF/Survivor%20Application.pdf  301  /documents/pension-designated-survivor-application/
 /pensions/PDF/ips.pdf                     301  /media/20240516111338/Pensions-Investment-Policy-Statement.pdf
 /pensions/PDF/IPS_42414.pdf               301  /media/20240516111338/Pensions-Investment-Policy-Statement.pdf
+/pensions/reports/Pages/default.aspx      301  /pensions/reports/Pages/default.aspx
 /permit-license-center-appointment        301  /services/permits-violations-licenses/make-an-appointment-to-visit-the-li-permit-and-license-center/
 /personnel	                              301  /departments/office-of-human-resources/
 /personnel/ADAFAQ.html	                  301  /departments/office-of-human-resources/policies/
@@ -1897,6 +1900,8 @@
 /reasonable-modification                  301  /services/diversity-inclusion-accessibility-immigration/submit-a-reasonable-modification-request/
 /rebuild/careers                          301  /programs/rebuild/training-programs/
 /records/ContactUs.html                   301  /departments/department-of-records/
+/records/FAQ.html                         301  /departments/department-of-records/frequently-asked-questions/ 
+/records/Forms_Catalog_Spreadsheets.html  301  /departments/department-of-records/  
 /records/PoliceFire/Police.html           301  /services/crime-law-justice/get-a-copy-of-a-public-safety-report/
 /records/DocumentRecording/DocumentRecording.html 301  /services/property-lots-housing/record-a-deed-or-other-document/
 /records//DocumentRecording/DocumentRecording.html 301  /services/property-lots-housing/record-a-deed-or-other-document/
@@ -1909,7 +1914,9 @@
 /records/Archives/FAQ.html                301  /departments/department-of-records/frequently-asked-questions/
 /records/Archives/OnlineApplications.html 301  /departments/department-of-records/city-archives/
 /records/PoliceFire/Reports.html          301  /services/crime-law-justice/get-a-copy-of-a-public-safety-report/
+/records/PoliceFire/District_Locations.html  301  /services/crime-law-justice/police/find-a-police-district/
 /records/PublicRecords/Public_Records.html  301  /departments/department-of-records/
+/records/Subpoenas.html                   301  /departments/department-of-records/frequently-asked-questions/
 /records                                  301  /departments/department-of-records/
 /records/                                 301  /departments/department-of-records/
 /records/announcements/(.*)               301  /departments/department-of-records/
@@ -3025,6 +3032,7 @@
 /Treasurer/aboutus/Pages/default.aspx     301  /departments/city-treasurers-office/
 /Treasurer/aboutus/Pages/history.aspx     301  /departments/city-treasurers-office/about/
 /Treasurer/aboutus/Pages/Mission.aspx     301  /departments/city-treasurers-office/
+/Treasurer/aboutus/Pages/SinkingFundPGW.aspx  301 /departments/sinking-fund-commission/ 
 /tree-trench                              301  https://water.phila.gov/gsi/tools/tree-trench/
 /unitycup                                 301  http://unitycup.phila.gov
 /universalprek(.*)                        301  /programs/quality-pre-k/
