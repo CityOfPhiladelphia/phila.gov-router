@@ -237,6 +237,7 @@
 /bluezone                                 301  https://phila.city/display/bluezone
 /bluezone/Pages/default.aspx              301  /
 /blockchain                               301  /departments/office-of-innovation-and-technology/
+/block-?party                             301  /services/streets-sidewalks-alleys/street-closures/apply-to-hold-a-block-party-or-street-event/
 /board-of-education                       301  /departments/educational-nominating-panel/
 /boards/index.html                        301  /departments/
 /breathe-?philly                          301  https://experience.arcgis.com/experience/35a3b9706b2946ba937a33de049ffae5
@@ -3017,6 +3018,7 @@
 /townwatch(.*)                            301  /departments/town-watch-integrated-services/
 /traffic-?calming                         301  /services/streets-sidewalks-alleys/request-traffic-calming-for-a-residential-street/ 
 /transitionreport                         301  /documents/transition-report/
+/transportation-?projects                 301  /departments/department-of-streets/design-construction/
 /trashday(.*)                             301  /services/trash-recycling-city-upkeep/find-your-trash-and-recycling-collection-day/
 /trb/petition                             301  /documents/tax-appeal-petition-form/
 /trb/pages/default.aspx                   301  /departments/tax-review-board/
