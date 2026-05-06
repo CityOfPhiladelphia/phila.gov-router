@@ -991,6 +991,7 @@
 /dtap                                     301  /2024-07-23-building-blocks-for-a-healthy-future-vaccinate-your-children-for-diphtheria-tetanus-and-pertussis/
 /duelo                                    301  /programs/substance-use-prevention-and-harm-reduction/servicios-de-apoyo-para-el-duelo/
 /earnings-tax-employees                   301  /services/payments-assistance-taxes/taxes/income-taxes/earnings-tax-employees/
+/eastwick-?flood-?alerts                  301  /programs/eastwick-from-recovery-to-resilience/resources-for-residents/eastwick-emergency-alerts
 /ecvc                                     301  /2021-04-08-getting-vaccinated-at-the-esperanza-community-vaccination-center-what-to-expect
 /edey                                     301  /programs/extended-day-extended-year
 /educational-nominating-panel             301  /departments/educational-nominating-panel/
@@ -1121,7 +1122,7 @@
 /HIVprevention                            301  /2025-10-17-hiv-basics-stay-informed-on-all-there-is-to-know-about-hiv/
 /holiday-?celebrations                    301  /spotlight/holiday-celebrations
 /home-?appraisal-?bias                    301  /programs/home-appraisal-bias-program
-/home-?initiative/curbside-?appeal        301  /programs/home-initiative/curbside-appeal-program/ 
+/home-?initiative/curbside-?appeal        301  /programs/curbside-appeal-program/
 /home-?initiative/wills-?program          301  /programs/wills-program/ 
 /homeless-?services                       301  /departments/office-of-homeless-services/
 /homestead                                301  /services/property-lots-housing/get-real-estate-tax-relief/get-the-homestead-exemption/
@@ -2988,8 +2989,8 @@
 /sUAS-commercial-form                     301  https://veoci.com/veoci/p/form/2ftf44vkr7b3
 /summermeals                              301  /2026-03-12-summer-meals-and-sun-bucks-what-philadelphia-families-and-providers-need-to-know/
 /summer-?camp                             301  /services/culture-recreation/activities-and-events/register-for-summer-camp/
-/summer-programs$                         301  /summer-programs/
-/summer-programs/(.*)                     200  http://phila-resource-finder.s3-website-us-east-1.amazonaws.com/summer-program/prod/$1
+/summer-programs$                         301  https://www.phila.gov/ost/program-locator/?services=term_summer 
+/summer-programs/(.*)                     200  https://www.phila.gov/ost/program-locator/?services=term_summer 
 /support                                  301  /2019-06-27-support-and-resources-for-pes-and-hahnemann-employees/
 /sustainability                           301  /departments/office-of-sustainability/
 /swgrant	                                301  https://water.phila.gov/stormwater/incentives/grants/
@@ -3103,6 +3104,7 @@
 /wp-content/uploads/2017/03/Environment-Action-Guide-Get-Involved.pdf	301  /2017-11-29-environmental-protection-during-the-trump-administration/
 /wp-content/uploads/2018/12/Temporary-Certificate-of-Occupancy-Quick-Guide.pdf	301  /services/permits-violations-licenses/get-a-certificate/get-a-temporary-certificate-of-occupancy/
 /wp-content/uploads/2020/11/Quarantine-Visual-Aid-.pdf	301  /programs/coronavirus-disease-2019-covid-19/guidance/guidance-documents/
+/WRAP                                     301  /programs/workforce-renter-assistance-program/
 /wright                                   301  /programs/community-schools/richard-r-wright-school/
 /year-one-report                          301  https://storymaps.arcgis.com/stories/a11853be23ca45e69a39b08c51f7cee8
 /youthprograms	                          301  /departments/office-of-children-and-families/
