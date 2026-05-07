@@ -2989,8 +2989,7 @@
 /sUAS-commercial-form                     301  https://veoci.com/veoci/p/form/2ftf44vkr7b3
 /summermeals                              301  /2026-03-12-summer-meals-and-sun-bucks-what-philadelphia-families-and-providers-need-to-know/
 /summer-?camp                             301  /services/culture-recreation/activities-and-events/register-for-summer-camp/
-/summer-programs$                         301  /summer-programs/
-/summer-programs/(.*)                     200  /ost/program-locator/?services=term_summer 
+/summer-programs(.*)                      301  /ost/program-locator/
 /support                                  301  /2019-06-27-support-and-resources-for-pes-and-hahnemann-employees/
 /sustainability                           301  /departments/office-of-sustainability/
 /swgrant	                                301  https://water.phila.gov/stormwater/incentives/grants/
