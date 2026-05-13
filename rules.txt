@@ -1818,6 +1818,7 @@
 /programs/philly-free-streets/	          301  /departments/office-of-transportation-and-infrastructure-systems/
 /programs/philly-powered/                 301  /departments/department-of-public-health/wellness/exercise-and-nutrition/
 /programs/phlconnected/digital-skills-classes-for-caregivers/ 301  /programs/phlconnected/
+/programs/phlconnected/digital-skills-classes/         301         /programs/phlconnected/
 /programs/phlconnected/partners/          301  /programs/phlconnected/
 /programs/phlconnected/frequently-asked-questions/	301  /programs/phlconnected/
 /programs/phlconnected/preguntas-mas-frecuentes/	301  /programs/phlconnected/
