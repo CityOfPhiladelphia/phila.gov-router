@@ -434,7 +434,7 @@
 /departments/department-of-revenue/our-services/tax-services/non-resident-covid-ez-refund-petition/ 301  https://tax-services.phila.gov/
 /departments/department-of-revenue/our-services/tax-services/online-income-based-wage-tax-refund-petition/ 301  https://tax-services.phila.gov/
 /departments/department-of-revenue/about/contact-us/report-tax-fraud/ 301  /services/payments-assistance-taxes/taxes/report-tax-fraud/
-/departments/department-of-streets/roadways/maintenance/paving/     301     /paving-program
+/departments/department-of-streets/roadways/maintenance/paving/     301     /programs/paving-program
 /departments/department-of-streets/resources/ 301  /departments/department-of-streets/
 /departments/department-of-streets/resources/residential-trash-and-recycling-rules/ 301  /departments/department-of-sanitation/about/rules-and-regulations/residential-trash-and-recycling-rules/
 /departments/department-of-streets/about/boards-and-committees/  301  /departments/department-of-streets/about/boards/
@@ -514,7 +514,7 @@
 /departments/office-of-innovation-and-technology/verizon-franchise-agreement-feedback-form/  301  /departments/office-of-innovation-and-technology/
 /departments/office-of-innovation-management/         301  /departments/office-of-innovation-and-technology/public-technology-and-innovation-team/
 /departments/office-of-lgbt-affairs/(.*)                  301  /departments/office-of-lgbtq-affairs/$1
-/departments/office-of-lgbtq-affairs/resources-for-lgbtq-individuals/     301     /departments/office-of-lgbtq-affairs/resources-for-lgbt-individuals/
+/departments/office-of-lgbtq-affairs/resources-for-lgbt-individuals/     301     /departments/office-of-lgbtq-affairs/resources-for-lgbtq-individuals/
 /departments/office-of-open-data-and-digital-transformation(.*)    301  /2019-10-14-the-evolution-of-design-tech-and-data-at-the-city/
 /departments/office-of-policy-and-strategic-initiatives-for-criminal-justice-and-public-safety/(.*) 301  /departments/office-of-public-safety/$1
 /departments/office-of-reentry-partnerships/(.*)  301  /departments/division-of-reentry/$1
@@ -1399,7 +1399,7 @@
 /parksandrecreation/dogs                  301  /departments/philadelphia-parks-recreation/about/dog-regulations-and-best-practices/
 /parksandrecreation/findafacility         301  /parks-rec-finder/#/locations
 /parksnrecnewsletter                      301  /departments/philadelphia-parks-recreation/#action-modal
-/paving                                   301  /paving-program 
+/paving                                   301  /programs/paving-program 
 /pay                                      301  /make-a-payment/
 /payment-agreement-letters                301  /documents/sample-payment-agreement-letters/
 /payment-?agreements                      301  /services/payments-assistance-taxes/payment-plans-and-assistance-programs/other-payment-plans-and-programs/set-up-a-payment-agreement-for-your-business-or-income-taxes/
