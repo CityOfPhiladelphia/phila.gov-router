@@ -3022,7 +3022,7 @@
 /townwatch(.*)                            301  /departments/town-watch-integrated-services/
 /traffic-?calming                         301  /services/streets-sidewalks-alleys/request-traffic-calming-for-a-residential-street/ 
 /trails                                   301  /programs/philadelphia-trail-plan  
-/trails-resources                         301  /programs/philadelphia-trail-plan/trail-plan-resources
+/trails-?resources                        301  /programs/philadelphia-trail-plan/trail-plan-resources
 /transitionreport                         301  /documents/transition-report/
 /transportation-?projects                 301  /departments/department-of-streets/design-construction/
 /trashday(.*)                             301  /services/trash-recycling-city-upkeep/find-your-trash-and-recycling-collection-day/
