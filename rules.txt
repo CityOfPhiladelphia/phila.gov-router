@@ -186,6 +186,7 @@
 /2024-07-19-risk-of-bird-flu-h5n1-infection-in-philadelphia-remains-low/  301  /2025-02-21-the-current-state-of-bird-flu-what-you-need-to-know/
 /2025-11-03-snap-benefits-have-changed-heres-what-you-need-to-know/  301  /2025-09-05-what-you-need-to-know-about-significant-changes-to-snap-benefits/ 
 /2026                                     301  /2026-events
+/2026-05-01-fifa-world-cup-2026-philadelphia-safety-and-event-information/  301  /2026-05-05-fifa-world-cup-2026-philadelphia-safety-and-event-information/
 /311/(.*)                                 301  /departments/philly311/
 /311/report-an-issue                      301  https://iframe.publicstuff.com/#?client_id=242
 /360/ai-?privacy                          301  https://philaprivacy.freshdesk.com/support/tickets/new
@@ -3020,6 +3021,8 @@
 /towing                                   301  /programs/philadelphias-rotational-towing-program/
 /townwatch(.*)                            301  /departments/town-watch-integrated-services/
 /traffic-?calming                         301  /services/streets-sidewalks-alleys/request-traffic-calming-for-a-residential-street/ 
+/trails                                   301  /programs/philadelphia-trail-plan  
+/trails-resources                         301  /programs/philadelphia-trail-plan/trail-plan-resources
 /transitionreport                         301  /documents/transition-report/
 /transportation-?projects                 301  /departments/department-of-streets/design-construction/
 /trashday(.*)                             301  /services/trash-recycling-city-upkeep/find-your-trash-and-recycling-collection-day/
