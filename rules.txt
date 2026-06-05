@@ -262,6 +262,7 @@
 /buildingsafety(.*)                       301  /departments/department-of-licenses-and-inspections/
 /bumpout                                  301  https://water.phila.gov/gsi/tools/bumpout/
 /business                                 301  https://business.phila.gov
+/business-?financing                      301  /departments/department-of-commerce/for-businesses/financial-support/
 /businesssupport                          301  /departments/department-of-commerce/for-businesses/
 /businessattraction                       301  /departments/department-of-commerce/about-us/divisions/office-of-business-development-and-workforce-solutions/
 /business/crime-prevention-tips           301  /2023-03-06-crime-prevention-tips-for-your-business-and-employees/
@@ -1058,6 +1059,7 @@
 /foster-?grandparents                     301  /programs/foster-grandparents/
 /fr$                                      301  /fr/ 
 /free-?tax-?help                          301  /services/payments-assistance-taxes/payment-plans-and-assistance-programs/income-based-programs-for-residents/find-free-tax-preparation-assistance-for-qualifying-taxpayers/
+/free-?to-?leave                          301  https://cpoc.qualtrics.com/jfe/form/SV_8xm6iaC240hTNqK
 /front-?door                              301  https://housing-front-door.phila.gov/
 /fsedmonds                                301  /programs/community-schools/f-s-edmonds-elementary-school/
 /FY20-budget                              301  /2019-03-07-mayor-kenneys-fy20-budget-prioritizes-education-inclusion-and-justice/
@@ -2990,6 +2992,7 @@
 /streets/surveysdesign.html	              301  /departments/board-of-surveyors/
 /stressmap                                301  https://experience.arcgis.com/experience/836f13bc436c4580b90beeebd1472273
 /streetspermit                            301  https://stsweb.phila.gov/permitphl
+/student-?loan-?hub                       301  https://www.phila.gov/programs/one-philly-student-loan-hub/
 /Style%20Library?(.*)                     301  /style-library$1
 /substance-?use                           301  /programs/substance-use-prevention-and-harm-reduction/
 /sUAS-commercial-form                     301  https://veoci.com/veoci/p/form/2ftf44vkr7b3
