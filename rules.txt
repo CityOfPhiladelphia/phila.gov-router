@@ -368,6 +368,7 @@
 /contracts/data/(.*)                      200  https://cityofphiladelphia.github.io/contracts/$1
 /contracts/additional-opportunities       301  /departments/office-of-the-chief-administrative-officer/contract-opportunities-with-special-application-processes/
 /contracts(.*)                            301  https://contracts.phila.gov
+/cooling-?centers                         301  https://experience.arcgis.com/experience/8d7b658a9fca4a78bac2c385d117a031
 /council-?tax-?credit                     301  /services/property-lots-housing/property-taxes/get-real-estate-tax-relief/
 /covid/faithPHL                           301  https://veoci.com/veoci/p/form/s4n33gugsg7c
 /covid/testing-bids                       301  https://veoci.com/veoci/p/form/gfxhjgwvcxeh#tab=entryForm
@@ -729,6 +730,7 @@
 /documents/2022-school-income-tax-forms/  301  /departments/department-of-revenue/forms-documents/tax-forms-and-instructions/#/
 /documents/2022-streetery-information/	301  /services/streets-sidewalks-alleys/outdoor-dining/get-a-streetery-license/
 /documents/2022-wage-tax-forms/           301  /services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-type/wage-tax-employers/
+/documents/2024-philadelphia-parks-recreation-pool-rule-and-regulations/  301  /departments/philadelphia-parks-recreation/about/rules-and-regulations/pool-rules/ 
 /documents/a-data-snapshot-of-philadelphias-progress-towards-ending-homelessness/	301  /departments/office-of-homeless-services/documents/publications/#/?table=Data%20snapshots
 /documents/absconder-review-program/  301  /departments/office-of-public-safety/
 /documents/accounts-write-off-panels/	301  /documents/account-review-panel-meeting-materials/
@@ -925,6 +927,7 @@
 /documents/police-advisory-commission-meeting-agendas-and-minutes/	301  /documents/citizens-police-oversight-commission-meeting-agendas-and-minutes/
 /documents/police-advisory-commission-reports/	301  /departments/citizens-police-oversight-commission/resources/
 /documents/pool-rules-attire/             301  /documents/pool-rules-attire-information/
+/documents/pool-rules-attire-information/  301  /departments/philadelphia-parks-recreation/about/rules-and-regulations/pool-rules/ 
 /documents/pregnancy-and-prenatal-care-guides/ 301  /services/mental-physical-health/get-health-care-and-support/family-and-childrens-health-care/get-prenatal-care/
 /documents/preventing-youth-violence/	301  /documents/violence-prevention-documents/
 /documents/preview-of-new-rotational-towing-program-regulations/	301  /documents/revised-rotational-towing-program-regulations/
@@ -965,6 +968,7 @@
 /documents/tax-and-water-bill-relief-for-unpaid-federal-workers/	301  /services/payments-assistance-taxes/taxes/
 /documents/tax-appeal-petition-form/      301  /departments/tax-review-board/tax-review-board-forms-and-instructions/
 /documents/tax-forms-and-applications-for-a-new-business/ 301  /documents/business-tax-account-application/
+/documents/tax-rate-schedule/  301  /departments/department-of-revenue/forms-documents/regulations-rulings/tax-rate-history
 /documents/tax-review-board-refund-petition/   301  /documents/refund-petition-form/
 /documents/temporary-outdoor-dining-application/	301  /services/streets-sidewalks-alleys/outdoor-dining/
 /documents/temporary-waste-drop-off-sites/  301  /departments/department-of-sanitation/ 
@@ -3029,7 +3033,7 @@
 /trails                                   301  /programs/philadelphia-trail-plan  
 /trails-?resources                        301  /programs/philadelphia-trail-plan/trail-plan-resources
 /transitionreport                         301  /documents/transition-report/
-/transportation-?projects                 301  /departments/department-of-streets/design-construction/
+/transportation-?projects                 301  /programs/transportation-projects/ 
 /trashday(.*)                             301  /services/trash-recycling-city-upkeep/find-your-trash-and-recycling-collection-day/
 /trb/petition                             301  /documents/tax-appeal-petition-form/
 /trb/pages/default.aspx                   301  /departments/tax-review-board/
