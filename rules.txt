@@ -1353,6 +1353,7 @@
 /oia/resource-finder/(.*)                 200  https://d15ujni7bhc3ff.cloudfront.net/$1
 /oig                                      301  /departments/office-of-the-inspector-general/
 /oit                                      301  /departments/office-of-innovation-and-technology/
+/one-?philly-?front-?door                 301  https://housing-front-door.phila.gov/
 /oopa                                     301  /services/payments-assistance-taxes/payment-plans-and-assistance-programs/income-based-programs-for-residents/set-up-an-owner-occupied-real-estate-tax-payment-agreement-oopa
 /OPA/Pages/PropertyInformation.aspx       301  /departments/office-of-property-assessment/
 /OPA/AbatementsExemptions/Pages/Abatements.aspx 301  /services/property-lots-housing/property-taxes/get-real-estate-tax-relief/get-a-property-tax-abatement/
