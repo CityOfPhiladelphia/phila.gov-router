@@ -1559,7 +1559,7 @@
 /presidentshouse/                       	301  https://www.visitphilly.com/things-to-do/attractions/the-presidents-house/
 /primarycare                              301  /primary-care/
 /primary-care$                            301  /primary-care/
-/primary-care/(.*)                        200  http://phila-resource-finder-v2.s3-website-us-east-1.amazonaws.com/primary-care/$1
+/primary-care/(.*)                        200  https://primary-care.phila.gov/ 
 /prisons/inmatelocator/?(.*)              301  https://inmate-locator.phila.gov/
 /prisons/Facilities/Pages/default.aspx    301  /departments/philadelphia-department-of-prisons/about/facilities/
 /prisons/inmatesupport/Pages/default.aspx 301  /services/crime-law-justice/prisons-incarcerated-people-and-returning-citizens/finding-and-contacting-incarcerated-people/visit-an-incarcerated-person/
