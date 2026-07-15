@@ -46,6 +46,7 @@
 /2019-12-26-mayor-kenneys-public-schedule-for-thursday-december-26-2019-2/	301  /2019-12-25-mayor-kenneys-public-schedule-for-thursday-december-26-2019/
 /2019-12-30-now-hiring-crossing-guards-part-time-job-with-benefits/	301  /programs/school-crossing-guard-program/
 /2020-01-02-mayor-kenneys-public-schedule-for-wednesday-january-1-2020/	301  /2019-12-31-mayor-kenneys-public-schedule-for-wednesday-january-1-2020/
+/2020-01-07-faqs-how-can-i-join-the-pfd-as-a-paramedic/  301  /2026-07-07-paramedicfaq/
 /2020-01-21-mayor-kenneys-public-schedule-for-monday-january-20-2020/	301  /2020-01-20-mayor-kenneys-public-schedule-for-monday-january-20-2020/
 /2020-01-27-mayor-kenneys-public-schedule-for-monday-january-27-2020-2/	301  /2020-01-26-mayor-kenneys-public-schedule-for-monday-january-27-2020/
 /2020-02-03-here-is-your-chance-to-name-phillys-solar-project/	301  /departments/office-of-sustainability/
@@ -1879,6 +1880,7 @@
 /property/data$                           301  /property/data/
 /property/data/(.*)                       200  https://cityofphiladelphia.github.io/property-download/$1
 /ps360/kensington                         301  https://experience.arcgis.com/experience/0e59ffc62b32428d8014b80e17ae3475 
+/ps360/PHLOpen4Biz                        301  https://experience.arcgis.com/experience/8ba8f346d8e04a72bd1ef4f4467f6a6d
 /ps360/riverview                          301  https://storymaps.arcgis.com/stories/0f91b5c77acf4683b8d9d39d2c604139 
 /ps-?360                                  301  https://philly-stat-360.phila.gov/
 /PSARC                                    301  /2026-07-15-philadelphia-sexual-assault-response-center  
