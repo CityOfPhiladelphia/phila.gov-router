@@ -206,6 +206,7 @@
 /after-an-emergency/access-to-restricted-areas/ 301  /departments/oem/ready-or-not/how-to-get-ready/after-an-emergency/access-to-restricted-areas/
 /agencies(.*)                             301  /departments/
 /aging(.*)                                301  /departments/mayors-commission-on-aging/
+/air-?quality-?red-?pm                    301  /2026-07-15-philadelphia-under-code-red-air-quality-alert-for-particulate-matter
 /america                                  301  https://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=b0d5efe6fb7a4ed7a5fd9c3c681b8b41
 /aqi-redirect                             301  /services/mental-physical-health/environmental-health-hazards/air-quality/
 /aqi(.*)                                  301  /services/mental-physical-health/environmental-health-hazards/air-quality/
@@ -552,6 +553,7 @@
 /departments/office-of-the-chief-administrative-officer/contract-opportunities-with-special-application-processes/contract-opportunities-with-special-application-processes/	301  /departments/office-of-the-chief-administrative-officer/contract-opportunities-with-special-application-processes/
 /departments/office-of-the-chief-administrative-officer/contracts-legislation-unit(.*)  301  /departments/office-of-the-chief-administrative-officer/contract-opportunities-with-special-application-processes$1
 /departments/office-of-the-chief-administrative-officer/human-resources-and-talent/   301  /departments/office-of-the-chief-administrative-officer/office-of-talent-and-employee-success/
+/office-of-the-chief-administrative-officer/service-design-studio/   301  /programs/better-services-phl/
 /departments/office-of-the-chief-administrative-officer/transparency-in-business-disclosure-for-prime-contractor/  301  /services/business-self-employment/bidding-on-a-city-contract/file-transparency-in-business-act-disclosure-forms/
 /departments/office-of-the-chief-administrative-officer/transparency-in-business-disclosure-subcontractor-and-labor-source-information/  301  /services/business-self-employment/bidding-on-a-city-contract/file-transparency-in-business-act-disclosure-forms/
 /departments/office-of-the-chief-diversity-and-inclusion-officer 301  /departments/office-of-diversity-equity-and-inclusion/
