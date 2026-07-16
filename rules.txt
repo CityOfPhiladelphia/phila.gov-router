@@ -46,6 +46,7 @@
 /2019-12-26-mayor-kenneys-public-schedule-for-thursday-december-26-2019-2/	301  /2019-12-25-mayor-kenneys-public-schedule-for-thursday-december-26-2019/
 /2019-12-30-now-hiring-crossing-guards-part-time-job-with-benefits/	301  /programs/school-crossing-guard-program/
 /2020-01-02-mayor-kenneys-public-schedule-for-wednesday-january-1-2020/	301  /2019-12-31-mayor-kenneys-public-schedule-for-wednesday-january-1-2020/
+/2020-01-07-faqs-how-can-i-join-the-pfd-as-a-paramedic/  301  /2026-07-07-paramedicfaq/
 /2020-01-21-mayor-kenneys-public-schedule-for-monday-january-20-2020/	301  /2020-01-20-mayor-kenneys-public-schedule-for-monday-january-20-2020/
 /2020-01-27-mayor-kenneys-public-schedule-for-monday-january-27-2020-2/	301  /2020-01-26-mayor-kenneys-public-schedule-for-monday-january-27-2020/
 /2020-02-03-here-is-your-chance-to-name-phillys-solar-project/	301  /departments/office-of-sustainability/
@@ -205,6 +206,7 @@
 /after-an-emergency/access-to-restricted-areas/ 301  /departments/oem/ready-or-not/how-to-get-ready/after-an-emergency/access-to-restricted-areas/
 /agencies(.*)                             301  /departments/
 /aging(.*)                                301  /departments/mayors-commission-on-aging/
+/air-?quality-?red-?pm                    301  /2026-07-15-philadelphia-under-code-red-air-quality-alert-for-particulate-matter
 /america                                  301  https://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=b0d5efe6fb7a4ed7a5fd9c3c681b8b41
 /aqi-redirect                             301  /services/mental-physical-health/environmental-health-hazards/air-quality/
 /aqi(.*)                                  301  /services/mental-physical-health/environmental-health-hazards/air-quality/
@@ -551,6 +553,7 @@
 /departments/office-of-the-chief-administrative-officer/contract-opportunities-with-special-application-processes/contract-opportunities-with-special-application-processes/	301  /departments/office-of-the-chief-administrative-officer/contract-opportunities-with-special-application-processes/
 /departments/office-of-the-chief-administrative-officer/contracts-legislation-unit(.*)  301  /departments/office-of-the-chief-administrative-officer/contract-opportunities-with-special-application-processes$1
 /departments/office-of-the-chief-administrative-officer/human-resources-and-talent/   301  /departments/office-of-the-chief-administrative-officer/office-of-talent-and-employee-success/
+/departments/office-of-the-chief-administrative-officer/service-design-studio/   301  /programs/better-services-phl/
 /departments/office-of-the-chief-administrative-officer/transparency-in-business-disclosure-for-prime-contractor/  301  /services/business-self-employment/bidding-on-a-city-contract/file-transparency-in-business-act-disclosure-forms/
 /departments/office-of-the-chief-administrative-officer/transparency-in-business-disclosure-subcontractor-and-labor-source-information/  301  /services/business-self-employment/bidding-on-a-city-contract/file-transparency-in-business-act-disclosure-forms/
 /departments/office-of-the-chief-diversity-and-inclusion-officer 301  /departments/office-of-diversity-equity-and-inclusion/
@@ -1879,6 +1882,7 @@
 /property/data$                           301  /property/data/
 /property/data/(.*)                       200  https://cityofphiladelphia.github.io/property-download/$1
 /ps360/kensington                         301  https://experience.arcgis.com/experience/0e59ffc62b32428d8014b80e17ae3475 
+/ps360/PHLOpen4Biz                        301  https://experience.arcgis.com/experience/8ba8f346d8e04a72bd1ef4f4467f6a6d
 /ps360/riverview                          301  https://storymaps.arcgis.com/stories/0f91b5c77acf4683b8d9d39d2c604139 
 /ps-?360                                  301  https://philly-stat-360.phila.gov/
 /PSARC                                    301  /2026-07-15-philadelphia-sexual-assault-response-center  
