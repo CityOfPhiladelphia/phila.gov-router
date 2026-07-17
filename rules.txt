@@ -206,6 +206,7 @@
 /after-an-emergency/access-to-restricted-areas/ 301  /departments/oem/ready-or-not/how-to-get-ready/after-an-emergency/access-to-restricted-areas/
 /agencies(.*)                             301  /departments/
 /aging(.*)                                301  /departments/mayors-commission-on-aging/
+/Air-?Quality-?Purple-?PM                 301  /2026-07-17-philadelphia-under-code-purple-air-quality-alert-for-particulate-matter-2/
 /air-?quality-?red-?pm                    301  /2026-07-16-philadelphia-under-code-red-air-quality-alert-for-particulate-matter/
 /america                                  301  https://phl.maps.arcgis.com/apps/MapJournal/index.html?appid=b0d5efe6fb7a4ed7a5fd9c3c681b8b41
 /aqi-redirect                             301  /services/mental-physical-health/environmental-health-hazards/air-quality/
