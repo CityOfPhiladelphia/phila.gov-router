@@ -899,6 +899,7 @@
 /documents/opioid-prescribing-and-tapering-guidelines/	301  /documents/opioid-guidance-for-clinicians/
 /documents/overdose-prevention-sites/     301  /
 /documents/overdose-prevention-sites-fact-sheets/ 301  /
+/documents/parkside-avenue-intersections-improvement-project/  301  /programs/transportation-projects/parkside-avenue-intersection-improvements/ 
 /documents/pchr-annual-report-fy24/  301  /documents/philadelphia-commission-on-human-relations-annual-reports/ 
 /documents/permit-fee-schedule/	301  /documents/fees-for-li-permits-and-licenses/
 /documents/personal-care-guide-book/	    301  /documents/personal-care-home-emergency-planning-guide/
@@ -1186,7 +1187,8 @@
 /it/aboutus/pages/employment.aspx         301  /jobs/#/
 /itjobs                                   301  /jobs/#/
 /itsasummerthing                          301  /2024-04-09-welcome-to-the-home-of-itsasummerthing/ 
-/justice/index.html                     	301  /services/crime-law-justice/
+/justice/index.html                       301  /services/crime-law-justice/
+/KCTF                                     301  /2026-06-09-kensingtons-community-supportive-resources/                                         
 /kenney-?1000-?days                       301  /documents/priorities-and-progress-reports-from-the-kenney-administration/
 /khsa                                     301  /programs/community-schools/kensington-health-sciences-academy/
 /labor                                    301  /departments/department-of-labor/
@@ -1238,7 +1240,7 @@
 /licontact                                301  http://iframe.publicstuff.com/#?client_id=242&request_type_id=1013002
 /lifeguard(.*)                            301  /services/working-jobs/city-jobs-and-internships/become-a-lifeguard/
 /liquor-tax                               301  /services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-type/liquor-tax/
-/lobbying                                 301  http://plis.cloudapp.net
+/lobbying                                 301  /departments/board-of-ethics/lobbying/
 /locke                                    301  /programs/community-schools/alain-locke-school/
 /logan                                    301  /programs/community-schools/james-logan-elementary-school/
 /loop(.*)                                 301  /services/payments-assistance-taxes/payment-plans-and-assistance-programs/income-based-programs-for-residents/apply-for-the-longtime-owner-occupants-program-loop/
@@ -1356,6 +1358,8 @@
 /ohr                                      301  /departments/office-of-human-resources/
 /ohs(.*)                                  301  /departments/office-of-homeless-services/
 /oia                                      301  /departments/office-of-immigrant-affairs/
+/oia/mcacia                               301  /departments/office-of-immigrant-affairs/mayors-commission-on-african-and-caribbean-immigrant-affairs/
+/oia/mcapaa                               301  /departments/office-of-immigrant-affairs/mayors-commission-on-asian-pacific-american-affairs/
 /oia/resource-finder$                     301  /oia/resource-finder/
 /oia/resource-finder/(.*)                 200  https://d15ujni7bhc3ff.cloudfront.net/$1
 /oig                                      301  /departments/office-of-the-inspector-general/
