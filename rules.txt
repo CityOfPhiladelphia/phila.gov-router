@@ -284,6 +284,7 @@
 /calendar/sustainability/                 301  /the-latest/all-events/?category=Office%20of%20Sustainability
 /camp                                     301  /services/culture-recreation/activities-and-events/register-for-summer-camp/
 /camps                                    301  /services/culture-recreation/activities-and-events/register-for-summer-camp/
+/campaign-?finance                        301  /departments/board-of-ethics/campaign-finance/ 
 /candidate-?resources                     301  /departments/mayor/resources-for-2023-mayoral-candidates/
 /cao                                      301  /departments/office-of-the-chief-administrative-officer/
 /capital-projects-finder$                 301  /capital-projects-finder/
@@ -752,6 +753,7 @@
 /documents/apply-to-start-a-covid-19-vaccination-and-testing-micro-site-program/	301  /programs/coronavirus-disease-2019-covid-19/
 /documents/attachments-to-administrative-board-rules/	301  /publications/administrative-board-rules/#/
 /documents/basement-protection-program-application/ 301  /documents/basement-backup-protection-program-application/
+/documents/bmvg/  301  /programs/transportation-projects/bells-mill-road-bridge-and-valley-green-road-bridge-rehabilitation/ 
 /documents/board-of-education-application-and-translated-job-descriptions/	301  /departments/educational-nominating-panel/
 /documents/board-of-education-job-description/	301  /departments/educational-nominating-panel/
 /documents/board-of-health-resolutions-2/	301  /documents/board-of-health-resolutions/
@@ -1024,6 +1026,7 @@
 /eoc-gisrequest                           301  https://veoci.com/veoci/p/dashboard/4p9brrkav6
 /eslmap                                   301  http://phl.maps.arcgis.com/apps/View/index.html?appid=3929071e10db460db6e2265423ed4e83
 /es$                                      301  /es/
+/ethics                                   301  /departments/board-of-ethics/ 
 /ethicsboard/Agendas%20and%20Minutes/(.*) 301  /departments/board-of-ethics/
 /ethicsboard/PDF/(.*)                     301  /departments/board-of-ethics/
 /ethicsboard/Documents/(.*)               301  /departments/board-of-ethics/
