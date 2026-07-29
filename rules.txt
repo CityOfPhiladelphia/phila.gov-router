@@ -943,6 +943,7 @@
 /documents/preview-of-new-rotational-towing-program-regulations/	301  /documents/revised-rotational-towing-program-regulations/
 /documents/probate-and-estate-services-fee-schedule/  301  /documents/register-of-wills-fee-schedule/
 /documents/programming-for-people-with-disabilities-forms-and-flyers/	301  /departments/mayors-office-for-people-with-disabilities/
+/documents/property-assessment-appeal-documents-and-forms/  301  /departments/board-of-revision-of-taxes/appeal-forms-and-instructions/ 
 /documents/property-tax-credit-application-for-active-duty-reservists/ 301  /services/payments-assistance-taxes/taxes/tax-credits/resident-tax-credits/active-duty-tax-credit/
 /documents/public-assistance-workbook/	301  /documents/public-assistance-workbooks/
 /documents/ready-philadelphia-stay-cool-guide/ 301  /guides/extreme-heat-guide/
