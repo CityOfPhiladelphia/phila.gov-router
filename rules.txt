@@ -245,6 +245,7 @@
 /block-?party                             301  /services/streets-sidewalks-alleys/street-closures/apply-to-hold-a-block-party-or-street-event/
 /board-of-education                       301  /departments/educational-nominating-panel/
 /boards/index.html                        301  /departments/
+/boost-?your-?business                    301  /2026-06-08-city-launches-latest-round-of-boost-your-business-program/
 /breathe-?philly                          301  https://experience.arcgis.com/experience/35a3b9706b2946ba937a33de049ffae5
 /browse/jobs-and-contracts	              301  /services/working-jobs/
 /browse/payments-and-taxes	              301  /services/payments-assistance-taxes/
@@ -1891,7 +1892,7 @@
 /property/data$                           301  /property/data/
 /property/data/(.*)                       200  https://cityofphiladelphia.github.io/property-download/$1
 /ps360/kensington                         301  https://experience.arcgis.com/experience/0e59ffc62b32428d8014b80e17ae3475 
-/ps360/PHLOpen4Biz                        301  https://experience.arcgis.com/experience/8ba8f346d8e04a72bd1ef4f4467f6a6d
+/ps360/BuildPHL                          301  https://experience.arcgis.com/experience/8ba8f346d8e04a72bd1ef4f4467f6a6d
 /ps360/riverview                          301  https://storymaps.arcgis.com/stories/0f91b5c77acf4683b8d9d39d2c604139 
 /ps-?360                                  301  https://philly-stat-360.phila.gov/
 /PSARC                                    301  /2026-07-15-philadelphia-sexual-assault-response-center  
@@ -2005,7 +2006,7 @@
 /revenue/installment-plan                 301  /services/payments-assistance-taxes/payment-plans-and-assistance-programs/income-based-programs-for-residents/set-up-real-estate-tax-installment-plan/
 /revenue/job-creation-tax-credit          301  /services/payments-assistance-taxes/taxes/tax-credits/business-tax-credits/job-creation-tax-credit/
 /revenue/jumpstart                        301  /services/payments-assistance-taxes/taxes/tax-credits/business-tax-credits/jump-start-philly/
-/revenue/lunch-?and-?learn                  301  /2025-12-08-join-us-for-revenues-first-ever-lunch-learn-webinar-series/
+/revenue/lunch-?and-?learn                301  /2026-07-06-join-revenues-second-webinar-series/
 /revenue/mef                              301  /services/payments-assistance-taxes/taxes/filing-and-paying-your-taxes/use-modernized-e-filing-mef-for-city-taxes/
 /revenue/payment-appointment              301  /services/payments-assistance-taxes/taxes/filing-and-paying-your-taxes/make-an-appointment-to-pay-city-taxes-or-a-water-bill-in-person/
 /revenue/pbt                              301  /services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-type/philadelphia-beverage-tax-pbt/
@@ -2025,6 +2026,7 @@
 /revtaxes/index.html	                    301  /departments/board-of-revision-of-taxes/
 /rgrp                                     301  /2021-01-22-philadelphia-covid-19-restaurant-and-gym-relief-program/
 /rfp(.*)                                  301  https://contracts.phila.gov
+/ring-?connected-?neighborhoods           301  /programs/connected-neighborhoods-program/ 
 /ring-?it-?on                             301  /programs/ring-it-on
 /rise/employer/pages/banthebox.aspx       301  /departments/philadelphia-commission-on-human-relations/
 /rise(.*)                                 301  /departments/office-of-reentry-partnerships/
@@ -3093,6 +3095,7 @@
 /wage-tax-refund                          301  /services/payments-assistance-taxes/taxes/refunds/request-a-wage-tax-refund/
 /warning-?letter                          301  /documents/warning-of-risk-of-tax-foreclosure/
 /water-?grant                             301  /2022-05-06-how-to-get-help-with-past-due-water-bills/
+/water-?bill-?assistance                   301  /services/payments-assistance-taxes/water-bills/water-bill-affordability-assistance-programs-payment-plans/
 /water-?bill                              301  https://secure8.i-doxs.net/CityOfPhiladelphiaWRB/SignIn.aspx
 /water-bill-help                          301  /services/water-gas-utilities/pay-or-dispute-a-water-bill/water-bill-customer-assistance/
 /water-?charity-?discount                 301  /services/payments-assistance-taxes/water-bills/water-bill-affordability-assistance-programs-payment-plans/apply-for-charity-or-non-profit-water-discounts/ 
