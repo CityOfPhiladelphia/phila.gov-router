@@ -752,6 +752,7 @@
 /documents/application-for-a-pennsylvania-license-to-carry-firearms/	301  /documents/application-for-a-pennsylvania-license-to-carry-firearm/
 /documents/application-for-sheriff-tax-sale-escrow-program/	301  /services/property-lots-housing/foreclosure-sheriff-sales/
 /documents/apply-to-start-a-covid-19-vaccination-and-testing-micro-site-program/	301  /programs/coronavirus-disease-2019-covid-19/
+/documents/approved-bouncer-training-providers/  301  /services/permits-violations-licenses/get-a-certificate/bouncers-and-training-providers/get-bouncer-certification/
 /documents/attachments-to-administrative-board-rules/	301  /publications/administrative-board-rules/#/
 /documents/basement-protection-program-application/ 301  /documents/basement-backup-protection-program-application/
 /documents/bmvg/  301  /programs/transportation-projects/bells-mill-road-bridge-and-valley-green-road-bridge-rehabilitation/ 
@@ -1860,6 +1861,7 @@
 /programs/rebuild/project-sites/panati-recreation-center/  301  /programs/rebuild/project-sites/panati-playground/
 /programs/reconciliation-task-force/      301  /documents/reconciliation-task-force-archives/
 /programs/refinery-advisory-group/refinery-advisory-group-feedback-form/	301  /programs/refinery-advisory-group/
+/programs/serve-philadelphia-vista-corps/requirements-and-benefits/   301  /programs/serve-philadelphia-vista-corps/
 /programs/smartcityphl/smartcityphl-project-task-force/	301  /programs/smartcityphl/
 /programs/substance-use-prevention-and-harm-reduction/about-opioids/  301  /programs/opioid-response-unit/about-opioids/
 /programs/substance-use-prevention-and-harm-reduction/bereavement-support-services/ 301  /programs/substance-use-prevention-and-harm-reduction/our-work/grief-support-for-drug-related-loss/
