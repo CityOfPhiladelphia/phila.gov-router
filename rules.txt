@@ -183,6 +183,7 @@
 /2024-02-18-2022-philly-spring-cleanup-celebrating-15-years-of-community-cleaning-partnerships/	301  /programs/philly-spring-cleanup/
 /2024-04-02-request-for-proposals-with-the-office-of-children-and-families/	301  /2022-02-17-request-for-proposals-with-the-office-of-children-and-families/
 /2022-04-25-philadelphia-honors-diversity-flag-raising-program/  301  /documents/the-philadelphia-honors-diversity-flag-raising-program-guidelines/ 
+/2024-05-10-pathways-to-success-get-the-tools-you-need-to-support-adult-learners/   301  /2026-08-13-pathways-to-success-get-the-tools-you-need-to-support-adult-learners-2/ 
 /2024-07-13-h                             301  /2024-07-13-health-department-declares-heat-health-emergency-effective-monday-july-15-2024-ending-wednesday-july-17-2024/
 /2025-07-10-finding-solutions-for-your-rentals-at-the-phdc-housing-fair/  301  /the-latest/ 
 /2024-07-19-risk-of-bird-flu-h5n1-infection-in-philadelphia-remains-low/  301  /2025-02-21-the-current-state-of-bird-flu-what-you-need-to-know/
@@ -810,6 +811,7 @@
 /documents/direct-deposit-application-for-pensioners/	301  /documents/pension-direct-deposit-application/
 /documents/direct-deposit-application-for-pensioners/	301  /documents/pension-direct-deposit-application/
 /documents/distressed-business-tax-credit-forms/ 301  /services/payments-assistance-taxes/taxes/tax-credits/business-tax-credits/distressed-business-tax-credit/
+/documents/dol-benephilly/  301  /programs/benephilly/
 /documents/draft-ada-transition-plan/     301  /documents/city-of-philadelphia-ada-transition-plan/
 /documents/drug-paraphernalia-store-document/	301  /departments/department-of-licenses-and-inspections/
 /documents/eclipse-materials/	301  /departments/department-of-licenses-and-inspections/permits-and-certificates/help-using-eclipse/#/
@@ -962,6 +964,7 @@
 /documents/request-for-proposals-to-operate-a-shallow-rent-program-home200/	301  /departments/office-of-the-chief-administrative-officer/contract-opportunities-with-special-application-processes/
 /documents/request-for-proposals-to-operate-a-single-room-occupancy-program/	301  /departments/office-of-the-chief-administrative-officer/contract-opportunities-with-special-application-processes/
 /documents/resources-for-child-care-and-summer-camp-operators-during-covid-19/	301  /programs/coronavirus-disease-2019-covid-19/
+/documents/resources-for-families-of-children-with-special-health-care-needs/  301  /departments/department-of-public-health/health-centers/family-health/
 /documents/response-to-horsey-buckner-hefflers-reconciliation-recommendations/    301  /documents/reconciliation-task-force-archives/
 /documents/returns-on-a-disk-road-form/	301  /services/payments-assistance-taxes/taxes/filing-and-paying-your-taxes/
 /documents/revenue-ntl-form/              301  /departments/department-of-revenue/forms-documents/tax-forms-and-instructions/#/
@@ -1332,6 +1335,7 @@
 /motu                                     301  /departments/office-of-transportation-and-infrastructure-systems/
 /motu/atfive.html                         301  /departments/office-of-transportation-and-infrastructure-systems/
 /mrc                                      301  /programs/philadelphia-medical-reserve-corps-pmrc/
+/ncac                                     301  /programs/neighborhood-community-action-centers/
 /net-profits-tax                          301  /services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-type/net-profits-tax/
 /news                                     301  /the-latest/
 /news/department-of-licenses-and-inspections/protect-against-outdoor-deck-collapses/	301  /departments/department-of-licenses-and-inspections/
@@ -2269,6 +2273,7 @@
 /services/mental-physical-health/environmental-health-hazards/zika-virus__trashed/prevention/	301  /departments/department-of-public-health/
 /services/mental-physical-health/find-a-covid-19-testing-site/ 301  /services/mental-physical-health/find-a-covid-19-test/
 /services/mental-physical-health/get-health-care-and-support/family-and-childrens-health-care/get-breastfeeding-support/	301  /services/mental-physical-health/get-health-care-and-support/family-and-childrens-health-care/get-lactation-support/
+/services/mental-physical-health/get-health-care-and-support/family-and-childrens-health-care/get-support-for-a-child-with-special-health-care-needs/  301  /services/mental-physical-health/get-health-care-and-support/family-and-childrens-health-care/get-pediatric-health-care/
 /services/mental-physical-health/get-health-care-and-support/get-mens-health-care/	301  /services/mental-physical-health/city-health-centers/
 /services/mental-physical-health/get-health-care-and-support/womens-healthcare/	301  /services/mental-physical-health/city-health-centers/
 /services/mental-physical-health/get-health-care-and-support/womens-healthcare/get-breastfeeding-support/ 301  /services/mental-physical-health/get-health-care-and-support/family-and-childrens-health-care/get-lactation-support/
