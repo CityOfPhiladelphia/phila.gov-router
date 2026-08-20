@@ -1240,6 +1240,7 @@
 /li/pay-violation-fee                     301  /services/permits-violations-licenses/pay-a-fine-or-ticket/pay-an-li-violation-fee-or-fine/
 /li/plan-requirements                     301  /departments/department-of-licenses-and-inspections/resources/li-plan-requirements/#/  
 /li/project-meeting                       301  https://form.jotform.com/83434300042139
+/li/Rental-?License-?Materials            301  /department-of-licenses-and-inspections/licenses/rental-and-property-licenses/rental-and-property-licenses-materials/
 /li/schedule-inspections                  301  /departments/department-of-licenses-and-inspections/inspections/construction-inspections/
 /li/zoning-appeals                        301  /zba/appeals-calendar/
 /li/zoningappeals                         301  /zba/appeals-calendar/
