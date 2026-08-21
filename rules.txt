@@ -1240,7 +1240,7 @@
 /li/pay-violation-fee                     301  /services/permits-violations-licenses/pay-a-fine-or-ticket/pay-an-li-violation-fee-or-fine/
 /li/plan-requirements                     301  /departments/department-of-licenses-and-inspections/resources/li-plan-requirements/#/  
 /li/project-meeting                       301  https://form.jotform.com/83434300042139
-/li/Rental-?License-?Materials            301  /department-of-licenses-and-inspections/licenses/rental-and-property-licenses/rental-and-property-licenses-materials/
+/li/Rental-?License-?Materials            301  /departments/department-of-licenses-and-inspections/licenses/rental-and-property-licenses/rental-and-property-licenses-materials/
 /li/schedule-inspections                  301  /departments/department-of-licenses-and-inspections/inspections/construction-inspections/
 /li/zoning-appeals                        301  /zba/appeals-calendar/
 /li/zoningappeals                         301  /zba/appeals-calendar/
@@ -2624,10 +2624,10 @@
 /services/permits-violations-licenses/get-a-hauling-permit/ 301  /services/permits-violations-licenses/apply-for-a-permit/get-a-special-hauling-permit/
 /services/permits-violations-licenses/get-a-license/activity/	301  /services/permits-violations-licenses/get-a-license/business-licenses/activity/
 /services/permits-violations-licenses/get-a-license/business-licenses/entertainment-business/get-a-bingo-license/  301  /services/permits-violations-licenses/get-a-license/business-licenses/games-of-chance/get-a-bingo-license/
-/services/permits-violations-licenses/get-a-license/business-licenses/entertainment-business/get-a-limited-engagement-small-games-of-chance-license/  301  /services/permits-violations-licenses/get-a-license/business-licenses/games-of-chance/get-a-small-games-of-chance-license/
-/services/permits-violations-licenses/get-a-license/business-licenses/entertainment-business/get-a-small-games-of-chance-license/  301  services/permits-violations-licenses/get-a-license/business-licenses/games-of-chance/get-a-limited-engagement-small-games-of-chance-license/
+/services/permits-violations-licenses/get-a-license/business-licenses/entertainment-business/games-of-chance/  301  /services/permits-violations-licenses/get-a-license/business-licenses/games-of-chance/
+/services/permits-violations-licenses/get-a-license/business-licenses/entertainment-business/get-a-limited-engagement-small-games-of-chance-license/  301  /services/permits-violations-licenses/get-a-license/business-licenses/games-of-chance/get-a-limited-engagement-small-games-of-chance-license/
+/services/permits-violations-licenses/get-a-license/business-licenses/entertainment-business/get-a-small-games-of-chance-license/  301  /services/permits-violations-licenses/get-a-license/business-licenses/games-of-chance/get-a-small-games-of-chance-license/
 /services/permits-violations-licenses/get-a-license/business-licenses/entertainment-business/get-a-special-permit-license/  301  /services/permits-violations-licenses/get-a-license/business-licenses/games-of-chance/get-a-special-permit-license/
-/services/permits-violations-licenses/get-a-license/business-licenses/games-of-chance/get-a-limited-engagement-small-games-of-chance-license/  301  /services/permits-violations-licenses/get-a-license/business-licenses/games-of-chance/
 /services/permits-violations-licenses/get-a-license/business-licenses-permits-and-approvals/ 301  /services/permits-violations-licenses/get-a-license/business-licenses/
 /services/permits-violations-licenses/get-a-license/business-licenses-permits-and-approvals/automotive-business/ 301  /services/permits-violations-licenses/get-a-license/business-licenses/automotive-business/
 /services/permits-violations-licenses/get-a-license/business-licenses-permits-and-approvals/automotive-business/get-a-public-garage-or-lot-license/ 301  /services/permits-violations-licenses/get-a-license/business-licenses/automotive-business/get-a-public-garage-or-lot-license/
