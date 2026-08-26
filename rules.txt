@@ -1866,6 +1866,8 @@
 /programs/rebuild/project-sites/panati-recreation-center/  301  /programs/rebuild/project-sites/panati-playground/
 /programs/reconciliation-task-force/      301  /documents/reconciliation-task-force-archives/
 /programs/refinery-advisory-group/refinery-advisory-group-feedback-form/	301  /programs/refinery-advisory-group/
+/programs/serve-philadelphia-vista-corps/  301  /programs/philadelphia-public-service-fellows/ 
+/programs/serve-philadelphia-vista-corps/current-corps/  301  /programs/philadelphia-public-service-fellows/ 
 /programs/serve-philadelphia-vista-corps/requirements-and-benefits/   301  /programs/serve-philadelphia-vista-corps/
 /programs/smartcityphl/smartcityphl-project-task-force/	301  /programs/smartcityphl/
 /programs/substance-use-prevention-and-harm-reduction/about-opioids/  301  /programs/opioid-response-unit/about-opioids/
@@ -1899,8 +1901,9 @@
 /property/data$                           301  /property/data/
 /property/data/(.*)                       200  https://cityofphiladelphia.github.io/property-download/$1
 /ps360/kensington                         301  https://experience.arcgis.com/experience/0e59ffc62b32428d8014b80e17ae3475 
-/ps360/BuildPHL                          301  https://experience.arcgis.com/experience/8ba8f346d8e04a72bd1ef4f4467f6a6d
+/ps360/BuildPHL                           301  https://experience.arcgis.com/experience/8ba8f346d8e04a72bd1ef4f4467f6a6d
 /ps360/riverview                          301  https://storymaps.arcgis.com/stories/0f91b5c77acf4683b8d9d39d2c604139 
+/ps360/overdose-canvassing                301  https://storymaps.arcgis.com/stories/7b63e9c0d16143f494adda18de3c9afd
 /ps-?360                                  301  https://philly-stat-360.phila.gov/
 /PSARC                                    301  /2026-07-15-philadelphia-sexual-assault-response-center  
 /pt$                                      301  /pt/
@@ -2006,6 +2009,7 @@
 /revenue/call-?back                       301  https://city-of-philadelphia.app.qless.com/kiosk/d3543259-6c02-41c1-b245-b7018a0227b3?locale=en
 /revenue/child-tax-credit                 301  /services/payments-assistance-taxes/taxes/tax-credits/resident-tax-credits/child-tax-credit-ctc-resources/
 /revenue/contact-us                       301  /departments/department-of-revenue/about/contact-us/
+/revenue/customer-?feedback               301  https://www.surveymonkey.com/r/D7H997S
 /revenue/delinquency-?reports             301  /documents/tax-delinquency-trend-action-reports/ 
 /revenue/eft-ach                          301  /services/payments-assistance-taxes/taxes/filing-and-paying-your-taxes/
 /revenue/eitc                             301  /documents/earned-income-tax-credit-eitc-employer-notice/
