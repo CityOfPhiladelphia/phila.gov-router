@@ -2031,6 +2031,7 @@
 /revenue/taxpro/pages/refundpetitions.aspx 301  /documents/income-based-wage-tax-refund-petition/
 /revenue/uo-?tax                          301  /services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-type/use-occupancy-tax/
 /revenue/use-occupancy                    301  /services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-type/use-occupancy-tax/
+/revenue/voluntary-disclosure             301  /services/payments-assistance-taxes/taxes/business-taxes/apply-for-the-voluntary-disclosure-program-for-overdue-taxes/
 /revenue/wage-tax-petition                301  /documents/income-based-wage-tax-refund-petition/
 /revenue/W2-?submission-?instructions     301  /documents/w-2-submission-instructions/ 
 /revenue(.*)                              301  /departments/department-of-revenue/
