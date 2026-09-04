@@ -1903,7 +1903,7 @@
 /ps360/kensington                         301  https://experience.arcgis.com/experience/0e59ffc62b32428d8014b80e17ae3475 
 /ps360/BuildPHL                           301  https://experience.arcgis.com/experience/8ba8f346d8e04a72bd1ef4f4467f6a6d
 /ps360/riverview                          301  https://storymaps.arcgis.com/stories/0f91b5c77acf4683b8d9d39d2c604139 
-/ps360/overdose-canvassing                301  https://storymaps.arcgis.com/stories/7b63e9c0d16143f494adda18de3c9afd
+/ps360/overdose-?canvassing                301  https://storymaps.arcgis.com/stories/7b63e9c0d16143f494adda18de3c9afd
 /ps-?360                                  301  https://philly-stat-360.phila.gov/
 /PSARC                                    301  /2026-07-15-philadelphia-sexual-assault-response-center  
 /pt$                                      301  /pt/
@@ -2031,6 +2031,7 @@
 /revenue/taxpro/pages/refundpetitions.aspx 301  /documents/income-based-wage-tax-refund-petition/
 /revenue/uo-?tax                          301  /services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-type/use-occupancy-tax/
 /revenue/use-occupancy                    301  /services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-type/use-occupancy-tax/
+/revenue/voluntary-?disclosure             301  /services/payments-assistance-taxes/taxes/business-taxes/apply-for-the-voluntary-disclosure-program-for-overdue-taxes/
 /revenue/wage-tax-petition                301  /documents/income-based-wage-tax-refund-petition/
 /revenue/W2-?submission-?instructions     301  /documents/w-2-submission-instructions/ 
 /revenue(.*)                              301  /departments/department-of-revenue/
@@ -2627,8 +2628,10 @@
 /services/permits-violations-licenses/get-a-certificate/get-a-temporary-occupancy-permit-for-a-special-event/ 301  /services/permits-violations-licenses/get-a-certificate/get-a-temporary-certificate-of-occupancy/
 /services/permits-violations-licenses/get-a-hauling-permit/ 301  /services/permits-violations-licenses/apply-for-a-permit/get-a-special-hauling-permit/
 /services/permits-violations-licenses/get-a-license/activity/	301  /services/permits-violations-licenses/get-a-license/business-licenses/activity/
+/services/permits-violations-licenses/get-a-license/business-licenses/automotive-business/get-an-auto-wrecking-yard-and-tire-storage-license/  301  /services/permits-violations-licenses/get-a-license/business-licenses/automotive-business/get-an-auto-wrecking-waste-handling-license/ 
 /services/permits-violations-licenses/get-a-license/business-licenses/entertainment-business/get-a-bingo-license/  301  /services/permits-violations-licenses/get-a-license/business-licenses/games-of-chance/get-a-bingo-license/
 /services/permits-violations-licenses/get-a-license/business-licenses/entertainment-business/games-of-chance/  301  /services/permits-violations-licenses/get-a-license/business-licenses/games-of-chance/
+/services/permits-violations-licenses/get-a-license/business-licenses/entertainment-business/games-of-chance/get-a-limited-engagement-small-games-of-chance-license/  301  /services/permits-violations-licenses/get-a-license/business-licenses/games-of-chance/get-a-monthly-small-games-of-chance-license/ 
 /services/permits-violations-licenses/get-a-license/business-licenses/entertainment-business/get-a-limited-engagement-small-games-of-chance-license/  301  /services/permits-violations-licenses/get-a-license/business-licenses/games-of-chance/get-a-limited-engagement-small-games-of-chance-license/
 /services/permits-violations-licenses/get-a-license/business-licenses/entertainment-business/get-a-small-games-of-chance-license/  301  /services/permits-violations-licenses/get-a-license/business-licenses/games-of-chance/get-a-small-games-of-chance-license/
 /services/permits-violations-licenses/get-a-license/business-licenses/entertainment-business/get-a-special-permit-license/  301  /services/permits-violations-licenses/get-a-license/business-licenses/games-of-chance/get-a-special-permit-license/
