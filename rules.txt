@@ -407,6 +407,7 @@
 /departments/aging/	                      301  /departments/mayors-commission-on-aging/
 /departments/board-of-education           301  /departments/educational-nominating-panel/
 /departments/board-of-ethics/document-search/ 301  /departments/board-of-ethics/ethics-resources/
+/departments/board-of-ethics/ethics-resources/training-and-education/  301  /departments/board-of-ethics/training/
 /departments/board-of-pensions-and-retirement/2021-pension-payment-dates/	301  /departments/board-of-pensions-and-retirement/pension-payment-dates/
 /departments/board-of-pensions-and-retirement/2023-pension-payment-dates/   301  /departments/board-of-pensions-and-retirement/pension-payment-dates/
 /departments/budget/	                    301  /departments/office-of-the-director-of-finance/
@@ -2033,6 +2034,7 @@
 /revenue/use-occupancy                    301  /services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-type/use-occupancy-tax/
 /revenue/voluntary-?disclosure             301  /services/payments-assistance-taxes/taxes/business-taxes/apply-for-the-voluntary-disclosure-program-for-overdue-taxes/
 /revenue/wage-tax-petition                301  /documents/income-based-wage-tax-refund-petition/
+/revenue/water-?bill-?dispute             301  /services/water-gas-utilities/pay-or-dispute-a-water-bill/dispute-a-water-bill/
 /revenue/W2-?submission-?instructions     301  /documents/w-2-submission-instructions/ 
 /revenue(.*)                              301  /departments/department-of-revenue/
 /revtaxes/index.html	                    301  /departments/board-of-revision-of-taxes/
