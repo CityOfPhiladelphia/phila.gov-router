@@ -3015,6 +3015,7 @@
 /spotlight/philadelphia-minority-enterprise-development-med-week-2022/  301  /med-week
 /spotlight/philadelphia-minority-enterprise-development-med-week-2023/  301  /med-week
 /spotlight/philadelphia-minority-enterprise-development-week-2020/   301  /med-week
+/spotlight/power-up-tour/                 301  /
 /spotlight/septa-for-all-augmenting-transit-with-augmented-reality/ 301  /departments/office-of-innovation-and-technology/
 /spotlight/spring-into-love-2020/         301  /departments/philadelphia-parks-recreation/
 /spotlight/welcoming-week-2018            301  /welcoming-week
