@@ -458,6 +458,7 @@
 /departments/education                    301  /departments/office-of-children-and-families/
 /departments/emergency-management         301  /departments/oem
 /departments/emergency-management/(.*)    301  /departments/oem/$1
+/departments/gas/                         301  /departments/philadelphia-gas-commission/ 
 /departments/health-and-human-services/data-management-office 301  /departments/office-of-integrated-data-for-evidence-and-action/
 /departments/historical/	                301  /departments/philadelphia-historical-commission/
 /departments/law-department/practice-groups/legislation-and-legal-counsel-unit/ 301  /departments/law-department/practice-groups/compliance-legislation-group/ 
