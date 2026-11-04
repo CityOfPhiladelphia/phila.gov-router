@@ -272,7 +272,7 @@
 /businesssupport                          301  /departments/department-of-commerce/for-businesses/
 /businessattraction                       301  /departments/department-of-commerce/about-us/divisions/office-of-business-development-and-workforce-solutions/
 /business/crime-prevention-tips           301  /2023-03-06-crime-prevention-tips-for-your-business-and-employees/
-/business-?tax-?prep                      301  /2025-12-18-city-launches-the-free-business-tax-preparation-program/
+/business-?tax-?prep                      301  /programs/philadelphia-free-business-tax-preparation-program/
 /business-?taxes                          301  /services/payments-assistance-taxes/taxes/business-taxes/
 /business-taxes/sales-use-tax             301  /services/business-self-employment/business-taxes/sales-use-hotel-occupancy-tax/
 /business-taxes/sweetened-beverage-tax    301  /services/business-self-employment/business-taxes/philadelphia-beverage-tax/
@@ -599,6 +599,7 @@
 /dev/wi-?fi$                              301  /dev/wifi/
 /dev/wi-fi/(.*)                           301  /dev/wifi/$1
 /dev/wifi/(.*)                            200  http://phila-resource-finder-v2.s3-website-us-east-1.amazonaws.com/dev/wifi/$1
+/dhcd/affordable-?housing-?directory      301  https://phl.maps.arcgis.com/apps/dashboards/ca344424bde54e73b71e206098859f6c#
 /dhcd/neighborhood-resources(.*)          301  /departments/division-of-housing-and-community-development/neighborhood-resources/
 /dhcd/housing-counseling/                 301  /departments/division-of-housing-and-community-development/neighborhood-resources/housing-counseling/
 /dhcd/legal-?notices                      301  /departments/division-of-housing-and-community-development/about/legal-notices/
