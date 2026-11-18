@@ -572,6 +572,7 @@
 /departments/office-of-the-city-solicitor/	301  /departments/law-department/
 /departments/office-of-the-director-of-finance/contact-information/ 301  /departments/office-of-the-director-of-finance/about/units/
 /departments/office-of-the-director-of-finance/hurricane-ida-recovery-funding/ 301  /departments/office-of-the-director-of-finance/cdbg-dr-program/
+/departments/office-of-the-victim-advocate/contact-us/  301  https://www.opsphila.org/public-intake
 /departments/office-of-economic-opportunity/?.*  301  /departments/office-of-business-impact-and-economic-advancement/divisions/office-of-economic-opportunity/ 
 /departments/office-of-transportation-infrastructure-sustainability/ 301  /departments/office-of-transportation-and-infrastructure-systems/
 /departments/office-of-transportation-infrastructure-sustainability/our-team/ 301  /departments/office-of-transportation-and-infrastructure-systems/our-team/
@@ -915,6 +916,7 @@
 /documents/overdose-prevention-sites-fact-sheets/ 301  /
 /documents/parkside-avenue-intersections-improvement-project/  301  /programs/transportation-projects/parkside-avenue-intersection-improvements/ 
 /documents/pchr-annual-report-fy24/  301  /documents/philadelphia-commission-on-human-relations-annual-reports/ 
+/documents/pension-deferred-retirement-option-plan-drop-application/  301  /departments/board-of-pensions-and-retirement/resources/ 
 /documents/permit-fee-schedule/	301  /documents/fees-for-li-permits-and-licenses/
 /documents/personal-care-guide-book/	    301  /documents/personal-care-home-emergency-planning-guide/
 /documents/philadelphia-activities-fund-grant-application/   301  /services/culture-recreation/apply-for-a-philadelphia-activities-fund-grant/
@@ -1335,6 +1337,7 @@
 /media/2015/07/Center-City-High-Rise-Evacuation-Rallying-Points-Map-Book-OEM.pdf	301  /departments/oem/ready-or-not/how-to-get-ready/prepare-for-an-emergency/know-whether-to-stay-or-go/
 /media/2015/07/Property-Owners-and-Managers-Toolkit-Evaculation-Plan-OEM.pdf	301  /departments/oem/ready-or-not/how-to-get-ready/prepare-for-an-emergency/know-whether-to-stay-or-go/
 /media/20180806114511/Parking-meter-laws.pdf	301  https://codelibrary.amlegal.com/codes/philadelphia/latest/philadelphia_pa/0-0-0-285487
+/media/20220203124559/pension-drop-application-20220203.pdf   301  /departments/board-of-pensions-and-retirement/resources/ 
 /media/20221018201649/Philadelphia-Streetery-License-Restaurant-Owners-Guide-Version-1.0.pdf 301  /documents/philadelphia-streetery-license-guide-outdoor-dining-program/
 /media/20221208093546/IE-Calendar-12.221.pdf  301  /programs/coronavirus-disease-2019-covid-19/faq/
 /mobile-?services-?providers              301  /services/permits-violations-licenses/apply-for-a-permit/permits-for-mobile-service-providers/
@@ -1518,6 +1521,7 @@
 /philly-?stat-?360                        301  /departments/office-of-philly-stat-360
 /phlcityid                                301  /programs/phl-city-id/
 /phlimmigrantbiz                          301  /posts/office-of-immigrant-affairs/2017-03-09-immigrant-business-week-2017-march-27-april-1/
+/phlush                                   301  /programs/philly-phlush
 /phonedir$                                301  /departments/
 /planning-equity                          301  /departments/philadelphia-city-planning-commission/about/planning-and-equity-a-commitment-to-change/
 /plastic-bag-ban                          301  /programs/plastic-bag-ban/
