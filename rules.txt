@@ -178,6 +178,7 @@
 /2023-04-19-resource-hubs-offer-drop-in-assistance-and-free-services-in-five-philadelphia-neighborhoods/  301  /2023-04-24-resource-hubs-offer-drop-in-assistance-and-free-services-in-five-philadelphia-neighborhoods/
 /2023-04-28-all-hands-on-deck/	301  /departments/office-of-children-and-families/
 /2023-05-04-parent-youth-resource-fair-connects-families-teens-to-opportunities-programs/	301  /departments/office-of-children-and-families/
+/2023-09-15-call-for-applicants-office-of-worker-protections-community-outreach-and-education-fund/  301  /departments/department-of-labor/
 /2023-09-18-families-its-time-to-explore-options-for-kindergarten-2024-25/	301  /departments/office-of-children-and-families/
 /2023-11-03-join-our-team-citys-office-of-children-and-families-seeks-communications-professionals/	301  /departments/office-of-children-and-families/
 /2024-02-18-2022-philly-spring-cleanup-celebrating-15-years-of-community-cleaning-partnerships/	301  /programs/philly-spring-cleanup/
@@ -187,9 +188,11 @@
 /2024-07-13-h                             301  /2024-07-13-health-department-declares-heat-health-emergency-effective-monday-july-15-2024-ending-wednesday-july-17-2024/
 /2025-07-10-finding-solutions-for-your-rentals-at-the-phdc-housing-fair/  301  /the-latest/ 
 /2024-07-19-risk-of-bird-flu-h5n1-infection-in-philadelphia-remains-low/  301  /2025-02-21-the-current-state-of-bird-flu-what-you-need-to-know/
+/2025-09-15-call-for-applicants-owp-community-outreach-and-education-fund/  301 /departments/department-of-labor/
 /2025-11-03-snap-benefits-have-changed-heres-what-you-need-to-know/  301  /2025-09-05-what-you-need-to-know-about-significant-changes-to-snap-benefits/ 
 /2026                                     301  /2026-events
 /2026-05-01-fifa-world-cup-2026-philadelphia-safety-and-event-information/  301  /2026-05-05-fifa-world-cup-2026-philadelphia-safety-and-event-information/
+/2026-10-26-funding-opportunity-to-help-workers-learn-their-rights/  301  /departments/department-of-labor/
 /311/(.*)                                 301  /departments/philly311/
 /311/report-an-issue                      301  https://iframe.publicstuff.com/#?client_id=242
 /360/ai-?privacy                          301  https://philaprivacy.freshdesk.com/support/tickets/new
@@ -931,6 +934,8 @@
 /documents/philadelphia-regional-office-of-ems-annual-report-fiscal-year-2020/	301  /documents/philadelphia-regional-office-of-ems-annual-reports/
 /documents/philadelphia-resilience-project-accomplishments-and-short-term-goals/ 301  /documents/philadelphia-resilience-project-archives/
 /documents/philadelphia-resilience-project-recovering-together/ 301  /documents/philadelphia-resilience-project-archives/
+/documents/philadelphia-solar-rebate-one-pager/  301  https://solarizegreaterphl.org/
+/documents/philadelphia-solar-rebate-regulations/   301  https://solarizegreaterphl.org/
 /documents/philadelphia-tax-center-educational-materials/	301  /guides/philadelphia-tax-center/
 /documents/philadelphias-consolidated-and-action-plans/	301  /documents/five-year-consolidated-plan-annual-action-plans-and-reports/
 /documents/philly-counts-booster-guidance-information/	301  /services/mental-physical-health/get-vaccinated/get-your-covid-19-vaccine/
@@ -1875,6 +1880,7 @@
 /programs/serve-philadelphia-vista-corps/current-corps/  301  /programs/philadelphia-public-service-fellows/ 
 /programs/serve-philadelphia-vista-corps/requirements-and-benefits/   301  /programs/serve-philadelphia-vista-corps/
 /programs/smartcityphl/smartcityphl-project-task-force/	301  /programs/smartcityphl/
+/programs/solar-rebate-program/(.*)  301  https://solarizegreaterphl.org/
 /programs/substance-use-prevention-and-harm-reduction/about-opioids/  301  /programs/opioid-response-unit/about-opioids/
 /programs/substance-use-prevention-and-harm-reduction/bereavement-support-services/ 301  /programs/substance-use-prevention-and-harm-reduction/our-work/grief-support-for-drug-related-loss/
 /programs/substance-use-prevention-and-harm-reduction/our-work/bereavement-support-services/ 301  /programs/substance-use-prevention-and-harm-reduction/our-work/grief-support-for-drug-related-loss/
@@ -2983,7 +2989,7 @@
 /snap-?support-?grant                     301  https://www.phila.gov/2025-11-03-apply-for-funding-to-support-philadelphia-residents-through-the-one-philly-snap-support-program
 /solarmap                                 301  https://experience.arcgis.com/experience/324e94d1b01048fa9c6fb54384566135
 /solarproject                             301  /2020-02-03-here-is-your-chance-to-name-phillys-solar-project/
-/solar-rebate                             301  /programs/solar-rebate-program/
+/solar-rebate                             301  https://solarizegreaterphl.org/
 /southwark                                301  /programs/community-schools/southwark-school/
 /spark                                    301  /programs/spark-innovation-academy/ 
 /specialadvisory(.*)                      301  /departments/office-of-the-inspector-general/
@@ -3147,6 +3153,7 @@
 /waterrev(.*)                             301  /departments/department-of-revenue/our-services/water-revenue/
 /wage-tax-employers                       301  /services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-type/wage-tax-employers/
 /webster                                  301  /programs/community-schools/john-h-webster-school/
+/welcoming-?network                       301  /programs/the-welcoming-network/
 /welcomingweek2016                        301  /posts/office-of-immigrant-affairs/2016-08-31-welcoming-week-2016/
 /welcomingweek2017                        301  /posts/office-of-immigrant-affairs/2017-08-31-welcoming-week-2017/
 /welcoming-?week                          301  /spotlight/welcoming-week
