@@ -272,6 +272,7 @@
 /bumpout                                  301  https://water.phila.gov/gsi/tools/bumpout/
 /business                                 301  https://business.phila.gov
 /business-?financing                      301  /departments/department-of-commerce/for-businesses/financial-support/
+/business-?security                       301  /programs/business-security-camera-program/ 
 /businesssupport                          301  /departments/department-of-commerce/for-businesses/
 /businessattraction                       301  /departments/department-of-commerce/about-us/divisions/office-of-business-development-and-workforce-solutions/
 /business/crime-prevention-tips           301  /2023-03-06-crime-prevention-tips-for-your-business-and-employees/
@@ -393,6 +394,7 @@
 /cpo                                      301  /departments/capital-program-office
 /cpoc                                     301  /departments/citizens-police-oversight-commission/
 /cramp                                    301  /programs/community-schools/william-cramp-elementary-school/
+/CREAL                                    301  /programs/commercial-real-estate-acquisition-loan-creal-program/ 
 /creativephl                              301  https://www.creativephl.org/
 /crossing-?guard(.*)                      301  /programs/school-crossing-guard-program/
 /damage-?reporter                         301  https://survey123.arcgis.com/share/29280025e5eb440184f7c33717cf2623?portalUrl=https://phl.maps.arcgis.com
@@ -1195,6 +1197,7 @@
 /innovation-team                          301  /departments/office-of-innovation-and-technology/public-technology-and-innovation-team/
 /inspector                                301  /departments/office-of-the-inspector-general/
 /inspectorgeneral                         301  /departments/office-of-the-inspector-general/
+/instore                                  301  /programs/instore-forgivable-loan-program/  
 /integrity(.*)                            301  /departments/office-of-the-chief-integrity-officer/
 /investorconference                       301  /programs/investor-information/
 /investor/(.*)                            301  /programs/investor-information/
@@ -1327,6 +1330,7 @@
 /media/20240220161559/Pensions-IPS-202402.pdf 301  /media/20240516111338/pensions-investment-policy-statement.pdf
 /media/20170209150802/CertifiedCopy16017601-1.pdf 301  https://codelibrary.amlegal.com/codes/philadelphia/latest/philadelphia_pa/0-0-0-300626
 /media/20190529113010/AHS-NPP.pdf	301  /documents/notice-of-privacy-practices/
+/media/20190523104321/SIP-application-5-23-19.pdf  301  /programs/storefront-improvement-program/
 /media/20190903095045/Fraud-Report-9-3-19.pdf  301  /services/property-lots-housing/get-help-with-deed-or-mortgage-fraud/report-suspected-deed-or-mortgage-fraud/
 /media/20200423151504/EO-1-11-Nepotism.pdf	301  /departments/mayor/executive-orders/#/?table=%2520Mayoral%2520executive%2520orders%2520from%25201952%2520to%2520the%2520present&q=1-11:%20Prohibition%20Against%20Nepotism%20(2011)
 /media/20200423151508/EO-10-16-Acceptance-of-gifts.pdf	301  /departments/mayor/executive-orders/#/?table=%2520Mayoral%2520executive%2520orders%2520from%25201952%2520to%2520the%2520present&q=10-16:%20Acceptance%20of%20Gifts%20by%20City%20Officers%20and%20Employees
@@ -1450,6 +1454,7 @@
 /payment-?agreements                      301  /services/payments-assistance-taxes/payment-plans-and-assistance-programs/other-payment-plans-and-programs/set-up-a-payment-agreement-for-your-business-or-income-taxes/
 /payment-?plans                           301  /services/payments-assistance-taxes/payment-plans-and-assistance-programs/
 /pay-?property-?work                      301  /services/payments-assistance-taxes/resolve-judgments-liens-and-debts/resolve-bills-or-liens-for-work-done-by-the-city-on-a-property/
+/PBLN                                     301  /programs/philadelphia-business-lending-network/
 /pbt-registered-distributors(.*)          301  https://tax-services.phila.gov/?link=RegisteredDistributor
 /pchr                                     301  /departments/philadelphia-commission-on-human-relations/
 /pdfs/returningtolearning.pdf             301  /documents/returning-to-learning-program-materials/
@@ -1849,6 +1854,7 @@
 /programs/my-brothers-keeper-philly/      301  /departments/mayors-office-of-black-male-engagement/ 
 /programs/newsontap                       301  /programs/housing-and-disability-technical-assistance-program/
 /programs/opioid-response-unit/(.*)       301  /programs/overdose-response-unit/$1
+/programs/overdose-response-unit/our-work/request-info-and-support/  301  https://www.opsphila.org/public-intake
 /programs/philacan-pilot-program/         301  /programs/philacan-program/
 /programs/philacan-pilot-program/philacan-pilot-program-interest-form/  301    /programs/philacan-program/philacan-program-interest-form/
 /programs/philadelphia-city-scholarship-program/	301  https://www.ccp.edu/admission-aid/paying-college/scholarships/octavius-catto-scholarship
@@ -1857,6 +1863,8 @@
 /programs/philadelphia-resilience-project/ 301  /programs/opioid-response-unit/
 /programs/philadelphia-resilience-project/plans-and-reports/	301  /documents/philadelphia-resilience-project-archives/
 /programs/philadelphia-resilience-project/support-the-philadelphia-resilience-project/	301  /documents/philadelphia-resilience-project-archives/
+/programs/philadelphia-safety-and-justice-challenge/community-advisory-committee/apply-for-the-sjc-community-advisory-committee/  301  https://www.opsphila.org/public-intake
+/programs/philadelphia-safety-and-justice-challenge/philadelphia-safety-and-justice-challenge-feedback/  301  https://www.opsphila.org/public-intake
 /programs/philadelphia-white-house-workforce-hub/  301  /programs/philadelphia-workforce-hub/ 
 /programs/philly-counts/arabic/	          301  /ar/programs/philly-counts/
 /programs/philly-counts/chinese/	        301  /zh/programs/philly-counts/
@@ -3039,6 +3047,7 @@
 /spotlight/welcoming-week-2021            301  /welcoming-week
 /spotlight/welcoming-week-2022            301  /welcoming-week
 /spotlight/welcoming-week-2023            301  /welcoming-week
+/storefront-?improvement                  301  /programs/storefront-improvement-program/ 
 /stormwater-planter                       301  https://water.phila.gov/gsi/tools/stormwater-planter/
 /stormwater-tools                         301  https://water.phila.gov/gsi/tools/
 /stormwater-tree                          301  https://water.phila.gov/gsi/tools/tree/
