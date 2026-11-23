@@ -591,6 +591,8 @@
 /departments/philadelphia-parks-recreation/get-involved/park-friends-groups/park-friends-group-list/   301  /departments/philadelphia-parks-recreation/get-involved/park-friends-groups/
 /departments/philadelphia-regional-office-of-emergency-medical-service/documents/	301  /departments/philadelphia-regional-office-of-emergency-medical-services/resources/
 /departments/police-advisory-commission/(.*) 301  /departments/citizens-police-oversight-commission/$1
+/departments/procurement-department/supplier-diversity/  301  /departments/procurement-department/
+/departments/procurement-department/units/  301  /departments/procurement-department/
 /departments/recycling/	                  301  /programs/recycling-program/
 /departments/revenue                      301  /departments/department-of-revenue/
 /departments/risk-management/             301  /departments/office-of-the-director-of-finance/office-of-risk-management/
@@ -918,6 +920,7 @@
 /documents/overdose-prevention-sites-fact-sheets/ 301  /
 /documents/parkside-avenue-intersections-improvement-project/  301  /programs/transportation-projects/parkside-avenue-intersection-improvements/ 
 /documents/pchr-annual-report-fy24/  301  /documents/philadelphia-commission-on-human-relations-annual-reports/ 
+/documents/pension-beneficiary-designation-form/  301  /departments/board-of-pensions-and-retirement/
 /documents/pension-deferred-retirement-option-plan-drop-application/  301  /departments/board-of-pensions-and-retirement/resources/ 
 /documents/permit-fee-schedule/	301  /documents/fees-for-li-permits-and-licenses/
 /documents/personal-care-guide-book/	    301  /documents/personal-care-home-emergency-planning-guide/
@@ -1343,6 +1346,7 @@
 /media/20180806114511/Parking-meter-laws.pdf	301  https://codelibrary.amlegal.com/codes/philadelphia/latest/philadelphia_pa/0-0-0-285487
 /media/20220203124559/pension-drop-application-20220203.pdf   301  /departments/board-of-pensions-and-retirement/resources/ 
 /media/20221018201649/Philadelphia-Streetery-License-Restaurant-Owners-Guide-Version-1.0.pdf  301  /documents/dine-outdoors-philadelphia-license-guides/
+/media/20221026121750/Pensions-beneficiary-designation-form-20221019.pdf  301  /departments/board-of-pensions-and-retirement/
 /media/20221208093546/IE-Calendar-12.221.pdf  301  /programs/coronavirus-disease-2019-covid-19/faq/
 /mobile-?services-?providers              301  /services/permits-violations-licenses/apply-for-a-permit/permits-for-mobile-service-providers/
 /mpox                                     301  /programs/monkeypox
@@ -2274,6 +2278,7 @@
 /services/mental-physical-health/air-quality/                  301  /services/mental-physical-health/environmental-health-hazards/air-quality/
 /services/mental-physical-health/code-blue/                    301  /services/safety-emergency-preparedness/extreme-weather/code-blue/
 /services/mental-physical-health/cooling-centers/	             301  /services/safety-emergency-preparedness/extreme-weather/find-a-cooling-center/
+/services/mental-physical-health/environmental-health-hazards/air-quality/  301  https://experience.arcgis.com/experience/35a3b9706b2946ba937a33de049ffae5/page/Resource-Center
 /services/mental-physical-health/environmental-health-hazards/code-blue/    301  /services/safety-emergency-preparedness/extreme-weather/code-blue/
 /services/mental-physical-health/environmental-health-hazards/cooling-centers/	301  /services/safety-emergency-preparedness/extreme-weather/find-a-cooling-center/
 /services/mental-physical-health/environmental-health-hazards/covid-19  301  /programs/coronavirus-disease-2019-covid-19/
