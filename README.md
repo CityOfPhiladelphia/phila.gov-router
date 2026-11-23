@@ -60,6 +60,13 @@ Deployment will happen automatically via github actions
 
 You can skip deployment on a push by specifying `[skip ci]` in the commit message.
 
+Each deployment publishes a new version of the Lambda function, then points these CloudFront cache behaviors at it:
+
+- **Default (`*`)**: pages and vanity URLs.
+- **`/media/*`**: files in the media bucket, such as redirects for deleted PDFs.
+
+Each behavior is pinned to its own Lambda version and doesn't update on its own. If another cache behavior uses the router, add a `set-cloudfront-trigger` call with its `--path-pattern` to [`deploy.sh`](deploy.sh).
+
 ## local development
 
 ### install node.js dependencies

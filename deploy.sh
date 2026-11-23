@@ -35,10 +35,21 @@ echo "Deploying $LAMBDA_NAME to $CLOUDFRONT_DISTRIBUTION_ID"
 
 # npx uses the local dependency if it's installed;
 # otherwise it pulls the latest version from npm
+#
+# Each CloudFront cache behavior is pinned to its own Lambda version.
+# set-cloudfront-trigger without --path-pattern only updates the default
+# behavior, so /media/* is updated separately. Otherwise, redirects for
+# /media/ URLs (e.g. deleted PDFs) stay on an old copy of rules.txt.
+# --path-pattern must match the CloudFront behavior's path pattern exactly.
 npx claudia update \
   --version claudia \
   --use-s3-bucket $S3_BUCKET \
 && npx claudia set-cloudfront-trigger \
   --distribution-id $CLOUDFRONT_DISTRIBUTION_ID \
   --event-types origin-request \
+  --version claudia \
+&& npx claudia set-cloudfront-trigger \
+  --distribution-id $CLOUDFRONT_DISTRIBUTION_ID \
+  --event-types origin-request \
+  --path-pattern "/media/*" \
   --version claudia
